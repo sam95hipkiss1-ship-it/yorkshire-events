@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yorkshire Events - Live Events in Yorkshire, UK</title>
+    <link rel="alternate" type="application/rss+xml" title="Yorkshire Events RSS Feed" href="feed.xml">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            margin-bottom: 30px;
+            border-radius: 8px;
+        }
+
+        h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .subscribe-box {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .subscribe-box h2 {
+            margin-bottom: 15px;
+            color: #1e3a5f;
+        }
+
+        .feed-url {
+            background: #f0f0f0;
+            padding: 10px 15px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 0.9em;
+            word-break: break-all;
+            margin-bottom: 15px;
+        }
+
+        .copy-btn {
+            background: #1e3a5f;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background 0.2s;
+        }
+
+        .copy-btn:hover {
+            background: #2d5a87;
+        }
+
+        .rss-icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: #ee802f;
+            border-radius: 3px;
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+
+        .rss-icon::before {
+            content: "RSS";
+            color: white;
+            font-size: 10px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #1e3a5f;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .sources {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .sources h2 {
+            margin-bottom: 15px;
+            color: #1e3a5f;
+        }
+
+        .source-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .source-item {
+            padding: 10px;
+            background: #f9f9f9;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        .how-to {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .how-to h2 {
+            margin-bottom: 15px;
+            color: #1e3a5f;
+        }
+
+        .how-to ol {
+            padding-left: 20px;
+        }
+
+        .how-to li {
+            margin-bottom: 10px;
+        }
+
+        .app-links {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+        }
+
+        .app-link {
+            display: inline-block;
+            background: #1e3a5f;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 0.9em;
+            transition: background 0.2s;
+        }
+
+        .app-link:hover {
+            background: #2d5a87;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .stats {
+                gap: 15px;
+            }
+
+            .source-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Yorkshire Events</h1>
+            <p class="subtitle">Live events happening across Yorkshire, UK</p>
+        </header>
+
+        <div class="subscribe-box">
+            <h2><span class="rss-icon"></span> Subscribe to the Feed</h2>
+            <p>Copy this URL into your favourite RSS reader:</p>
+            <div class="feed-url" id="feed-url">
+                https://yorkshire-events.github.io/yorkshire-events/feed.xml
+            </div>
+            <button class="copy-btn" onclick="copyFeedUrl()">Copy URL</button>
+            <div class="stats" id="stats">
+                <div class="stat">
+                    <div class="stat-number" id="total-events">-</div>
+                    <div class="stat-label">Total Events</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="total-sources">-</div>
+                    <div class="stat-label">Sources</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="how-to">
+            <h2>How to Subscribe</h2>
+            <ol>
+                <li>Copy the RSS feed URL above</li>
+                <li>Open your preferred RSS reader app</li>
+                <li>Add a new feed and paste the URL</li>
+                <li>The feed updates automatically every day at 6:00 AM UTC</li>
+            </ol>
+            <p style="margin-top: 15px;"><strong>Popular RSS Readers:</strong></p>
+            <div class="app-links">
+                <a href="https://feedly.com/" class="app-link" target="_blank">Feedly</a>
+                <a href="https://netnewswire.com/" class="app-link" target="_blank">NetNewsWire</a>
+                <a href="https://inoreader.com/" class="app-link" target="_blank">Inoreader</a>
+                <a href="https://miniflux.app/" class="app-link" target="_blank">Miniflux</a>
+                <a href="https://tt-rss.org/" class="app-link" target="_blank">Tiny Tiny RSS</a>
+            </div>
+        </div>
+
+        <div class="sources">
+            <h2>Data Sources</h2>
+            <div class="source-list">
+                <div class="source-item">What's On in Yorkshire</div>
+                <div class="source-item">Go Yorkshire</div>
+                <div class="source-item">Whitby Events</div>
+                <div class="source-item">Yorkshire Gig Guide</div>
+                <div class="source-item">Visit North Yorkshire</div>
+                <div class="source-item">Yorkshire.com</div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Events are aggregated from multiple sources and updated daily.</p>
+            <p>Data is provided for informational purposes only.</p>
+        </footer>
+    </div>
+
+    <script>
+        function copyFeedUrl() {
+            const url = document.getElementById('feed-url').textContent;
+            navigator.clipboard.writeText(url.trim()).then(() => {
+                const btn = document.querySelector('.copy-btn');
+                btn.textContent = 'Copied!';
+                setTimeout(() => {
+                    btn.textContent = 'Copy URL';
+                }, 2000);
+            });
+        }
+
+        async function loadStats() {
+            try {
+                const response = await fetch('feed.xml');
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+
+                const items = xml.querySelectorAll('item');
+                document.getElementById('total-events').textContent = items.length;
+
+                const sources = new Set();
+                items.forEach(item => {
+                    const source = item.querySelector('source');
+                    if (source) sources.add(source.textContent);
+                });
+                document.getElementById('total-sources').textContent = sources.size;
+            } catch (e) {
+                console.error('Error loading stats:', e);
+                document.getElementById('total-events').textContent = 'N/A';
+                document.getElementById('total-sources').textContent = 'N/A';
+            }
+        }
+
+        loadStats();
+    </script>
+</body>
+</html>
