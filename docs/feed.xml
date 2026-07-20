@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Yorkshire Events - Live Events in Yorkshire, UK</title>
-    <link>https://yorkshire-events.github.io/yorkshire-events/</link>
+    <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/</link>
     <description>Comprehensive RSS feed of live events happening across Yorkshire, UK. Aggregated from multiple sources.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:58:09 +0000</lastBuildDate>
     <generator>Yorkshire Events Aggregator</generator>
-    <atom:link href="https://yorkshire-events.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://yorkshire-events.github.io/yorkshire-events/icon.png</url>
+      <url>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/icon.png</url>
       <title>Yorkshire Events - Live Events in Yorkshire, UK</title>
-      <link>https://yorkshire-events.github.io/yorkshire-events/</link>
+      <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/</link>
     </image>
     <item>
       <title>24/07/2026 - Weird and Wonderful Whitby walking tour</title>
@@ -203,13 +203,6 @@
           <source url="https://visitnorthyorkshire.com/events/3075814-romeo-juliet-rtf-at-ripon-races-ripon-racecourse">Visit North Yorkshire</source>
         </item>
         <item>
-          <title>View Event</title>
-          <link>https://visitnorthyorkshire.com/events/3075814-romeo-juliet-rtf-at-ripon-races-ripon-racecourse</link>
-          <guid>https://visitnorthyorkshire.com/events/3075814-romeo-juliet-rtf-at-ripon-races-ripon-racecourse</guid>
-          <dc:creator>Visit North Yorkshire</dc:creator>
-          <source url="https://visitnorthyorkshire.com/events/3075814-romeo-juliet-rtf-at-ripon-races-ripon-racecourse">Visit North Yorkshire</source>
-        </item>
-        <item>
           <title>Scarborough 400 - Maritime Heritage Centre</title>
           <link>https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre</link>
           <guid>https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre</guid>
@@ -322,62 +315,6 @@
           <source url="https://visitnorthyorkshire.com/events/3027013-training-band-for-brass-player-opening-day-northallerton-silver-band">Visit North Yorkshire</source>
         </item>
         <item>
-          <title>Music</title>
-          <link>https://www.yorkshire.com/events/music</link>
-          <guid>https://www.yorkshire.com/events/music</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/music">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Sport</title>
-          <link>https://www.yorkshire.com/events/sport</link>
-          <guid>https://www.yorkshire.com/events/sport</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/sport">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Horse Racing</title>
-          <link>https://www.yorkshire.com/events/horse-racing</link>
-          <guid>https://www.yorkshire.com/events/horse-racing</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/horse-racing">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Family</title>
-          <link>https://www.yorkshire.com/events/family</link>
-          <guid>https://www.yorkshire.com/events/family</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/family">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Arts &amp; Culture</title>
-          <link>https://www.yorkshire.com/events/arts-culture</link>
-          <guid>https://www.yorkshire.com/events/arts-culture</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/arts-culture">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Film</title>
-          <link>https://www.yorkshire.com/events/film</link>
-          <guid>https://www.yorkshire.com/events/film</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/film">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Food &amp; Drink</title>
-          <link>https://www.yorkshire.com/events/food-drink</link>
-          <guid>https://www.yorkshire.com/events/food-drink</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/events/food-drink">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul20theatre</title>
-          <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l</link>
-          <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l">Yorkshire.com</source>
-        </item>
-        <item>
           <title>Scarborough Spa Orchestra Morning Concert</title>
           <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l</link>
           <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l</guid>
@@ -385,25 +322,11 @@
           <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3mg5l">Yorkshire.com</source>
         </item>
         <item>
-          <title>Jul20other</title>
-          <link>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6</link>
-          <guid>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6">Yorkshire.com</source>
-        </item>
-        <item>
           <title>Toy Story 5 (PG)</title>
           <link>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6</link>
           <guid>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6</guid>
           <dc:creator>Yorkshire.com</dc:creator>
           <source url="https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_hbb6">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul20horse-racing</title>
-          <link>https://www.yorkshire.com/beverley/events/horse-racing/2026-07-19-beverley-racecourse-beverley-eve-flat-racing</link>
-          <guid>https://www.yorkshire.com/beverley/events/horse-racing/2026-07-19-beverley-racecourse-beverley-eve-flat-racing</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/beverley/events/horse-racing/2026-07-19-beverley-racecourse-beverley-eve-flat-racing">Yorkshire.com</source>
         </item>
         <item>
           <title>Beverley (eve) Flat Racing</title>
@@ -420,27 +343,6 @@
           <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-monday-evening-concerts-1agzk8ggkda1fez">Yorkshire.com</source>
         </item>
         <item>
-          <title>Jul21theatre</title>
-          <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3zag_</link>
-          <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3zag_</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3zag_">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul21other</title>
-          <link>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_jnb1</link>
-          <guid>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_jnb1</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_jnb1">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul22horse-racing</title>
-          <link>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</link>
-          <guid>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day">Yorkshire.com</source>
-        </item>
-        <item>
           <title>Go Racing In Yorkshire Summer Festival Family Day</title>
           <link>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</link>
           <guid>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</guid>
@@ -448,25 +350,11 @@
           <source url="https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day">Yorkshire.com</source>
         </item>
         <item>
-          <title>Jul22theatre</title>
-          <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n</link>
-          <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n">Yorkshire.com</source>
-        </item>
-        <item>
           <title>Scarborough Spa Orchestra Wednesday Day Ticket</title>
           <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n</link>
           <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n</guid>
           <dc:creator>Yorkshire.com</dc:creator>
           <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2e_n">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul22music</title>
-          <link>https://www.yorkshire.com/york/events/music/lenny-pearce-1fuov04vfvz7cduu</link>
-          <guid>https://www.yorkshire.com/york/events/music/lenny-pearce-1fuov04vfvz7cduu</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/york/events/music/lenny-pearce-1fuov04vfvz7cduu">Yorkshire.com</source>
         </item>
         <item>
           <title>Lenny Pearce</title>
@@ -497,25 +385,11 @@
           <source url="https://www.yorkshire.com/saltaire/events/music/davina-the-vagabonds-lvz18qqmwub61hzv1ejlf">Yorkshire.com</source>
         </item>
         <item>
-          <title>Jul22other</title>
-          <link>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_qqbc</link>
-          <guid>https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_qqbc</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/whitby/events/other/toy-story-5-pg-17u8v0g6gx_qqbc">Yorkshire.com</source>
-        </item>
-        <item>
           <title>Scarborough Spa Orchestra Wednesday Gala Concert</title>
           <link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-gala-concert-1agzk8vgketpkwy</link>
           <guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-gala-concert-1agzk8vgketpkwy</guid>
           <dc:creator>Yorkshire.com</dc:creator>
           <source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-gala-concert-1agzk8vgketpkwy">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul23horse-racing</title>
-          <link>https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing</link>
-          <guid>https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing">Yorkshire.com</source>
         </item>
         <item>
           <title>Doncaster Flat Racing</title>
@@ -525,25 +399,11 @@
           <source url="https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing">Yorkshire.com</source>
         </item>
         <item>
-          <title>Jul23music</title>
-          <link>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv</link>
-          <guid>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv">Yorkshire.com</source>
-        </item>
-        <item>
           <title>The Flaming Lips &amp; The Beta Band</title>
           <link>https://www.yorkshire.com/halifax/events/music/the-flaming-lips-the-beta-band-1agzkujgkdqadq0</link>
           <guid>https://www.yorkshire.com/halifax/events/music/the-flaming-lips-the-beta-band-1agzkujgkdqadq0</guid>
           <dc:creator>Yorkshire.com</dc:creator>
           <source url="https://www.yorkshire.com/halifax/events/music/the-flaming-lips-the-beta-band-1agzkujgkdqadq0">Yorkshire.com</source>
-        </item>
-        <item>
-          <title>Jul23other</title>
-          <link>https://www.yorkshire.com/halifax/events/other/the-flaming-lips-the-beta-band-official-ticket-and-hotel-bundls-1adfzbugkwlhmxa</link>
-          <guid>https://www.yorkshire.com/halifax/events/other/the-flaming-lips-the-beta-band-official-ticket-and-hotel-bundls-1adfzbugkwlhmxa</guid>
-          <dc:creator>Yorkshire.com</dc:creator>
-          <source url="https://www.yorkshire.com/halifax/events/other/the-flaming-lips-the-beta-band-official-ticket-and-hotel-bundls-1adfzbugkwlhmxa">Yorkshire.com</source>
         </item>
         <item>
           <title>The Flaming Lips &amp; the Beta Band  Official Ticket and Hotel Bundls</title>

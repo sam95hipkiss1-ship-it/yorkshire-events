@@ -191,9 +191,14 @@ def _fallback_scrape(soup: BeautifulSoup) -> List[Event]:
     events = []
     links = soup.find_all("a", href=re.compile(r"/events/"))
 
+    JUNK_TITLES = {"view event", "view events", "see all events", "see all"}
+
     for link in links:
         title = link.get_text(strip=True)
         if not title or len(title) < 5:
+            continue
+
+        if title.lower() in JUNK_TITLES:
             continue
 
         url = link.get("href", "")

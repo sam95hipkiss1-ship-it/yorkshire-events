@@ -25,7 +25,7 @@ FEED_FILE = os.path.join(OUTPUT_DIR, "feed.xml")
 
 FEED_TITLE = "Yorkshire Events - Live Events in Yorkshire, UK"
 FEED_DESCRIPTION = "Comprehensive RSS feed of live events happening across Yorkshire, UK. Aggregated from multiple sources."
-FEED_LINK = "https://yorkshire-events.github.io/yorkshire-events/"
+FEED_LINK = "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/"
 FEED_LANGUAGE = "en-gb"
 
 
@@ -75,7 +75,10 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
         "sport & active events", "entertainment", "live music", "comedy",
         "theatre", "film events", "dance events", "kids", "markets",
         "food and drink events", "science and nature events",
-        "talks", "discussions",
+        "talks", "discussions", "view event", "view events",
+        "music", "sport", "horse racing", "family", "arts & culture",
+        "arts and culture", "film", "food & drink", "food and drink",
+        "other", "nightlife",
     }
 
     for event in events:
@@ -88,6 +91,10 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
             continue
 
         if not event.url or event.url.endswith("/events"):
+            continue
+
+        import re
+        if re.match(r"^[A-Z][a-z]{2}\d{2}", event.title):
             continue
 
         fp = event.fingerprint
@@ -138,6 +145,7 @@ def generate_rss_feed(events: List[Event]) -> str:
     rss.set("version", "2.0")
     rss.set("xmlns:content", "http://purl.org/rss/1.0/modules/content/")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
+    rss.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
 
     channel = SubElement(rss, "channel")
 

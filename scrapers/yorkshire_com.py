@@ -93,6 +93,19 @@ def _parse_event_card(card) -> Event:
     if not title or len(title) < 3:
         return None
 
+    JUNK_TITLES = {
+        "music", "sport", "horse racing", "family", "arts & culture",
+        "arts and culture", "film", "food & drink", "food and drink",
+        "theatre", "comedy", "other", "view event", "festival",
+        "festivals", "heritage", "nightlife",
+    }
+    if title.lower() in JUNK_TITLES:
+        return None
+
+    import re
+    if re.match(r"^[A-Z][a-z]{2}\d{2}", title):
+        return None
+
     url = ""
     if card.name == "a":
         url = card.get("href", "")
