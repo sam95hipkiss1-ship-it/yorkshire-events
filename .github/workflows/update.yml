@@ -35,6 +35,11 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python -u aggregator.py
 
+      - name: Repair missing event dates
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: python -u repair_feed_dates.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
