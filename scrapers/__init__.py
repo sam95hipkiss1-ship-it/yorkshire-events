@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from datetime import datetime
 from typing import Optional
 
@@ -15,6 +15,7 @@ class Event:
     category: Optional[str] = None
     image_url: Optional[str] = None
     price: Optional[str] = None
+    all_day: bool = False
 
     @property
     def fingerprint(self) -> str:
