@@ -343,7 +343,8 @@ def _parse_date_token(value: str, fallback_year: Optional[int] = None) -> Option
     cleaned = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", cleaned, flags=re.I)
     cleaned = _clean_text(cleaned)
 
-    if fallback_year and not re.search(r"\b\d{2,4}\b", cleaned):
+    has_year = bool(re.search(rf"(?:{MONTHS})\s+\d{{2,4}}\b", cleaned, flags=re.I))
+    if fallback_year and not has_year:
         cleaned = f"{cleaned} {fallback_year}"
 
     try:
