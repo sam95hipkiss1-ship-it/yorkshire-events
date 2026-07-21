@@ -5,7 +5,6 @@ Yorkshire Events RSS Feed Aggregator
 Fetches events from multiple Yorkshire sources, deduplicates them,
 and generates a combined RSS 2.0 feed with IFY event metadata.
 """
-
 import os
 import re
 import sys
@@ -14,6 +13,7 @@ from typing import List
 from xml.etree.ElementTree import Element, SubElement, tostring
 
 from scrapers import Event
+from scrapers.generic_schemaorg import scrape_registered_sources
 from scrapers.rss_feeds import fetch_rss_feeds
 from scrapers.yorkshiregigs import scrape_yorkshiregigs
 from scrapers.visitnorthyorkshire import scrape_visitnorthyorkshire
@@ -21,7 +21,6 @@ from scrapers.yorkshire_com import scrape_yorkshire_com
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 FEED_FILE = os.path.join(OUTPUT_DIR, "feed.xml")
-
 FEED_TITLE = "Yorkshire Events - Live Events in Yorkshire, UK"
 FEED_DESCRIPTION = "Comprehensive RSS feed of live events happening across Yorkshire, UK. Aggregated from multiple sources."
 FEED_LINK = "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/"
@@ -33,22 +32,28 @@ def fetch_all_events() -> List[Event]:
     print("Fetching events from all sources...")
     all_events = []
 
-    print("\n[1/4] RSS Feeds...")
+    print("\n[1/5] RSS Feeds...")
     all_events.extend(fetch_rss_feeds())
 
-    print("\n[2/4] Yorkshire Gig Guide...")
+    print("\n[2/5] Registered Schema.org sources...")
+    try:
+        all_events.extend(scrape_registered_sources())
+    except Exception as exc:
+        print(f"  Warning: registered source collection failed safely: {exc}")
+
+    print("\n[3/5] Yorkshire Gig Guide...")
     try:
         all_events.extend(scrape_yorkshiregigs())
     except Exception as exc:
         print(f"  Warning: Yorkshire Gig Guide failed: {exc}")
 
-    print("\n[3/4] Visit North Yorkshire...")
+    print("\n[4/5] Visit North Yorkshire...")
     try:
         all_events.extend(scrape_visitnorthyorkshire())
     except Exception as exc:
         print(f"  Warning: Visit North Yorkshire failed: {exc}")
 
-    print("\n[4/4] Yorkshire.com...")
+    print("\n[5/5] Yorkshire.com...")
     try:
         all_events.extend(scrape_yorkshire_com())
     except Exception as exc:
@@ -103,12 +108,10 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
 def filter_future_events(events: List[Event]) -> List[Event]:
     now = datetime.now()
     future_events = []
-
     for event in events:
         comparison_date = event.end_date or event.date
         if comparison_date is None or comparison_date >= now:
             future_events.append(event)
-
     print(f"Future and ongoing events (including undated): {len(future_events)}")
     return future_events
 
@@ -156,7 +159,6 @@ def generate_rss_feed(events: List[Event]) -> str:
         SubElement(item, "title").text = event.title
         SubElement(item, "link").text = event.url
         SubElement(item, "guid").text = event.url
-
         if event.description:
             SubElement(item, "description").text = event.description
         if event.date:
@@ -175,25 +177,21 @@ def generate_rss_feed(events: List[Event]) -> str:
             SubElement(item, "ify:image").text = event.image_url
         if event.price:
             SubElement(item, "ify:price").text = event.price
-
         SubElement(item, "dc:creator").text = event.source
         source_elem = SubElement(item, "source")
         source_elem.text = event.source
         source_elem.set("url", event.url)
 
     raw_xml = tostring(rss, encoding="unicode", xml_declaration=False)
-    xml_string = '<?xml version="1.0" encoding="UTF-8"?>\n' + raw_xml
-    return re.sub(r"><", ">\n<", xml_string)
+    return '<?xml version="1.0" encoding="UTF-8"?>\n' + re.sub(r"><", ">\n<", raw_xml)
 
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     events = sort_events(filter_future_events(deduplicate_events(fetch_all_events())))
-
     print(f"\nGenerating RSS feed with {len(events)} events...")
     with open(FEED_FILE, "w", encoding="utf-8") as feed_file:
         feed_file.write(generate_rss_feed(events))
-
     print(f"RSS feed written to: {FEED_FILE}")
     return 0
 
