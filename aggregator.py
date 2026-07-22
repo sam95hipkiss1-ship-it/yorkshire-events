@@ -1,30 +1,42 @@
 #!/usr/bin/env python3
-"""
-Yorkshire Events RSS Feed Aggregator
+"""Yorkshire Events RSS feed aggregator.
 
-Fetches events from multiple Yorkshire sources, deduplicates them,
-and generates a combined RSS 2.0 feed with IFY event metadata.
+Fetches Yorkshire events, normalises and deduplicates them, then publishes:
+- one combined RSS feed;
+- one RSS feed per active source;
+- one RSS feed per IFY category;
+- a JSON manifest containing source health and category coverage.
 """
+import json
 import os
 import re
 import sys
-from datetime import datetime
-from typing import List
+import unicodedata
+from collections import Counter, defaultdict
+from datetime import datetime, timezone
+from typing import Dict, Iterable, List
 from xml.etree.ElementTree import Element, SubElement, tostring
 
 from scrapers import Event
-from scrapers.categories import normalise_category
+from scrapers.categories import CATEGORY_ORDER, normalise_categories
 from scrapers.generic_schemaorg import scrape_registered_sources
 from scrapers.listing_adapters import scrape_listing_adapters
 from scrapers.rss_feeds import fetch_rss_feeds
-from scrapers.yorkshiregigs import scrape_yorkshiregigs
+from scrapers.source_registry import CONTROLLED_SOURCES, GENERIC_SOURCES
 from scrapers.visitnorthyorkshire import scrape_visitnorthyorkshire
 from scrapers.yorkshire_com import scrape_yorkshire_com
+from scrapers.yorkshiregigs import scrape_yorkshiregigs
 
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(ROOT_DIR, "docs")
 FEED_FILE = os.path.join(OUTPUT_DIR, "feed.xml")
+SOURCE_FEEDS_DIR = os.path.join(OUTPUT_DIR, "feeds")
+CATEGORY_FEEDS_DIR = os.path.join(OUTPUT_DIR, "categories")
+SOURCES_MANIFEST_FILE = os.path.join(OUTPUT_DIR, "sources.json")
+CATEGORIES_MANIFEST_FILE = os.path.join(OUTPUT_DIR, "categories.json")
+
 FEED_TITLE = "Yorkshire Events - Live Events in Yorkshire, UK"
-FEED_DESCRIPTION = "Comprehensive RSS feed of live events happening across Yorkshire, UK. Aggregated from multiple sources."
+FEED_DESCRIPTION = "Live Yorkshire events aggregated from approved sources."
 FEED_LINK = "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/"
 FEED_LANGUAGE = "en-gb"
 IFY_NAMESPACE = "https://imfromyorkshire.uk.com/ns/events/1.0"
@@ -32,9 +44,9 @@ IFY_NAMESPACE = "https://imfromyorkshire.uk.com/ns/events/1.0"
 
 def fetch_all_events() -> List[Event]:
     print("Fetching events from all sources...")
-    all_events = []
+    all_events: List[Event] = []
 
-    print("\n[1/6] Web Scrapers...")
+    print("\n[1/6] RSS feeds...")
     all_events.extend(fetch_rss_feeds())
 
     print("\n[2/6] Source-specific listing adapters...")
@@ -71,9 +83,9 @@ def fetch_all_events() -> List[Event]:
     return all_events
 
 
-def deduplicate_events(events: List[Event]) -> List[Event]:
-    seen = {}
-    unique_events = []
+def deduplicate_events(events: Iterable[Event]) -> List[Event]:
+    seen: Dict[str, Event] = {}
+    unique_events: List[Event] = []
     category_titles = {
         "food & drink events", "science & nature events", "heritage events",
         "garden events", "talks & discussions", "literature events",
@@ -89,8 +101,8 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
     }
 
     for event in events:
-        title_lower = event.title.lower().strip()
-        if title_lower in category_titles or len(event.title) < 4:
+        title_lower = (event.title or "").lower().strip()
+        if title_lower in category_titles or len(event.title or "") < 4:
             continue
         if not event.url or event.url.rstrip("/").endswith("/events"):
             continue
@@ -102,10 +114,10 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
 
         if fingerprint in seen:
             existing = seen[fingerprint]
-            for field in [
+            for field in (
                 "url", "description", "location", "date", "end_date",
                 "category", "image_url", "price",
-            ]:
+            ):
                 if not getattr(existing, field, None) and getattr(event, field, None):
                     setattr(existing, field, getattr(event, field))
             if event.all_day and not existing.date:
@@ -118,19 +130,26 @@ def deduplicate_events(events: List[Event]) -> List[Event]:
     return unique_events
 
 
-def filter_future_events(events: List[Event]) -> List[Event]:
+def filter_future_events(events: Iterable[Event]) -> List[Event]:
     now = datetime.now()
-    future_events = []
+    result = []
     for event in events:
         comparison_date = event.end_date or event.date
         if comparison_date is None or comparison_date >= now:
-            future_events.append(event)
-    print(f"Future and ongoing events (including undated): {len(future_events)}")
-    return future_events
+            result.append(event)
+    print(f"Future and ongoing events (including undated): {len(result)}")
+    return result
 
 
-def sort_events(events: List[Event]) -> List[Event]:
+def sort_events(events: Iterable[Event]) -> List[Event]:
     return sorted(events, key=lambda event: event.date or datetime.max)
+
+
+def slugify(value: str) -> str:
+    normalised = unicodedata.normalize("NFKD", value or "")
+    ascii_value = normalised.encode("ascii", "ignore").decode("ascii")
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_value.lower()).strip("-")
+    return slug or "source"
 
 
 def _rss_datetime(value: datetime) -> str:
@@ -141,7 +160,21 @@ def _iso_datetime(value: datetime, all_day: bool = False) -> str:
     return value.strftime("%Y-%m-%d") if all_day else value.strftime("%Y-%m-%dT%H:%M:%S")
 
 
-def generate_rss_feed(events: List[Event]) -> str:
+def event_categories(event: Event) -> List[str]:
+    return normalise_categories(
+        event.category,
+        event.title,
+        event.description,
+        event.source,
+    )
+
+
+def generate_rss_feed(
+    events: Iterable[Event],
+    title: str = FEED_TITLE,
+    description: str = FEED_DESCRIPTION,
+    link: str = FEED_LINK,
+) -> str:
     rss = Element("rss")
     rss.set("version", "2.0")
     rss.set("xmlns:content", "http://purl.org/rss/1.0/modules/content/")
@@ -150,22 +183,17 @@ def generate_rss_feed(events: List[Event]) -> str:
     rss.set("xmlns:ify", IFY_NAMESPACE)
 
     channel = SubElement(rss, "channel")
-    SubElement(channel, "title").text = FEED_TITLE
-    SubElement(channel, "link").text = FEED_LINK
-    SubElement(channel, "description").text = FEED_DESCRIPTION
+    SubElement(channel, "title").text = title
+    SubElement(channel, "link").text = link
+    SubElement(channel, "description").text = description
     SubElement(channel, "language").text = FEED_LANGUAGE
     SubElement(channel, "lastBuildDate").text = _rss_datetime(datetime.utcnow())
-    SubElement(channel, "generator").text = "Yorkshire Events Aggregator"
+    SubElement(channel, "generator").text = "I’m From Yorkshire Events Aggregator"
 
     atom_link = SubElement(channel, "atom:link")
-    atom_link.set("href", f"{FEED_LINK}feed.xml")
+    atom_link.set("href", link)
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
-
-    image = SubElement(channel, "image")
-    SubElement(image, "url").text = f"{FEED_LINK}icon.png"
-    SubElement(image, "title").text = FEED_TITLE
-    SubElement(image, "link").text = FEED_LINK
 
     for event in events:
         item = SubElement(channel, "item")
@@ -184,12 +212,8 @@ def generate_rss_feed(events: List[Event]) -> str:
         if event.location:
             SubElement(item, "location").text = event.location
             SubElement(item, "ify:location").text = event.location
-        SubElement(item, "category").text = normalise_category(
-            event.category,
-            event.title,
-            event.description,
-            event.source,
-        )
+        for category in event_categories(event):
+            SubElement(item, "category").text = category
         if event.image_url:
             SubElement(item, "ify:image").text = event.image_url
         if event.price:
@@ -203,13 +227,170 @@ def generate_rss_feed(events: List[Event]) -> str:
     return '<?xml version="1.0" encoding="UTF-8"?>\n' + re.sub(r"><", ">\n<", raw_xml)
 
 
-def main():
+def _write_text(path: str, content: str) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as output:
+        output.write(content)
+
+
+def _clear_xml_directory(path: str) -> None:
+    os.makedirs(path, exist_ok=True)
+    for filename in os.listdir(path):
+        if filename.endswith(".xml"):
+            os.remove(os.path.join(path, filename))
+
+
+def _status_from_notes(notes: str, enabled: bool = False) -> str:
+    value = (notes or "").lower()
+    if any(token in value for token in ("api", "partner", "permission", "credentials", "licensed")):
+        return "requires_access"
+    if any(token in value for token in ("challenge", "blocked", "robots.txt")):
+        return "blocked"
+    if any(token in value for token in ("dedicated adapter required", "dynamically")):
+        return "not_implemented"
+    if "handled" in value or "collected" in value or enabled:
+        return "configured"
+    return "registered"
+
+
+def build_registered_source_status(active_counts: Counter) -> List[dict]:
+    registered: Dict[str, dict] = {}
+
+    for source in GENERIC_SOURCES:
+        registered[source.name] = {
+            "name": source.name,
+            "domain": source.domain,
+            "status": _status_from_notes(source.notes, source.enabled),
+            "notes": source.notes,
+        }
+
+    for name, notes in CONTROLLED_SOURCES:
+        registered.setdefault(name, {
+            "name": name,
+            "domain": "",
+            "status": _status_from_notes(notes),
+            "notes": notes,
+        })
+
+    for source_name, count in active_counts.items():
+        record = registered.setdefault(source_name, {
+            "name": source_name,
+            "domain": "",
+            "notes": "Active event source",
+        })
+        record["status"] = "active"
+        record["item_count"] = count
+        record["slug"] = slugify(source_name)
+        record["feed_url"] = f"{FEED_LINK}feeds/{record['slug']}.xml"
+
+    for record in registered.values():
+        record.setdefault("item_count", 0)
+        record.setdefault("slug", slugify(record["name"]))
+        record.setdefault("feed_url", "")
+        if record["item_count"] == 0 and record["status"] == "configured":
+            record["status"] = "empty"
+
+    return sorted(registered.values(), key=lambda item: item["name"].lower())
+
+
+def write_outputs(events: List[Event]) -> None:
+    generated_at = datetime.now(timezone.utc).isoformat()
+    _clear_xml_directory(SOURCE_FEEDS_DIR)
+    _clear_xml_directory(CATEGORY_FEEDS_DIR)
+
+    _write_text(
+        FEED_FILE,
+        generate_rss_feed(events, link=f"{FEED_LINK}feed.xml"),
+    )
+
+    by_source: Dict[str, List[Event]] = defaultdict(list)
+    by_category: Dict[str, List[Event]] = {category: [] for category in CATEGORY_ORDER}
+    for event in events:
+        by_source[event.source or "Yorkshire Events"].append(event)
+        for category in event_categories(event):
+            by_category.setdefault(category, []).append(event)
+
+    active_feeds = []
+    active_counts = Counter()
+    for source_name, source_events in sorted(by_source.items()):
+        source_events = sort_events(source_events)
+        slug = slugify(source_name)
+        feed_url = f"{FEED_LINK}feeds/{slug}.xml"
+        _write_text(
+            os.path.join(SOURCE_FEEDS_DIR, f"{slug}.xml"),
+            generate_rss_feed(
+                source_events,
+                title=f"{source_name} Yorkshire Events",
+                description=f"Upcoming Yorkshire events from {source_name}.",
+                link=feed_url,
+            ),
+        )
+        active_counts[source_name] = len(source_events)
+        category_counts = Counter(
+            category
+            for event in source_events
+            for category in event_categories(event)
+        )
+        active_feeds.append({
+            "name": source_name,
+            "slug": slug,
+            "feed_url": feed_url,
+            "item_count": len(source_events),
+            "category_counts": dict(category_counts),
+            "status": "active",
+        })
+
+    category_manifest = []
+    for category in CATEGORY_ORDER:
+        category_events = sort_events(by_category.get(category, []))
+        slug = slugify(category)
+        feed_url = f"{FEED_LINK}categories/{slug}.xml"
+        _write_text(
+            os.path.join(CATEGORY_FEEDS_DIR, f"{slug}.xml"),
+            generate_rss_feed(
+                category_events,
+                title=f"Yorkshire {category} Events",
+                description=f"Upcoming Yorkshire events in the {category} category.",
+                link=feed_url,
+            ),
+        )
+        category_manifest.append({
+            "name": category,
+            "slug": slug,
+            "feed_url": feed_url,
+            "item_count": len(category_events),
+        })
+
+    source_status = build_registered_source_status(active_counts)
+    manifest = {
+        "version": 2,
+        "generated_at": generated_at,
+        "master_feed": f"{FEED_LINK}feed.xml",
+        "active_source_count": len(active_feeds),
+        "registered_source_count": len(source_status),
+        "event_count": len(events),
+        "active_feeds": active_feeds,
+        "sources": source_status,
+        "categories": category_manifest,
+    }
+    _write_text(SOURCES_MANIFEST_FILE, json.dumps(manifest, ensure_ascii=False, indent=2))
+    _write_text(CATEGORIES_MANIFEST_FILE, json.dumps({
+        "generated_at": generated_at,
+        "categories": category_manifest,
+    }, ensure_ascii=False, indent=2))
+
+    print(f"Published {len(active_feeds)} source feeds")
+    for category in category_manifest:
+        print(f"  Category {category['name']}: {category['item_count']} events")
+
+
+def main() -> int:
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     events = sort_events(filter_future_events(deduplicate_events(fetch_all_events())))
-    print(f"\nGenerating RSS feed with {len(events)} events...")
-    with open(FEED_FILE, "w", encoding="utf-8") as feed_file:
-        feed_file.write(generate_rss_feed(events))
-    print(f"RSS feed written to: {FEED_FILE}")
+    print(f"\nGenerating feeds with {len(events)} events...")
+    write_outputs(events)
+    print(f"Master RSS feed written to: {FEED_FILE}")
+    print(f"Source manifest written to: {SOURCES_MANIFEST_FILE}")
     return 0
 
 
