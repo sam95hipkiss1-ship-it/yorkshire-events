@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 14
 
     steps:
       - name: Checkout repository
@@ -29,6 +29,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Validate Python files
+        run: python -m compileall -q aggregator.py repair_feed_dates.py propagate_feed_metadata.py scrapers
 
       - name: Run aggregator
         env:
