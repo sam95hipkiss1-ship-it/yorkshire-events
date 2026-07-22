@@ -52,7 +52,7 @@ GENERIC_SOURCES = (
     SourceConfig("Leeds Museums and Galleries", "museumsandgalleries.leeds.gov.uk", ("https://museumsandgalleries.leeds.gov.uk/events/",), max_detail_pages=35),
     SourceConfig("The Piece Hall", "thepiecehall.co.uk", ("https://www.thepiecehall.co.uk/events/",), enabled=True, max_detail_pages=35),
     SourceConfig("Yorkshire Wildlife Trust", "ywt.org.uk", ("https://www.ywt.org.uk/events",), enabled=True, max_detail_pages=35),
-    SourceConfig("National Trust Yorkshire", "nationaltrust.org.uk", ("https://www.nationaltrust.org.uk/visit/yorkshire/events",), include_paths=("/visit/", "/events/"), max_detail_pages=40),
+    SourceConfig("National Trust Yorkshire", "nationaltrust.org.uk", ("https://www.nationaltrust.org.uk/visit/yorkshire",), include_paths=("/visit/yorkshire/", "/events/"), notes="Handled by source-specific listing adapter"),
     SourceConfig("English Heritage Yorkshire", "english-heritage.org.uk", ("https://www.english-heritage.org.uk/visit/whats-on/",), include_paths=("/visit/whats-on/",), max_detail_pages=40),
     SourceConfig("RSPB Yorkshire", "rspb.org.uk", ("https://events.rspb.org.uk/", "https://www.rspb.org.uk/events"), include_paths=("event", "events"), max_detail_pages=35),
     SourceConfig("Forestry England Yorkshire", "forestryengland.uk", ("https://www.forestryengland.uk/events",), include_paths=("/events/",), max_detail_pages=35),
