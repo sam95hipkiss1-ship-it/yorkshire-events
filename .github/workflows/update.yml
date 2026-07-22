@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -40,11 +40,16 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python -u repair_feed_dates.py
 
+      - name: Propagate repaired metadata
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: python -u propagate_feed_metadata.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/feed.xml
+          git add docs/feed.xml docs/feeds docs/categories docs/sources.json docs/categories.json
           timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          git diff --staged --quiet || git commit -m "Update events feed - $timestamp"
+          git diff --staged --quiet || git commit -m "Update events feeds - $timestamp"
           git push
