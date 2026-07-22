@@ -13,6 +13,7 @@ from typing import List
 from xml.etree.ElementTree import Element, SubElement, tostring
 
 from scrapers import Event
+from scrapers.categories import normalise_category
 from scrapers.generic_schemaorg import scrape_registered_sources
 from scrapers.listing_adapters import scrape_listing_adapters
 from scrapers.rss_feeds import fetch_rss_feeds
@@ -183,8 +184,12 @@ def generate_rss_feed(events: List[Event]) -> str:
         if event.location:
             SubElement(item, "location").text = event.location
             SubElement(item, "ify:location").text = event.location
-        if event.category:
-            SubElement(item, "category").text = event.category
+        SubElement(item, "category").text = normalise_category(
+            event.category,
+            event.title,
+            event.description,
+            event.source,
+        )
         if event.image_url:
             SubElement(item, "ify:image").text = event.image_url
         if event.price:
