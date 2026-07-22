@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
+<channel>
+<title>Eureka! Science + Discovery Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/eureka-science-discovery.xml</link>
+<description>Upcoming Yorkshire events from Eureka! Science + Discovery.</description>
+<language>en-gb</language>
+<lastBuildDate>Wed, 22 Jul 2026 15:18:38 +0000</lastBuildDate>
+<generator>I’m From Yorkshire Events Aggregator</generator>
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/eureka-science-discovery.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>6 Weeks of Summer at Eureka!</title>
+<link>https://discover.eureka.org.uk/event/6-weeks-of-summer-at-eureka/</link>
+<guid>https://discover.eureka.org.uk/event/6-weeks-of-summer-at-eureka/</guid>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18T00:00:00</ify:start>
+<ify:end>2026-08-30T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Eureka! Science + Discovery</location>
+<ify:location>Eureka! Science + Discovery</ify:location>
+<category>Family Days Out</category>
+<dc:creator>Eureka! Science + Discovery</dc:creator>
+<source url="https://discover.eureka.org.uk/event/6-weeks-of-summer-at-eureka/">Eureka! Science + Discovery</source>
+</item>
+<item>
+<title>Relaxed SENDays</title>
+<link>https://discover.eureka.org.uk/event/relaxed-sendays/</link>
+<guid>https://discover.eureka.org.uk/event/relaxed-sendays/</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-24</ify:start>
+<ify:end>2026-12-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Eureka! Science + Discovery</location>
+<ify:location>Eureka! Science + Discovery</ify:location>
+<category>Family Days Out</category>
+<dc:creator>Eureka! Science + Discovery</dc:creator>
+<source url="https://discover.eureka.org.uk/event/relaxed-sendays/">Eureka! Science + Discovery</source>
+</item>
+</channel>
+</rss>

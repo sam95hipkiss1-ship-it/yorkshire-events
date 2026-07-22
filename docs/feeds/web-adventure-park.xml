@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
+<channel>
+<title>Web Adventure Park Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/web-adventure-park.xml</link>
+<description>Upcoming Yorkshire events from Web Adventure Park.</description>
+<language>en-gb</language>
+<lastBuildDate>Wed, 22 Jul 2026 15:18:38 +0000</lastBuildDate>
+<generator>I’m From Yorkshire Events Aggregator</generator>
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/web-adventure-park.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Upcoming Events</title>
+<link>https://tickets.webadventurepark.co.uk/book/events/121</link>
+<guid>https://tickets.webadventurepark.co.uk/book/events/121</guid>
+<description>We offer seasonal events with vava VOOM! The Father Christmas Experience will be on sale from June Easter Eggstravaganza, with the Bunny Brothers an</description>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Web Adventure Park, York</location>
+<ify:location>Web Adventure Park, York</ify:location>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Web Adventure Park</dc:creator>
+<source url="https://tickets.webadventurepark.co.uk/book/events/121">Web Adventure Park</source>
+</item>
+</channel>
+</rss>
