@@ -82,22 +82,25 @@ ADAPTERS: Sequence[Dict[str, object]] = (
     },
     {
         "name": "Experience Wakefield",
-        "urls": (
-            "https://experiencewakefield.co.uk/whats-on/",
-        ),
+        "urls": ("https://experiencewakefield.co.uk/whats-on/",),
         "href_contains": ("/event/",),
         "href_excludes": ("/event-applications",),
         "anchor_text": (),
     },
     {
         "name": "Visit North Yorkshire",
-        "urls": (
-            "https://visitharrogate.co.uk/events",
-        ),
+        "urls": ("https://visitharrogate.co.uk/events",),
         "href_contains": ("visitnorthyorkshire.com/events/",),
         "href_excludes": (),
         "anchor_text": (),
         "allow_external": True,
+    },
+    {
+        "name": "National Trust Yorkshire",
+        "urls": ("https://www.nationaltrust.org.uk/visit/yorkshire",),
+        "href_contains": ("/visit/yorkshire/", "/events/"),
+        "href_excludes": (),
+        "anchor_text": (),
     },
 )
 
@@ -195,18 +198,18 @@ def _find_event_container(anchor: Tag) -> Optional[Tag]:
     node: Optional[Tag] = anchor
     best: Optional[Tag] = None
 
-    for _ in range(9):
+    for _ in range(10):
         node = node.parent if isinstance(node, Tag) else None
         if node is None or node.name in {"body", "html"}:
             break
 
         text = _clean_text(node.get_text(" ", strip=True))
-        if len(text) > 5000:
+        if len(text) > 6000:
             break
 
         if _contains_date(text):
             best = node
-            if len(text) <= 1800:
+            if len(text) <= 2200:
                 return node
 
     return best
@@ -224,7 +227,7 @@ def _event_from_container(
         return None
 
     title = _title_from_container(anchor, container)
-    if len(title) < 3 or title.lower() in {"more info", "read more", "book now"}:
+    if len(title) < 3 or title.lower() in {"more info", "read more", "book now", "see all events"}:
         return None
 
     event_url = urljoin(page_url, anchor.get("href", ""))
@@ -245,7 +248,7 @@ def _event_from_container(
 
 def _title_from_container(anchor: Tag, container: Tag) -> str:
     anchor_text = _clean_text(anchor.get_text(" ", strip=True))
-    if anchor_text and anchor_text.lower() not in {"more info", "read more", "book now"}:
+    if anchor_text and anchor_text.lower() not in {"more info", "read more", "book now", "see all events"}:
         return anchor_text[:220]
 
     for heading in container.select("h1, h2, h3, h4, h5"):
@@ -255,7 +258,7 @@ def _title_from_container(anchor: Tag, container: Tag) -> str:
 
     for candidate in container.select("a[href]"):
         text = _clean_text(candidate.get_text(" ", strip=True))
-        if text and text.lower() not in {"more info", "read more", "book now"}:
+        if text and text.lower() not in {"more info", "read more", "book now", "see all events"}:
             return text[:220]
 
     return ""
@@ -273,6 +276,15 @@ def _location_from_container(container: Tag) -> Optional[str]:
             text = _clean_text(element.get_text(" ", strip=True))
             if 2 < len(text) <= 240:
                 return text
+
+    for element in container.select("p, span, div"):
+        text = _clean_text(element.get_text(" ", strip=True))
+        if 5 < len(text) <= 180 and re.search(
+            r"\b(?:North|South|East|West) Yorkshire\b|\bYorkshire\b",
+            text,
+            re.IGNORECASE,
+        ):
+            return text
 
     return None
 
@@ -339,7 +351,12 @@ def _parse_date_range(text: str) -> Tuple[Optional[datetime], Optional[datetime]
 
 
 def _parse_date_token(value: str, fallback_year: Optional[int] = None) -> Optional[datetime]:
-    cleaned = re.sub(r"\b(?:Mon|Tue|Tues|Wed|Thu|Thur|Thurs|Fri|Sat|Sun)(?:day)?\b", "", value, flags=re.I)
+    cleaned = re.sub(
+        r"\b(?:Mon|Tue|Tues|Wed|Thu|Thur|Thurs|Fri|Sat|Sun)(?:day)?\b",
+        "",
+        value,
+        flags=re.I,
+    )
     cleaned = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", cleaned, flags=re.I)
     cleaned = _clean_text(cleaned)
 
