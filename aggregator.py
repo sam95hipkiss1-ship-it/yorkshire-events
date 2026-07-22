@@ -19,6 +19,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 
 from scrapers import Event
 from scrapers.categories import CATEGORY_ORDER, normalise_categories
+from scrapers.family_sources import scrape_family_sources
 from scrapers.generic_schemaorg import scrape_registered_sources
 from scrapers.listing_adapters import scrape_listing_adapters
 from scrapers.rss_feeds import fetch_rss_feeds
@@ -46,34 +47,40 @@ def fetch_all_events() -> List[Event]:
     print("Fetching events from all sources...")
     all_events: List[Event] = []
 
-    print("\n[1/6] RSS feeds...")
+    print("\n[1/7] RSS feeds...")
     all_events.extend(fetch_rss_feeds())
 
-    print("\n[2/6] Source-specific listing adapters...")
+    print("\n[2/7] Source-specific listing adapters...")
     try:
         all_events.extend(scrape_listing_adapters())
     except Exception as exc:
         print(f"  Warning: listing-card collection failed safely: {exc}")
 
-    print("\n[3/6] Registered Schema.org sources...")
+    print("\n[3/7] Family days out source adapters...")
+    try:
+        all_events.extend(scrape_family_sources())
+    except Exception as exc:
+        print(f"  Warning: family-source collection failed safely: {exc}")
+
+    print("\n[4/7] Registered Schema.org sources...")
     try:
         all_events.extend(scrape_registered_sources())
     except Exception as exc:
         print(f"  Warning: registered source collection failed safely: {exc}")
 
-    print("\n[4/6] Yorkshire Gig Guide...")
+    print("\n[5/7] Yorkshire Gig Guide...")
     try:
         all_events.extend(scrape_yorkshiregigs())
     except Exception as exc:
         print(f"  Warning: Yorkshire Gig Guide failed: {exc}")
 
-    print("\n[5/6] Visit North Yorkshire detail enrichment...")
+    print("\n[6/7] Visit North Yorkshire detail enrichment...")
     try:
         all_events.extend(scrape_visitnorthyorkshire())
     except Exception as exc:
         print(f"  Warning: Visit North Yorkshire failed: {exc}")
 
-    print("\n[6/6] Yorkshire.com...")
+    print("\n[7/7] Yorkshire.com...")
     try:
         all_events.extend(scrape_yorkshire_com())
     except Exception as exc:
