@@ -33,7 +33,7 @@ def fetch_all_events() -> List[Event]:
     print("Fetching events from all sources...")
     all_events = []
 
-    print("\n[1/6] RSS Feeds...")
+    print("\n[1/6] Web Scrapers...")
     all_events.extend(fetch_rss_feeds())
 
     print("\n[2/6] Source-specific listing adapters...")

@@ -4,6 +4,7 @@ from datetime import datetime
 from typing import List
 from dateutil import parser as dateparser
 import re
+import socket
 
 from . import Event
 
@@ -22,9 +23,26 @@ CITIES = [
 ]
 
 
+def _site_is_up() -> bool:
+    import socket
+    old_timeout = socket.getdefaulttimeout()
+    try:
+        socket.setdefaulttimeout(3)
+        socket.getaddrinfo("www.yorkshiregigs.co.uk", 443)
+        return True
+    except (socket.gaierror, socket.timeout, OSError):
+        return False
+    finally:
+        socket.setdefaulttimeout(old_timeout)
+
+
 def scrape_yorkshiregigs() -> List[Event]:
     events = []
     print("  Fetching Yorkshire Gig Guide...")
+
+    if not _site_is_up():
+        print("    Yorkshire Gig Guide is down, skipping")
+        return []
 
     for city in CITIES:
         try:
