@@ -1,6 +1,15 @@
 name: Update Yorkshire Events Feed
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'aggregator.py'
+      - 'scrapers/**'
+      - 'repair_feed_dates.py'
+      - 'propagate_feed_metadata.py'
+      - '.github/workflows/update.yml'
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
