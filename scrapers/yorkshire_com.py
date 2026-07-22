@@ -18,8 +18,9 @@ BASE_URL = "https://www.yorkshire.com"
 EVENTS_URL = f"{BASE_URL}/events"
 
 CATEGORIES = [
-    "music", "theatre", "festivals", "sport", "family",
-    "arts", "food-drink", "heritage", "comedy",
+    "music", "theatre", "festivals", "sport", "horse-racing", "family",
+    "arts", "film", "food-drink", "markets", "heritage", "comedy",
+    "nightlife", "other",
 ]
 
 
@@ -97,12 +98,11 @@ def _parse_event_card(card) -> Event:
         "music", "sport", "horse racing", "family", "arts & culture",
         "arts and culture", "film", "food & drink", "food and drink",
         "theatre", "comedy", "other", "view event", "festival",
-        "festivals", "heritage", "nightlife",
+        "festivals", "heritage", "nightlife", "markets",
     }
     if title.lower() in JUNK_TITLES:
         return None
 
-    import re
     if re.match(r"^[A-Z][a-z]{2}\d{2}", title):
         return None
 
