@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "generated_at": "2026-07-23T13:58:06.785121+00:00",
+  "generated_at": "2026-07-23T14:04:48.830374+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 20,
-  "registered_source_count": 59,
+  "registered_source_count": 60,
   "event_count": 478,
   "active_feeds": [
     {
@@ -781,6 +781,15 @@
       "item_count": 9,
       "slug": "yorkshire-dales-national-park",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
+    },
+    {
+      "name": "Yorkshire Gig Guide",
+      "domain": "yorkshiregigs.co.uk",
+      "status": "empty",
+      "notes": "Handled by the dedicated Yorkshire Gig Guide scraper",
+      "item_count": 0,
+      "slug": "yorkshire-gig-guide",
+      "feed_url": ""
     },
     {
       "name": "Yorkshire Walks and Wellies",
