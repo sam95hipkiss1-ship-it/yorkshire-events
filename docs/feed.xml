@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 23 Jul 2026 14:04:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 14:08:40 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -458,19 +458,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
-<title>Waves of Waste beach clean at Filey South (Multiple Dates)</title>
-<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates</link>
-<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates</guid>
-<description>Join our Waves of Waste co-ordinators as they give Filey South beach a thorough tidy up to protect marine wildlife.</description>
-<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-22</ify:start>
-<ify:end>2026-09-27</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire Wildlife Trust</dc:creator>
-<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates">Yorkshire Wildlife Trust</source>
-</item>
-<item>
 <title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
 <link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</link>
 <guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</guid>
@@ -484,16 +471,17 @@
 <source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates">Yorkshire Wildlife Trust</source>
 </item>
 <item>
-<title>Street Food In The Square</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-11-26</ify:end>
+<title>Waves of Waste beach clean at Filey South (Multiple Dates)</title>
+<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates</link>
+<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates</guid>
+<description>Join our Waves of Waste co-ordinators as they give Filey South beach a thorough tidy up to protect marine wildlife.</description>
+<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-22</ify:start>
+<ify:end>2026-09-27</ify:end>
 <ify:allDay>true</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
+<category>Experiences</category>
+<dc:creator>Yorkshire Wildlife Trust</dc:creator>
+<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates">Yorkshire Wildlife Trust</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -506,6 +494,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
+</item>
+<item>
+<title>Street Food In The Square</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-11-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -1671,23 +1671,22 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:end>2026-08-07T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
 <category>Food &amp; Drink</category>
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Music &amp; Nightlife</title>
@@ -1709,22 +1708,23 @@
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-07T00:00:00</ify:end>
+<ify:end>2026-08-29T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
 <category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <category>Food &amp; Drink</category>
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
 <title>Address</title>
