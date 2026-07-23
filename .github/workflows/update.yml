@@ -12,6 +12,10 @@ on:
       - 'propagate_feed_metadata.py'
       - '.github/workflows/update.yml'
   schedule:
+    # GitHub cron uses UTC. Running at both 23:05 and 00:05 keeps the feed
+    # current just after UK midnight during BST and GMT respectively.
+    - cron: '5 23 * * *'
+    - cron: '5 0 * * *'
     - cron: '0 6 * * *'
   workflow_dispatch:
 
