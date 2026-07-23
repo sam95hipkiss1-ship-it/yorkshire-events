@@ -6,6 +6,7 @@ from datetime import datetime, time, timedelta
 
 from aggregator import deduplicate_events, fetch_all_events, sort_events, write_outputs
 from scrapers.date_enrichment import enrich_missing_dates
+from scrapers.expansion_sources import scrape_expansion_sources
 from scrapers.location_enrichment import enrich_missing_locations
 from scrapers.regional_sources import scrape_regional_sources
 from scrapers.security import filter_events
@@ -54,6 +55,12 @@ def main() -> int:
         events.extend(scrape_regional_sources())
     except Exception as exc:
         print(f"  Warning: regional source collection failed safely: {exc}", flush=True)
+
+    print("\n[Additional expansion source adapters]", flush=True)
+    try:
+        events.extend(scrape_expansion_sources())
+    except Exception as exc:
+        print(f"  Warning: expansion source collection failed safely: {exc}", flush=True)
 
     # Validate URLs and content before making any second-pass requests.
     events, security_report = filter_events(events)
