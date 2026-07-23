@@ -9,7 +9,7 @@ import json
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from typing import Any, Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional
 from urllib.parse import urlparse
 
 import requests
@@ -29,14 +29,18 @@ MAX_TOTAL_SECONDS = 150
 WORKERS = 8
 MAX_LOCATION = 240
 
-LABEL_PATTERN = re.compile(
-    r"^(?:venue\s+location|event\s+location|venue|location|where|address|place)\s*:?$",
+LOCATION_LABEL = r"(?:venue\s+location|event\s+location|venue|location|where|address|place)"
+LABEL_PATTERN = re.compile(rf"^{LOCATION_LABEL}\s*:?$", re.IGNORECASE)
+INLINE_PATTERN = re.compile(
+    rf"{LOCATION_LABEL}\s*(?::|–|—|-)\s*(.{{4,240}}?)"
+    r"(?=\s+(?:date|dates|time|times|tickets?|price|cost|book|category|"
+    r"organiser|organizer|contact|accessibility|opening)\b|$)",
     re.IGNORECASE,
 )
-INLINE_PATTERN = re.compile(
-    r"(?:venue\s+location|event\s+location|venue|location|where|address|place)"
-    r"\s*:\s*(.{4,240}?)(?=\s+(?:date|dates|time|times|tickets?|price|cost|book|"
-    r"category|organiser|organizer|contact|accessibility|opening)\b|$)",
+INLINE_UNPUNCTUATED_PATTERN = re.compile(
+    rf"{LOCATION_LABEL}\s+(.{{4,240}}?)"
+    r"(?=\s+(?:date|dates|time|times|tickets?|price|cost|book|category|"
+    r"organiser|organizer|contact|accessibility|opening)\b|$)",
     re.IGNORECASE,
 )
 POSTCODE_RE = re.compile(r"\b[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}\b", re.IGNORECASE)
@@ -265,11 +269,12 @@ def _labelled_location(scope: Tag) -> Optional[str]:
 
 def _inline_location(scope: Tag) -> Optional[str]:
     text = _clean(scope.get_text(" ", strip=True))
-    match = INLINE_PATTERN.search(text)
-    if match:
-        location = _normalise_location(match.group(1))
-        if location:
-            return location
+    for pattern in (INLINE_PATTERN, INLINE_UNPUNCTUATED_PATTERN):
+        match = pattern.search(text)
+        if match:
+            location = _normalise_location(match.group(1))
+            if location:
+                return location
 
     # Postcodes are used only when they occur immediately after an explicit
     # location label, preventing a footer or company address from being used.
@@ -277,7 +282,7 @@ def _inline_location(scope: Tag) -> Optional[str]:
         start = max(0, match.start() - 180)
         context = text[start:match.end()]
         label_match = re.search(
-            r"(?:venue\s+location|event\s+location|venue|location|where|address|place)\s*:\s*(.+)$",
+            rf"{LOCATION_LABEL}\s*(?::|–|—|-)?\s+(.+)$",
             context,
             re.IGNORECASE,
         )
@@ -291,7 +296,7 @@ def _inline_location(scope: Tag) -> Optional[str]:
 def _normalise_location(value: object) -> Optional[str]:
     text = _clean(value)
     text = re.sub(
-        r"^(?:venue\s+location|event\s+location|venue|location|where|address|place)\s*:\s*",
+        rf"^{LOCATION_LABEL}\s*(?::|–|—|-)?\s+",
         "",
         text,
         flags=re.IGNORECASE,
