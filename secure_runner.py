@@ -5,6 +5,7 @@ from __future__ import annotations
 from datetime import datetime, time, timedelta
 
 from aggregator import deduplicate_events, fetch_all_events, sort_events, write_outputs
+from scrapers.date_enrichment import enrich_missing_dates
 from scrapers.location_enrichment import enrich_missing_locations
 from scrapers.regional_sources import scrape_regional_sources
 from scrapers.security import filter_events
@@ -14,9 +15,12 @@ def filter_current_events(events):
     now = datetime.now()
     current = []
     expired = 0
+    undated = 0
     for event in events:
         if not event.date:
-            current.append(event)
+            # Public event records require a verified date. Undated listings are
+            # excluded instead of being published as "TBC".
+            undated += 1
             continue
 
         if event.all_day:
@@ -34,7 +38,11 @@ def filter_current_events(events):
             continue
         current.append(event)
 
-    print(f"Expiry filter: {len(current)} current events; {expired} expired events removed", flush=True)
+    print(
+        f"Expiry/date filter: {len(current)} current events; "
+        f"{expired} expired and {undated} undated events removed",
+        flush=True,
+    )
     return current
 
 
@@ -51,8 +59,9 @@ def main() -> int:
     events, security_report = filter_events(events)
     events = deduplicate_events(events)
 
-    # Some listing pages omit the venue even though the approved detail page
-    # contains an explicit "Venue location", address or Schema.org location.
+    # Listing pages may omit dates or venues even though the approved event
+    # detail page contains explicit structured values.
+    events = enrich_missing_dates(events)
     events = enrich_missing_locations(events)
 
     events = filter_current_events(events)
