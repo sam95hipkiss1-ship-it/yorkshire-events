@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
 <channel>
-<title>Yorkshire Sport Events</title>
-<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml</link>
-<description>Upcoming Yorkshire events in the Sport category.</description>
+<title>Visit Doncaster Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml</link>
+<description>Upcoming Yorkshire events from Visit Doncaster.</description>
 <language>en-gb</language>
 <lastBuildDate>Thu, 23 Jul 2026 13:42:32 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
-<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>Outdoor Yoga at Potteric Carr Nature Reserve</title>
-<link>https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve</link>
-<guid>https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve</guid>
-<description>Join us at Potteric Carr throughout the beautiful summer months for relaxing morning yoga sessions with Boho Warrior Yoga.</description>
-<pubDate>Wed, 07 Jan 2026 08:30:00 +0000</pubDate>
-<ify:start>2026-01-07T08:30:00</ify:start>
-<ify:end>2026-08-26T09:30:00</ify:end>
+<title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-04-01T00:00:00</ify:start>
+<ify:end>2027-05-08T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Yorkshire Wildlife Trust</dc:creator>
-<source url="https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve">Yorkshire Wildlife Trust</source>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26">Visit Doncaster</source>
 </item>
 <item>
 <title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
@@ -81,6 +79,43 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-rugby-league-fixtures-2026">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 7 Aug 2026 Pub Quizzes in Doncaster Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 29 Aug 2026 Club &amp; Activity Guide for Adults Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 7 Aug 2026 Pub Quizzes in Doncaster Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster">Visit Doncaster</source>
 </item>
 <item>
 <title>7 May 2026 - 29 Aug 2026 Club &amp; Activity Guide for Adults Find out more</title>
@@ -153,6 +188,18 @@
 </item>
 <item>
 <title>20 May 2026 - 31 Aug 2026 Elvie's Farm Summer Family Fun Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday</guid>
+<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-20T00:00:00</ify:start>
+<ify:end>2026-08-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday">Visit Doncaster</source>
+</item>
+<item>
+<title>20 May 2026 - 31 Aug 2026 Elvie's Farm Summer Family Fun Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday</guid>
 <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
@@ -163,6 +210,30 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday">Visit Doncaster</source>
+</item>
+<item>
+<title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-08T00:00:00</ify:start>
+<ify:end>2026-09-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire">Visit Doncaster</source>
+</item>
+<item>
+<title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-08T00:00:00</ify:start>
+<ify:end>2026-09-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire">Visit Doncaster</source>
 </item>
 <item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
@@ -177,64 +248,30 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/pride-of-yorkshire">Visit Doncaster</source>
 </item>
 <item>
-<title>The Football Art Prize</title>
-<link>https://www.welcometosheffield.co.uk/content/events/the-football-art-prize/</link>
-<guid>https://www.welcometosheffield.co.uk/content/events/the-football-art-prize/</guid>
-<description>The Football Art Prize makes a welcome return to Sheffield to celebrate the passion, drama and unity the beautiful game inspires around the globe.</description>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-11</ify:start>
-<ify:end>2026-09-13</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Welcome to Sheffield</dc:creator>
-<source url="https://www.welcometosheffield.co.uk/content/events/the-football-art-prize/">Welcome to Sheffield</source>
-</item>
-<item>
-<title>Sheffield Cablevision</title>
-<link>https://www.welcometosheffield.co.uk/content/events/sheffield-cablevision/</link>
-<guid>https://www.welcometosheffield.co.uk/content/events/sheffield-cablevision/</guid>
-<description>Free Exhibition about the local Sheffield TV Station (1973-76). Kids shows, sports shows, politics, music, comedy and more. Rare archive footage, photos, objects inside.</description>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-02</ify:start>
-<ify:end>2026-07-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Comedy</category>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Welcome to Sheffield</dc:creator>
-<source url="https://www.welcometosheffield.co.uk/content/events/sheffield-cablevision/">Welcome to Sheffield</source>
-</item>
-<item>
-<title>501 Not Out</title>
-<link>https://www.welcometosheffield.co.uk/content/events/501-not-out/</link>
-<guid>https://www.welcometosheffield.co.uk/content/events/501-not-out/</guid>
-<description>Exploring Brian Lara’s remarkable ascent in 1994, the film celebrates his development in Trinidad and features interviews with iconic names from the world of cricket.</description>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-17</ify:start>
-<ify:end>2026-07-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Sport</category>
-<dc:creator>Welcome to Sheffield</dc:creator>
-<source url="https://www.welcometosheffield.co.uk/content/events/501-not-out/">Welcome to Sheffield</source>
-</item>
-<item>
-<title>Romeo &amp; Juliet - Ripon Racecourse</title>
-<link>https://visitnorthyorkshire.com/events/3075814-romeo-juliet-ripon-racecourse</link>
-<guid>https://visitnorthyorkshire.com/events/3075814-romeo-juliet-ripon-racecourse</guid>
-<description>Two hearts. One fate. A timeless love reborn.The Dukes Theatre Company… Two hearts. One fate. A timeless love reborn.The Dukes Theatre Company presents Shakespeares Romeo and Juliet, a bold reimagining of the iconic…</description>
+<title>24 Jul 2026 - 25 Jul 2026 Doncaster Balloon Festival Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/doncaster-balloon-festival</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/doncaster-balloon-festival</guid>
 <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-24</ify:start>
-<ify:end>2026-07-24</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Ripon Racecourse, Ripon Racecourse, Boroughbridge Road, HG4 1UG</location>
-<ify:location>Ripon Racecourse, Ripon Racecourse, Boroughbridge Road, HG4 1UG</ify:location>
+<ify:start>2026-07-24T00:00:00</ify:start>
+<ify:end>2026-07-25T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Festivals</category>
 <category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/3075814-romeo-juliet-ripon-racecourse">Visit North Yorkshire</source>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/doncaster-balloon-festival">Visit Doncaster</source>
+</item>
+<item>
+<title>24 Jul 2026 - 25 Jul 2026 Doncaster Balloon Festival Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-balloon-festival</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-balloon-festival</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-24T00:00:00</ify:start>
+<ify:end>2026-07-25T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Festivals</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-balloon-festival">Visit Doncaster</source>
 </item>
 <item>
 <title>24 Jul 2026 - 25 Jul 2026 Doncaster Balloon Festival Find out more</title>
@@ -250,6 +287,44 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-balloon-festival">Visit Doncaster</source>
 </item>
 <item>
+<title>25 Jul 2026 Lindholme Hall Summer Open Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/lindholme-hall-summer-open-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/lindholme-hall-summer-open-day</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-25</ify:start>
+<ify:end>2026-07-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/lindholme-hall-summer-open-day">Visit Doncaster</source>
+</item>
+<item>
+<title>25 Jul 2026 The Return of the Doncaster De La Hoya Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/the-return-of-the-doncaster-de-la-hoya</link>
+<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/the-return-of-the-doncaster-de-la-hoya</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-25</ify:start>
+<ify:end>2026-07-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/the-return-of-the-doncaster-de-la-hoya">Visit Doncaster</source>
+</item>
+<item>
+<title>25 Jul 2026 Lindholme Hall Summer Open Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/lindholme-hall-summer-open-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/lindholme-hall-summer-open-day</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-25</ify:start>
+<ify:end>2026-07-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/lindholme-hall-summer-open-day">Visit Doncaster</source>
+</item>
+<item>
 <title>25 Jul 2026 The Return of the Doncaster De La Hoya Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/the-return-of-the-doncaster-de-la-hoya</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/the-return-of-the-doncaster-de-la-hoya</guid>
@@ -260,6 +335,31 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/the-return-of-the-doncaster-de-la-hoya">Visit Doncaster</source>
+</item>
+<item>
+<title>26 Jul 2026 The Ultimate Sunday Reset Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-ultimate-sunday-reset</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-ultimate-sunday-reset</guid>
+<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-26</ify:start>
+<ify:end>2026-07-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-ultimate-sunday-reset">Visit Doncaster</source>
+</item>
+<item>
+<title>26 Jul 2026 Free Guided Themed Walks Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/free-guided-walks/2026-07-26/2026-07-26</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/free-guided-walks/2026-07-26/2026-07-26</guid>
+<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-26</ify:start>
+<ify:end>2026-07-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/free-guided-walks/2026-07-26/2026-07-26">Visit Doncaster</source>
 </item>
 <item>
 <title>26 Jul 2026 The Ultimate Sunday Reset Find out more</title>
@@ -287,20 +387,125 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/free-guided-walks/2026-07-26/2026-07-26">Visit Doncaster</source>
 </item>
 <item>
-<title>Address</title>
-<link>https://www.visitbradford.com/whats-on/international-day-of-friendship-p2620921</link>
-<guid>https://www.visitbradford.com/whats-on/international-day-of-friendship-p2620921</guid>
-<description>Visit Cartwright Hall Art Gallery to make a friendship bracelet to take home, contribute to a giant Tree of Life artwork, and add your own wish to the growing display.</description>
-<pubDate>Thu, 30 Jul 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-07-30T11:00:00</ify:start>
-<ify:end>2026-07-30T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<title>31 Jul 2026 Vinyl Night at the Doncaster Brewery Tap Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/vinyl-night-at-the-doncaster-brewery-tap/2026-07-31/2026-07-31</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/vinyl-night-at-the-doncaster-brewery-tap/2026-07-31/2026-07-31</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-31</ify:start>
+<ify:end>2026-07-31</ify:end>
+<ify:allDay>true</ify:allDay>
 <category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/international-day-of-friendship-p2620921">Visit Bradford</source>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/vinyl-night-at-the-doncaster-brewery-tap/2026-07-31/2026-07-31">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 Rooks Fest Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/rooks-fest</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/rooks-fest</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/rooks-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 The Great Conisbrough Summer Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/the-great-conisbrough-summer-fayre</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/the-great-conisbrough-summer-fayre</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/the-great-conisbrough-summer-fayre">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 Princess &amp; Superhero Fun Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/princess-and-superhero-fun-day-2026</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/princess-and-superhero-fun-day-2026</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/princess-and-superhero-fun-day-2026">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 - 31 Aug 2026 Summer in the City Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/summer-in-the-city</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/summer-in-the-city</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01T00:00:00</ify:start>
+<ify:end>2026-08-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/summer-in-the-city">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 The Great Conisbrough Summer Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 Rooks Fest Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/rooks-fest</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/rooks-fest</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/rooks-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 - 31 Aug 2026 Summer in the City Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/summer-in-the-city</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/summer-in-the-city</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01T00:00:00</ify:start>
+<ify:end>2026-08-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/summer-in-the-city">Visit Doncaster</source>
 </item>
 <item>
 <title>1 Aug 2026 The Great Conisbrough Summer Fayre Find out more</title>
@@ -358,20 +563,17 @@
 <source url="https://www.visitdoncaster.com/whats-on/2026-07-23/2027-07-23/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Champion Crafting: Sports Family Fun</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/champion-crafting-sports-family-fun-9kp5</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/champion-crafting-sports-family-fun-9kp5</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-06</ify:start>
-<ify:end>2026-08-06</ify:end>
+<title>2 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-02/2026-08-02</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-02/2026-08-02</guid>
+<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-02</ify:start>
+<ify:end>2026-08-02</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds Discovery Centre</location>
-<ify:location>Leeds Discovery Centre</ify:location>
 <category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/champion-crafting-sports-family-fun-9kp5">Leeds Museums and Galleries</source>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-02/2026-08-02">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
@@ -408,40 +610,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/2026-07-23/2027-07-23/p3">Visit Doncaster</source>
-</item>
-<item>
-<title>Address</title>
-<link>https://www.visitbradford.com/whats-on/jowett-cars-at-the-mill-p2612101</link>
-<guid>https://www.visitbradford.com/whats-on/jowett-cars-at-the-mill-p2612101</guid>
-<description>If you’re into vintage cars, come and see amazing old‑timer models, try car‑making with recycled materials, and have a go at the Jowett board game at Bradford Industrial Museum.</description>
-<pubDate>Sat, 08 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-08T11:00:00</ify:start>
-<ify:end>2026-08-08T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</location>
-<ify:location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jowett-cars-at-the-mill-p2612101">Visit Bradford</source>
-</item>
-<item>
-<title>Address</title>
-<link>https://www.visitbradford.com/whats-on/upcycling-clothes-with-dye-p2621001</link>
-<guid>https://www.visitbradford.com/whats-on/upcycling-clothes-with-dye-p2621001</guid>
-<description>Bring an old T-shirt to Bradford Industrial Museum and transform it into a unique fashion statement in this fun family upcycling workshop inspired by the exhibition Made by Many Hands.</description>
-<pubDate>Tue, 11 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-11T11:00:00</ify:start>
-<ify:end>2026-08-11T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</location>
-<ify:location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/upcycling-clothes-with-dye-p2621001">Visit Bradford</source>
 </item>
 <item>
 <title>Family Friendly</title>
@@ -568,66 +736,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/2026-07-23/2027-07-23/p17">Visit Doncaster</source>
-</item>
-<item>
-<title>Go Racing In Yorkshire Summer Festival Family Day</title>
-<link>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</link>
-<guid>https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day</guid>
-<category>Festivals</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/catterick-bridge/events/horse-racing/2026-07-21-catterick-racecourse-go-racing-in-yorkshire-summer-festival-family-day">Yorkshire.com</source>
-</item>
-<item>
-<title>Teddy Swims</title>
-<link>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgknnxhfy</link>
-<guid>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgknnxhfy</guid>
-<category>Sport</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgknnxhfy">Yorkshire.com</source>
-</item>
-<item>
-<title>Teddy Swims- Official Ticket and Hotel Bundls</title>
-<link>https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-16gzkuvzizauc78c</link>
-<guid>https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-16gzkuvzizauc78c</guid>
-<category>Sport</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-16gzkuvzizauc78c">Yorkshire.com</source>
-</item>
-<item>
-<title>Doncaster Flat Racing</title>
-<link>https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing</link>
-<guid>https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing</guid>
-<category>Sport</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/doncaster/events/horse-racing/2026-07-22-doncaster-racecourse-doncaster-flat-racing">Yorkshire.com</source>
-</item>
-<item>
-<title>Teddy Swims</title>
-<link>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv</link>
-<guid>https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv</guid>
-<category>Sport</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/scarborough/events/music/teddy-swims-1adfzbsgkbyd1xv">Yorkshire.com</source>
-</item>
-<item>
-<title>Teddy Swims- Official Ticket and Hotel Bundls</title>
-<link>https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-1fu8vn88fuz7c7cv</link>
-<guid>https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-1fu8vn88fuz7c7cv</guid>
-<category>Sport</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/scarborough/events/music/teddy-swims-official-ticket-and-hotel-bundls-1fu8vn88fuz7c7cv">Yorkshire.com</source>
-</item>
-<item>
-<title>Go Racing In Yorkshire Summer Festival Family Day</title>
-<link>https://www.yorkshire.com/thirsk/events/horse-racing/2026-07-23-thirsk-racecourse-go-racing-in-yorkshire-summer-festival-family-day</link>
-<guid>https://www.yorkshire.com/thirsk/events/horse-racing/2026-07-23-thirsk-racecourse-go-racing-in-yorkshire-summer-festival-family-day</guid>
-<category>Festivals</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/thirsk/events/horse-racing/2026-07-23-thirsk-racecourse-go-racing-in-yorkshire-summer-festival-family-day">Yorkshire.com</source>
 </item>
 </channel>
 </rss>
