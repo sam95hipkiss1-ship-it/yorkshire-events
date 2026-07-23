@@ -19,6 +19,7 @@ GENERIC_SOURCES = (
     SourceConfig("Yorkshire Attractions", "yorkshireattractions.org", ("https://yorkshireattractions.org/", "https://yorkshireattractions.org/events/"), include_paths=("/listing/", "/events/"), notes="Dynamic directory requires a dedicated endpoint adapter"),
     SourceConfig("What's On in Yorkshire", "whatsoninyorkshire.co.uk", ("https://www.whatsoninyorkshire.co.uk/",)),
     SourceConfig("Go Yorkshire", "goyorkshire.com", ("https://www.goyorkshire.com/events/",), include_paths=("/events/",), notes="Collected through the RSS importer"),
+    SourceConfig("Yorkshire Gig Guide", "yorkshiregigs.co.uk", ("https://www.yorkshiregigs.co.uk/",), notes="Handled by the dedicated Yorkshire Gig Guide scraper"),
     SourceConfig("Yorkshire Walks and Wellies", "yorkshirewalksandwellies.com", ("https://yorkshirewalksandwellies.com/",), include_paths=("event", "whats-on", "whatson"), max_detail_pages=20),
     SourceConfig("Visit Harrogate", "visitharrogate.co.uk", ("https://visitharrogate.co.uk/events",), notes="Handled by the Visit North Yorkshire listing adapter"),
     SourceConfig("Visit York", "visityork.org", ("https://visityork.org/whats-on", "https://visityork.org/events"), enabled=True, max_detail_pages=40),
