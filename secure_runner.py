@@ -21,8 +21,12 @@ def filter_current_events(events):
         if event.all_day:
             inclusive_end = (event.end_date or event.date).date()
             expiry = datetime.combine(inclusive_end + timedelta(days=1), time.min)
+        elif event.end_date and event.end_date > event.date:
+            expiry = event.end_date
         else:
-            expiry = event.end_date or event.date
+            # When a timed listing supplies no genuine end time, keep it for
+            # the whole event date and remove it at the following midnight.
+            expiry = datetime.combine(event.date.date() + timedelta(days=1), time.min)
 
         if expiry <= now:
             expired += 1
