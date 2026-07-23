@@ -5,6 +5,7 @@ from __future__ import annotations
 from datetime import datetime, time, timedelta
 
 from aggregator import deduplicate_events, fetch_all_events, sort_events, write_outputs
+from scrapers.location_enrichment import enrich_missing_locations
 from scrapers.regional_sources import scrape_regional_sources
 from scrapers.security import filter_events
 
@@ -46,8 +47,14 @@ def main() -> int:
     except Exception as exc:
         print(f"  Warning: regional source collection failed safely: {exc}", flush=True)
 
+    # Validate URLs and content before making any second-pass requests.
     events, security_report = filter_events(events)
     events = deduplicate_events(events)
+
+    # Some listing pages omit the venue even though the approved detail page
+    # contains an explicit "Venue location", address or Schema.org location.
+    events = enrich_missing_locations(events)
+
     events = filter_current_events(events)
     events = sort_events(events)
 
