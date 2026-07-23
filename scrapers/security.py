@@ -33,6 +33,7 @@ CUSTOM_SOURCE_DOMAINS = {
     "What's On in Yorkshire": {"whatsoninyorkshire.co.uk"},
     "Visit North Yorkshire": {"visitnorthyorkshire.com", "visitharrogate.co.uk"},
     "Yorkshire.com": {"yorkshire.com"},
+    "Yorkshire Gig Guide": {"yorkshiregigs.co.uk"},
     "York Mumbler": {"york.mumbler.co.uk", "mumbler.co.uk"},
     "North Leeds Mumbler": {"northleeds.mumbler.co.uk", "mumbler.co.uk"},
     "Hull and East Riding Mumbler": {"hullandeastriding.mumbler.co.uk", "mumbler.co.uk"},
@@ -64,6 +65,27 @@ BROAD_LOCATIONS = {
     "calderdale", "east yorkshire", "north yorkshire", "west yorkshire",
     "south yorkshire", "yorkshire", "ryedale and thirsk", "hull and east yorkshire",
 }
+
+LOCATION_STOP_VALUES = {
+    "tbc", "tbd", "to be confirmed", "to be announced", "venue tbc",
+    "location tbc", "venue location tbc", "visit website", "view website",
+    "learn more", "show more", "more information", "check website",
+    "online", "various venues", "multiple venues",
+}
+
+LOCATION_PROSE_PHRASES = {
+    "learn more", "show more", "visit website", "click here", "read more",
+    "doors open", "approximately", "for more information", "please visit",
+    "hosts concerts", "is home to", "find out more", "book tickets",
+}
+
+GENERIC_TITLES = {
+    "address", "venue", "location", "event", "events", "what's on", "whats on",
+    "read more", "learn more", "show more", "view event", "view events",
+    "book now", "more information",
+}
+
+UK_POSTCODE_RE = re.compile(r"\b[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}\b", re.IGNORECASE)
 
 
 def _plain(value: object, limit: int) -> str:
@@ -144,8 +166,24 @@ def content_risk_reason(title: str, description: str) -> Optional[str]:
 
 def clean_location(location: object) -> Optional[str]:
     value = _plain(location, MAX_LOCATION)
-    if not value or value.lower().strip(" ,.") in BROAD_LOCATIONS:
+    if not value:
         return None
+
+    lower = value.lower().strip(" ,.")
+    if lower in BROAD_LOCATIONS or lower in LOCATION_STOP_VALUES:
+        return None
+    if any(phrase in lower for phrase in LOCATION_PROSE_PHRASES):
+        return None
+
+    has_postcode = bool(UK_POSTCODE_RE.search(value))
+    words = value.split()
+    if len(words) > 24 and not has_postcode:
+        return None
+    if value[:1].islower() and not has_postcode:
+        return None
+    if value.endswith(".") and len(words) > 12 and not has_postcode:
+        return None
+
     return value
 
 
@@ -157,7 +195,7 @@ def validate_event(event: Event) -> Tuple[Optional[Event], List[str]]:
     category = _plain(event.category, MAX_CATEGORY)
     url = str(event.url or "").strip()[:MAX_URL]
 
-    if len(title) < 4:
+    if len(title) < 4 or title.lower().strip(" :.-") in GENERIC_TITLES:
         reasons.append("invalid_title")
     destination_reason = validate_destination(url, source)
     if destination_reason:
