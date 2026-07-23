@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'aggregator.py'
+      - 'secure_runner.py'
       - 'scrapers/**'
       - 'repair_feed_dates.py'
       - 'propagate_feed_metadata.py'
@@ -24,7 +25,7 @@ concurrency:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 14
+    timeout-minutes: 18
 
     steps:
       - name: Checkout repository
@@ -40,12 +41,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Validate Python files
-        run: python -m compileall -q aggregator.py repair_feed_dates.py propagate_feed_metadata.py scrapers
+        run: python -m compileall -q aggregator.py secure_runner.py repair_feed_dates.py propagate_feed_metadata.py scrapers
 
-      - name: Run aggregator
+      - name: Run secure aggregator
         env:
           PYTHONUNBUFFERED: '1'
-        run: python -u aggregator.py
+        run: python -u secure_runner.py
 
       - name: Repair missing event dates
         env:
@@ -63,5 +64,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add docs/feed.xml docs/feeds docs/categories docs/sources.json docs/categories.json
           timestamp=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          git diff --staged --quiet || git commit -m "Update events feeds - $timestamp"
+          git diff --staged --quiet || git commit -m "Update secure events feeds - $timestamp"
           git push
