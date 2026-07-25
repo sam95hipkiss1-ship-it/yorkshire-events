@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/web-adventure-park.xml</link>
 <description>Upcoming Yorkshire events from Web Adventure Park.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 24 Jul 2026 08:39:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 00:07:55 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/web-adventure-park.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -24,6 +24,24 @@
 <category>Seasonal</category>
 <dc:creator>Web Adventure Park</dc:creator>
 <source url="https://tickets.webadventurepark.co.uk/book/events/121">Web Adventure Park</source>
+</item>
+<item>
+<title>Summer Holidays at The Web Adventure Park</title>
+<link>https://www.webadventurepark.co.uk/events/summer-holidays/</link>
+<guid>https://www.webadventurepark.co.uk/events/summer-holidays/</guid>
+<description>Join us for Summer at Web Adventure Park in York. Indoor and outdoor fun, foam parties, fairground rides, animal zone, daily sports activities &amp; live performances.</description>
+<pubDate>Sat, 18 Jul 2026 09:30:00 +0000</pubDate>
+<ify:start>2026-07-18T09:30:00</ify:start>
+<ify:end>2026-09-06T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Web Adventure Park, York</location>
+<ify:location>Web Adventure Park, York</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Web Adventure Park</dc:creator>
+<source url="https://www.webadventurepark.co.uk/events/summer-holidays/">Web Adventure Park</source>
 </item>
 </channel>
 </rss>
