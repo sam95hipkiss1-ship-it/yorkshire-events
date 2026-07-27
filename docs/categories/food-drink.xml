@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 26 Jul 2026 08:38:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 00:03:58 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -28,6 +30,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -41,8 +45,6 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -202,22 +204,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
-<title>Extraordinary Portraits With Bill Bailey</title>
-<link>https://www.visitbradford.com/whats-on/extraordinary-portraits-with-bill-bailey-p2284411</link>
-<guid>https://www.visitbradford.com/whats-on/extraordinary-portraits-with-bill-bailey-p2284411</guid>
-<description>Following its success in 2025, Extraordinary Portraits with Bill Bailey returns to The Loading Bay in Bradford. All six original artworks from the hit BBC One series will be on display at this free exhibition.</description>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-01</ify:start>
-<ify:end>2026-07-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Loading Bay, 1 Duke Street, Bradford, West Yorkshire, BD1 3QR</location>
-<ify:location>Loading Bay, 1 Duke Street, Bradford, West Yorkshire, BD1 3QR</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/extraordinary-portraits-with-bill-bailey-p2284411">Visit Bradford</source>
-</item>
-<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -237,24 +223,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-07T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
 <title>Heritage</title>
 <link>https://www.visitdoncaster.com/whats-on/heritage/</link>
 <guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
@@ -272,6 +240,24 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+</item>
+<item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Cecil Beaton: Staging Icons,</title>
@@ -312,6 +298,8 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2026-11-14</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Staveley nature reserve, Staveley nature reserve, Boroughbridge, North Yorkshire, HG5 9LQ</location>
+<ify:location>Staveley nature reserve, Staveley nature reserve, Boroughbridge, North Yorkshire, HG5 9LQ</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
@@ -348,61 +336,12 @@
 <source url="https://visitnorthyorkshire.com/events/victorian-baking">Visit North Yorkshire</source>
 </item>
 <item>
-<title>Be Like Blippi</title>
-<link>https://www.visitbradford.com/whats-on/be-like-blippi-p2545801</link>
-<guid>https://www.visitbradford.com/whats-on/be-like-blippi-p2545801</guid>
-<description>Catch the all‑new Be Like Blippi Tour live at Bradford Live, bringing Blippi and Meekah to the stage for an interactive family adventure.</description>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-26</ify:start>
-<ify:end>2026-07-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/be-like-blippi-p2545801">Visit Bradford</source>
-</item>
-<item>
-<title>Richmond Monthly Artisan Market - Richmond Market Place</title>
-<link>https://visitnorthyorkshire.com/events/2897173-richmond-monthly-artisan-market-richmond-market-place</link>
-<guid>https://visitnorthyorkshire.com/events/2897173-richmond-monthly-artisan-market-richmond-market-place</guid>
-<description>Welcome to Richmond, North Yorkshire, a charming market town on the edge of the Yorkshire Dales. Home to the historic Richmond Castle, cobbled streets,…</description>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-26</ify:start>
-<ify:end>2026-07-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Richmond Market Place, Market Place, DL10 4JJ</location>
-<ify:location>Richmond Market Place, Market Place, DL10 4JJ</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/2897173-richmond-monthly-artisan-market-richmond-market-place">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Ripon Monthly Artisan Market - Ripon Market Place</title>
-<link>https://visitnorthyorkshire.com/events/2897168-ripon-monthly-artisan-market-ripon-market-place</link>
-<guid>https://visitnorthyorkshire.com/events/2897168-ripon-monthly-artisan-market-ripon-market-place</guid>
-<description>Join us in the heart of the historic city of Ripon for our monthly celebration of local talent! Set against the beautiful backdrop of the Market Place,…</description>
-<pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-26</ify:start>
-<ify:end>2026-07-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Ripon Market Place, Market Place, HG4 1BW</location>
-<ify:location>Ripon Market Place, Market Place, HG4 1BW</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/2897168-ripon-monthly-artisan-market-ripon-market-place">Visit North Yorkshire</source>
-</item>
-<item>
 <title>Pride at the Crags</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags/events/e034e78d-fdda-4b22-9102-dc44ada5a4af</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags/events/e034e78d-fdda-4b22-9102-dc44ada5a4af</guid>
 <description>Discover the beginnings of Happy Valley Pride in Gibson Mill this July.</description>
-<pubDate>Sun, 26 Jul 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-07-26T10:00:00</ify:start>
+<pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-07-27T10:00:00</ify:start>
 <ify:end>2026-07-29T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Hardcastle Crags, Hebden Bridge, West Yorkshire</location>
@@ -458,12 +397,12 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-01T00:00:00</ify:start>
-<ify:end>2026-08-31T00:00:00</ify:end>
+<ify:end>2026-08-02T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -472,7 +411,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Yorkshire Day at Bradford Industrial Museum</title>
@@ -574,24 +513,6 @@
 <source url="https://www.visitbradford.com/whats-on/play-with-bradford-museums-p2631371">Visit Bradford</source>
 </item>
 <item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p2</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-07T00:00:00</ify:start>
-<ify:end>2026-08-09T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p2">Visit Doncaster</source>
-</item>
-<item>
 <title>Live Music: Chloe Blood</title>
 <link>https://www.visitbradford.com/whats-on/live-music-chloe-blood-p2631151</link>
 <guid>https://www.visitbradford.com/whats-on/live-music-chloe-blood-p2631151</guid>
@@ -670,27 +591,9 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/craft-markets-bnrd">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12T00:00:00</ify:start>
-<ify:end>2026-08-16T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p3">Visit Doncaster</source>
-</item>
-<item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-12T00:00:00</ify:start>
@@ -703,7 +606,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Live at the Courtyard</title>
@@ -737,13 +640,13 @@
 <source url="https://www.visitbradford.com/whats-on/live-music-lola-simms-p2631221">Visit Bradford</source>
 </item>
 <item>
-<title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p3</guid>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04T00:00:00</ify:start>
-<ify:end>2026-09-06T00:00:00</ify:end>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-21T00:00:00</ify:start>
+<ify:end>2026-08-23T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -752,12 +655,30 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-21T00:00:00</ify:start>
+<ify:end>2026-08-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p2">Visit Doncaster</source>
+</item>
+<item>
+<title>Family Friendly</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -770,7 +691,25 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p3">Visit Doncaster</source>
+</item>
+<item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p3</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Scissor Sisters</title>
@@ -789,27 +728,9 @@
 <source url="https://www.thepiecehall.co.uk/event/scissor-sisters/">The Piece Hall</source>
 </item>
 <item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p5</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p5</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Sun, 13 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-13</ify:start>
-<ify:end>2026-12-13</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-26/2027-07-26/p5">Visit Doncaster</source>
-</item>
-<item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p8</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p8</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p8</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p8</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 13 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-13T00:00:00</ify:start>
@@ -822,16 +743,16 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-26/2027-07-26/p8">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p8">Visit Doncaster</source>
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p16</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p16</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p16</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p16</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 25 Feb 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-02-25T00:00:00</ify:start>
-<ify:end>2027-02-27T00:00:00</ify:end>
+<pubDate>Tue, 09 Mar 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-03-09T00:00:00</ify:start>
+<ify:end>2027-03-10T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -840,7 +761,25 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-07-26/2027-07-26/p16">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p16">Visit Doncaster</source>
+</item>
+<item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p5</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p5</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 15 May 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-05-15</ify:start>
+<ify:end>2027-05-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-07-27/2027-07-27/p5">Visit Doncaster</source>
 </item>
 </channel>
 </rss>
