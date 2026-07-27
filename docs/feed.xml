@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 27 Jul 2026 00:03:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 04:00:40 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,6 +28,8 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -79,8 +81,6 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -108,8 +108,6 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -124,24 +122,12 @@
 <ify:start>2026-01-07T08:30:00</ify:start>
 <ify:end>2026-08-26T09:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Potteric Carr nature reserve , Mallard Way (nr junction 3 M18, south edge of Doncaster), Doncaster, South Yorkshire, DN4 8DB</location>
+<ify:location>Potteric Carr nature reserve , Mallard Way (nr junction 3 M18, south edge of Doncaster), Doncaster, South Yorkshire, DN4 8DB</ify:location>
 <category>Experiences</category>
 <category>Sport</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve">Yorkshire Wildlife Trust</source>
-</item>
-<item>
-<title>Leeds Waterfront Heritage Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Leeds City Centre Guided Tour</title>
@@ -154,6 +140,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
+</item>
+<item>
+<title>Leeds Waterfront Heritage Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Engineery</title>
@@ -249,6 +247,8 @@
 <ify:start>2026-02-19</ify:start>
 <ify:end>2026-09-02</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/">Visit Leeds</source>
@@ -261,6 +261,8 @@
 <ify:start>2026-02-19</ify:start>
 <ify:end>2026-08-29</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/story-explorers/">Visit Leeds</source>
@@ -306,20 +308,6 @@
 <source url="https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre">Visit North Yorkshire</source>
 </item>
 <item>
-<title>Artisan Fayre</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-01</ify:start>
-<ify:end>2026-10-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
-</item>
-<item>
 <title>Botanically Beautiful: Art and design inspired by nature</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/</guid>
@@ -331,6 +319,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/">Visit Leeds</source>
+</item>
+<item>
+<title>Artisan Fayre</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-01</ify:start>
+<ify:end>2026-10-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
 </item>
 <item>
 <title>Tower of Now</title>
@@ -376,22 +376,6 @@
 <source url="https://www.visitbradford.com/whats-on/darley-street-market-quiz-night-p2448481">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-03-06T10:00:00</ify:start>
-<ify:end>2027-02-17T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Thomas Green: Brainstorm</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</guid>
@@ -399,6 +383,8 @@
 <ify:start>2026-03-07</ify:start>
 <ify:end>2026-10-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
@@ -440,20 +426,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
@@ -466,6 +438,20 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
+</item>
+<item>
+<title>The Pussycat Dolls – PCD Forever Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
@@ -1474,8 +1460,6 @@
 <ify:start>2026-04-10</ify:start>
 <ify:end>2026-09-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/rooftop-and-cellar-experience/">Visit Leeds</source>
@@ -1503,22 +1487,6 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-rugby-league-fixtures-2026">Visit Doncaster</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-15T10:00:00</ify:start>
-<ify:end>2026-12-30T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Waves of Waste beach clean at Fraisthorpe (Multiple Dates)</title>
@@ -1553,41 +1521,11 @@
 <ify:start>2026-04-22</ify:start>
 <ify:end>2027-04-22</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-22T10:00:00</ify:start>
-<ify:end>2027-06-01T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-29T10:00:00</ify:start>
-<ify:end>2027-01-13T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Made by Many Hands: A Heritage Craft exhibition</title>
@@ -1715,7 +1653,7 @@
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:end>2026-08-07T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -1740,22 +1678,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331">Visit Bradford</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-13T10:00:00</ify:start>
-<ify:end>2027-01-27T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Setting The Stage: 70 Years Of The Eurovision Song Contest</title>
@@ -1799,38 +1721,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday">Visit Doncaster</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-20T10:00:00</ify:start>
-<ify:end>2027-03-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-27T10:00:00</ify:start>
-<ify:end>2027-10-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Museums for Play &amp; Growth – Early Years Sessions</title>
 <link>https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181</link>
 <guid>https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181</guid>
@@ -1845,22 +1735,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181">Visit Bradford</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-06-05T10:00:00</ify:start>
-<ify:end>2027-01-20T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
@@ -2356,8 +2230,6 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2026-11-14</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Staveley nature reserve, Staveley nature reserve, Boroughbridge, North Yorkshire, HG5 9LQ</location>
-<ify:location>Staveley nature reserve, Staveley nature reserve, Boroughbridge, North Yorkshire, HG5 9LQ</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
@@ -3749,21 +3621,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/2026-07-27/2027-07-27/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Rotary International Book Sale</title>
-<link>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</link>
-<guid>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</guid>
-<description>brontebradfordrotary@gmail.com</description>
-<pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-01T11:00:00</ify:start>
-<ify:end>2026-08-01T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371">Visit Bradford</source>
-</item>
-<item>
 <title>Yorkshire Day at Bradford Industrial Museum</title>
 <link>https://www.visitbradford.com/whats-on/yorkshire-day-at-bradford-industrial-museum-p2390981</link>
 <guid>https://www.visitbradford.com/whats-on/yorkshire-day-at-bradford-industrial-museum-p2390981</guid>
@@ -3780,6 +3637,21 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/yorkshire-day-at-bradford-industrial-museum-p2390981">Visit Bradford</source>
+</item>
+<item>
+<title>Rotary International Book Sale</title>
+<link>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</link>
+<guid>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</guid>
+<description>brontebradfordrotary@gmail.com</description>
+<pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-01T11:00:00</ify:start>
+<ify:end>2026-08-01T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371">Visit Bradford</source>
 </item>
 <item>
 <title>Rotten Histories Tour Of Wakefield</title>
@@ -3972,22 +3844,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/shadow-structures-8q7s">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-04T10:00:00</ify:start>
-<ify:end>2026-12-23T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>1152 Club: Talks at Abbey House Museum</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-abbey-house-museum-cg1t</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-abbey-house-museum-cg1t</guid>
@@ -4075,24 +3931,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/keep-crafting-b51d">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Bradford Family Film Festival</title>
-<link>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</link>
-<guid>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</guid>
-<description>The Courtyard at Darley Street Market transforms into an open-air cinema every Wednesday in August, with free family-friendly film screenings hosted by Bradford City of Film.</description>
-<pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-05T11:00:00</ify:start>
-<ify:end>2026-08-05T13:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401">Visit Bradford</source>
-</item>
-<item>
 <title>Play with Bradford Museums</title>
 <link>https://www.visitbradford.com/whats-on/play-with-bradford-museums-p2631371</link>
 <guid>https://www.visitbradford.com/whats-on/play-with-bradford-museums-p2631371</guid>
@@ -4123,6 +3961,24 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/brontes-storytelling-and-miniature-books-p2620991">Visit Bradford</source>
+</item>
+<item>
+<title>Bradford Family Film Festival</title>
+<link>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</link>
+<guid>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</guid>
+<description>The Courtyard at Darley Street Market transforms into an open-air cinema every Wednesday in August, with free family-friendly film screenings hosted by Bradford City of Film.</description>
+<pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-05T11:00:00</ify:start>
+<ify:end>2026-08-05T13:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401">Visit Bradford</source>
 </item>
 <item>
 <title>Champion Crafting: Sports Family Fun</title>
@@ -4185,21 +4041,6 @@
 <source url="https://www.visitbradford.com/whats-on/islamic-art-p2583511">Visit Bradford</source>
 </item>
 <item>
-<title>Hawkwind</title>
-<link>https://www.visitbradford.com/whats-on/hawkwind-p2591791</link>
-<guid>https://www.visitbradford.com/whats-on/hawkwind-p2591791</guid>
-<description>Fans can expect a powerful sweep of classic and cosmic Hawkwind music at Bradford Live.</description>
-<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-07</ify:start>
-<ify:end>2026-08-07</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/hawkwind-p2591791">Visit Bradford</source>
-</item>
-<item>
 <title>The Total Stone Roses</title>
 <link>https://www.visitbradford.com/whats-on/the-total-stone-roses-p2579001</link>
 <guid>https://www.visitbradford.com/whats-on/the-total-stone-roses-p2579001</guid>
@@ -4213,6 +4054,21 @@
 <category>Gigs</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-total-stone-roses-p2579001">Visit Bradford</source>
+</item>
+<item>
+<title>Hawkwind</title>
+<link>https://www.visitbradford.com/whats-on/hawkwind-p2591791</link>
+<guid>https://www.visitbradford.com/whats-on/hawkwind-p2591791</guid>
+<description>Fans can expect a powerful sweep of classic and cosmic Hawkwind music at Bradford Live.</description>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-07</ify:start>
+<ify:end>2026-08-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/hawkwind-p2591791">Visit Bradford</source>
 </item>
 <item>
 <title>Community Choir</title>
@@ -4604,21 +4460,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-07-27/2027-07-27/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>The Georgian Era – The Start of Modern Medicine</title>
-<link>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</link>
-<guid>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</guid>
-<description>Come to discover medications of the past at Bolling Hall Museum.</description>
-<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-12T11:00:00</ify:start>
-<ify:end>2026-08-12T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</location>
-<ify:location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021">Visit Bradford</source>
-</item>
-<item>
 <title>Moorside Mill Mystery</title>
 <link>https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121</link>
 <guid>https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121</guid>
@@ -4632,6 +4473,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121">Visit Bradford</source>
+</item>
+<item>
+<title>The Georgian Era – The Start of Modern Medicine</title>
+<link>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</link>
+<guid>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</guid>
+<description>Come to discover medications of the past at Bolling Hall Museum.</description>
+<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-12T11:00:00</ify:start>
+<ify:end>2026-08-12T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</location>
+<ify:location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021">Visit Bradford</source>
 </item>
 <item>
 <title>Amazing Animals Week</title>
@@ -4751,21 +4607,6 @@
 <source url="https://www.thepiecehall.co.uk/event/jimmy-eat-world/">The Piece Hall</source>
 </item>
 <item>
-<title>The Three Little Pigs v The Wolf</title>
-<link>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</link>
-<guid>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</guid>
-<description>Join The Bradford Police Museum for a unique Trial by Jury!</description>
-<pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-15</ify:start>
-<ify:end>2026-08-15</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
-<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951">Visit Bradford</source>
-</item>
-<item>
 <title>The Music of James Bond</title>
 <link>https://www.visitbradford.com/whats-on/the-music-of-james-bond-p2556861</link>
 <guid>https://www.visitbradford.com/whats-on/the-music-of-james-bond-p2556861</guid>
@@ -4779,6 +4620,21 @@
 <category>Gigs</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-music-of-james-bond-p2556861">Visit Bradford</source>
+</item>
+<item>
+<title>The Three Little Pigs v The Wolf</title>
+<link>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</link>
+<guid>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</guid>
+<description>Join The Bradford Police Museum for a unique Trial by Jury!</description>
+<pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-15</ify:start>
+<ify:end>2026-08-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
+<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951">Visit Bradford</source>
 </item>
 <item>
 <title>Trains Trains Trains!</title>
