@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-07-30T03:22:42.412730+00:00",
+  "generated_at": "2026-07-30T08:42:37.298524+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 19,
+  "active_source_count": 20,
   "registered_source_count": 61,
-  "event_count": 380,
+  "event_count": 389,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -225,6 +225,17 @@
         "Family Days Out": 59,
         "Experiences": 4,
         "Clubs": 1
+      },
+      "status": "active"
+    },
+    {
+      "name": "Yorkshire Dales National Park",
+      "slug": "yorkshire-dales-national-park",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml",
+      "item_count": 9,
+      "category_counts": {
+        "Theatre & Arts": 9,
+        "Seasonal": 9
       },
       "status": "active"
     },
@@ -768,11 +779,11 @@
     {
       "name": "Yorkshire Dales National Park",
       "domain": "yorkshiredales.org.uk",
-      "status": "empty",
+      "status": "active",
       "notes": "",
-      "item_count": 0,
+      "item_count": 9,
       "slug": "yorkshire-dales-national-park",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
     },
     {
       "name": "Yorkshire Gig Guide",
@@ -849,7 +860,7 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 223
+      "item_count": 232
     },
     {
       "name": "Experiences",
@@ -879,7 +890,7 @@
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 18
+      "item_count": 27
     }
   ]
 }
