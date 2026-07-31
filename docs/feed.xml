@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 31 Jul 2026 00:05:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 03:51:06 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,8 +28,6 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -42,8 +40,6 @@
 <ify:start>2025-08-09</ify:start>
 <ify:end>2026-08-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Comedy</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/hifi-comedy-club/">Visit Leeds</source>
@@ -71,6 +67,8 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -124,6 +122,8 @@
 <ify:start>2026-01-07T08:30:00</ify:start>
 <ify:end>2026-08-26T09:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Potteric Carr nature reserve , Mallard Way (nr junction 3 M18, south edge of Doncaster), Doncaster, South Yorkshire, DN4 8DB</location>
+<ify:location>Potteric Carr nature reserve , Mallard Way (nr junction 3 M18, south edge of Doncaster), Doncaster, South Yorkshire, DN4 8DB</ify:location>
 <category>Experiences</category>
 <category>Sport</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
@@ -142,6 +142,18 @@
 <source url="https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045">Yorkshire.com</source>
 </item>
 <item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>Leeds Waterfront Heritage Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
@@ -154,20 +166,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
-<title>Leeds City Centre Guided Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Engineery</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/engineery/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/engineery/</guid>
@@ -175,6 +173,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -187,6 +187,8 @@
 <ify:start>2026-01-31</ify:start>
 <ify:end>2027-01-10</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/">Visit Leeds</source>
@@ -211,8 +213,6 @@
 <ify:start>2026-02-07</ify:start>
 <ify:end>2026-08-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/roda-de-choro-samba/">Visit Leeds</source>
@@ -225,8 +225,6 @@
 <ify:start>2026-02-08</ify:start>
 <ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -240,8 +238,6 @@
 <ify:start>2026-02-12</ify:start>
 <ify:end>2026-09-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/an-evening-of-love-sex-and-scandal-at-temple-newsam/">Visit Leeds</source>
@@ -254,6 +250,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -267,8 +265,6 @@
 <ify:start>2026-02-19</ify:start>
 <ify:end>2026-09-02</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/">Visit Leeds</source>
@@ -293,8 +289,6 @@
 <ify:start>2026-02-20</ify:start>
 <ify:end>2026-10-23</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/birding-for-beginners-rspb-st-aidans/">Visit Leeds</source>
@@ -307,6 +301,8 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
@@ -317,9 +313,9 @@
 <guid>https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre</guid>
 <description>A special exhibition explaining the past 400 years of Scarborough Spa and the town.</description>
 <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-02-28</ify:start>
-<ify:end>2026-12-13</ify:end>
-<ify:allDay>true</ify:allDay>
+<ify:start>2026-02-28T00:00:00</ify:start>
+<ify:end>2026-12-13T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
 <location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</location>
 <ify:location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -335,6 +331,8 @@
 <ify:start>2026-03-01</ify:start>
 <ify:end>2026-10-17</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -457,23 +455,9 @@
 <ify:start>2026-03-13</ify:start>
 <ify:end>2026-11-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
-</item>
-<item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
@@ -488,6 +472,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
+</item>
+<item>
+<title>The Pussycat Dolls – PCD Forever Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Waves of Waste beach clean at Filey South (Multiple Dates)</title>
@@ -557,6 +553,36 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
 </item>
 <item>
+<title>Pre-Raphaelites Reframed</title>
+<link>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</link>
+<guid>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</guid>
+<description>Cartwright Hall Art Gallery presents a selection of works from Bradford District Museums &amp; Galleries’ Pre‑Raphaelite collection.</description>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-28</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
+<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
+</item>
+<item>
+<title>The Big Picture</title>
+<link>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</link>
+<guid>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</guid>
+<description>Several of the largest paintings in Bradford’s collection are brought together in The Big Picture at Cartwright Hall, a display spanning more than two centuries of art.</description>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-28</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
+<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-big-picture-p2544311">Visit Bradford</source>
+</item>
+<item>
 <title>Global Perspectives and Islamic Calligraphy</title>
 <link>https://www.visitbradford.com/whats-on/global-perspectives-and-islamic-calligraphy-p2544321</link>
 <guid>https://www.visitbradford.com/whats-on/global-perspectives-and-islamic-calligraphy-p2544321</guid>
@@ -601,36 +627,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121">Visit Bradford</source>
-</item>
-<item>
-<title>The Big Picture</title>
-<link>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</link>
-<guid>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</guid>
-<description>Several of the largest paintings in Bradford’s collection are brought together in The Big Picture at Cartwright Hall, a display spanning more than two centuries of art.</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-big-picture-p2544311">Visit Bradford</source>
-</item>
-<item>
-<title>Pre-Raphaelites Reframed</title>
-<link>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</link>
-<guid>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</guid>
-<description>Cartwright Hall Art Gallery presents a selection of works from Bradford District Museums &amp; Galleries’ Pre‑Raphaelite collection.</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
 </item>
 <item>
 <title>Events calendar</title>
@@ -1512,6 +1508,8 @@
 <ify:start>2026-04-10</ify:start>
 <ify:end>2026-09-13</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/rooftop-and-cellar-experience/">Visit Leeds</source>
@@ -1565,6 +1563,8 @@
 <ify:start>2026-04-19</ify:start>
 <ify:end>2026-10-25</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Fraisthorpe Beach, at the beach entrance of Fraisthorpe Beach Car Park, Yo15 3qu</location>
+<ify:location>Fraisthorpe Beach, at the beach entrance of Fraisthorpe Beach Car Park, Yo15 3qu</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-04-19-waves-waste-beach-clean-fraisthorpe-multiple-dates">Yorkshire Wildlife Trust</source>
@@ -1577,6 +1577,8 @@
 <ify:start>2026-04-20</ify:start>
 <ify:end>2027-04-10</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/">Visit Leeds</source>
@@ -1707,6 +1709,25 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+</item>
+<item>
 <title>Free Events</title>
 <link>https://www.visitdoncaster.com/whats-on/free-events/</link>
 <guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
@@ -1742,25 +1763,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
-</item>
-<item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
@@ -1935,20 +1937,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/pride-of-yorkshire">Visit Doncaster</source>
 </item>
 <item>
-<title>Cecil Beaton: Staging Icons,</title>
-<link>https://visitnorthyorkshire.com/events/cecil-beaton-staging-icons</link>
-<guid>https://visitnorthyorkshire.com/events/cecil-beaton-staging-icons</guid>
-<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-13</ify:start>
-<ify:end>2026-10-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Harewood House, Harewood House Estate, Harewood, Leeds, LS17 9LF, United Kingdom</location>
-<ify:location>Harewood House, Harewood House Estate, Harewood, Leeds, LS17 9LF, United Kingdom</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/cecil-beaton-staging-icons">Visit North Yorkshire</source>
-</item>
-<item>
 <title>Police and The Public</title>
 <link>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</link>
 <guid>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</guid>
@@ -2101,30 +2089,15 @@
 <link>https://visitnorthyorkshire.com/events/peasholm-park-naval-warfare</link>
 <guid>https://visitnorthyorkshire.com/events/peasholm-park-naval-warfare</guid>
 <description>Set on the Peashom Park lake in beautiful garden surroundings. War breaks out on the lake in the middle of the park when the 20-foot replica boats…</description>
-<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-27</ify:start>
-<ify:end>2026-08-31</ify:end>
-<ify:allDay>true</ify:allDay>
+<pubDate>Sat, 27 Jun 2026 15:00:00 +0000</pubDate>
+<ify:start>2026-06-27T15:00:00</ify:start>
+<ify:end>2026-08-31T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
 <location>Peasholm Park, Peasholm Park, North Bay, Scarborough, YO12 7TR</location>
 <ify:location>Peasholm Park, Peasholm Park, North Bay, Scarborough, YO12 7TR</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/peasholm-park-naval-warfare">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Woldies Summer Days &amp; Wild Superhero Mission</title>
-<link>https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission</link>
-<guid>https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission</guid>
-<description>Explore North Yorkshire where adventure meets relaxation. From coast to countryside, uncover history, beauty and charm in England’s largest county.</description>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-01</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Woldies, Sandy Lane, Wintringham, Malton, North Yorkshire, YO17 8HW</location>
-<ify:location>Woldies, Sandy Lane, Wintringham, Malton, North Yorkshire, YO17 8HW</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission">Visit North Yorkshire</source>
 </item>
 <item>
 <title>The Capybara Experience</title>
@@ -2155,36 +2128,6 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>The Scarborough Fair - Scarborough Art</title>
-<link>https://visitnorthyorkshire.com/events/the-scarborough-fair-scarborough-art</link>
-<guid>https://visitnorthyorkshire.com/events/the-scarborough-fair-scarborough-art</guid>
-<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-04</ify:start>
-<ify:end>2026-08-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Various locations, Scarborough, North Yorkshire.</location>
-<ify:location>Various locations, Scarborough, North Yorkshire.</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/the-scarborough-fair-scarborough-art">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Scarborough 400 giant deckchair trail</title>
-<link>https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail</link>
-<guid>https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail</guid>
-<description>Take a seat back in time and discover the history of Britain’s original seaside resort as we celebrate 400 years since the discovery of Scarborough’s spa…</description>
-<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-04</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Scarborough, North Yorkshire</location>
-<ify:location>Scarborough, North Yorkshire</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail">Visit North Yorkshire</source>
 </item>
 <item>
 <title>More Pages</title>
@@ -2285,20 +2228,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-lotherton-4tt3">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Settle Flowerpot Festival</title>
-<link>https://visitnorthyorkshire.com/events/settle-flowerpot-festival</link>
-<guid>https://visitnorthyorkshire.com/events/settle-flowerpot-festival</guid>
-<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-11</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Settle, North Yorkshire, England, United Kingdom</location>
-<ify:location>Settle, North Yorkshire, England, United Kingdom</ify:location>
-<category>Festivals</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/settle-flowerpot-festival">Visit North Yorkshire</source>
-</item>
-<item>
 <title>Busy Bee Trail</title>
 <link>https://www.ywt.org.uk/events/2026-07-17-busy-bee-trail</link>
 <guid>https://www.ywt.org.uk/events/2026-07-17-busy-bee-trail</guid>
@@ -2307,6 +2236,8 @@
 <ify:start>2026-07-17</ify:start>
 <ify:end>2026-09-08</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Staveley Nature Reserve , Minskip Road, Boroughbridge, HG5 9LQ</location>
+<ify:location>Staveley Nature Reserve , Minskip Road, Boroughbridge, HG5 9LQ</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-07-17-busy-bee-trail">Yorkshire Wildlife Trust</source>
@@ -2326,51 +2257,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/setting-the-stage-pop-academy-p2616891">Visit Bradford</source>
-</item>
-<item>
-<title>Summer Holidays - Ampleforth Adventures</title>
-<link>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</link>
-<guid>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</guid>
-<description>join us this summer to reconnect with nature and enjoy the simple things in life - fresh air and room to play.</description>
-<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-18</ify:start>
-<ify:end>2026-08-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</location>
-<ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures">Visit North Yorkshire</source>
-</item>
-<item>
-<title>A Summer in Oz</title>
-<link>https://visitnorthyorkshire.com/events/a-summer-in-oz</link>
-<guid>https://visitnorthyorkshire.com/events/a-summer-in-oz</guid>
-<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-18</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Mother Shipton's Cave, Mother Shipton's Cave, , Knaresborough, HG5 8DD, North Yorkshire, North Yorkshire, United Kingdom</location>
-<ify:location>Mother Shipton's Cave, Mother Shipton's Cave, , Knaresborough, HG5 8DD, North Yorkshire, North Yorkshire, United Kingdom</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/a-summer-in-oz">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Curtains Up! Outdoor Play - What’s on at Harewood this Summer</title>
-<link>https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer</link>
-<guid>https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer</guid>
-<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-18</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Harewood House, Harewood House, Harewood, North Yorkshire, LS17 9LG</location>
-<ify:location>Harewood House, Harewood House, Harewood, North Yorkshire, LS17 9LG</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer">Visit North Yorkshire</source>
 </item>
 <item>
 <title>6 Weeks of Summer at Eureka!</title>
@@ -2418,6 +2304,21 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-07-18-wildlife-photography-beginners-staveley-nature-reserve">Yorkshire Wildlife Trust</source>
+</item>
+<item>
+<title>Summer Holidays - Ampleforth Adventures</title>
+<link>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</link>
+<guid>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</guid>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18T00:00:00</ify:start>
+<ify:end>2026-08-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</location>
+<ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</ify:location>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures">Visit North Yorkshire</source>
 </item>
 <item>
 <title>A Lotherton Summer Holiday</title>
@@ -2630,20 +2531,6 @@
 <source url="https://www.visitbradford.com/whats-on/jersey-boys-p2457381">Visit Bradford</source>
 </item>
 <item>
-<title>Victorian Baking</title>
-<link>https://visitnorthyorkshire.com/events/victorian-baking</link>
-<guid>https://visitnorthyorkshire.com/events/victorian-baking</guid>
-<pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-21</ify:start>
-<ify:end>2026-09-03</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Ripon Workhouse &amp; Garden Museum, 75 Allhallowgate, Ripon, North Yorkshire, HG4 1LE</location>
-<ify:location>Ripon Workhouse &amp; Garden Museum, 75 Allhallowgate, Ripon, North Yorkshire, HG4 1LE</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/victorian-baking">Visit North Yorkshire</source>
-</item>
-<item>
 <title>Free Summer Crafting</title>
 <link>https://www.thepiecehall.co.uk/event/free-summer-crafting/</link>
 <guid>https://www.thepiecehall.co.uk/event/free-summer-crafting/</guid>
@@ -2658,21 +2545,6 @@
 <category>Family Days Out</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/free-summer-crafting/">The Piece Hall</source>
-</item>
-<item>
-<title>Weekly craft workshops</title>
-<link>https://visitnorthyorkshire.com/events/weekly-craft-workshops</link>
-<guid>https://visitnorthyorkshire.com/events/weekly-craft-workshops</guid>
-<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-22</ify:start>
-<ify:end>2026-09-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</location>
-<ify:location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/weekly-craft-workshops">Visit North Yorkshire</source>
 </item>
 <item>
 <title>Birds, Bees, Bats &amp; Bugs</title>
@@ -2791,30 +2663,32 @@
 <source url="https://www.visitbradford.com/whats-on/annie-jr-and-legally-blonde-jr-p2625781">Visit Bradford</source>
 </item>
 <item>
-<title>The Great Yorkshire Circus - Aireville Park</title>
-<link>https://visitnorthyorkshire.com/events/2995212-the-great-yorkshire-circus-aireville-park</link>
-<guid>https://visitnorthyorkshire.com/events/2995212-the-great-yorkshire-circus-aireville-park</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-29</ify:start>
-<ify:end>2026-08-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Skipton - Dales The Great Yorkshire Circus - Aireville Park 29 Jul - 2 Aug 26</location>
-<ify:location>Skipton - Dales The Great Yorkshire Circus - Aireville Park 29 Jul - 2 Aug 26</ify:location>
+<title>Busy Bee Trail - Staveley Nature Reserve</title>
+<link>https://visitnorthyorkshire.com/events/3080584-busy-bee-trail-staveley-nature-reserve</link>
+<guid>https://visitnorthyorkshire.com/events/3080584-busy-bee-trail-staveley-nature-reserve</guid>
+<description>Wiggle, buzz and fly your way around this 10 part trail and learn about the life of a bee. Along the way you will be able to score points by answering bee…</description>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-30T00:00:00</ify:start>
+<ify:end>2026-09-08T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Staveley Nature Reserve, Staveley Nature Reserve, Minskip Road, Boroughbridge, HG5 9LQ</location>
+<ify:location>Staveley Nature Reserve, Staveley Nature Reserve, Minskip Road, Boroughbridge, HG5 9LQ</ify:location>
+<category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/2995212-the-great-yorkshire-circus-aireville-park">Visit North Yorkshire</source>
+<source url="https://visitnorthyorkshire.com/events/3080584-busy-bee-trail-staveley-nature-reserve">Visit North Yorkshire</source>
 </item>
 <item>
 <title>Tornado: The Steam Superstar is Back at the NYMR - North Yorkshire Moors Railway</title>
 <link>https://visitnorthyorkshire.com/events/3040426-tornado-the-steam-superstar-is-back-at-the-nymr-north-yorkshire-moors-railway</link>
 <guid>https://visitnorthyorkshire.com/events/3040426-tornado-the-steam-superstar-is-back-at-the-nymr-north-yorkshire-moors-railway</guid>
 <description>We're delighted to be welcoming back to the North Yorkshire Moors Railway, No. 60163 Tornado, one of Britain's most famous steam locomotives, courtesy of…</description>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-29</ify:start>
-<ify:end>2026-08-08</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Pickering - Moors Tornado: The Steam Superstar is Back at the NYMR - North Yorkshire Moors Railway 29 Jul - 8 Aug 26</location>
-<ify:location>Pickering - Moors Tornado: The Steam Superstar is Back at the NYMR - North Yorkshire Moors Railway 29 Jul - 8 Aug 26</ify:location>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-30T00:00:00</ify:start>
+<ify:end>2026-08-08T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>North Yorkshire Moors Railway, North Yorkshire Moors Railway, Pickering Station, 12 Park St, YO18 7AJ</location>
+<ify:location>North Yorkshire Moors Railway, North Yorkshire Moors Railway, Pickering Station, 12 Park St, YO18 7AJ</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/3040426-tornado-the-steam-superstar-is-back-at-the-nymr-north-yorkshire-moors-railway">Visit North Yorkshire</source>
@@ -2824,29 +2698,15 @@
 <link>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</link>
 <guid>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</guid>
 <description>Whether it’s your first time or your fiftieth, get ready to (re)discover Harrogate in the most delightful way — with two self-guided, treasure-hunt-style…</description>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-29</ify:start>
-<ify:end>2026-10-24</ify:end>
-<ify:allDay>true</ify:allDay>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-30T00:00:00</ify:start>
+<ify:end>2026-10-24T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
 <location>Valley Gardens, Valley Drive, Harrogate, HG1 2SZ</location>
 <ify:location>Valley Gardens, Valley Drive, Harrogate, HG1 2SZ</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway</title>
-<link>https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway</link>
-<guid>https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-29</ify:start>
-<ify:end>2026-09-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Pickering - Moors Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway 29 Jul - 6 Sept 26</location>
-<ify:location>Pickering - Moors Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway 29 Jul - 6 Sept 26</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway">Visit North Yorkshire</source>
 </item>
 <item>
 <title>York Dark Chronicles: Devilishly Gruesome Ghost Walk</title>
@@ -2871,6 +2731,21 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194">Yorkshire.com</source>
+</item>
+<item>
+<title>Mamma Mia Tribute Night</title>
+<link>https://www.visitbradford.com/whats-on/mamma-mia-tribute-night-p2566091</link>
+<guid>https://www.visitbradford.com/whats-on/mamma-mia-tribute-night-p2566091</guid>
+<description>bradford@napoleons-casinos.co.uk</description>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-31</ify:start>
+<ify:end>2026-07-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Napoleons Casino &amp; Restaurant, Bradford, Bolton Road, Bradford, West Yorkshire, BD1 4DR</location>
+<ify:location>Napoleons Casino &amp; Restaurant, Bradford, Bolton Road, Bradford, West Yorkshire, BD1 4DR</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/mamma-mia-tribute-night-p2566091">Visit Bradford</source>
 </item>
 <item>
 <title>Tiny Tigers</title>
@@ -3167,6 +3042,21 @@
 <source url="https://www.thepiecehall.co.uk/event/gary-numan/">The Piece Hall</source>
 </item>
 <item>
+<title>Yorkshire Proms</title>
+<link>https://www.visitbradford.com/whats-on/yorkshire-proms-p2603011</link>
+<guid>https://www.visitbradford.com/whats-on/yorkshire-proms-p2603011</guid>
+<description>A fantastic night of music and song to celebrate Yorkshire Day in proper Yorkshire style at St. George's Hall.</description>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
+<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/yorkshire-proms-p2603011">Visit Bradford</source>
+</item>
+<item>
 <title>The Greatest Show</title>
 <link>https://www.visitbradford.com/whats-on/the-greatest-show-p2571261</link>
 <guid>https://www.visitbradford.com/whats-on/the-greatest-show-p2571261</guid>
@@ -3242,30 +3132,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>1 Aug 2026 - 2 Aug 2026 Art at the Farm 2026 Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-01T00:00:00</ify:start>
-<ify:end>2026-08-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025">Visit Doncaster</source>
-</item>
-<item>
-<title>1 Aug 2026 The Great Conisbrough Summer Fayre Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-01</ify:start>
-<ify:end>2026-08-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre">Visit Doncaster</source>
-</item>
-<item>
 <title>1 Aug 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-08-01/2026-08-01</guid>
@@ -3288,6 +3154,30 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/rooks-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 - 2 Aug 2026 Art at the Farm 2026 Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01T00:00:00</ify:start>
+<ify:end>2026-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/art-at-the-farm-2025">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Aug 2026 The Great Conisbrough Summer Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-01</ify:start>
+<ify:end>2026-08-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-great-conisbrough-summer-fayre">Visit Doncaster</source>
 </item>
 <item>
 <title>1 Aug 2026 Princess &amp; Superhero Fun Day Find out more</title>
@@ -4259,7 +4149,7 @@
 <title>The K’s</title>
 <link>https://www.thepiecehall.co.uk/event/the-ks/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-ks/</guid>
-<description>The K\'s + TOM A. SMITH &amp; LADY OF MARS Explosive indie rockers The K’s are returning to Halifax next summer for their first ever headline show at TK Maxx... \n</description>
+<description>The K\'s + TOM A. SMITH &amp; LADY OF MARS Explosive indie rockers The K’s are returning to Halifax next summer for their first ever headline show at TK Maxx presents Live at The Piece Hall on Saturday 8 August. They will be joined by special guests Tom A. Smith and Lady of Mars. Tickets... \n</description>
 <pubDate>Sat, 08 Aug 2026 18:30:00 +0000</pubDate>
 <ify:start>2026-08-08T18:30:00</ify:start>
 <ify:end>2026-08-08T22:30:00</ify:end>
@@ -4546,7 +4436,7 @@
 <title>Jimmy Eat World</title>
 <link>https://www.thepiecehall.co.uk/event/jimmy-eat-world/</link>
 <guid>https://www.thepiecehall.co.uk/event/jimmy-eat-world/</guid>
-<description>Jimmy Eat World + RISE AGAINST &amp; THE GET UP KIDS Arizona rock icons Jimmy Eat World have announced their live return to the UK with three huge outdoor headline... \n</description>
+<description>Jimmy Eat World + RISE AGAINST &amp; THE GET UP KIDS Arizona rock icons Jimmy Eat World have announced their live return to the UK with three huge outdoor headline shows taking place in August 2026…and they kick off in Halifax. Celebrating the 25th anniversary of their classic fourth studio album Bleed American, the exclus</description>
 <pubDate>Fri, 14 Aug 2026 18:00:00 +0000</pubDate>
 <ify:start>2026-08-14T18:00:00</ify:start>
 <ify:end>2026-08-14T22:30:00</ify:end>
@@ -4636,7 +4526,7 @@
 <title>Holly Johnson</title>
 <link>https://www.thepiecehall.co.uk/event/holly-johnson/</link>
 <guid>https://www.thepiecehall.co.uk/event/holly-johnson/</guid>
-<description>Holly Johnson + ABC &amp; HEAVEN 17 Singer-songwriter and 80s icon Holly Johnson will bring a taste of Hollywood to Halifax as he headlines a spectacular night next summer. The... \n</description>
+<description>Holly Johnson + ABC &amp; HEAVEN 17 Singer-songwriter and 80s icon Holly Johnson will bring a taste of Hollywood to Halifax as he headlines a spectacular night next summer. The former Frankie Goes To Hollywood frontman and successful solo artist will headline TK Maxx presents Live at The Piece Hall on Saturday 15 August, j</description>
 <pubDate>Sat, 15 Aug 2026 18:00:00 +0000</pubDate>
 <ify:start>2026-08-15T18:00:00</ify:start>
 <ify:end>2026-08-15T22:30:00</ify:end>
@@ -4644,6 +4534,7 @@
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
 <category>Gigs</category>
+<category>Theatre &amp; Arts</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/holly-johnson/">The Piece Hall</source>
 </item>
@@ -4850,13 +4741,14 @@
 <title>The Wombats</title>
 <link>https://www.thepiecehall.co.uk/event/the-wombats/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-wombats/</guid>
-<description>The Wombats + CIRCA WAVES, CHERYHOLT &amp; THE CAYMANS Indie giants The Wombats are headlining what promises to be another unforgettable celebration in Halifax next summer. Fresh from the release of... \n</description>
+<description>The Wombats + CIRCA WAVES, CHERYHOLT &amp; THE CAYMANS Indie giants The Wombats are headlining what promises to be another unforgettable celebration in Halifax next summer. Fresh from the release of their acclaimed sixth studio album Oh! The Ocean, and a huge headline tour that’s seen them play arenas across the globe – th</description>
 <pubDate>Fri, 21 Aug 2026 18:00:00 +0000</pubDate>
 <ify:start>2026-08-21T18:00:00</ify:start>
 <ify:end>2026-08-21T22:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
+<category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/the-wombats/">The Piece Hall</source>
@@ -5097,7 +4989,7 @@
 <title>Scissor Sisters</title>
 <link>https://www.thepiecehall.co.uk/event/scissor-sisters/</link>
 <guid>https://www.thepiecehall.co.uk/event/scissor-sisters/</guid>
-<description>Scissor Sisters + BIMINI &amp; THE HIDDEN CAMERAS Halifax will sizzle next summer as Scissor Sisters are bringing their iconic glam-pop spectacle to the town. The multi-award-winning American pop band... \n</description>
+<description>Scissor Sisters + BIMINI &amp; THE HIDDEN CAMERAS Halifax will sizzle next summer as Scissor Sisters are bringing their iconic glam-pop spectacle to the town. The multi-award-winning American pop band will headline TK Maxx presents Live at The Piece Hall on Sunday 9 August for a night of high-energy anthems, dazzling perfo</description>
 <pubDate>Tue, 08 Sep 2026 18:00:00 +0000</pubDate>
 <ify:start>2026-09-08T18:00:00</ify:start>
 <ify:end>2026-09-08T22:30:00</ify:end>
