@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-07-31T03:51:06.332331+00:00",
+  "generated_at": "2026-07-31T09:14:55.443786+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 20,
   "registered_source_count": 61,
-  "event_count": 377,
+  "event_count": 387,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -130,7 +130,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 11,
       "category_counts": {
-        "Theatre & Arts": 6,
+        "Theatre & Arts": 4,
         "Family Days Out": 2,
         "Experiences": 4,
         "Gigs": 4,
@@ -189,10 +189,12 @@
       "name": "Visit North Yorkshire",
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml",
-      "item_count": 6,
+      "item_count": 16,
       "category_counts": {
-        "Theatre & Arts": 2,
-        "Experiences": 6,
+        "Theatre & Arts": 6,
+        "Experiences": 11,
+        "Food & Drink": 3,
+        "Festivals": 1,
         "Family Days Out": 1
       },
       "status": "active"
@@ -696,7 +698,7 @@
       "domain": "",
       "status": "active",
       "notes": "listing adapter plus detail enrichment",
-      "item_count": 6,
+      "item_count": 16,
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml"
     },
@@ -844,7 +846,7 @@
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 12
+      "item_count": 13
     },
     {
       "name": "Comedy",
@@ -856,19 +858,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 233
+      "item_count": 235
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 146
+      "item_count": 151
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 49
+      "item_count": 52
     },
     {
       "name": "Sport",
