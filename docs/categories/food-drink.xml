@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 05 Aug 2026 03:29:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 08:49:32 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,6 +28,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -41,8 +43,6 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -68,8 +68,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -217,24 +215,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/">Visit Leeds</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-07T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
 <title>Heritage</title>
 <link>https://www.visitdoncaster.com/whats-on/heritage/</link>
 <guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
@@ -271,6 +251,24 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
+</item>
+<item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Cecil Beaton: Staging Icons,</title>
@@ -347,23 +345,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/victorian-baking">Visit North Yorkshire</source>
-</item>
-<item>
-<title>Canal Boat Trips</title>
-<link>https://experiencewakefield.co.uk/event/canal-boat-trips/</link>
-<guid>https://experiencewakefield.co.uk/event/canal-boat-trips/</guid>
-<description>Activity Adventure Families Food and Drink Outdoor Tour</description>
-<pubDate>Wed, 05 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-05T10:00:00</ify:start>
-<ify:end>2026-08-20T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wed 05 Aug - Thu 20 Aug 2026 10:00 - 15:30 Stanley Ferry</location>
-<ify:location>Wed 05 Aug - Thu 20 Aug 2026 10:00 - 15:30 Stanley Ferry</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/canal-boat-trips/">Experience Wakefield</source>
 </item>
 <item>
 <title>Bradford Family Film Festival</title>
@@ -553,6 +534,24 @@
 <source url="https://www.visitbradford.com/whats-on/live-music-lola-simms-p2631221">Visit Bradford</source>
 </item>
 <item>
+<title>Murton Park History Festival</title>
+<link>https://little-vikings.co.uk/events/murton-park-history-festival-2/</link>
+<guid>https://little-vikings.co.uk/events/murton-park-history-festival-2/</guid>
+<description>The Murton Park History Festival, on Saturday 15th and Sunday 16th August, is a captivating event that offers visitors a chance to immerse themselves in a vibrant showcase of history, culture, and heritage. The two-day festival brings history to life through interactive exhibits, reenactments, and engaging activities.</description>
+<pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-15</ify:start>
+<ify:end>2026-08-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Murton Park, Murton Ln, York YO19 5UF</location>
+<ify:location>Murton Park, Murton Ln, York YO19 5UF</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Little Vikings</dc:creator>
+<source url="https://little-vikings.co.uk/events/murton-park-history-festival-2/">Little Vikings</source>
+</item>
+<item>
 <title>Family Friendly</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-05/2027-08-05/p2</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-05/2027-08-05/p2</guid>
@@ -686,6 +685,23 @@
 <source url="https://www.visitbradford.com/whats-on/live-music-abi-and-marc-from-issimo-p2631311">Visit Bradford</source>
 </item>
 <item>
+<title>The rivers and us: Tracing the River Through Time in Drawing</title>
+<link>https://little-vikings.co.uk/events/the-rivers-and-us-tracing-the-river-through-time-in-drawing/</link>
+<guid>https://little-vikings.co.uk/events/the-rivers-and-us-tracing-the-river-through-time-in-drawing/</guid>
+<description>Join illustrator Adam Gill for an engaging, hands-on family workshop exploring the history of our local river and the many ways it has shaped people's lives over time through drawing, storytelling, and collaborative making. Together, participants will co-create a large-scale “Living River Map” inspired by the river's r</description>
+<pubDate>Sat, 29 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-29T09:00:00</ify:start>
+<ify:end>2026-08-29T19:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Little Vikings</dc:creator>
+<source url="https://little-vikings.co.uk/events/the-rivers-and-us-tracing-the-river-through-time-in-drawing/">Little Vikings</source>
+</item>
+<item>
 <title>Family Friendly</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-05/2027-08-05/p3</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-05/2027-08-05/p3</guid>
@@ -738,24 +754,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-05/2027-08-05/p3">Visit Doncaster</source>
 </item>
 <item>
-<title>The Hepworth Wakefield Harvest Festival</title>
-<link>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</link>
-<guid>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</guid>
-<description>Art Exhibition Food and Drink Market</description>
-<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-19T10:00:00</ify:start>
-<ify:end>2026-09-20T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 19 Sep - Sun 20 Sep 2026 10:00 - 16:00 The Hepworth Wakefield</location>
-<ify:location>Sat 19 Sep - Sun 20 Sep 2026 10:00 - 16:00 The Hepworth Wakefield</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/">Experience Wakefield</source>
-</item>
-<item>
 <title>Faulty Towers - The Dining Experience</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/faulty-towers-the-dining-experience/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/faulty-towers-the-dining-experience/</guid>
@@ -777,14 +775,13 @@
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
+<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent... \n</description>
 <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-09-26T10:00:00</ify:start>
 <ify:end>2026-09-27T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
-<category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
