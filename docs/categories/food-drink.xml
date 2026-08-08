@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 08 Aug 2026 02:19:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 07:08:59 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -66,8 +66,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -81,6 +79,8 @@
 <ify:start>2026-02-20</ify:start>
 <ify:end>2026-10-23</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/birding-for-beginners-rspb-st-aidans/">Visit Leeds</source>
@@ -132,6 +132,8 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -145,6 +147,8 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
@@ -301,21 +305,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/step-right-up-to-the-summer-of-fun-p2627251">Visit Bradford</source>
-</item>
-<item>
-<title>Andy Welland: IMAGINED TERRITORIES</title>
-<link>https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/</link>
-<guid>https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/</guid>
-<pubDate>Sat, 08 Aug 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-08-08T09:00:00</ify:start>
-<ify:end>2027-06-20T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 20 Jun 2027 09:00 - 16:00 The Art House</location>
-<ify:location>Now - Sun 20 Jun 2027 09:00 - 16:00 The Art House</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/">Experience Wakefield</source>
 </item>
 <item>
 <title>Canal Boat Trips</title>
@@ -844,6 +833,24 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/betfred-250th-st-leger-festival-gents-day">Visit Doncaster</source>
+</item>
+<item>
+<title>Festive Afternoon Tea</title>
+<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
+<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
+<description>Christmas Food and Drink Theatre</description>
+<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-12-04T14:00:00</ify:start>
+<ify:end>2026-12-04T16:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
+<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
 </item>
 <item>
 <title>Family Friendly</title>
