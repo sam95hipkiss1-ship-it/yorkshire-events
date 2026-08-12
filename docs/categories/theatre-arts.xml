@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml</link>
 <description>Upcoming Yorkshire events in the Theatre &amp; Arts category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 12 Aug 2026 07:46:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 23:45:05 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -86,9 +86,9 @@
 <guid>https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre</guid>
 <description>A special exhibition explaining the past 400 years of Scarborough Spa and the town.</description>
 <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-02-28T00:00:00</ify:start>
-<ify:end>2026-12-13T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<ify:start>2026-02-28</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</location>
 <ify:location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -117,25 +117,11 @@
 <ify:start>2026-03-01</ify:start>
 <ify:end>2026-10-04</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-03-06T10:00:00</ify:start>
-<ify:end>2027-02-17T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Pre-Raphaelites Reframed</title>
@@ -151,21 +137,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
-</item>
-<item>
-<title>The Big Picture</title>
-<link>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</link>
-<guid>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</guid>
-<description>Several of the largest paintings in Bradford’s collection are brought together in The Big Picture at Cartwright Hall, a display spanning more than two centuries of art.</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-big-picture-p2544311">Visit Bradford</source>
 </item>
 <item>
 <title>Global Perspectives and Islamic Calligraphy</title>
@@ -197,6 +168,21 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121">Visit Bradford</source>
+</item>
+<item>
+<title>The Big Picture</title>
+<link>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</link>
+<guid>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</guid>
+<description>Several of the largest paintings in Bradford’s collection are brought together in The Big Picture at Cartwright Hall, a display spanning more than two centuries of art.</description>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-28</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
+<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-big-picture-p2544311">Visit Bradford</source>
 </item>
 <item>
 <title>(Un)Layering the Future Past of South Asia: Young Artists’ Voices</title>
@@ -852,54 +838,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-15T10:00:00</ify:start>
-<ify:end>2026-12-30T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-22T10:00:00</ify:start>
-<ify:end>2027-06-01T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-29T10:00:00</ify:start>
-<ify:end>2027-01-13T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Made by Many Hands: A Heritage Craft exhibition</title>
 <link>https://www.visitbradford.com/whats-on/made-by-many-hands-a-heritage-craft-exhibition-p2544351</link>
 <guid>https://www.visitbradford.com/whats-on/made-by-many-hands-a-heritage-craft-exhibition-p2544351</guid>
@@ -929,6 +867,24 @@
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+</item>
+<item>
 <title>Heritage</title>
 <link>https://www.visitdoncaster.com/whats-on/heritage/</link>
 <guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
@@ -946,24 +902,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Music &amp; Nightlife</title>
@@ -1000,22 +938,6 @@
 <source url="https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-13T10:00:00</ify:start>
-<ify:end>2027-01-27T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Setting The Stage: 70 Years Of The Eurovision Song Contest</title>
 <link>https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971</link>
 <guid>https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971</guid>
@@ -1030,38 +952,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971">Visit Bradford</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-20T10:00:00</ify:start>
-<ify:end>2027-03-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-27T10:00:00</ify:start>
-<ify:end>2027-10-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Museums for Play &amp; Growth – Early Years Sessions</title>
@@ -1080,22 +970,6 @@
 <source url="https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-06-05T10:00:00</ify:start>
-<ify:end>2027-01-20T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</guid>
@@ -1106,6 +980,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire">Visit Doncaster</source>
+</item>
+<item>
+<title>Police and The Public</title>
+<link>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</link>
+<guid>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</guid>
+<description>A new exhibition at the Bradford Police Museum</description>
+<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-20</ify:start>
+<ify:end>2026-09-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
+<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/police-and-the-public-p2606691">Visit Bradford</source>
 </item>
 <item>
 <title>Assassins and Lovers</title>
@@ -1122,21 +1011,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/assassins-and-lovers-p2639011">Visit Bradford</source>
-</item>
-<item>
-<title>Police and The Public</title>
-<link>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</link>
-<guid>https://www.visitbradford.com/whats-on/police-and-the-public-p2606691</guid>
-<description>A new exhibition at the Bradford Police Museum</description>
-<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-20</ify:start>
-<ify:end>2026-09-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
-<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/police-and-the-public-p2606691">Visit Bradford</source>
 </item>
 <item>
 <title>Cells Talks – Mon 22 Jun 2026</title>
@@ -1300,9 +1174,9 @@
 <guid>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</guid>
 <description>join us this summer to reconnect with nature and enjoy the simple things in life - fresh air and room to play.</description>
 <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-18T00:00:00</ify:start>
-<ify:end>2026-08-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<ify:start>2026-07-18</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</location>
 <ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -1310,6 +1184,20 @@
 <category>Family Days Out</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures">Visit North Yorkshire</source>
+</item>
+<item>
+<title>Curtains Up! Outdoor Play - What’s on at Harewood this Summer</title>
+<link>https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer</link>
+<guid>https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer</guid>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Harewood House, Harewood House, Harewood, North Yorkshire, LS17 9LG</location>
+<ify:location>Harewood House, Harewood House, Harewood, North Yorkshire, LS17 9LG</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/curtains-up-outdoor-play-whats-on-at-harewood-this-summer">Visit North Yorkshire</source>
 </item>
 <item>
 <title>A Lotherton Summer Holiday</title>
@@ -1402,6 +1290,21 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/b4c4b2de-d9ea-4e85-96fc-767f505b3e3c">National Trust Yorkshire</source>
 </item>
 <item>
+<title>Weekly craft workshops</title>
+<link>https://visitnorthyorkshire.com/events/weekly-craft-workshops</link>
+<guid>https://visitnorthyorkshire.com/events/weekly-craft-workshops</guid>
+<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-22</ify:start>
+<ify:end>2026-09-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</location>
+<ify:location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/weekly-craft-workshops">Visit North Yorkshire</source>
+</item>
+<item>
 <title>Birds, Bees, Bats &amp; Bugs</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/birds-bees-bats-and-bugs-5vhn</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/birds-bees-bats-and-bugs-5vhn</guid>
@@ -1431,6 +1334,20 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-plant-power-53rn">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Wild summer at the Mill</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-25</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>The Magic Faraway Tree Museum Adventure</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-faraway-tree-museum-adventure-y7pl</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-faraway-tree-museum-adventure-y7pl</guid>
@@ -1446,20 +1363,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-faraway-tree-museum-adventure-y7pl">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Wild summer at the Mill</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx</guid>
-<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-25</ify:start>
-<ify:end>2026-08-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Industrial Museum</location>
-<ify:location>Leeds Industrial Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wild-summer-at-the-mill-m4dx">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Summer of Play - Step into the Game</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-of-play-step-into-the-game-c9r1</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-of-play-step-into-the-game-c9r1</guid>
@@ -1473,21 +1376,6 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-of-play-step-into-the-game-c9r1">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Summer of Play at East Riddlesden Hall</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/2efbaf59-a075-4319-ac8d-3329a0edf192</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/2efbaf59-a075-4319-ac8d-3329a0edf192</guid>
-<pubDate>Sat, 25 Jul 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-07-25T10:00:00</ify:start>
-<ify:end>2026-08-31T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/2efbaf59-a075-4319-ac8d-3329a0edf192">National Trust Yorkshire</source>
 </item>
 <item>
 <title>The Beacon | Wibsey Park</title>
@@ -1565,22 +1453,6 @@
 <source url="https://www.visitbradford.com/whats-on/technicolor-summer-p2629981">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-04T10:00:00</ify:start>
-<ify:end>2026-12-23T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Wet Felting Workshops</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</guid>
@@ -1596,79 +1468,59 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Urban Nature - Building in LEGO</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Kirkstall Abbey</location>
-<ify:location>Kirkstall Abbey</ify:location>
+<title>8 Aug 2026 - 7 Nov 2026 Exhibition: The Great St Leger – 250 Years of a Racing Classic Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-great-st-leger-250-years-of-a-racing-classic</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-great-st-leger-250-years-of-a-racing-classic</guid>
+<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-08T00:00:00</ify:start>
+<ify:end>2026-11-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr">Leeds Museums and Galleries</source>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-great-st-leger-250-years-of-a-racing-classic">Visit Doncaster</source>
 </item>
 <item>
-<title>Sensory Room for SEND Families</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/sensory-room-for-send-families-1dlr</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/sensory-room-for-send-families-1dlr</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
+<title>8 Aug 2026 - 7 Nov 2026 Exhibition: The Great St Leger – 250 Years of a Racing Classic Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-great-st-leger-250-years-of-a-racing-classic</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-great-st-leger-250-years-of-a-racing-classic</guid>
+<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-08T00:00:00</ify:start>
+<ify:end>2026-11-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
 <category>Theatre &amp; Arts</category>
+<category>Sport</category>
 <category>Family Days Out</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/sensory-room-for-send-families-1dlr">Leeds Museums and Galleries</source>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-great-st-leger-250-years-of-a-racing-classic">Visit Doncaster</source>
 </item>
 <item>
-<title>Playful Art</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-26</ify:end>
+<title>Exhibition: A Celebration of Scarborough 400 through the Library Collections - Scarborough Library</title>
+<link>https://visitnorthyorkshire.com/events/2939207-exhibition-a-celebration-of-scarborough-400-through-the-library-collections-scarborough-library</link>
+<guid>https://visitnorthyorkshire.com/events/2939207-exhibition-a-celebration-of-scarborough-400-through-the-library-collections-scarborough-library</guid>
+<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-11</ify:start>
+<ify:end>2026-08-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
+<location>Scarborough Library, Vernon Road, YO11 2NN</location>
+<ify:location>Scarborough Library, Vernon Road, YO11 2NN</ify:location>
 <category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69">Leeds Museums and Galleries</source>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/2939207-exhibition-a-celebration-of-scarborough-400-through-the-library-collections-scarborough-library">Visit North Yorkshire</source>
 </item>
 <item>
-<title>Summer Holidays: Art workshops</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-29</ify:end>
+<title>Brigantia Exhibition - Ampleforth Abbey</title>
+<link>https://visitnorthyorkshire.com/events/2985107-brigantia-exhibition-ampleforth-abbey</link>
+<guid>https://visitnorthyorkshire.com/events/2985107-brigantia-exhibition-ampleforth-abbey</guid>
+<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-11</ify:start>
+<ify:end>2026-08-14</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
+<location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN</location>
+<ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN</ify:location>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Summer Deer Tractor Tours</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-28</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq">Leeds Museums and Galleries</source>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/2985107-brigantia-exhibition-ampleforth-abbey">Visit North Yorkshire</source>
 </item>
 <item>
 <title>12 Aug 2026 - 16 Aug 2026 Doncaster Lit Fest + short story competition! Find out more</title>
@@ -1681,19 +1533,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/doncaster-lit-fest">Visit Doncaster</source>
-</item>
-<item>
-<title>12 Aug 2026 Street Food @ The Styrrup Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/street-food-the-styrrup/2026-08-12/2026-08-12</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/street-food-the-styrrup/2026-08-12/2026-08-12</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-12</ify:start>
-<ify:end>2026-08-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/street-food-the-styrrup/2026-08-12/2026-08-12">Visit Doncaster</source>
 </item>
 <item>
 <title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
@@ -1727,123 +1566,6 @@
 <source url="https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/">Experience Wakefield</source>
 </item>
 <item>
-<title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
-<description>Planning your summer holidays? Discover a Summer of Play supported by Pokémon. Plus, don't miss the Pokémon TCG Mega Evolution play zones... ​</description>
-<pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-12T10:00:00</ify:start>
-<ify:end>2026-09-06T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
-<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>The Fabric of East Riddlesden: Inspiration from the Hall and its grounds</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</guid>
-<description>Discover this new exhibition by Textilia 3, using the hall, history, past inhabitants and landscape as their inspiration to create beautiful artworks.</description>
-<pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-12T10:00:00</ify:start>
-<ify:end>2026-10-21T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
-<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
-<pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-12T10:00:00</ify:start>
-<ify:end>2026-09-01T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play: Family trail</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
-<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
-<pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-12T10:00:00</ify:start>
-<ify:end>2026-09-20T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beningbrough, York, North Yorkshire</location>
-<ify:location>Beningbrough, York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Bradford Family Film Festival</title>
-<link>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</link>
-<guid>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</guid>
-<description>The Courtyard at Darley Street Market transforms into an open-air cinema every Wednesday in August, with free family-friendly film screenings hosted by Bradford City of Film.</description>
-<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-12T11:00:00</ify:start>
-<ify:end>2026-08-12T13:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401">Visit Bradford</source>
-</item>
-<item>
-<title>The Georgian Era – The Start of Modern Medicine</title>
-<link>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</link>
-<guid>https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021</guid>
-<description>Come to discover medications of the past at Bolling Hall Museum.</description>
-<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-12T11:00:00</ify:start>
-<ify:end>2026-08-12T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</location>
-<ify:location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-georgian-era-the-start-of-modern-medicine-p2621021">Visit Bradford</source>
-</item>
-<item>
-<title>Moorside Mill Mystery</title>
-<link>https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121</link>
-<guid>https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121</guid>
-<description>Take part in the Moorside Mill Mystery at Bradford Industrial Museum, exploring historic mill buildings, meeting live suspects and uncovering clues as you work to crack the case.</description>
-<pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-12T11:00:00</ify:start>
-<ify:end>2026-08-12T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</location>
-<ify:location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/moorside-mill-mystery-p2612121">Visit Bradford</source>
-</item>
-<item>
 <title>Amazing Animals Week</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/amazing-animals-week-h87z</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/amazing-animals-week-h87z</guid>
@@ -1856,21 +1578,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/amazing-animals-week-h87z">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Loud Gallery Tour</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-13</ify:start>
-<ify:end>2026-08-13</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Kids Aloud Tours</title>
@@ -1889,6 +1596,21 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/kids-aloud-tours-7qh8">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Loud Gallery Tour</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-13</ify:start>
+<ify:end>2026-08-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Art Gallery</location>
+<ify:location>Leeds Art Gallery</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Crafty in the Cloister</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/crafty-in-the-cloister-ql7t</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/crafty-in-the-cloister-ql7t</guid>
@@ -1903,6 +1625,21 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/crafty-in-the-cloister-ql7t">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Summer Deer Tractor Tours</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-13</ify:start>
+<ify:end>2026-08-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Kirkstall Abbey Outdoor Cinema</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/kirkstall-abbey-outdoor-cinema-h2sz</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/kirkstall-abbey-outdoor-cinema-h2sz</guid>
@@ -1913,6 +1650,105 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/kirkstall-abbey-outdoor-cinema-h2sz">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Kirkstall Abbey Outdoor Cinema</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/performances</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/performances</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-13</ify:start>
+<ify:end>2026-08-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/performances">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Summer of Play: Family trail</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
+<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
+<pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-13T10:00:00</ify:start>
+<ify:end>2026-09-20T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beningbrough, York, North Yorkshire</location>
+<ify:location>Beningbrough, York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
+<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
+<pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-13T10:00:00</ify:start>
+<ify:end>2026-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Fixing Fairytales with Gina Kaminski</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</guid>
+<description>Discover our family-friendly exhibition this summer.</description>
+<pubDate>Thu, 13 Aug 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-08-13T10:30:00</ify:start>
+<ify:end>2026-09-06T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nunnington Hall, near York, North Yorkshire</location>
+<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play: Pop-up sports day</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/4b139e2e-0634-49c4-aac9-02b8ad363708</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/4b139e2e-0634-49c4-aac9-02b8ad363708</guid>
+<pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-13T11:00:00</ify:start>
+<ify:end>2026-09-03T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beningbrough, York, North Yorkshire</location>
+<ify:location>Beningbrough, York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Sport</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/4b139e2e-0634-49c4-aac9-02b8ad363708">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play: Step into the Thomas More Painting</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/00318b49-1219-49c9-b2e7-7c48c92567b5</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/00318b49-1219-49c9-b2e7-7c48c92567b5</guid>
+<description>Explore the Thomas More portrait through interactive games and Tudor dress-up in a pop-in exhibition.</description>
+<pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-13T11:00:00</ify:start>
+<ify:end>2026-08-31T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nostell, near Wakefield, West Yorkshire</location>
+<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/00318b49-1219-49c9-b2e7-7c48c92567b5">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Tiny Tigers</title>
@@ -2060,7 +1896,7 @@
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
 <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-15</ify:start>
-<ify:end>2026-08-29</ify:end>
+<ify:end>2026-12-19</ify:end>
 <ify:allDay>true</ify:allDay>
 <location>Leeds City Museum</location>
 <ify:location>Leeds City Museum</ify:location>
@@ -2081,6 +1917,22 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/trains-trains-trains-jchy">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Summer Holidays: Art workshops</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt</guid>
+<pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-15</ify:start>
+<ify:end>2026-08-29</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>15 Aug 2026 Summer Indoor Market Find out more</title>
@@ -2277,6 +2129,21 @@
 <source url="https://www.visitbradford.com/whats-on/childs-play-discovery-playground-p2628851">Visit Bradford</source>
 </item>
 <item>
+<title>Urban Nature - Building in LEGO</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-19</ify:start>
+<ify:end>2026-08-19</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/urban-nature-building-in-lego-19xr">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Animal Handling</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/animal-handling-1nzr</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/animal-handling-1nzr</guid>
@@ -2289,6 +2156,38 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/animal-handling-1nzr">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Playful Art</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-19</ify:start>
+<ify:end>2026-08-19</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Art Gallery</location>
+<ify:location>Leeds Art Gallery</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/playful-art-dk69">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Bradford Family Film Festival</title>
+<link>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</link>
+<guid>https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401</guid>
+<description>The Courtyard at Darley Street Market transforms into an open-air cinema every Wednesday in August, with free family-friendly film screenings hosted by Bradford City of Film.</description>
+<pubDate>Wed, 19 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-19T11:00:00</ify:start>
+<ify:end>2026-08-19T13:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>The Big Screen, The Courtyard, Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/bradford-family-film-festival-p2404401">Visit Bradford</source>
 </item>
 <item>
 <title>In the Frame: World Photography Week</title>
@@ -2306,21 +2205,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/in-the-frame-world-photography-week-4223">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Wellbeing Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-20</ify:start>
-<ify:end>2026-08-20</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Owl Pellet Dissecting Workshop</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/owl-pellet-dissecting-workshop-n6yf</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/owl-pellet-dissecting-workshop-n6yf</guid>
@@ -2336,6 +2220,21 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/owl-pellet-dissecting-workshop-n6yf">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Wellbeing Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-20</ify:start>
+<ify:end>2026-08-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Art Gallery</location>
+<ify:location>Leeds Art Gallery</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Pre-Raphaelite Portraits</title>
 <link>https://www.visitbradford.com/whats-on/pre-raphaelite-portraits-p2621761</link>
 <guid>https://www.visitbradford.com/whats-on/pre-raphaelite-portraits-p2621761</guid>
@@ -2349,6 +2248,23 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/pre-raphaelite-portraits-p2621761">Visit Bradford</source>
+</item>
+<item>
+<title>Shakespeare’s As You Like It</title>
+<link>https://experiencewakefield.co.uk/event/shakespeares-as-you-like-it/</link>
+<guid>https://experiencewakefield.co.uk/event/shakespeares-as-you-like-it/</guid>
+<description>Comedy Outdoor Performance Theatre</description>
+<pubDate>Thu, 20 Aug 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-08-20T18:30:00</ify:start>
+<ify:end>2026-08-20T20:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 20 Aug - Thu 20 Aug 2026 18:30 - 20:30 Pontefract Castle</location>
+<ify:location>Thu 20 Aug - Thu 20 Aug 2026 18:30 - 20:30 Pontefract Castle</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/shakespeares-as-you-like-it/">Experience Wakefield</source>
 </item>
 <item>
 <title>IMAX: Kiki’s Delivery Service (U)</title>
@@ -2410,8 +2326,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-21T00:00:00</ify:start>
@@ -2424,7 +2340,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Storytelling and Miniature Books</title>
@@ -2483,6 +2399,24 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/record-fair-at-the-corn-exchange/2026-08-22/2026-08-22">Visit Doncaster</source>
+</item>
+<item>
+<title>Family Friendly</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-22T00:00:00</ify:start>
+<ify:end>2026-08-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Public Service Broadcasting</title>
@@ -2775,6 +2709,20 @@
 <source url="https://www.visitbradford.com/whats-on/gentleman-jack-p2360321">Visit Bradford</source>
 </item>
 <item>
+<title>Little Bobbins</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/little-bobbins-1fdr</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/little-bobbins-1fdr</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-03</ify:start>
+<ify:end>2026-12-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-bobbins-1fdr">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Unreconciled</title>
 <link>https://www.visitbradford.com/whats-on/unreconciled-p2628451</link>
 <guid>https://www.visitbradford.com/whats-on/unreconciled-p2628451</guid>
@@ -2821,8 +2769,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -2835,12 +2783,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -2853,12 +2801,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -2871,7 +2819,23 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p2">Visit Doncaster</source>
+</item>
+<item>
+<title>Setlist Comedy Night</title>
+<link>https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871</link>
+<guid>https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871</guid>
+<description>Join us at Bradford Arts Centre for a high-energy night of professional stand-up comedy and surprise acts.</description>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Arts Centre, St Peters House, 1 Forster Square, Bradford, West Yorkshire, BD1 4TY</location>
+<ify:location>Bradford Arts Centre, St Peters House, 1 Forster Square, Bradford, West Yorkshire, BD1 4TY</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871">Visit Bradford</source>
 </item>
 <item>
 <title>The Penguin Experience</title>
@@ -2889,9 +2853,23 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Heritage Open Day</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-day-znv4</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-day-znv4</guid>
+<title>Artisan Fayre</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/artisan-fayre-rxh7</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/artisan-fayre-rxh7</guid>
+<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-06</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/artisan-fayre-rxh7">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Heritage Open Days: Cottage and Gardens Tours</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4</guid>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11</ify:start>
 <ify:end>2026-09-13</ify:end>
@@ -2901,30 +2879,12 @@
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-day-znv4">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-11T00:00:00</ify:start>
-<ify:end>2026-09-20T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p3">Visit Doncaster</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11T00:00:00</ify:start>
@@ -2937,7 +2897,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Part of Heritage Open Days 2026</title>
@@ -2953,24 +2913,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/heritage-open-days-dungeon-tours/">Experience Wakefield</source>
-</item>
-<item>
-<title>Dino Discovery Day</title>
-<link>https://experiencewakefield.co.uk/event/dino-discovery-day/</link>
-<guid>https://experiencewakefield.co.uk/event/dino-discovery-day/</guid>
-<description>Activity Adventure Craft Families Food and Drink Heritage Talk Theatre Workshop</description>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-13T10:00:00</ify:start>
-<ify:end>2026-09-13T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 13 Sep - Sun 13 Sep 2026 10:00 - 17:00 National Coal Mining Museum</location>
-<ify:location>Sun 13 Sep - Sun 13 Sep 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/dino-discovery-day/">Experience Wakefield</source>
 </item>
 <item>
 <title>Part of Heritage Open Days 2026</title>
@@ -3001,23 +2943,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/heritage-open-days-museum-store-tours/">Experience Wakefield</source>
-</item>
-<item>
-<title>Part of Heritage Open Days 2026</title>
-<link>https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/</link>
-<guid>https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/</guid>
-<description>Activity Art Families Heritage</description>
-<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-<ify:start>2026-09-18T12:00:00</ify:start>
-<ify:end>2026-09-19T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 18 Sep - Sat 19 Sep 2026 12:00 - 17:00 Nostell, National Trust</location>
-<ify:location>Fri 18 Sep - Sat 19 Sep 2026 12:00 - 17:00 Nostell, National Trust</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/">Experience Wakefield</source>
 </item>
 <item>
 <title>The Hepworth Wakefield Harvest Festival</title>
@@ -3080,6 +3005,35 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-ghosts-of-temple-newsam-tour-64pb">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Leeds Steampunk and Alternative Market</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Lotherton Pumpkin Patch</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/lotherton-pumpkin-patch-tz6c</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/lotherton-pumpkin-patch-tz6c</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/lotherton-pumpkin-patch-tz6c">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Spellbound</title>
@@ -3165,9 +3119,9 @@
 <source url="https://stockeldpark.co.uk/activities/season/santas-arrival-weekend/">Stockeld Park</source>
 </item>
 <item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p4</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p4</guid>
+<title>Family Friendly</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p9</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p9</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 20 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-20T00:00:00</ify:start>
@@ -3180,17 +3134,35 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-12/2027-08-12/p4">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-13/2027-08-13/p9">Visit Doncaster</source>
+</item>
+<item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p4</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p4</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 20 Feb 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-02-20T00:00:00</ify:start>
+<ify:end>2027-02-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-13/2027-08-13/p4">Visit Doncaster</source>
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p16</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p16</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p17</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p17</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 25 Feb 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-02-25T00:00:00</ify:start>
-<ify:end>2027-02-27T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<pubDate>Sat, 15 May 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-05-15</ify:start>
+<ify:end>2027-05-15</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -3198,25 +3170,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-12/2027-08-12/p16">Visit Doncaster</source>
-</item>
-<item>
-<title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p9</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p9</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 25 Feb 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-02-25T00:00:00</ify:start>
-<ify:end>2027-02-27T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-12/2027-08-12/p9">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-13/2027-08-13/p17">Visit Doncaster</source>
 </item>
 </channel>
 </rss>
