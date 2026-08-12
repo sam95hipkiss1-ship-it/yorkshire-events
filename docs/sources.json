@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-11T23:44:35.196631+00:00",
+  "generated_at": "2026-08-12T02:42:20.249623+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 20,
   "registered_source_count": 61,
-  "event_count": 353,
+  "event_count": 364,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -34,10 +34,10 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 7,
+        "Theatre & Arts": 8,
         "Experiences": 24,
         "Festivals": 2,
-        "Family Days Out": 5,
+        "Family Days Out": 6,
         "Seasonal": 1,
         "Food & Drink": 3,
         "Sport": 1
@@ -119,10 +119,10 @@
       "name": "The Deep",
       "slug": "the-deep",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-deep.xml",
-      "item_count": 4,
+      "item_count": 3,
       "category_counts": {
-        "Experiences": 2,
-        "Family Days Out": 4
+        "Experiences": 1,
+        "Family Days Out": 3
       },
       "status": "active"
     },
@@ -132,7 +132,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 11,
       "category_counts": {
-        "Theatre & Arts": 6,
+        "Theatre & Arts": 7,
         "Family Days Out": 2,
         "Gigs": 4,
         "Experiences": 3,
@@ -190,10 +190,12 @@
       "name": "Visit North Yorkshire",
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml",
-      "item_count": 4,
+      "item_count": 16,
       "category_counts": {
-        "Theatre & Arts": 2,
-        "Experiences": 4,
+        "Theatre & Arts": 5,
+        "Experiences": 11,
+        "Food & Drink": 3,
+        "Festivals": 1,
         "Family Days Out": 1
       },
       "status": "active"
@@ -597,7 +599,7 @@
       "domain": "thedeep.co.uk",
       "status": "active",
       "notes": "Handled by dedicated family source adapter",
-      "item_count": 4,
+      "item_count": 3,
       "slug": "the-deep",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-deep.xml"
     },
@@ -696,7 +698,7 @@
       "domain": "",
       "status": "active",
       "notes": "listing adapter plus detail enrichment",
-      "item_count": 4,
+      "item_count": 16,
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml"
     },
@@ -844,7 +846,7 @@
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 10
+      "item_count": 11
     },
     {
       "name": "Comedy",
@@ -856,19 +858,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 204
+      "item_count": 209
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 151
+      "item_count": 157
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 57
+      "item_count": 60
     },
     {
       "name": "Sport",
