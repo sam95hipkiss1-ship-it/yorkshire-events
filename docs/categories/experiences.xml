@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 13 Aug 2026 07:48:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 23:45:36 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -74,18 +74,6 @@
 <source url="https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve">Yorkshire Wildlife Trust</source>
 </item>
 <item>
-<title>Leeds City Centre Guided Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Leeds Waterfront Heritage Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
@@ -98,6 +86,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>‘Some Steel’: Sculpture and Steel in Britain, 1960-90</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/</guid>
@@ -105,8 +105,6 @@
 <ify:start>2026-01-31</ify:start>
 <ify:end>2027-01-10</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/">Visit Leeds</source>
@@ -131,8 +129,6 @@
 <ify:start>2026-02-12</ify:start>
 <ify:end>2026-09-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/an-evening-of-love-sex-and-scandal-at-temple-newsam/">Visit Leeds</source>
@@ -157,6 +153,8 @@
 <ify:start>2026-02-19</ify:start>
 <ify:end>2026-08-29</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/story-explorers/">Visit Leeds</source>
@@ -169,6 +167,8 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
@@ -179,9 +179,9 @@
 <guid>https://visitnorthyorkshire.com/events/scarborough-400-scarborough-maritime-heritage-centre</guid>
 <description>A special exhibition explaining the past 400 years of Scarborough Spa and the town.</description>
 <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-02-28T00:00:00</ify:start>
-<ify:end>2026-12-13T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<ify:start>2026-02-28</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</location>
 <ify:location>Scarborough Maritime Heritage Centre, Scarborough Maritime Heritage Centre, 45 Eastborough, Scarborough, North Yorkshire, YO11 1PB</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -197,8 +197,6 @@
 <ify:start>2026-03-01</ify:start>
 <ify:end>2026-10-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -239,6 +237,8 @@
 <ify:start>2026-03-13</ify:start>
 <ify:end>2026-11-13</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
@@ -251,6 +251,8 @@
 <ify:start>2026-03-19</ify:start>
 <ify:end>2026-10-02</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
@@ -372,8 +374,6 @@
 <ify:start>2026-04-20</ify:start>
 <ify:end>2027-04-10</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/">Visit Leeds</source>
@@ -386,8 +386,6 @@
 <ify:start>2026-04-22</ify:start>
 <ify:end>2027-04-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
@@ -595,10 +593,10 @@
 <link>https://visitnorthyorkshire.com/events/peasholm-park-naval-warfare</link>
 <guid>https://visitnorthyorkshire.com/events/peasholm-park-naval-warfare</guid>
 <description>Set on the Peashom Park lake in beautiful garden surroundings. War breaks out on the lake in the middle of the park when the 20-foot replica boats…</description>
-<pubDate>Sat, 27 Jun 2026 15:00:00 +0000</pubDate>
-<ify:start>2026-06-27T15:00:00</ify:start>
-<ify:end>2026-08-31T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-27</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>Peasholm Park, Peasholm Park, North Bay, Scarborough, YO12 7TR</location>
 <ify:location>Peasholm Park, Peasholm Park, North Bay, Scarborough, YO12 7TR</ify:location>
 <category>Experiences</category>
@@ -618,6 +616,37 @@
 <category>Experiences</category>
 <dc:creator>Visit York</dc:creator>
 <source url="https://visityork.org/events/the-watchers-of-york-sculpture-trail">Visit York</source>
+</item>
+<item>
+<title>Woldies Summer Days &amp; Wild Superhero Mission</title>
+<link>https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission</link>
+<guid>https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission</guid>
+<description>Explore North Yorkshire where adventure meets relaxation. From coast to countryside, uncover history, beauty and charm in England’s largest county.</description>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-01</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Woldies, Sandy Lane, Wintringham, Malton, North Yorkshire, YO17 8HW</location>
+<ify:location>Woldies, Sandy Lane, Wintringham, Malton, North Yorkshire, YO17 8HW</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/woldies-summer-days-wild-superhero-mission">Visit North Yorkshire</source>
+</item>
+<item>
+<title>Scarborough 400 giant deckchair trail</title>
+<link>https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail</link>
+<guid>https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail</guid>
+<description>Take a seat back in time and discover the history of Britain’s original seaside resort as we celebrate 400 years since the discovery of Scarborough’s spa…</description>
+<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-04</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Scarborough, North Yorkshire</location>
+<ify:location>Scarborough, North Yorkshire</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/scarborough-400-giant-deckchair-trail">Visit North Yorkshire</source>
 </item>
 <item>
 <title>More Pages</title>
@@ -690,6 +719,37 @@
 <source url="https://www.english-heritage.org.uk/visit/whats-on/brodsworth-hall-sunday-music-5-jul-to-30-aug/">English Heritage Yorkshire</source>
 </item>
 <item>
+<title>Summer Holidays - Ampleforth Adventures</title>
+<link>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</link>
+<guid>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</guid>
+<description>join us this summer to reconnect with nature and enjoy the simple things in life - fresh air and room to play.</description>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</location>
+<ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures">Visit North Yorkshire</source>
+</item>
+<item>
+<title>A Summer in Oz</title>
+<link>https://visitnorthyorkshire.com/events/a-summer-in-oz</link>
+<guid>https://visitnorthyorkshire.com/events/a-summer-in-oz</guid>
+<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-18</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Mother Shipton's Cave, Mother Shipton's Cave, , Knaresborough, HG5 8DD, North Yorkshire, North Yorkshire, United Kingdom</location>
+<ify:location>Mother Shipton's Cave, Mother Shipton's Cave, , Knaresborough, HG5 8DD, North Yorkshire, North Yorkshire, United Kingdom</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/a-summer-in-oz">Visit North Yorkshire</source>
+</item>
+<item>
 <title>Upcoming Events</title>
 <link>https://tickets.webadventurepark.co.uk/book/events/121</link>
 <guid>https://tickets.webadventurepark.co.uk/book/events/121</guid>
@@ -721,23 +781,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-07-18-wildlife-photography-beginners-staveley-nature-reserve">Yorkshire Wildlife Trust</source>
-</item>
-<item>
-<title>Summer Holidays - Ampleforth Adventures</title>
-<link>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</link>
-<guid>https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures</guid>
-<description>join us this summer to reconnect with nature and enjoy the simple things in life - fresh air and room to play.</description>
-<pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-18T00:00:00</ify:start>
-<ify:end>2026-08-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</location>
-<ify:location>Ampleforth Abbey, Ampleforth Abbey, York, YO62 4EN, North Yorkshire, England, United Kingdom</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Visit North Yorkshire</dc:creator>
-<source url="https://visitnorthyorkshire.com/events/summer-holidays-ampleforth-adventures">Visit North Yorkshire</source>
 </item>
 <item>
 <title>Puzzles &amp; Riddles Trail</title>
@@ -848,6 +891,21 @@
 <source url="https://www.english-heritage.org.uk/visit/whats-on/whitby-abbey-great-british-summer-sat-18-jul-to-sun-6-sep/">English Heritage Yorkshire</source>
 </item>
 <item>
+<title>Weekly craft workshops</title>
+<link>https://visitnorthyorkshire.com/events/weekly-craft-workshops</link>
+<guid>https://visitnorthyorkshire.com/events/weekly-craft-workshops</guid>
+<pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-22</ify:start>
+<ify:end>2026-09-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</location>
+<ify:location>Ripon Workhouse &amp; Garden Museum, Allhallowgate, Ripon, HG4 1LE, United Kingdom</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/weekly-craft-workshops">Visit North Yorkshire</source>
+</item>
+<item>
 <title>The Magic Faraway Tree Museum Adventure</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-faraway-tree-museum-adventure-y7pl</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-faraway-tree-museum-adventure-y7pl</guid>
@@ -953,50 +1011,100 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Kids Aloud Tours</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/kids-aloud-tours-7qh8</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/kids-aloud-tours-7qh8</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-13</ify:start>
-<ify:end>2026-08-13</ify:end>
+<title>Whitby Gathers - Various Venues: Whitby</title>
+<link>https://visitnorthyorkshire.com/events/3084936-whitby-gathers-various-venues-whitby</link>
+<guid>https://visitnorthyorkshire.com/events/3084936-whitby-gathers-various-venues-whitby</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-12</ify:start>
+<ify:end>2026-08-21</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
-<category>Theatre &amp; Arts</category>
+<location>Various Venues: Whitby, YO21 1DN</location>
+<ify:location>Various Venues: Whitby, YO21 1DN</ify:location>
 <category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/kids-aloud-tours-7qh8">Leeds Museums and Galleries</source>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/3084936-whitby-gathers-various-venues-whitby">Visit North Yorkshire</source>
 </item>
 <item>
-<title>Loud Gallery Tour</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-13</ify:start>
-<ify:end>2026-08-13</ify:end>
+<title>Curious About Harrogate - Valley Gardens</title>
+<link>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</link>
+<guid>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-12</ify:start>
+<ify:end>2026-10-24</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
-<category>Theatre &amp; Arts</category>
+<location>Valley Gardens, Valley Drive, Harrogate, HG1 2SZ</location>
+<ify:location>Valley Gardens, Valley Drive, Harrogate, HG1 2SZ</ify:location>
 <category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/loud-gallery-tour-682b">Leeds Museums and Galleries</source>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens">Visit North Yorkshire</source>
 </item>
 <item>
-<title>Summer Deer Tractor Tours</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-13</ify:start>
-<ify:end>2026-08-28</ify:end>
+<title>Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway</title>
+<link>https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway</link>
+<guid>https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-12</ify:start>
+<ify:end>2026-09-06</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
+<location>Pickering - Moors Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway 12 Aug - 6 Sept 26</location>
+<ify:location>Pickering - Moors Summer Events, Activities &amp; Adventures at the NYMR - North Yorkshire Moors Railway 12 Aug - 6 Sept 26</ify:location>
 <category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq">Leeds Museums and Galleries</source>
+<dc:creator>Visit North Yorkshire</dc:creator>
+<source url="https://visitnorthyorkshire.com/events/3053545-summer-events-activities-adventures-at-the-nymr-north-yorkshire-moors-railway">Visit North Yorkshire</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around Sheffield with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</guid>
+<pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-13T08:00:00</ify:start>
+<ify:end>2027-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tudor Square, Sheffield City Centre</location>
+<ify:location>Tudor Square, Sheffield City Centre</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around Leeds with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</link>
+<guid>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</guid>
+<pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-13T08:00:00</ify:start>
+<ify:end>2027-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Leeds Art Gallery, The Headrow, Leeds</location>
+<ify:location>Leeds Art Gallery, The Headrow, Leeds</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
+<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
+<pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-13T08:00:00</ify:start>
+<ify:end>2027-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Unnamed Road</location>
+<ify:location>Unnamed Road</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
+</item>
+<item>
+<title>A Fatal Feud - An Immersive Treasure Hunt Murder Mystery - The Secret City</title>
+<link>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</link>
+<guid>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</guid>
+<pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-13T08:00:00</ify:start>
+<ify:end>2027-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
 </item>
 <item>
 <title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
@@ -1012,6 +1120,56 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
+</item>
+<item>
+<title>Damien Hirst</title>
+<link>https://experiencewakefield.co.uk/event/damien-hirst/</link>
+<guid>https://experiencewakefield.co.uk/event/damien-hirst/</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-13T09:00:00</ify:start>
+<ify:end>2026-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Tue 01 Sep 2026 09:00 - 17:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Tue 01 Sep 2026 09:00 - 17:00 Yorkshire Sculpture Park</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/damien-hirst/">Experience Wakefield</source>
+</item>
+<item>
+<title>Hop-On Hop-Off Bus York</title>
+<link>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</link>
+<guid>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-13T09:00:00</ify:start>
+<ify:end>2026-10-10T09:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
+</item>
+<item>
+<title>Yorkshire Dales Day Trip from York</title>
+<link>https://www.yorkshire.com/york/events/other/yorkshire-dales-day-trip-from-york-172581</link>
+<guid>https://www.yorkshire.com/york/events/other/yorkshire-dales-day-trip-from-york-172581</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-13T09:00:00</ify:start>
+<ify:end>2026-10-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/yorkshire-dales-day-trip-from-york-172581">Yorkshire.com</source>
+</item>
+<item>
+<title>York's Chocolate Story</title>
+<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
+<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
+<pubDate>Thu, 13 Aug 2026 09:45:00 +0000</pubDate>
+<ify:start>2026-08-13T09:45:00</ify:start>
+<ify:end>2026-04-10T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
 </item>
 <item>
 <title>Jason and the Coal Mining Adventure</title>
@@ -1092,70 +1250,91 @@
 <source url="https://experiencewakefield.co.uk/event/canal-boat-trips/">Experience Wakefield</source>
 </item>
 <item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<title>York City walking tour - History Chronicles</title>
+<link>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</link>
+<guid>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</guid>
 <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-08-13T10:00:00</ify:start>
-<ify:end>2026-09-30T17:00:00</ify:end>
+<ify:end>2026-12-20T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
 <category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136">Yorkshire.com</source>
 </item>
 <item>
-<title>Summer of Play: Family trail</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
-<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
+<title>Catch a Killer: An Immersive Murder Mystery Experience in Sheffield</title>
+<link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
 <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-08-13T10:00:00</ify:start>
-<ify:end>2026-09-20T17:00:00</ify:end>
+<ify:end>2026-09-30T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Beningbrough, York, North Yorkshire</location>
-<ify:location>Beningbrough, York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
 <category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068">Yorkshire.com</source>
 </item>
 <item>
-<title>Summer of Play at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
-<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
-<pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-13T10:00:00</ify:start>
-<ify:end>2026-09-01T17:00:00</ify:end>
+<title>Guided Bike Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</link>
+<guid>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</guid>
+<pubDate>Thu, 13 Aug 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-08-13T10:30:00</ify:start>
+<ify:end>2026-12-30T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
 <category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215">Yorkshire.com</source>
 </item>
 <item>
-<title>Geocaching taster day</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/ea5dd58c-17db-4130-b06c-a7ea188e82af</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/ea5dd58c-17db-4130-b06c-a7ea188e82af</guid>
-<description>Hunt for hidden treasures with our expert geocaching volunteers.</description>
+<title>Time Travelers Walking Tour of York</title>
+<link>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</link>
+<guid>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</guid>
 <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
 <ify:start>2026-08-13T11:00:00</ify:start>
-<ify:end>2026-08-13T15:00:00</ify:end>
+<ify:end>2027-01-30T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Brimham Rocks, Harrogate, North Yorkshire</location>
-<ify:location>Brimham Rocks, Harrogate, North Yorkshire</ify:location>
+<category>Clubs</category>
 <category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/ea5dd58c-17db-4130-b06c-a7ea188e82af">National Trust Yorkshire</source>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623">Yorkshire.com</source>
+</item>
+<item>
+<title>York Historical Gems Tour &amp; A Taste of York Chocolate</title>
+<link>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</link>
+<guid>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</guid>
+<pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-13T11:00:00</ify:start>
+<ify:end>2027-08-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157">Yorkshire.com</source>
+</item>
+<item>
+<title>Pontefract Castle Presents…</title>
+<link>https://experiencewakefield.co.uk/event/pontefract-castle-presents/</link>
+<guid>https://experiencewakefield.co.uk/event/pontefract-castle-presents/</guid>
+<pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+<ify:start>2026-08-13T12:00:00</ify:start>
+<ify:end>2026-08-23T14:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 23 Aug 2026 12:00 - 14:00 Pontefract Castle</location>
+<ify:location>Now - Sun 23 Aug 2026 12:00 - 14:00 Pontefract Castle</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pontefract-castle-presents/">Experience Wakefield</source>
+</item>
+<item>
+<title>1-Hour Public Cruise</title>
+<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
+<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
+<pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+<ify:start>2026-08-13T12:00:00</ify:start>
+<ify:end>2026-11-22T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
 </item>
 <item>
 <title>Wakefield Trinity RLFC Fixtures</title>
@@ -1189,6 +1368,42 @@
 <source url="https://experiencewakefield.co.uk/event/northern-green-gathering/">Experience Wakefield</source>
 </item>
 <item>
+<title>Early Evening Boat Cruise through York</title>
+<link>https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545</link>
+<guid>https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545</guid>
+<pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-13T18:00:00</ify:start>
+<ify:end>2026-12-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545">Yorkshire.com</source>
+</item>
+<item>
+<title>Ghost Bus Tour of York</title>
+<link>https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343</link>
+<guid>https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343</guid>
+<pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-13T18:00:00</ify:start>
+<ify:end>2026-12-30T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343">Yorkshire.com</source>
+</item>
+<item>
+<title>Mad Alice’s The Bloody Tour of York -Best Tour Award Europe 2024</title>
+<link>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</link>
+<guid>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</guid>
+<pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-13T18:00:00</ify:start>
+<ify:end>2026-10-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864">Yorkshire.com</source>
+</item>
+<item>
 <title>Wakefield Ghost Walk</title>
 <link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
 <guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
@@ -1201,6 +1416,131 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
+</item>
+<item>
+<title>Shadows of York: Award winning historical ghost walk</title>
+<link>https://www.yorkshire.com/york/events/other/shadows-of-york-award-winning-historical-ghost-walk-172689</link>
+<guid>https://www.yorkshire.com/york/events/other/shadows-of-york-award-winning-historical-ghost-walk-172689</guid>
+<pubDate>Thu, 13 Aug 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-08-13T18:30:00</ify:start>
+<ify:end>2027-09-01T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/shadows-of-york-award-winning-historical-ghost-walk-172689">Yorkshire.com</source>
+</item>
+<item>
+<title>Summer Deer Tractor Tours</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
+<pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-14</ify:start>
+<ify:end>2026-08-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Summer of Play: Family trail</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
+<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
+<pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-14T10:00:00</ify:start>
+<ify:end>2026-09-20T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beningbrough, York, North Yorkshire</location>
+<ify:location>Beningbrough, York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
+<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
+<pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-14T10:00:00</ify:start>
+<ify:end>2026-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Orienteering at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
+<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-14T10:00:00</ify:start>
+<ify:end>2026-09-30T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Brimham through the ages tour</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/c04f8084-67eb-40b7-a1a1-e4088592ced4</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/c04f8084-67eb-40b7-a1a1-e4088592ced4</guid>
+<description>Discover Brimham's history, from the last ice age that helped form the rocks, to the stories of the people who lived here.</description>
+<pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-14T11:00:00</ify:start>
+<ify:end>2026-10-29T12:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Brimham Rocks, Harrogate, North Yorkshire</location>
+<ify:location>Brimham Rocks, Harrogate, North Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks/events/c04f8084-67eb-40b7-a1a1-e4088592ced4">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Step into history walks - Parkland Monuments</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/c5a416c1-fa37-4bca-9422-b22bc9efe416</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/c5a416c1-fa37-4bca-9422-b22bc9efe416</guid>
+<description>Head out into the parkland on a friendly volunteer-led walk to learn about the way in which Thomas and William Wentworth shaped their wider estate.</description>
+<pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-14T11:00:00</ify:start>
+<ify:end>2026-10-09T12:45:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/c5a416c1-fa37-4bca-9422-b22bc9efe416">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Archery Experience with Iron Age Archery</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/4cc02fad-2507-4abd-a49f-30b1135215e5</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/4cc02fad-2507-4abd-a49f-30b1135215e5</guid>
+<description>As part of our Summer of Play, try your hand at archery on the play field. Who will be the first to hit the bullseye?</description>
+<pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-14T11:00:00</ify:start>
+<ify:end>2026-08-28T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/4cc02fad-2507-4abd-a49f-30b1135215e5">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Summer Celebration in Lister Park and Cartwright Hall</title>
@@ -1402,6 +1742,23 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wellbeing-walks-5xyn">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Children’s Summer Art Club</title>
+<link>https://experiencewakefield.co.uk/event/childrens-summer-art-club/</link>
+<guid>https://experiencewakefield.co.uk/event/childrens-summer-art-club/</guid>
+<description>Activity Art Families Workshop</description>
+<pubDate>Thu, 20 Aug 2026 13:00:00 +0000</pubDate>
+<ify:start>2026-08-20T13:00:00</ify:start>
+<ify:end>2026-08-27T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 20 Aug - Thu 27 Aug 2026 13:00 - 15:00 The Art House</location>
+<ify:location>Thu 20 Aug - Thu 27 Aug 2026 13:00 - 15:00 The Art House</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/childrens-summer-art-club/">Experience Wakefield</source>
 </item>
 <item>
 <title>Pontefract Ghost Walk</title>
@@ -1667,19 +2024,19 @@
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/ocean-colour-scene/">Yorkshire Wildlife Park</source>
 </item>
 <item>
-<title>1152 Club: Talks at Abbey House Museum</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-abbey-house-museum-cg1t</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-abbey-house-museum-cg1t</guid>
+<title>1152 Club: Talks at Kirkstall Abbey</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</guid>
 <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
 <ify:start>2026-09-01T15:00:00</ify:start>
 <ify:end>2026-12-01T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Abbey House Museum</location>
-<ify:location>Abbey House Museum</ify:location>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-abbey-house-museum-cg1t">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Michael Ball - Glow UK Tour 2026</title>
@@ -1747,7 +2104,7 @@
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4</guid>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11</ify:start>
-<ify:end>2026-09-13</ify:end>
+<ify:end>2026-09-20</ify:end>
 <ify:allDay>true</ify:allDay>
 <location>Leeds Industrial Museum</location>
 <ify:location>Leeds Industrial Museum</ify:location>
@@ -1786,24 +2143,6 @@
 <source url="https://experiencewakefield.co.uk/event/nice-stories-and-rhymes-with-michael-rosen/">Experience Wakefield</source>
 </item>
 <item>
-<title>Dino Discovery Day</title>
-<link>https://experiencewakefield.co.uk/event/dino-discovery-day/</link>
-<guid>https://experiencewakefield.co.uk/event/dino-discovery-day/</guid>
-<description>Activity Adventure Craft Families Food and Drink Heritage Talk Theatre Workshop</description>
-<pubDate>Sun, 13 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-13T10:00:00</ify:start>
-<ify:end>2026-09-13T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 13 Sep - Sun 13 Sep 2026 10:00 - 17:00 National Coal Mining Museum</location>
-<ify:location>Sun 13 Sep - Sun 13 Sep 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/dino-discovery-day/">Experience Wakefield</source>
-</item>
-<item>
 <title>Part of Heritage Open Days 2026</title>
 <link>https://experiencewakefield.co.uk/event/the-hidden-lives-of-elizabeth-joe-love/</link>
 <guid>https://experiencewakefield.co.uk/event/the-hidden-lives-of-elizabeth-joe-love/</guid>
@@ -1832,23 +2171,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/heritage-open-days-museum-store-tours/">Experience Wakefield</source>
-</item>
-<item>
-<title>Part of Heritage Open Days 2026</title>
-<link>https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/</link>
-<guid>https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/</guid>
-<description>Activity Art Families Heritage</description>
-<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-<ify:start>2026-09-18T12:00:00</ify:start>
-<ify:end>2026-09-19T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 18 Sep - Sat 19 Sep 2026 12:00 - 17:00 Nostell, National Trust</location>
-<ify:location>Fri 18 Sep - Sat 19 Sep 2026 12:00 - 17:00 Nostell, National Trust</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/heritage-open-days-at-nostell/">Experience Wakefield</source>
 </item>
 <item>
 <title>View from The Deep Roof: Heritage Open Day Tours 18th &amp; 19th September 2026 10am-2pm Back for 2026’s Heritage Open Days programme: View from The Roof Tours! Join us on the 18th and 19th... Find out more</title>
@@ -1882,6 +2204,23 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/">Experience Wakefield</source>
+</item>
+<item>
+<title>Part of Heritage Open Days 2026</title>
+<link>https://experiencewakefield.co.uk/event/a-history-of-queens-mill/</link>
+<guid>https://experiencewakefield.co.uk/event/a-history-of-queens-mill/</guid>
+<description>Exhibition Families Heritage Talk</description>
+<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-19T10:00:00</ify:start>
+<ify:end>2026-09-19T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 19 Sep - Sat 19 Sep 2026 10:00 - 16:00 Queen's Mill</location>
+<ify:location>Sat 19 Sep - Sat 19 Sep 2026 10:00 - 16:00 Queen's Mill</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/a-history-of-queens-mill/">Experience Wakefield</source>
 </item>
 <item>
 <title>Celebrate West Yorkshire Fire and Rescue Service</title>
@@ -2035,21 +2374,6 @@
 <source url="https://experiencewakefield.co.uk/event/wakefield-model-railway-show/">Experience Wakefield</source>
 </item>
 <item>
-<title>History Walk at RSPB Fairburn Ings</title>
-<link>https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/</link>
-<guid>https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/</guid>
-<description>Activity Heritage Outdoor Talk Tour Walk</description>
-<pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-18T10:00:00</ify:start>
-<ify:end>2026-10-18T12:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 18 Oct - Sun 18 Oct 2026 10:00 - 12:00 RSPB Fairburn Ings</location>
-<ify:location>Sun 18 Oct - Sun 18 Oct 2026 10:00 - 12:00 RSPB Fairburn Ings</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/">Experience Wakefield</source>
-</item>
-<item>
 <title>WildLife Foundation Creepy Carnival Charity Ball</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/wildlife-foundation-creepy-carnival-charity-ball/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/wildlife-foundation-creepy-carnival-charity-ball/</guid>
@@ -2187,44 +2511,6 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045">Yorkshire.com</source>
-</item>
-<item>
-<title>York Dark Chronicles: Devilishly Gruesome Ghost Walk</title>
-<link>https://www.yorkshire.com/york/events/other/york-dark-chronicles-devilishly-gruesome-ghost-walk-168108</link>
-<guid>https://www.yorkshire.com/york/events/other/york-dark-chronicles-devilishly-gruesome-ghost-walk-168108</guid>
-<pubDate>Tue, 08 Dec 2026 18:45:00 +0000</pubDate>
-<ify:start>2026-12-08T18:45:00</ify:start>
-<ify:end>2026-12-19T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-dark-chronicles-devilishly-gruesome-ghost-walk-168108">Yorkshire.com</source>
-</item>
-<item>
-<title>The Deathly Dark Ghost Tour of York: Experience of the Year 2024</title>
-<link>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</link>
-<guid>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</guid>
-<pubDate>Tue, 08 Dec 2026 19:00:00 +0000</pubDate>
-<ify:start>2026-12-08T19:00:00</ify:start>
-<ify:end>2026-12-23T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194">Yorkshire.com</source>
-</item>
-<item>
-<title>Beauty and the Beast</title>
-<link>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</link>
-<guid>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</guid>
-<pubDate>Wed, 24 Nov 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-11-24T19:00:00</ify:start>
-<ify:end>2028-01-03T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</location>
-<ify:location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/beauty-and-the-beast/">Experience Wakefield</source>
 </item>
 </channel>
 </rss>
