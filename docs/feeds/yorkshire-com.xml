@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml</link>
 <description>Upcoming Yorkshire events from Yorkshire.com.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 13 Aug 2026 23:45:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 02:42:57 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -58,6 +58,8 @@
 <ify:start>2026-08-13T08:00:00</ify:start>
 <ify:end>2027-08-02T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Clifford's Tower, York, Tower St, York</location>
+<ify:location>Clifford's Tower, York, Tower St, York</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
@@ -85,18 +87,6 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/yorkshire-dales-day-trip-from-york-172581">Yorkshire.com</source>
-</item>
-<item>
-<title>York's Chocolate Story</title>
-<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
-<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
-<pubDate>Thu, 13 Aug 2026 09:45:00 +0000</pubDate>
-<ify:start>2026-08-13T09:45:00</ify:start>
-<ify:end>2026-04-10T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
 </item>
 <item>
 <title>York City walking tour - History Chronicles</title>
@@ -196,6 +186,18 @@
 <source url="https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343">Yorkshire.com</source>
 </item>
 <item>
+<title>The Ghost Bus Tour York</title>
+<link>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</link>
+<guid>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</guid>
+<pubDate>Thu, 13 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-13T18:00:00</ify:start>
+<ify:end>2026-08-31T21:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045">Yorkshire.com</source>
+</item>
+<item>
 <title>Mad Alice’s The Bloody Tour of York -Best Tour Award Europe 2024</title>
 <link>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</link>
 <guid>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</guid>
@@ -218,18 +220,6 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/shadows-of-york-award-winning-historical-ghost-walk-172689">Yorkshire.com</source>
-</item>
-<item>
-<title>The Ghost Bus Tour York</title>
-<link>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</link>
-<guid>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</guid>
-<pubDate>Tue, 08 Dec 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-12-08T18:00:00</ify:start>
-<ify:end>2026-08-31T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045">Yorkshire.com</source>
 </item>
 </channel>
 </rss>
