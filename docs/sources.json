@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-14T23:26:33.861537+00:00",
+  "generated_at": "2026-08-15T01:50:40.450279+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 20,
   "registered_source_count": 61,
-  "event_count": 375,
+  "event_count": 368,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -34,12 +34,12 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 8,
+        "Theatre & Arts": 9,
         "Experiences": 24,
         "Festivals": 2,
-        "Family Days Out": 6,
+        "Family Days Out": 4,
         "Seasonal": 1,
-        "Food & Drink": 2,
+        "Food & Drink": 3,
         "Sport": 1
       },
       "status": "active"
@@ -192,10 +192,10 @@
       "name": "Visit North Yorkshire",
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml",
-      "item_count": 7,
+      "item_count": 6,
       "category_counts": {
         "Theatre & Arts": 4,
-        "Experiences": 5,
+        "Experiences": 4,
         "Family Days Out": 1
       },
       "status": "active"
@@ -271,9 +271,9 @@
       "name": "Yorkshire.com",
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 18,
+      "item_count": 12,
       "category_counts": {
-        "Experiences": 18,
+        "Experiences": 12,
         "Food & Drink": 1,
         "Family Days Out": 1
       },
@@ -700,7 +700,7 @@
       "domain": "",
       "status": "active",
       "notes": "listing adapter plus detail enrichment",
-      "item_count": 7,
+      "item_count": 6,
       "slug": "visit-north-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-north-yorkshire.xml"
     },
@@ -826,7 +826,7 @@
       "domain": "",
       "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 18,
+      "item_count": 12,
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
@@ -860,19 +860,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 215
+      "item_count": 216
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 167
+      "item_count": 160
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 59
+      "item_count": 60
     },
     {
       "name": "Sport",
@@ -884,7 +884,7 @@
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 125
+      "item_count": 123
     },
     {
       "name": "Seasonal",
