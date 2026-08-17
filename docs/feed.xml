@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 17 Aug 2026 01:54:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 07:11:31 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -55,8 +55,6 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -69,6 +67,8 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -134,20 +134,6 @@
 <source url="https://www.thepiecehall.co.uk/event/free-summer-crafting/">The Piece Hall</source>
 </item>
 <item>
-<title>Leeds City Centre Guided Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Leeds Waterfront Heritage Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
@@ -155,11 +141,21 @@
 <ify:start>2026-01-12</ify:start>
 <ify:end>2026-12-18</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
+</item>
+<item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Engineery</title>
@@ -218,6 +214,8 @@
 <ify:start>2026-02-12</ify:start>
 <ify:end>2026-09-17</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/an-evening-of-love-sex-and-scandal-at-temple-newsam/">Visit Leeds</source>
@@ -230,6 +228,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -313,6 +313,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/">Visit Leeds</source>
 </item>
 <item>
+<title>Artisan Fayre</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-01</ify:start>
+<ify:end>2026-10-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
+</item>
+<item>
 <title>Tower of Now</title>
 <link>https://www.visitbradford.com/whats-on/tower-of-now-p2280541</link>
 <guid>https://www.visitbradford.com/whats-on/tower-of-now-p2280541</guid>
@@ -343,6 +355,22 @@
 <source url="https://www.visitbradford.com/whats-on/darley-street-market-quiz-night-p2448481">Visit Bradford</source>
 </item>
 <item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-03-06T10:00:00</ify:start>
+<ify:end>2027-02-17T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Thomas Green: Brainstorm</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</guid>
@@ -362,8 +390,8 @@
 <ify:start>2026-03-08</ify:start>
 <ify:end>2026-09-06</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ceramics-market-at-sunken-studio/">Visit Leeds</source>
@@ -376,6 +404,8 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -393,18 +423,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
@@ -419,19 +437,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
 </item>
 <item>
-<title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
-<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</link>
-<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</guid>
-<description>Join our Waves of Waste co-ordinators as they give Scarborough South beach a thorough tidy up to protect marine wildlife.</description>
-<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-22</ify:start>
-<ify:end>2026-11-15</ify:end>
+<title>The Pussycat Dolls – PCD Forever Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-10-02</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</location>
-<ify:location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</ify:location>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
-<dc:creator>Yorkshire Wildlife Trust</dc:creator>
-<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates">Yorkshire Wildlife Trust</source>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Waves of Waste beach clean at Filey South (Multiple Dates)</title>
@@ -447,6 +464,21 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates">Yorkshire Wildlife Trust</source>
+</item>
+<item>
+<title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
+<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</link>
+<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</guid>
+<description>Join our Waves of Waste co-ordinators as they give Scarborough South beach a thorough tidy up to protect marine wildlife.</description>
+<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-22</ify:start>
+<ify:end>2026-11-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</location>
+<ify:location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire Wildlife Trust</dc:creator>
+<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates">Yorkshire Wildlife Trust</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -468,8 +500,6 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -483,11 +513,24 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
+</item>
+<item>
+<title>(Un)Layering the Future Past of South Asia: Young Artists’ Voices</title>
+<link>https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341</link>
+<guid>https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341</guid>
+<description>At Cartwright Hall, artworks by twelve South Asian artists highlight shared environmental, social and historical realities.</description>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-28</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
+<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341">Visit Bradford</source>
 </item>
 <item>
 <title>Global Perspectives and Islamic Calligraphy</title>
@@ -503,22 +546,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/global-perspectives-and-islamic-calligraphy-p2544321">Visit Bradford</source>
-</item>
-<item>
-<title>Jim Moir: Neo Fauna</title>
-<link>https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121</link>
-<guid>https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121</guid>
-<description>Step into the imaginative world of Jim Moir, the celebrated British artist, AKA Vic Reeves at Cartwright Hall, Bradford.</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28</ify:start>
-<ify:end>2026-08-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121">Visit Bradford</source>
 </item>
 <item>
 <title>The Big Picture</title>
@@ -551,19 +578,20 @@
 <source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
 </item>
 <item>
-<title>(Un)Layering the Future Past of South Asia: Young Artists’ Voices</title>
-<link>https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341</link>
-<guid>https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341</guid>
-<description>At Cartwright Hall, artworks by twelve South Asian artists highlight shared environmental, social and historical realities.</description>
+<title>Jim Moir: Neo Fauna</title>
+<link>https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121</link>
+<guid>https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121</guid>
+<description>Step into the imaginative world of Jim Moir, the celebrated British artist, AKA Vic Reeves at Cartwright Hall, Bradford.</description>
 <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-03-28</ify:start>
-<ify:end>2026-12-31</ify:end>
+<ify:end>2026-08-31</ify:end>
 <ify:allDay>true</ify:allDay>
 <location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
 <ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
 <category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/jim-moir-neo-fauna-p2504121">Visit Bradford</source>
 </item>
 <item>
 <title>Events calendar</title>
@@ -1154,34 +1182,6 @@
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/art-for-wellbeing-93/">York Museums Trust</source>
 </item>
 <item>
-<title>Events calendar</title>
-<link>https://yorkmuseumstrust.org.uk/whats-on/events/life-drawing-model-as-muse-62/</link>
-<guid>https://yorkmuseumstrust.org.uk/whats-on/events/life-drawing-model-as-muse-62/</guid>
-<description>Sign up to our Mailing List here</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28T00:00:00</ify:start>
-<ify:end>2026-09-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Family Days Out</category>
-<dc:creator>York Museums Trust</dc:creator>
-<source url="https://yorkmuseumstrust.org.uk/whats-on/events/life-drawing-model-as-muse-62/">York Museums Trust</source>
-</item>
-<item>
-<title>Events calendar</title>
-<link>https://yorkmuseumstrust.org.uk/whats-on/events/sketchbook-circle-at-york-art-gallery-58/</link>
-<guid>https://yorkmuseumstrust.org.uk/whats-on/events/sketchbook-circle-at-york-art-gallery-58/</guid>
-<description>Sign up to our Mailing List here</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28T00:00:00</ify:start>
-<ify:end>2026-09-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Family Days Out</category>
-<dc:creator>York Museums Trust</dc:creator>
-<source url="https://yorkmuseumstrust.org.uk/whats-on/events/sketchbook-circle-at-york-art-gallery-58/">York Museums Trust</source>
-</item>
-<item>
 <title>Nature Trail – Sat 28 Mar 2026</title>
 <link>https://yorkmuseumstrust.org.uk/whats-on/events/spring-trail/</link>
 <guid>https://yorkmuseumstrust.org.uk/whats-on/events/spring-trail/</guid>
@@ -1292,6 +1292,22 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-rugby-league-fixtures-2026">Visit Doncaster</source>
 </item>
 <item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-04-15T10:00:00</ify:start>
+<ify:end>2026-12-30T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Waves of Waste beach clean at Fraisthorpe (Multiple Dates)</title>
 <link>https://www.ywt.org.uk/events/2026-04-19-waves-waste-beach-clean-fraisthorpe-multiple-dates</link>
 <guid>https://www.ywt.org.uk/events/2026-04-19-waves-waste-beach-clean-fraisthorpe-multiple-dates</guid>
@@ -1326,11 +1342,25 @@
 <ify:start>2026-04-22</ify:start>
 <ify:end>2027-04-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-04-22T10:00:00</ify:start>
+<ify:end>2027-06-01T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Phantasmagoria: Folkloric Sculpture for the Digital Age</title>
@@ -1345,6 +1375,22 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/phantasmagoria-folkloric-sculpture-for-the-digital-age/">Visit Leeds</source>
 </item>
 <item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-04-29T10:00:00</ify:start>
+<ify:end>2027-01-13T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Northern Market Open Mic Night</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/</guid>
@@ -1353,6 +1399,8 @@
 <ify:start>2026-04-30</ify:start>
 <ify:end>2026-08-27</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/">Visit Leeds</source>
@@ -1415,6 +1463,24 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+</item>
+<item>
 <title>Heritage</title>
 <link>https://www.visitdoncaster.com/whats-on/heritage/</link>
 <guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
@@ -1453,24 +1519,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
 <link>https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331</link>
 <guid>https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331</guid>
@@ -1484,6 +1532,22 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331">Visit Bradford</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-05-13T10:00:00</ify:start>
+<ify:end>2027-01-27T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Setting The Stage: 70 Years Of The Eurovision Song Contest</title>
@@ -1527,6 +1591,22 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday">Visit Doncaster</source>
 </item>
 <item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-05-20T10:00:00</ify:start>
+<ify:end>2027-03-02T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Hannah Catherine Jones: UNEARTHING(S)</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/</guid>
@@ -1534,9 +1614,27 @@
 <ify:start>2026-05-21</ify:start>
 <ify:end>2026-08-30</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/">Visit Leeds</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-05-27T10:00:00</ify:start>
+<ify:end>2027-10-02T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Museums for Play &amp; Growth – Early Years Sessions</title>
@@ -1553,6 +1651,22 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181">Visit Bradford</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-06-05T10:00:00</ify:start>
+<ify:end>2027-01-20T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
@@ -2516,6 +2630,22 @@
 <source url="https://www.visitbradford.com/whats-on/technicolor-summer-p2629981">Visit Bradford</source>
 </item>
 <item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-04T10:00:00</ify:start>
+<ify:end>2026-12-23T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Wet Felting Workshops</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</guid>
@@ -2631,202 +2761,6 @@
 <source url="https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens">Visit North Yorkshire</source>
 </item>
 <item>
-<title>York - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</link>
-<guid>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</guid>
-<pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-16T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Museum Gardens, Museum Street, York</location>
-<ify:location>Museum Gardens, Museum Street, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
-</item>
-<item>
-<title>Leeds - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</link>
-<guid>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</guid>
-<pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-16T07:00:00</ify:start>
-<ify:end>2027-05-31T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Leeds Central Library, Calverley St, Leeds</location>
-<ify:location>Leeds Central Library, Calverley St, Leeds</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
-</item>
-<item>
-<title>Sheffield - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</guid>
-<pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-16T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around Sheffield with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around Leeds with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</link>
-<guid>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
-<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
-</item>
-<item>
-<title>A Fatal Feud - An Immersive Treasure Hunt Murder Mystery - The Secret City</title>
-<link>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</link>
-<guid>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
-</item>
-<item>
-<title>Hop-On Hop-Off Bus York</title>
-<link>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</link>
-<guid>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</guid>
-<pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-08-16T09:00:00</ify:start>
-<ify:end>2026-10-10T09:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
-</item>
-<item>
-<title>York's Chocolate Story</title>
-<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
-<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
-<pubDate>Sun, 16 Aug 2026 09:45:00 +0000</pubDate>
-<ify:start>2026-08-16T09:45:00</ify:start>
-<ify:end>2026-11-10T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
-</item>
-<item>
-<title>York City walking tour - History Chronicles</title>
-<link>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</link>
-<guid>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</guid>
-<pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-16T10:00:00</ify:start>
-<ify:end>2026-12-20T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136">Yorkshire.com</source>
-</item>
-<item>
-<title>Catch a Killer: An Immersive Murder Mystery Experience in Sheffield</title>
-<link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
-<pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-16T10:00:00</ify:start>
-<ify:end>2026-09-30T21:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068">Yorkshire.com</source>
-</item>
-<item>
-<title>Guided Bike Tour in York</title>
-<link>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</link>
-<guid>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</guid>
-<pubDate>Sun, 16 Aug 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-08-16T10:30:00</ify:start>
-<ify:end>2026-12-30T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215">Yorkshire.com</source>
-</item>
-<item>
-<title>Shared Walking Tour in York</title>
-<link>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</link>
-<guid>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</guid>
-<pubDate>Sun, 16 Aug 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-08-16T10:30:00</ify:start>
-<ify:end>2027-09-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161">Yorkshire.com</source>
-</item>
-<item>
-<title>Harry Potter Walking Tour in York</title>
-<link>https://www.yorkshire.com/york/events/other/harry-potter-walking-tour-in-york-600620</link>
-<guid>https://www.yorkshire.com/york/events/other/harry-potter-walking-tour-in-york-600620</guid>
-<pubDate>Sun, 16 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-16T11:00:00</ify:start>
-<ify:end>2026-12-31T14:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/harry-potter-walking-tour-in-york-600620">Yorkshire.com</source>
-</item>
-<item>
-<title>York Historical Gems Tour &amp; A Taste of York Chocolate</title>
-<link>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</link>
-<guid>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</guid>
-<pubDate>Sun, 16 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-16T11:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157">Yorkshire.com</source>
-</item>
-<item>
-<title>1-Hour Public Cruise</title>
-<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
-<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
-<pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
-<ify:start>2026-08-16T12:00:00</ify:start>
-<ify:end>2026-11-22T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
-</item>
-<item>
 <title>Summer Deer Tractor Tours</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
@@ -2855,6 +2789,18 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
+</item>
+<item>
+<title>Herriot and Yorkshire Dales Day Trip from York</title>
+<link>https://www.yorkshire.com/york/events/other/herriot-and-yorkshire-dales-day-trip-from-york-172495</link>
+<guid>https://www.yorkshire.com/york/events/other/herriot-and-yorkshire-dales-day-trip-from-york-172495</guid>
+<pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-17T09:00:00</ify:start>
+<ify:end>2026-10-30T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/herriot-and-yorkshire-dales-day-trip-from-york-172495">Yorkshire.com</source>
 </item>
 <item>
 <title>Kadir Karababa: One Song</title>
@@ -3016,6 +2962,31 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
 </item>
 <item>
+<title>Family Sports Day</title>
+<link>https://www.yorkshire.com/catterick-bridge/events/family/2026-08-16-catterick-racecourse-family-sports-day</link>
+<guid>https://www.yorkshire.com/catterick-bridge/events/family/2026-08-16-catterick-racecourse-family-sports-day</guid>
+<pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-17T10:00:00</ify:start>
+<ify:end>2026-08-17T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/catterick-bridge/events/family/2026-08-16-catterick-racecourse-family-sports-day">Yorkshire.com</source>
+</item>
+<item>
+<title>Scarborough Spa Orchestra Morning Concert</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3h48m</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3h48m</guid>
+<pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-17T10:00:00</ify:start>
+<ify:end>2026-08-17T10:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3h48m">Yorkshire.com</source>
+</item>
+<item>
 <title>Fixing Fairytales with Gina Kaminski</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</guid>
@@ -3064,6 +3035,19 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/1bb597a6-0722-4234-bbf2-544691e09646">National Trust Yorkshire</source>
 </item>
 <item>
+<title>Wizard Walk of York - WINNER Best Tour &amp; Best of York Award 2024</title>
+<link>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</link>
+<guid>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</guid>
+<pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-17T11:00:00</ify:start>
+<ify:end>2027-02-01T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770">Yorkshire.com</source>
+</item>
+<item>
 <title>Wakefield Trinity RLFC Fixtures</title>
 <link>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</link>
 <guid>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</guid>
@@ -3081,6 +3065,18 @@
 <source url="https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/">Experience Wakefield</source>
 </item>
 <item>
+<title>Scarborough Spa Orchestra Monday Evening Concerts</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-monday-evening-concerts-1agzk8ggkdaw0g5</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-monday-evening-concerts-1agzk8ggkdaw0g5</guid>
+<pubDate>Mon, 17 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-17T18:00:00</ify:start>
+<ify:end>2026-08-17T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-monday-evening-concerts-1agzk8ggkdaw0g5">Yorkshire.com</source>
+</item>
+<item>
 <title>Wakefield Ghost Walk</title>
 <link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
 <guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
@@ -3093,6 +3089,82 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
+</item>
+<item>
+<title>High Fade</title>
+<link>https://www.yorkshire.com/york/events/music/high-fade-lvz18qqwhdpserzziu3u3</link>
+<guid>https://www.yorkshire.com/york/events/music/high-fade-lvz18qqwhdpserzziu3u3</guid>
+<pubDate>Mon, 17 Aug 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-08-17T18:30:00</ify:start>
+<ify:end>2026-08-17T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/music/high-fade-lvz18qqwhdpserzziu3u3">Yorkshire.com</source>
+</item>
+<item>
+<title>Talib Kweli</title>
+<link>https://www.yorkshire.com/headingley/events/music/talib-kweli-lvz18q0a031l2zkr0enh8</link>
+<guid>https://www.yorkshire.com/headingley/events/music/talib-kweli-lvz18q0a031l2zkr0enh8</guid>
+<pubDate>Mon, 17 Aug 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-08-17T18:30:00</ify:start>
+<ify:end>2026-08-17T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/headingley/events/music/talib-kweli-lvz18q0a031l2zkr0enh8">Yorkshire.com</source>
+</item>
+<item>
+<title>Private York Self-Guided Tour</title>
+<link>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</link>
+<guid>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-18T00:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York</location>
+<ify:location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584">Yorkshire.com</source>
+</item>
+<item>
+<title>Durham’s Landmarks and Legends: A Self-Guided Audio Tour</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-18T00:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham</location>
+<ify:location>Durham Market Place, Durham</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275">Yorkshire.com</source>
+</item>
+<item>
+<title>Romans, Vikings and Medieval Marvels in York: A Self-Guided Audio Tour</title>
+<link>https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645</link>
+<guid>https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-18T00:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645">Yorkshire.com</source>
+</item>
+<item>
+<title>Moors, Whitby &amp; The Yorkshire Steam Railway Day Trip from York</title>
+<link>https://www.yorkshire.com/york/events/other/moors-whitby-the-yorkshire-steam-railway-day-trip-from-york-172820</link>
+<guid>https://www.yorkshire.com/york/events/other/moors-whitby-the-yorkshire-steam-railway-day-trip-from-york-172820</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-18T00:00:00</ify:start>
+<ify:end>2026-10-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/moors-whitby-the-yorkshire-steam-railway-day-trip-from-york-172820">Yorkshire.com</source>
 </item>
 <item>
 <title>Arty in the Abbey</title>
@@ -3169,6 +3241,18 @@
 <source url="https://www.english-heritage.org.uk/visit/whats-on/me-mount-grace-priory-an-evening-of-music-aug-26/">English Heritage Yorkshire</source>
 </item>
 <item>
+<title>Scarborough Spa Orchestra Morning Concert</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hp8u</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hp8u</guid>
+<pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-18T10:00:00</ify:start>
+<ify:end>2026-08-18T10:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hp8u">Yorkshire.com</source>
+</item>
+<item>
 <title>Child's Play: Discovery Playground</title>
 <link>https://www.visitbradford.com/whats-on/childs-play-discovery-playground-p2628851</link>
 <guid>https://www.visitbradford.com/whats-on/childs-play-discovery-playground-p2628851</guid>
@@ -3185,6 +3269,42 @@
 <source url="https://www.visitbradford.com/whats-on/childs-play-discovery-playground-p2628851">Visit Bradford</source>
 </item>
 <item>
+<title>Unicorn Live!</title>
+<link>https://www.yorkshire.com/whitby/events/theatre/unicorn-live-1adfz_6gkngxahh</link>
+<guid>https://www.yorkshire.com/whitby/events/theatre/unicorn-live-1adfz_6gkngxahh</guid>
+<pubDate>Tue, 18 Aug 2026 14:30:00 +0000</pubDate>
+<ify:start>2026-08-18T14:30:00</ify:start>
+<ify:end>2026-08-18T14:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/whitby/events/theatre/unicorn-live-1adfz_6gkngxahh">Yorkshire.com</source>
+</item>
+<item>
+<title>Unicorn Live!</title>
+<link>https://www.yorkshire.com/low-hawsker/events/theatre/unicorn-live-1adfz_6gkngx4hr</link>
+<guid>https://www.yorkshire.com/low-hawsker/events/theatre/unicorn-live-1adfz_6gkngx4hr</guid>
+<pubDate>Tue, 18 Aug 2026 14:30:00 +0000</pubDate>
+<ify:start>2026-08-18T14:30:00</ify:start>
+<ify:end>2026-08-18T14:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/low-hawsker/events/theatre/unicorn-live-1adfz_6gkngx4hr">Yorkshire.com</source>
+</item>
+<item>
+<title>Huddersfield Town U21 v Gillingham FC</title>
+<link>https://www.yorkshire.com/huddersfield/events/other/huddersfield-town-u21-v-gillingham-fc-zoqgvmyxjzbypcbttnmzlmnstyvhsz76dv</link>
+<guid>https://www.yorkshire.com/huddersfield/events/other/huddersfield-town-u21-v-gillingham-fc-zoqgvmyxjzbypcbttnmzlmnstyvhsz76dv</guid>
+<pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-08-18T18:00:00</ify:start>
+<ify:end>2026-08-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/huddersfield/events/other/huddersfield-town-u21-v-gillingham-fc-zoqgvmyxjzbypcbttnmzlmnstyvhsz76dv">Yorkshire.com</source>
+</item>
+<item>
 <title>IMAX: The Odyssey (15)</title>
 <link>https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471</link>
 <guid>https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471</guid>
@@ -3198,6 +3318,30 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471">Visit Bradford</source>
+</item>
+<item>
+<title>York 3-Hour Photography Walking Tour</title>
+<link>https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755</link>
+<guid>https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-19T00:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755">Yorkshire.com</source>
+</item>
+<item>
+<title>The Best of York on Foot in a Small Group</title>
+<link>https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705</link>
+<guid>https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-19T00:00:00</ify:start>
+<ify:end>2027-01-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705">Yorkshire.com</source>
 </item>
 <item>
 <title>Urban Nature - Building in LEGO</title>
@@ -3257,6 +3401,42 @@
 <category>Family Days Out</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-holidays-art-workshops-qdkt">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Scarborough Spa Orchestra Wednesday Day Ticket</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2wqs</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2wqs</guid>
+<pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-19T10:00:00</ify:start>
+<ify:end>2026-08-19T10:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-wednesday-day-ticket-1agzk8vgkej2wqs">Yorkshire.com</source>
+</item>
+<item>
+<title>Scarborough Spa Orchestra Morning Concert</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hg8d</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hg8d</guid>
+<pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-19T10:00:00</ify:start>
+<ify:end>2026-08-19T10:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-morning-concert-1agzk8ggkd3hg8d">Yorkshire.com</source>
+</item>
+<item>
+<title>Sky Bet Ebor Festival</title>
+<link>https://www.yorkshire.com/york/events/horse-racing/2026-08-18-york-racecourse-sky-bet-ebor-festival</link>
+<guid>https://www.yorkshire.com/york/events/horse-racing/2026-08-18-york-racecourse-sky-bet-ebor-festival</guid>
+<pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-19T10:00:00</ify:start>
+<ify:end>2026-08-19T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Festivals</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/horse-racing/2026-08-18-york-racecourse-sky-bet-ebor-festival">Yorkshire.com</source>
 </item>
 <item>
 <title>Bradford Family Film Festival</title>
@@ -4335,21 +4515,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/keep-crafting-b51d">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Michael Ball - Glow UK Tour 2026</title>
-<link>https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201</link>
-<guid>https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201</guid>
-<description>Michael Ball brings his Glow UK Tour 2026 to Bradford Live, Main Auditorium.</description>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-03</ify:start>
-<ify:end>2026-09-03</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201">Visit Bradford</source>
-</item>
-<item>
 <title>Gentleman Jack</title>
 <link>https://www.visitbradford.com/whats-on/gentleman-jack-p2360321</link>
 <guid>https://www.visitbradford.com/whats-on/gentleman-jack-p2360321</guid>
@@ -4363,6 +4528,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/gentleman-jack-p2360321">Visit Bradford</source>
+</item>
+<item>
+<title>Michael Ball - Glow UK Tour 2026</title>
+<link>https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201</link>
+<guid>https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201</guid>
+<description>Michael Ball brings his Glow UK Tour 2026 to Bradford Live, Main Auditorium.</description>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-03</ify:start>
+<ify:end>2026-09-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/michael-ball-glow-uk-tour-2026-p2475201">Visit Bradford</source>
 </item>
 <item>
 <title>Little Bobbins</title>
@@ -4542,21 +4722,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Jimmy Carr</title>
-<link>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</link>
-<guid>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</guid>
-<description>Jimmy Carr brings his brand‑new show Laughs Funny to Bradford Live.</description>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2026-09-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jimmy-carr-p2513971">Visit Bradford</source>
-</item>
-<item>
 <title>IMAX: To Fly! (U) [50th anniverary]</title>
 <link>https://www.visitbradford.com/whats-on/imax-to-fly-u-50th-anniverary-p2640491</link>
 <guid>https://www.visitbradford.com/whats-on/imax-to-fly-u-50th-anniverary-p2640491</guid>
@@ -4570,6 +4735,21 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/imax-to-fly-u-50th-anniverary-p2640491">Visit Bradford</source>
+</item>
+<item>
+<title>Jimmy Carr</title>
+<link>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</link>
+<guid>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</guid>
+<description>Jimmy Carr brings his brand‑new show Laughs Funny to Bradford Live.</description>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/jimmy-carr-p2513971">Visit Bradford</source>
 </item>
 <item>
 <title>Setlist Comedy Night</title>
@@ -4680,19 +4860,20 @@
 <source url="https://www.visitbradford.com/whats-on/bryony-kimmings-bog-witch-p2510211">Visit Bradford</source>
 </item>
 <item>
-<title>The ELO Experience</title>
-<link>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</link>
-<guid>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</guid>
-<description>The multi‑award‑winning tribute to Jeff Lynne &amp; ELO marks its 20th Anniversary Tour at Bradford Live.</description>
+<title>Sunset Boulevard</title>
+<link>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</link>
+<guid>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</guid>
+<description>This autumn, “Theatrical Powerhouse” Diva Productions brings Sunset Boulevard to the iconic Alhambra Theatre.</description>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-10</ify:start>
-<ify:end>2026-09-10</ify:end>
+<ify:end>2026-09-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
+<location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
+<ify:location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-elo-experience-p2513991">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311">Visit Bradford</source>
 </item>
 <item>
 <title>Psychic Sally</title>
@@ -4710,20 +4891,19 @@
 <source url="https://www.visitbradford.com/whats-on/psychic-sally-p2411941">Visit Bradford</source>
 </item>
 <item>
-<title>Sunset Boulevard</title>
-<link>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</link>
-<guid>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</guid>
-<description>This autumn, “Theatrical Powerhouse” Diva Productions brings Sunset Boulevard to the iconic Alhambra Theatre.</description>
+<title>The ELO Experience</title>
+<link>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</link>
+<guid>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</guid>
+<description>The multi‑award‑winning tribute to Jeff Lynne &amp; ELO marks its 20th Anniversary Tour at Bradford Live.</description>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-10</ify:start>
-<ify:end>2026-09-12</ify:end>
+<ify:end>2026-09-10</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
-<ify:location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/the-elo-experience-p2513991">Visit Bradford</source>
 </item>
 <item>
 <title>Heritage Open Days</title>
@@ -4790,22 +4970,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p3">Visit Doncaster</source>
 </item>
 <item>
-<title>Aradhana Arts: Sangeet Yatra</title>
-<link>https://www.visitbradford.com/whats-on/aradhana-arts-sangeet-yatra-p2618371</link>
-<guid>https://www.visitbradford.com/whats-on/aradhana-arts-sangeet-yatra-p2618371</guid>
-<description>A captivating journey of classical Indian music and heritage at Bradford Arts Centre.</description>
-<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-12</ify:start>
-<ify:end>2026-09-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Arts Centre, St Peters House, 1 Forster Square, Bradford, West Yorkshire, BD1 4TY</location>
-<ify:location>Bradford Arts Centre, St Peters House, 1 Forster Square, Bradford, West Yorkshire, BD1 4TY</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/aradhana-arts-sangeet-yatra-p2618371">Visit Bradford</source>
-</item>
-<item>
 <title>Harvest Weekend</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/harvest-weekend-x8v6</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/harvest-weekend-x8v6</guid>
@@ -4818,6 +4982,22 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/harvest-weekend-x8v6">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>St Clements Open Day - Heritage Open Days</title>
+<link>https://www.visitbradford.com/whats-on/st-clements-open-day-heritage-open-days-p2597581</link>
+<guid>https://www.visitbradford.com/whats-on/st-clements-open-day-heritage-open-days-p2597581</guid>
+<description>St Clement's Church on Barkerend Road is a Victorian delight built in 1892 and will be opening its doors on two Saturdays this September as part of Heritage Open Days</description>
+<pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-12T10:00:00</ify:start>
+<ify:end>2026-09-12T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>St Clements Church, Barkerend Road, Bradford, West Yorkshire, BD3 9DF</location>
+<ify:location>St Clements Church, Barkerend Road, Bradford, West Yorkshire, BD3 9DF</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/st-clements-open-day-heritage-open-days-p2597581">Visit Bradford</source>
 </item>
 <item>
 <title>The Ten Hours Parson at St John the Evangelist Bierley - Heritage Open Days</title>
