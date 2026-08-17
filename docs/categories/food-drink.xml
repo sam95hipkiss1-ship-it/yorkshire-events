@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 17 Aug 2026 07:11:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 23:28:05 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -68,8 +66,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -83,6 +79,8 @@
 <ify:start>2026-02-20</ify:start>
 <ify:end>2026-10-23</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/birding-for-beginners-rspb-st-aidans/">Visit Leeds</source>
@@ -110,8 +108,6 @@
 <ify:start>2026-03-08</ify:start>
 <ify:end>2026-09-06</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ceramics-market-at-sunken-studio/">Visit Leeds</source>
@@ -124,8 +120,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -216,8 +210,8 @@
 <ify:start>2026-04-30</ify:start>
 <ify:end>2026-08-27</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/">Visit Leeds</source>
@@ -372,12 +366,31 @@
 <source url="https://experiencewakefield.co.uk/event/canal-boat-trips/">Experience Wakefield</source>
 </item>
 <item>
+<title>Summer Holidays</title>
+<link>https://experiencewakefield.co.uk/event/summer-holidays/</link>
+<guid>https://experiencewakefield.co.uk/event/summer-holidays/</guid>
+<description>Activity Adventure Art Craft Exhibition Fair Families Food and Drink Heritage Music Performance Sports Talk Theatre Walk Workshop</description>
+<pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-17T10:00:00</ify:start>
+<ify:end>2026-08-30T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 30 Aug 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Now - Sun 30 Aug 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/summer-holidays/">Experience Wakefield</source>
+</item>
+<item>
 <title>Fixing Fairytales with Gina Kaminski</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</guid>
 <description>Discover our family-friendly exhibition this summer.</description>
-<pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-08-17T10:30:00</ify:start>
+<pubDate>Tue, 18 Aug 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-08-18T10:30:00</ify:start>
 <ify:end>2026-09-06T17:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Nunnington Hall, near York, North Yorkshire</location>
@@ -449,6 +462,24 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/taste-of-thailand-music-and-food-festival">Visit Doncaster</source>
+</item>
+<item>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-22</ify:start>
+<ify:end>2026-08-22</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Baildon Farmers Market</title>
@@ -612,26 +643,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04</ify:start>
-<ify:end>2026-09-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p3">Visit Doncaster</source>
-</item>
-<item>
-<title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -644,12 +657,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -662,12 +675,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -680,7 +693,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage Craft Workshop: Mosaic Garden Birdbath</title>
@@ -732,8 +745,8 @@
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11T00:00:00</ify:start>
@@ -746,16 +759,16 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-14T00:00:00</ify:start>
-<ify:end>2026-09-17T00:00:00</ify:end>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11T00:00:00</ify:start>
+<ify:end>2026-09-20T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -764,7 +777,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>The Hepworth Wakefield Harvest Festival</title>
@@ -806,14 +819,13 @@
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
+<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent... \n</description>
 <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-09-26T10:00:00</ify:start>
 <ify:end>2026-09-27T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
-<category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
@@ -870,8 +882,8 @@
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p8</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p8</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p8</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p8</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 13 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-13T00:00:00</ify:start>
@@ -884,12 +896,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-17/2027-08-17/p8">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-18/2027-08-18/p8">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p4</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p4</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p4</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p4</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 20 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-20T00:00:00</ify:start>
@@ -902,16 +914,16 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-17/2027-08-17/p4">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-18/2027-08-18/p4">Visit Doncaster</source>
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p16</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p16</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p16</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p16</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 18 Mar 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-03-18</ify:start>
-<ify:end>2027-03-18</ify:end>
+<pubDate>Fri, 12 Mar 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-03-12</ify:start>
+<ify:end>2027-03-12</ify:end>
 <ify:allDay>true</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -920,7 +932,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-17/2027-08-17/p16">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-18/2027-08-18/p16">Visit Doncaster</source>
 </item>
 </channel>
 </rss>
