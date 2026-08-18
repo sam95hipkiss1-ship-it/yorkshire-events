@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Tue, 18 Aug 2026 01:50:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 06:58:34 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,8 +28,6 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -54,8 +52,6 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -78,6 +74,20 @@
 <source url="https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve">Yorkshire Wildlife Trust</source>
 </item>
 <item>
+<title>Leeds Waterfront Heritage Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>Leeds City Centre Guided Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
@@ -88,18 +98,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
-</item>
-<item>
-<title>Leeds Waterfront Heritage Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>‘Some Steel’: Sculpture and Steel in Britain, 1960-90</title>
@@ -138,18 +136,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/an-evening-of-love-sex-and-scandal-at-temple-newsam/">Visit Leeds</source>
 </item>
 <item>
-<title>Phil Ellis: Bath Mat</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/</guid>
-<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-02-19</ify:start>
-<ify:end>2026-09-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/">Visit Leeds</source>
-</item>
-<item>
 <title>Story Explorers</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/story-explorers/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/story-explorers/</guid>
@@ -160,6 +146,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/story-explorers/">Visit Leeds</source>
+</item>
+<item>
+<title>Phil Ellis: Bath Mat</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-02-19</ify:start>
+<ify:end>2026-09-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/">Visit Leeds</source>
 </item>
 <item>
 <title>In The Picture: Objects in Focus</title>
@@ -242,20 +240,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
-<title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-09-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem 19th March 2026 - 17th September 2026</location>
-<ify:location>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem 19th March 2026 - 17th September 2026</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
-</item>
-<item>
 <title>The Pussycat Dolls – PCD Forever Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
@@ -268,19 +252,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
-<title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
-<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</link>
-<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</guid>
-<description>Join our Waves of Waste co-ordinators as they give Scarborough South beach a thorough tidy up to protect marine wildlife.</description>
-<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-22</ify:start>
-<ify:end>2026-11-15</ify:end>
+<title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-09-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</location>
-<ify:location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</ify:location>
+<location>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem 19th March 2026 - 17th September 2026</location>
+<ify:location>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem 19th March 2026 - 17th September 2026</ify:location>
 <category>Experiences</category>
-<dc:creator>Yorkshire Wildlife Trust</dc:creator>
-<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates">Yorkshire Wildlife Trust</source>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
 </item>
 <item>
 <title>Waves of Waste beach clean at Filey South (Multiple Dates)</title>
@@ -296,6 +279,21 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire Wildlife Trust</dc:creator>
 <source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-filey-south-multiple-dates">Yorkshire Wildlife Trust</source>
+</item>
+<item>
+<title>Waves of Waste beach clean at Scarborough South (Multiple Dates)</title>
+<link>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</link>
+<guid>https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates</guid>
+<description>Join our Waves of Waste co-ordinators as they give Scarborough South beach a thorough tidy up to protect marine wildlife.</description>
+<pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-22</ify:start>
+<ify:end>2026-11-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</location>
+<ify:location>Scarborough South Bay, Scarborough South Bay, Scarborough, North Yorkshire, YO11 1PB</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire Wildlife Trust</dc:creator>
+<source url="https://www.ywt.org.uk/events/2026-03-22-waves-waste-beach-clean-scarborough-south-multiple-dates">Yorkshire Wildlife Trust</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -501,8 +499,6 @@
 <ify:start>2026-06-22</ify:start>
 <ify:end>2026-09-06</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
-<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -998,174 +994,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Leeds - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</link>
-<guid>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</guid>
-<pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-16T07:00:00</ify:start>
-<ify:end>2027-05-31T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Leeds Central Library, Calverley St, Leeds</location>
-<ify:location>Leeds Central Library, Calverley St, Leeds</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
-</item>
-<item>
-<title>York - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</link>
-<guid>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</guid>
-<pubDate>Sun, 16 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-16T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Museum Gardens, Museum Street, York</location>
-<ify:location>Museum Gardens, Museum Street, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around Leeds with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</link>
-<guid>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Leeds Art Gallery, The Headrow, Leeds</location>
-<ify:location>Leeds Art Gallery, The Headrow, Leeds</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864">Yorkshire.com</source>
-</item>
-<item>
-<title>A Fatal Feud - An Immersive Treasure Hunt Murder Mystery - The Secret City</title>
-<link>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</link>
-<guid>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Clifford's Tower, York, Tower St, York</location>
-<ify:location>Clifford's Tower, York, Tower St, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around Sheffield with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tudor Square, Sheffield City Centre</location>
-<ify:location>Tudor Square, Sheffield City Centre</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857">Yorkshire.com</source>
-</item>
-<item>
-<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
-<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
-<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
-<pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-<ify:start>2026-08-16T08:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Unnamed Road</location>
-<ify:location>Unnamed Road</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
-</item>
-<item>
-<title>York's Chocolate Story</title>
-<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
-<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
-<pubDate>Sun, 16 Aug 2026 09:45:00 +0000</pubDate>
-<ify:start>2026-08-16T09:45:00</ify:start>
-<ify:end>2026-11-10T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>York's Chocolate Story, 3-4 King's Square, York</location>
-<ify:location>York's Chocolate Story, 3-4 King's Square, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
-</item>
-<item>
-<title>Catch a Killer: An Immersive Murder Mystery Experience in Sheffield</title>
-<link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
-<pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-16T10:00:00</ify:start>
-<ify:end>2026-09-30T21:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Devonshire Green, 158 Devonshire Street, Sheffield</location>
-<ify:location>Devonshire Green, 158 Devonshire Street, Sheffield</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068">Yorkshire.com</source>
-</item>
-<item>
-<title>Guided Bike Tour in York</title>
-<link>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</link>
-<guid>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</guid>
-<pubDate>Sun, 16 Aug 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-08-16T10:30:00</ify:start>
-<ify:end>2026-12-30T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Brew York, Unit 6, Enterprise Complex, Walmgate, York</location>
-<ify:location>Brew York, Unit 6, Enterprise Complex, Walmgate, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215">Yorkshire.com</source>
-</item>
-<item>
-<title>Shared Walking Tour in York</title>
-<link>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</link>
-<guid>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</guid>
-<pubDate>Sun, 16 Aug 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-08-16T10:30:00</ify:start>
-<ify:end>2027-09-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>25 High Petergate, 25 High Petergate, York</location>
-<ify:location>25 High Petergate, 25 High Petergate, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161">Yorkshire.com</source>
-</item>
-<item>
-<title>York Historical Gems Tour &amp; A Taste of York Chocolate</title>
-<link>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</link>
-<guid>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</guid>
-<pubDate>Sun, 16 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-16T11:00:00</ify:start>
-<ify:end>2027-10-02T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>20 Davygate, 20 Davygate, York</location>
-<ify:location>20 Davygate, 20 Davygate, York</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157">Yorkshire.com</source>
-</item>
-<item>
-<title>1-Hour Public Cruise</title>
-<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
-<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
-<pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
-<ify:start>2026-08-16T12:00:00</ify:start>
-<ify:end>2026-11-22T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</location>
-<ify:location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
-</item>
-<item>
 <title>Curious About Harrogate - Valley Gardens</title>
 <link>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</link>
 <guid>https://visitnorthyorkshire.com/events/1221331-curious-about-harrogate-valley-gardens</guid>
@@ -1184,6 +1012,7 @@
 <title>Botanical, Treasures, and Landscapes - Jean Hardy - The Station</title>
 <link>https://visitnorthyorkshire.com/events/3058435-botanical-treasures-and-landscapes-jean-hardy-the-station</link>
 <guid>https://visitnorthyorkshire.com/events/3058435-botanical-treasures-and-landscapes-jean-hardy-the-station</guid>
+<description>Using an early alternative photographic process, called making 'Cyanotypes or Blueprints', which dates back to 1842, Jean and Malcolm record and print…</description>
 <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-17</ify:start>
 <ify:end>2026-08-26</ify:end>
@@ -1193,6 +1022,20 @@
 <category>Experiences</category>
 <dc:creator>Visit North Yorkshire</dc:creator>
 <source url="https://visitnorthyorkshire.com/events/3058435-botanical-treasures-and-landscapes-jean-hardy-the-station">Visit North Yorkshire</source>
+</item>
+<item>
+<title>Leeds - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
+<link>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</link>
+<guid>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</guid>
+<pubDate>Mon, 17 Aug 2026 07:00:00 +0000</pubDate>
+<ify:start>2026-08-17T07:00:00</ify:start>
+<ify:end>2027-05-31T07:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Leeds Central Library, Calverley St, Leeds</location>
+<ify:location>Leeds Central Library, Calverley St, Leeds</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
 </item>
 <item>
 <title>Sheffield - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
@@ -1207,6 +1050,76 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
+</item>
+<item>
+<title>York - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
+<link>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</link>
+<guid>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</guid>
+<pubDate>Mon, 17 Aug 2026 07:00:00 +0000</pubDate>
+<ify:start>2026-08-17T07:00:00</ify:start>
+<ify:end>2028-01-06T07:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Museum Gardens, Museum Street, York</location>
+<ify:location>Museum Gardens, Museum Street, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around Leeds with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</link>
+<guid>https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864</guid>
+<pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-17T08:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Leeds Art Gallery, The Headrow, Leeds</location>
+<ify:location>Leeds Art Gallery, The Headrow, Leeds</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/fun-flexible-treasure-hunt-around-leeds-with-cryptic-clues-hidden-gems-166864">Yorkshire.com</source>
+</item>
+<item>
+<title>A Fatal Feud - An Immersive Treasure Hunt Murder Mystery - The Secret City</title>
+<link>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</link>
+<guid>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</guid>
+<pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-17T08:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Clifford's Tower, York, Tower St, York</location>
+<ify:location>Clifford's Tower, York, Tower St, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around Sheffield with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</guid>
+<pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-17T08:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tudor Square, Sheffield City Centre</location>
+<ify:location>Tudor Square, Sheffield City Centre</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
+<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
+<pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
+<ify:start>2026-08-17T08:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Unnamed Road</location>
+<ify:location>Unnamed Road</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
 </item>
 <item>
 <title>Herriot and Yorkshire Dales Day Trip from York</title>
@@ -1237,6 +1150,62 @@
 <source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
 </item>
 <item>
+<title>Catch a Killer: An Immersive Murder Mystery Experience in Sheffield</title>
+<link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
+<pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-17T10:00:00</ify:start>
+<ify:end>2026-09-30T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Devonshire Green, 158 Devonshire Street, Sheffield</location>
+<ify:location>Devonshire Green, 158 Devonshire Street, Sheffield</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068">Yorkshire.com</source>
+</item>
+<item>
+<title>York's Chocolate Story</title>
+<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
+<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
+<pubDate>Mon, 17 Aug 2026 10:15:00 +0000</pubDate>
+<ify:start>2026-08-17T10:15:00</ify:start>
+<ify:end>2026-11-10T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>York's Chocolate Story, 3-4 King's Square, York</location>
+<ify:location>York's Chocolate Story, 3-4 King's Square, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
+</item>
+<item>
+<title>Guided Bike Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</link>
+<guid>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</guid>
+<pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-08-17T10:30:00</ify:start>
+<ify:end>2026-12-30T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Brew York, Unit 6, Enterprise Complex, Walmgate, York</location>
+<ify:location>Brew York, Unit 6, Enterprise Complex, Walmgate, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215">Yorkshire.com</source>
+</item>
+<item>
+<title>Shared Walking Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</link>
+<guid>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</guid>
+<pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-08-17T10:30:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>25 High Petergate, 25 High Petergate, York</location>
+<ify:location>25 High Petergate, 25 High Petergate, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161">Yorkshire.com</source>
+</item>
+<item>
 <title>Wizard Walk of York - WINNER Best Tour &amp; Best of York Award 2024</title>
 <link>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</link>
 <guid>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</guid>
@@ -1250,6 +1219,34 @@
 <category>Family Days Out</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770">Yorkshire.com</source>
+</item>
+<item>
+<title>York Historical Gems Tour &amp; A Taste of York Chocolate</title>
+<link>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</link>
+<guid>https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157</guid>
+<pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-17T11:00:00</ify:start>
+<ify:end>2027-12-02T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>20 Davygate, 20 Davygate, York</location>
+<ify:location>20 Davygate, 20 Davygate, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-historical-gems-tour-a-taste-of-york-chocolate-168157">Yorkshire.com</source>
+</item>
+<item>
+<title>1-Hour Public Cruise</title>
+<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
+<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
+<pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+<ify:start>2026-08-17T12:00:00</ify:start>
+<ify:end>2026-11-22T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</location>
+<ify:location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
 </item>
 <item>
 <title>Early Evening Boat Cruise through York</title>
@@ -1409,21 +1406,6 @@
 <category>Seasonal</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/375b835d-77a4-46e4-9815-87348964de24">National Trust Yorkshire</source>
-</item>
-<item>
-<title>IMAX: The Odyssey (15)</title>
-<link>https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471</link>
-<guid>https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471</guid>
-<description>Christopher Nolan’s epic take on the Greek legend, presented in stunning IMAX.</description>
-<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-19</ify:start>
-<ify:end>2026-08-25</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>IMAX, Bradford, West Yorkshire, BD1 1NQ</location>
-<ify:location>IMAX, Bradford, West Yorkshire, BD1 1NQ</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/imax-the-odyssey-15-p2640471">Visit Bradford</source>
 </item>
 <item>
 <title>Urban Nature - Building in LEGO</title>
@@ -1668,22 +1650,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23">Visit Doncaster</source>
 </item>
 <item>
-<title>Mehfil</title>
-<link>https://www.visitbradford.com/whats-on/mehfil-p2638521</link>
-<guid>https://www.visitbradford.com/whats-on/mehfil-p2638521</guid>
-<description>Experience the magic of Punjabi music live as Mehfil returns with an intimate evening of powerful performances, timeless classics and modern favourites at Bradford Live - Ballroom.</description>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-25</ify:start>
-<ify:end>2026-08-25</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, Ballroom, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, Ballroom, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/mehfil-p2638521">Visit Bradford</source>
-</item>
-<item>
 <title>Tea and Talk</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</guid>
@@ -1729,21 +1695,6 @@
 <category>Family Days Out</category>
 <dc:creator>Little Vikings</dc:creator>
 <source url="https://little-vikings.co.uk/events/the-rivers-and-us-rivers2u-mobile-classroom-at-homestead-park/">Little Vikings</source>
-</item>
-<item>
-<title>Elvis Tribute</title>
-<link>https://www.visitbradford.com/whats-on/elvis-tribute-p2566101</link>
-<guid>https://www.visitbradford.com/whats-on/elvis-tribute-p2566101</guid>
-<description>bradford@napoleons-casinos.co.uk</description>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-28</ify:start>
-<ify:end>2026-08-28</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Napoleons Casino &amp; Restaurant, Bradford, Bolton Road, Bradford, West Yorkshire, BD1 4DR</location>
-<ify:location>Napoleons Casino &amp; Restaurant, Bradford, Bolton Road, Bradford, West Yorkshire, BD1 4DR</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/elvis-tribute-p2566101">Visit Bradford</source>
 </item>
 <item>
 <title>Forest Weekend Retreat</title>
@@ -1792,21 +1743,6 @@
 <category>Family Days Out</category>
 <dc:creator>Little Vikings</dc:creator>
 <source url="https://little-vikings.co.uk/events/the-rivers-and-us-tracing-the-river-through-time-in-drawing/">Little Vikings</source>
-</item>
-<item>
-<title>Rotary International Book Sale</title>
-<link>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</link>
-<guid>https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371</guid>
-<description>brontebradfordrotary@gmail.com</description>
-<pubDate>Sat, 29 Aug 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-08-29T11:00:00</ify:start>
-<ify:end>2026-08-29T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>Darley Street Market (Top Floor Food Court), Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/rotary-international-book-sale-p2634371">Visit Bradford</source>
 </item>
 <item>
 <title>Pick Your Own Apples at Ampleforth Abbey</title>
