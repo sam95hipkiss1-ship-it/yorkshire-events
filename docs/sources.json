@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-21T23:26:39.248119+00:00",
+  "generated_at": "2026-08-22T01:48:13.714961+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 18,
   "registered_source_count": 61,
@@ -36,10 +36,10 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 7,
+        "Theatre & Arts": 8,
         "Experiences": 24,
         "Festivals": 2,
-        "Family Days Out": 3,
+        "Family Days Out": 4,
         "Seasonal": 1,
         "Sport": 1,
         "Food & Drink": 2
@@ -117,7 +117,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 8,
       "category_counts": {
-        "Theatre & Arts": 4,
+        "Theatre & Arts": 5,
         "Family Days Out": 1,
         "Experiences": 2,
         "Gigs": 2,
@@ -153,7 +153,7 @@
         "Sport": 29,
         "Theatre & Arts": 28,
         "Food & Drink": 17,
-        "Experiences": 11,
+        "Experiences": 10,
         "Clubs": 1,
         "Festivals": 3
       },
@@ -830,13 +830,13 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 196
+      "item_count": 198
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 156
+      "item_count": 155
     },
     {
       "name": "Food & Drink",
@@ -854,7 +854,7 @@
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 120
+      "item_count": 121
     },
     {
       "name": "Seasonal",
