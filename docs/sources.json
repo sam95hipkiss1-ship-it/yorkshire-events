@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-23T01:58:42.431935+00:00",
+  "generated_at": "2026-08-23T06:54:42.638831+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
@@ -36,13 +36,13 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 10,
+        "Theatre & Arts": 8,
         "Experiences": 24,
+        "Food & Drink": 2,
         "Festivals": 2,
         "Family Days Out": 3,
         "Seasonal": 1,
-        "Sport": 1,
-        "Food & Drink": 1
+        "Sport": 1
       },
       "status": "active"
     },
@@ -117,7 +117,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 7,
       "category_counts": {
-        "Theatre & Arts": 4,
+        "Theatre & Arts": 5,
         "Family Days Out": 1,
         "Gigs": 2,
         "Experiences": 1,
@@ -840,7 +840,7 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 207
+      "item_count": 206
     },
     {
       "name": "Experiences",
@@ -852,7 +852,7 @@
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 49
+      "item_count": 50
     },
     {
       "name": "Sport",
