@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 23 Aug 2026 06:54:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 23:23:15 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,8 +28,6 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -116,18 +114,6 @@
 <source url="https://www.ywt.org.uk/events/2026-07-01-outdoor-yoga-potteric-carr-nature-reserve">Yorkshire Wildlife Trust</source>
 </item>
 <item>
-<title>Leeds City Centre Guided Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Leeds Waterfront Heritage Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
@@ -140,6 +126,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>Engineery</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/engineery/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/engineery/</guid>
@@ -147,6 +145,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -208,8 +208,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -223,8 +221,6 @@
 <ify:start>2026-02-19</ify:start>
 <ify:end>2026-09-02</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/phil-ellis-bath-mat/">Visit Leeds</source>
@@ -261,8 +257,6 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
@@ -323,22 +317,6 @@
 <source url="https://www.visitbradford.com/whats-on/darley-street-market-quiz-night-p2448481">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-03-06T10:00:00</ify:start>
-<ify:end>2027-02-17T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-03/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Thomas Green: Brainstorm</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/</guid>
@@ -370,8 +348,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -389,6 +365,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
+<title>The Pussycat Dolls – PCD Forever Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
@@ -403,16 +391,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
 </item>
 <item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
+<title>The Mos Eisley Cantina Open Mic Night</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
 </item>
 <item>
 <title>Street Food In The Square</title>
@@ -425,18 +415,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
-</item>
-<item>
-<title>The Mos Eisley Cantina Open Mic Night</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-12-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -1242,22 +1220,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-record-fair/">Visit Leeds</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-15T10:00:00</ify:start>
-<ify:end>2026-12-30T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-15/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Lines of Enquiry: Drawings from the Collection</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/</guid>
@@ -1282,22 +1244,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-22T10:00:00</ify:start>
-<ify:end>2027-06-01T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-22/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Phantasmagoria: Folkloric Sculpture for the Digital Age</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/phantasmagoria-folkloric-sculpture-for-the-digital-age/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/phantasmagoria-folkloric-sculpture-for-the-digital-age/</guid>
@@ -1308,22 +1254,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/phantasmagoria-folkloric-sculpture-for-the-digital-age/">Visit Leeds</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 29 Apr 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-04-29T10:00:00</ify:start>
-<ify:end>2027-01-13T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-29/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Northern Market Open Mic Night</title>
@@ -1381,6 +1311,25 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+</item>
+<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -1418,25 +1367,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
 <link>https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331</link>
 <guid>https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331</guid>
@@ -1450,22 +1380,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/a-somali-village-in-lister-park-weaving-together-industry-culture-and-empire-p2544331">Visit Bradford</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-13T10:00:00</ify:start>
-<ify:end>2027-01-27T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-13/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Setting The Stage: 70 Years Of The Eurovision Song Contest</title>
@@ -1509,22 +1423,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/meet-elvie-as-farmyard-fun-takes-over-lakeside-village-this-spring-bank-holiday">Visit Doncaster</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-20T10:00:00</ify:start>
-<ify:end>2027-03-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-20/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Hannah Catherine Jones: UNEARTHING(S)</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/</guid>
@@ -1535,22 +1433,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/unearthings-hannah-catherine-jones/">Visit Leeds</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-05-27T10:00:00</ify:start>
-<ify:end>2027-10-02T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-27/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Museums for Play &amp; Growth – Early Years Sessions</title>
@@ -1567,22 +1449,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/museums-for-play-and-growth-early-years-sessions-p2589181">Visit Bradford</source>
-</item>
-<item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Fri, 05 Jun 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-06-05T10:00:00</ify:start>
-<ify:end>2027-01-20T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-05-06/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
@@ -2393,22 +2259,6 @@
 <source url="https://www.visitbradford.com/whats-on/technicolor-summer-p2629981">Visit Bradford</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-04T10:00:00</ify:start>
-<ify:end>2026-12-23T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Wet Felting Workshops</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wet-felting-workshops-rfv7</guid>
@@ -2512,127 +2362,11 @@
 <source url="https://www.thepiecehall.co.uk/event/free-summer-crafting/">The Piece Hall</source>
 </item>
 <item>
-<title>Mathewsons Live</title>
-<link>https://www.yorkshire.com/pickering/events/family/mathewsons-live-mrw3xdsn</link>
-<guid>https://www.yorkshire.com/pickering/events/family/mathewsons-live-mrw3xdsn</guid>
-<pubDate>Sat, 22 Aug 2026 08:30:00 +0000</pubDate>
-<ify:start>2026-08-22T08:30:00</ify:start>
-<ify:end>2026-08-23T16:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/pickering/events/family/mathewsons-live-mrw3xdsn">Yorkshire.com</source>
-</item>
-<item>
-<title>Rooftop and Cellar Experience</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-09-13</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>23 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Sand House Guided Walk Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/sand-house-guided-walk</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/sand-house-guided-walk</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/sand-house-guided-walk">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Dons RLFC vs Sheffield Eagles Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/dons-rlfc-vs-sheffield-eagles</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dons-rlfc-vs-sheffield-eagles</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dons-rlfc-vs-sheffield-eagles">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Sand House Guided Walk Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/sand-house-guided-walk</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/sand-house-guided-walk</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/sand-house-guided-walk">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-23/2026-08-23">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Dons RLFC vs Sheffield Eagles Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dons-rlfc-vs-sheffield-eagles</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dons-rlfc-vs-sheffield-eagles</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Sport</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dons-rlfc-vs-sheffield-eagles">Visit Doncaster</source>
-</item>
-<item>
-<title>23 Aug 2026 Sand House Guided Walk Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/sand-house-guided-walk</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/sand-house-guided-walk</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23</ify:start>
-<ify:end>2026-08-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/sand-house-guided-walk">Visit Doncaster</source>
-</item>
-<item>
 <title>Leeds - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
 <link>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</link>
 <guid>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</guid>
-<pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-23T07:00:00</ify:start>
+<pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+<ify:start>2026-08-22T07:00:00</ify:start>
 <ify:end>2027-05-31T07:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <category>Experiences</category>
@@ -2640,11 +2374,23 @@
 <source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
 </item>
 <item>
+<title>Sheffield - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
+<link>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</guid>
+<pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+<ify:start>2026-08-22T07:00:00</ify:start>
+<ify:end>2028-01-06T07:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
+</item>
+<item>
 <title>York - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
 <link>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</link>
 <guid>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</guid>
-<pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-23T07:00:00</ify:start>
+<pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
+<ify:start>2026-08-22T07:00:00</ify:start>
 <ify:end>2028-01-06T07:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <category>Experiences</category>
@@ -2652,16 +2398,28 @@
 <source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
 </item>
 <item>
-<title>Sheffield - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</guid>
-<pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-08-23T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
+<title>Hop-On Hop-Off Bus York</title>
+<link>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</link>
+<guid>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</guid>
+<pubDate>Sat, 22 Aug 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-08-22T09:00:00</ify:start>
+<ify:end>2026-10-17T09:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
+<source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
+</item>
+<item>
+<title>Scarborough Spa Orchestra Weekly Ticket</title>
+<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk</link>
+<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk</guid>
+<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-23T00:00:00</ify:start>
+<ify:end>2026-08-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Gigs</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk">Yorkshire.com</source>
 </item>
 <item>
 <title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
@@ -2694,16 +2452,16 @@
 <source url="https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/">Experience Wakefield</source>
 </item>
 <item>
-<title>Hop-On Hop-Off Bus York</title>
-<link>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</link>
-<guid>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</guid>
-<pubDate>Sun, 23 Aug 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-08-23T09:00:00</ify:start>
-<ify:end>2026-10-17T09:00:00</ify:end>
+<title>York's Chocolate Story</title>
+<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
+<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
+<pubDate>Sun, 23 Aug 2026 09:45:00 +0000</pubDate>
+<ify:start>2026-08-23T09:45:00</ify:start>
+<ify:end>2026-10-18T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
+<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
 </item>
 <item>
 <title>Jason and the Coal Mining Adventure</title>
@@ -2767,107 +2525,6 @@
 <source url="https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/">Experience Wakefield</source>
 </item>
 <item>
-<title>Summer of Play: The music workshop</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b38721fc-927e-49bb-b94a-e8703a2f679e</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b38721fc-927e-49bb-b94a-e8703a2f679e</guid>
-<description>Join The Music Workshop Company, every Sunday, for an all interactive music workshop all part of our jam-packed Summer of Play.</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-09-06T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
-<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b38721fc-927e-49bb-b94a-e8703a2f679e">National Trust Yorkshire</source>
-</item>
-<item>
-<title>The Fabric of East Riddlesden: Inspiration from the Hall and its grounds</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</guid>
-<description>Discover this new exhibition by Textilia 3, using the hall, history, past inhabitants and landscape as their inspiration to create beautiful artworks.</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-10-21T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
-<description>Planning your summer holidays? Discover a Summer of Play supported by Pokémon. Plus, don't miss the Pokémon TCG Mega Evolution play zones... ​</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-09-06T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
-<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
-<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-09-01T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-09-30T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play: Family trail</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
-<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
-<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-23T10:00:00</ify:start>
-<ify:end>2026-09-20T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beningbrough, York, North Yorkshire</location>
-<ify:location>Beningbrough, York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
-</item>
-<item>
 <title>Wakefield Trinity RLFC Fixtures</title>
 <link>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</link>
 <guid>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</guid>
@@ -2897,22 +2554,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/pontefract-ghost-walk/">Experience Wakefield</source>
-</item>
-<item>
-<title>Public Service Broadcasting</title>
-<link>https://www.thepiecehall.co.uk/event/public-service-broadcasting/</link>
-<guid>https://www.thepiecehall.co.uk/event/public-service-broadcasting/</guid>
-<description>Public Service Broadcasting + THE BIG MOON Cinematic rock pioneers Public Service Broadcasting are today revealed as the 42nd and final headliners for TK Maxx presents Live at The Piece Hall 2026. The London-based four-piece who blend stirring historic audio narratives with rock, electronics and orchestration bring the</description>
-<pubDate>Sun, 23 Aug 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-08-23T18:00:00</ify:start>
-<ify:end>2026-08-23T22:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
-<ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>The Piece Hall</dc:creator>
-<source url="https://www.thepiecehall.co.uk/event/public-service-broadcasting/">The Piece Hall</source>
 </item>
 <item>
 <title>Wakefield Ghost Walk</title>
@@ -2956,6 +2597,107 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Summer of Play: crafty Mondays</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/303311fe-c719-4356-9f12-79d10e647cb3</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/303311fe-c719-4356-9f12-79d10e647cb3</guid>
+<description>Join us every Monday for a crafting workshop as part of our jam-packed Summer of Play.</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-08-31T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
+<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/303311fe-c719-4356-9f12-79d10e647cb3">National Trust Yorkshire</source>
+</item>
+<item>
+<title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
+<description>Planning your summer holidays? Discover a Summer of Play supported by Pokémon. Plus, don't miss the Pokémon TCG Mega Evolution play zones... ​</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-09-06T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
+<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>The Fabric of East Riddlesden: Inspiration from the Hall and its grounds</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</guid>
+<description>Discover this new exhibition by Textilia 3, using the hall, history, past inhabitants and landscape as their inspiration to create beautiful artworks.</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-10-21T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
+<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
+<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play: Family trail</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
+<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-09-20T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beningbrough, York, North Yorkshire</location>
+<ify:location>Beningbrough, York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Orienteering at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
+<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-24T10:00:00</ify:start>
+<ify:end>2026-09-30T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Mehfil</title>
@@ -3265,19 +3007,6 @@
 </item>
 <item>
 <title>29 Aug 2026 Scouting for Girls at Yorkshire Wildlife Park Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park</guid>
-<pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-29</ify:start>
-<ify:end>2026-08-29</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park">Visit Doncaster</source>
-</item>
-<item>
-<title>29 Aug 2026 Scouting for Girls at Yorkshire Wildlife Park Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/scouting-for-girls-at-yorkshire-wildlife-park</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/scouting-for-girls-at-yorkshire-wildlife-park</guid>
 <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -3288,6 +3017,19 @@
 <category>Experiences</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/scouting-for-girls-at-yorkshire-wildlife-park">Visit Doncaster</source>
+</item>
+<item>
+<title>29 Aug 2026 Scouting for Girls at Yorkshire Wildlife Park Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park</guid>
+<pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-29</ify:start>
+<ify:end>2026-08-29</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/scouting-for-girls-at-yorkshire-wildlife-park">Visit Doncaster</source>
 </item>
 <item>
 <title>29 Aug 2026 Scouting for Girls at Yorkshire Wildlife Park Find out more</title>
@@ -3382,31 +3124,6 @@
 </item>
 <item>
 <title>30 Aug 2026 Big Top Circus Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus</guid>
-<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-30</ify:start>
-<ify:end>2026-08-30</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus">Visit Doncaster</source>
-</item>
-<item>
-<title>30 Aug 2026 Ocean Colour Scene at Yorkshire Wildlife Park Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park</guid>
-<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-30</ify:start>
-<ify:end>2026-08-30</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park">Visit Doncaster</source>
-</item>
-<item>
-<title>30 Aug 2026 Big Top Circus Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/big-top-circus</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/big-top-circus</guid>
 <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
@@ -3432,6 +3149,31 @@
 </item>
 <item>
 <title>30 Aug 2026 Big Top Circus Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus</guid>
+<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-30</ify:start>
+<ify:end>2026-08-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/big-top-circus">Visit Doncaster</source>
+</item>
+<item>
+<title>30 Aug 2026 Ocean Colour Scene at Yorkshire Wildlife Park Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park</guid>
+<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-30</ify:start>
+<ify:end>2026-08-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/ocean-colour-scene-at-yorkshire-wildlife-park">Visit Doncaster</source>
+</item>
+<item>
+<title>30 Aug 2026 Big Top Circus Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/big-top-circus</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/big-top-circus</guid>
 <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
@@ -3441,6 +3183,19 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/big-top-circus">Visit Doncaster</source>
+</item>
+<item>
+<title>30 Aug 2026 Ocean Colour Scene at Yorkshire Wildlife Park Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/ocean-colour-scene-at-yorkshire-wildlife-park</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/ocean-colour-scene-at-yorkshire-wildlife-park</guid>
+<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-30</ify:start>
+<ify:end>2026-08-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/ocean-colour-scene-at-yorkshire-wildlife-park">Visit Doncaster</source>
 </item>
 <item>
 <title>Through Their Eyes</title>
@@ -3458,16 +3213,17 @@
 <source url="https://www.visitbradford.com/whats-on/through-their-eyes-p2649901">Visit Bradford</source>
 </item>
 <item>
-<title>31 Aug 2026 DHYP Family Fun Day Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day</guid>
+<title>31 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-31</ify:start>
 <ify:end>2026-08-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<category>Family Days Out</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31">Visit Doncaster</source>
 </item>
 <item>
 <title>31 Aug 2026 DHYP Family Fun Day Find out more</title>
@@ -3483,17 +3239,42 @@
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/dhyp-family-fun-day">Visit Doncaster</source>
 </item>
 <item>
-<title>31 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</guid>
+<title>31 Aug 2026 DHYP Family Fun Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-08-31</ify:start>
 <ify:end>2026-08-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
+<category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dhyp-family-fun-day">Visit Doncaster</source>
+</item>
+<item>
+<title>31 Aug 2026 DHYP Family Fun Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dhyp-family-fun-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dhyp-family-fun-day</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-31</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dhyp-family-fun-day">Visit Doncaster</source>
+</item>
+<item>
+<title>31 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-31</ify:start>
+<ify:end>2026-08-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31">Visit Doncaster</source>
 </item>
 <item>
 <title>Nature’s Superheroes</title>
@@ -3705,9 +3486,70 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>4 Sep 2026 The Story of the St Leger Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04</ify:start>
+<ify:end>2026-09-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 Cast Comedy Club Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04</ify:start>
+<ify:end>2026-09-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live">Visit Doncaster</source>
+</item>
+<item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04T00:00:00</ify:start>
@@ -3720,43 +3562,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p2">Visit Doncaster</source>
-</item>
-<item>
-<title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p2</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04T00:00:00</ify:start>
-<ify:end>2026-09-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p2">Visit Doncaster</source>
-</item>
-<item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p2</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04T00:00:00</ify:start>
-<ify:end>2026-09-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>IMAX: To Fly! (U) [50th anniversary]</title>
@@ -3835,9 +3641,47 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p3</guid>
+<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Doncaster Family Fest Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Doncaster Family Fest Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>Family Friendly</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-05T00:00:00</ify:start>
@@ -3850,7 +3694,25 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p2">Visit Doncaster</source>
+</item>
+<item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05T00:00:00</ify:start>
+<ify:end>2027-01-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage Craft Workshop: Mosaic Garden Birdbath</title>
@@ -4038,6 +3900,21 @@
 <source url="https://discover.eureka.org.uk/event/boogie-baby-sessions-2026/">Eureka! Science + Discovery</source>
 </item>
 <item>
+<title>Rooftop and Cellar Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11</ify:start>
+<ify:end>2026-09-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rooftop-and-cellar-experience-lqdg">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Heritage Open Days: Cottage and Gardens Tours</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4</guid>
@@ -4051,6 +3928,24 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-days-cottage-and-gardens-tours-znv4">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p3</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11T00:00:00</ify:start>
+<ify:end>2026-09-20T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Meet &amp; Make</title>
@@ -4316,8 +4211,8 @@
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-14T00:00:00</ify:start>
@@ -4330,25 +4225,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p3">Visit Doncaster</source>
-</item>
-<item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-14T00:00:00</ify:start>
-<ify:end>2026-09-17T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage Open Day</title>
@@ -4446,7 +4323,7 @@
 <title>Celebrate West Yorkshire Fire and Rescue Service</title>
 <link>https://www.thepiecehall.co.uk/event/celebrate-west-yorkshire-fire-and-rescue-service-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/celebrate-west-yorkshire-fire-and-rescue-service-2/</guid>
-<description>West Yorkshire Fire and Rescue Long Service Celebration On the afternoon of Saturday 19 September, West Yorkshire Fire and Rescue Service will host its annual Long Service Awards, celebrating colleagues whose dedication and commitment have made a lasting difference to communities across West Yorkshire. The awards recog</description>
+<description>West Yorkshire Fire and Rescue Long Service Celebration On the afternoon of Saturday 19 September, West Yorkshire Fire and Rescue Service will host its annual Long Service Awards, celebrating colleagues... \n</description>
 <pubDate>Sat, 19 Sep 2026 10:30:00 +0000</pubDate>
 <ify:start>2026-09-19T10:30:00</ify:start>
 <ify:end>2026-09-19T13:00:00</ify:end>
@@ -4456,6 +4333,21 @@
 <category>Experiences</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/celebrate-west-yorkshire-fire-and-rescue-service-2/">The Piece Hall</source>
+</item>
+<item>
+<title>Craft Markets</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/craft-markets-bnrd</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/craft-markets-bnrd</guid>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-20</ify:start>
+<ify:end>2026-09-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/craft-markets-bnrd">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Studio Pottery Experience</title>
@@ -4522,14 +4414,13 @@
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
+<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent... \n</description>
 <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-09-26T10:00:00</ify:start>
 <ify:end>2026-09-27T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
-<category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
@@ -4961,6 +4852,22 @@
 <source url="https://stockeldpark.co.uk/activities/season/winter-illuminations/">Stockeld Park</source>
 </item>
 <item>
+<title>The Christmas Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-21</ify:start>
+<ify:end>2027-01-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Mark the start of Christmas with Santa's arrival at Stockeld Park!</title>
 <link>https://stockeldpark.co.uk/activities/season/santas-arrival-weekend/</link>
 <guid>https://stockeldpark.co.uk/activities/season/santas-arrival-weekend/</guid>
@@ -4979,8 +4886,8 @@
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p4</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p4</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 20 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-20T00:00:00</ify:start>
@@ -4993,17 +4900,17 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-23/2027-08-23/p4">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p3">Visit Doncaster</source>
 </item>
 <item>
-<title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p17</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p17</guid>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p4</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p4</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Sun, 11 Jul 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-07-11T00:00:00</ify:start>
-<ify:end>2027-07-19T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
+<pubDate>Wed, 24 Feb 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-02-24</ify:start>
+<ify:end>2027-02-24</ify:end>
+<ify:allDay>true</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
 <category>Theatre &amp; Arts</category>
@@ -5011,12 +4918,30 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-08-23/2027-08-23/p17">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-08-24/2027-08-24/p4">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p9</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p9</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p8</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p8</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 25 Feb 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-02-25T00:00:00</ify:start>
+<ify:end>2027-02-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-24/2027-08-24/p8">Visit Doncaster</source>
+</item>
+<item>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p17</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p17</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sun, 11 Jul 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-07-11T00:00:00</ify:start>
@@ -5029,7 +4954,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-23/2027-08-23/p9">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-08-24/2027-08-24/p17">Visit Doncaster</source>
 </item>
 <item>
 <title>Olivia Bax: Double Take</title>
