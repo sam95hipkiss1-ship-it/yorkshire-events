@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml</link>
 <description>Upcoming Yorkshire events from Yorkshire.com.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 23 Aug 2026 23:23:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 01:56:13 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2026-08-22T07:00:00</ify:start>
 <ify:end>2027-05-31T07:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Leeds Central Library, Calverley St, Leeds</location>
+<ify:location>Leeds Central Library, Calverley St, Leeds</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
@@ -28,6 +30,8 @@
 <ify:start>2026-08-22T07:00:00</ify:start>
 <ify:end>2028-01-06T07:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Sheffield Station, Sheffield Station, Sheaf St, Sheffield City Centre, Sheffield</location>
+<ify:location>Sheffield Station, Sheffield Station, Sheaf St, Sheffield City Centre, Sheffield</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
@@ -40,6 +44,8 @@
 <ify:start>2026-08-22T07:00:00</ify:start>
 <ify:end>2028-01-06T07:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Museum Gardens, Museum Street, York</location>
+<ify:location>Museum Gardens, Museum Street, York</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
@@ -52,21 +58,11 @@
 <ify:start>2026-08-22T09:00:00</ify:start>
 <ify:end>2026-10-17T09:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Station, Station Road, York</location>
+<ify:location>York Station, Station Road, York</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
-</item>
-<item>
-<title>Scarborough Spa Orchestra Weekly Ticket</title>
-<link>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk</link>
-<guid>https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk</guid>
-<pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-23T00:00:00</ify:start>
-<ify:end>2026-08-23T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Gigs</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/scarborough/events/theatre/scarborough-spa-orchestra-weekly-ticket-1agzk8vgkd280nk">Yorkshire.com</source>
 </item>
 <item>
 <title>York's Chocolate Story</title>
@@ -76,9 +72,95 @@
 <ify:start>2026-08-23T09:45:00</ify:start>
 <ify:end>2026-10-18T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York's Chocolate Story, 3-4 King's Square, York</location>
+<ify:location>York's Chocolate Story, 3-4 King's Square, York</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
+</item>
+<item>
+<title>Catch a Killer: An Immersive Murder Mystery Experience in Sheffield</title>
+<link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
+<pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-23T10:00:00</ify:start>
+<ify:end>2026-09-30T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Devonshire Green, 158 Devonshire Street, Sheffield</location>
+<ify:location>Devonshire Green, 158 Devonshire Street, Sheffield</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068">Yorkshire.com</source>
+</item>
+<item>
+<title>York’s Haunted Heart : Ghost, Ghouls and Gallows</title>
+<link>https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542</link>
+<guid>https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542</guid>
+<pubDate>Sun, 23 Aug 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-08-23T19:00:00</ify:start>
+<ify:end>2026-12-31T19:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Whip-Ma-Whop-Ma-Gate Sign, 23 Shambles, York</location>
+<ify:location>Whip-Ma-Whop-Ma-Gate Sign, 23 Shambles, York</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542">Yorkshire.com</source>
+</item>
+<item>
+<title>Shared Walking Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</link>
+<guid>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-24T00:00:00</ify:start>
+<ify:end>2027-02-16T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>25 High Petergate, 25 High Petergate, York</location>
+<ify:location>25 High Petergate, 25 High Petergate, York</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
+<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-24T00:00:00</ify:start>
+<ify:end>2027-02-18T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Unnamed Road</location>
+<ify:location>Unnamed Road</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
+</item>
+<item>
+<title>Durham’s Landmarks and Legends: A Self-Guided Audio Tour</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-24T00:00:00</ify:start>
+<ify:end>2027-02-18T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham</location>
+<ify:location>Durham Market Place, Durham</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275">Yorkshire.com</source>
+</item>
+<item>
+<title>1-Hour Public Cruise</title>
+<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
+<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-24T00:00:00</ify:start>
+<ify:end>2026-11-22T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</location>
+<ify:location>Skipton Pie &amp; Mash Shop, 5 Coach Street, Skipton</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
 </item>
 </channel>
 </rss>
