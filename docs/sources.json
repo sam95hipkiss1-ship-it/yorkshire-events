@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T07:12:38.863326+00:00",
+  "generated_at": "2026-08-24T23:25:37.442687+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 18,
+  "active_source_count": 17,
   "registered_source_count": 61,
-  "event_count": 341,
+  "event_count": 335,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -36,13 +36,13 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 11,
+        "Theatre & Arts": 8,
         "Experiences": 24,
         "Festivals": 3,
-        "Family Days Out": 3,
-        "Seasonal": 1,
-        "Food & Drink": 3,
-        "Sport": 2
+        "Family Days Out": 5,
+        "Seasonal": 2,
+        "Sport": 1,
+        "Food & Drink": 1
       },
       "status": "active"
     },
@@ -79,8 +79,8 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/national-trust-yorkshire.xml",
       "item_count": 8,
       "category_counts": {
-        "Theatre & Arts": 7,
-        "Seasonal": 6,
+        "Theatre & Arts": 6,
+        "Seasonal": 5,
         "Experiences": 5,
         "Family Days Out": 3
       },
@@ -164,11 +164,11 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 35,
+      "item_count": 34,
       "category_counts": {
         "Experiences": 23,
         "Food & Drink": 11,
-        "Theatre & Arts": 5
+        "Theatre & Arts": 4
       },
       "status": "active"
     },
@@ -236,16 +236,6 @@
         "Sport": 1,
         "Food & Drink": 1,
         "Theatre & Arts": 1
-      },
-      "status": "active"
-    },
-    {
-      "name": "Yorkshire.com",
-      "slug": "yorkshire-com",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 5,
-      "category_counts": {
-        "Experiences": 5
       },
       "status": "active"
     }
@@ -661,7 +651,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 35,
+      "item_count": 34,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -794,11 +784,11 @@
     {
       "name": "Yorkshire.com",
       "domain": "",
-      "status": "active",
+      "status": "registered",
       "notes": "custom scraper already present",
-      "item_count": 5,
+      "item_count": 0,
       "slug": "yorkshire-com",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
+      "feed_url": ""
     }
   ],
   "categories": [
@@ -830,31 +820,31 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 203
+      "item_count": 198
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 156
+      "item_count": 151
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 52
+      "item_count": 50
     },
     {
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 35
+      "item_count": 34
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 120
+      "item_count": 122
     },
     {
       "name": "Seasonal",
