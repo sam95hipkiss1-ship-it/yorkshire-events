@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-25T01:50:03.612951+00:00",
+  "generated_at": "2026-08-25T07:00:12.627188+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 17,
   "registered_source_count": 61,
-  "event_count": 334,
+  "event_count": 335,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -117,7 +117,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 6,
       "category_counts": {
-        "Theatre & Arts": 3,
+        "Theatre & Arts": 4,
         "Family Days Out": 1,
         "Gigs": 1,
         "Experiences": 1,
@@ -164,11 +164,11 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 34,
+      "item_count": 35,
       "category_counts": {
-        "Experiences": 22,
+        "Experiences": 23,
         "Food & Drink": 11,
-        "Theatre & Arts": 4
+        "Theatre & Arts": 5
       },
       "status": "active"
     },
@@ -651,7 +651,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 34,
+      "item_count": 35,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -820,13 +820,13 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 199
+      "item_count": 201
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 150
+      "item_count": 151
     },
     {
       "name": "Food & Drink",
