@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 26 Aug 2026 01:56:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 07:01:24 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -66,8 +68,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -215,25 +215,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-market-open-mic-night/">Visit Leeds</source>
 </item>
 <item>
-<title>Music &amp; Nightlife</title>
-<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
-<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-08-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Clubs</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
-</item>
-<item>
 <title>Heritage</title>
 <link>https://www.visitdoncaster.com/whats-on/heritage/</link>
 <guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
@@ -269,6 +250,25 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+</item>
+<item>
+<title>Music &amp; Nightlife</title>
+<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
+<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-08-29T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Clubs</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
 <title>Wildlife Photography for Beginners at Staveley Nature Reserve</title>
