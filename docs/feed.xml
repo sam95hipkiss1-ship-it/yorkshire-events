@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 27 Aug 2026 04:23:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 09:34:40 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -67,8 +67,6 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -96,8 +94,6 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -159,6 +155,8 @@
 <ify:start>2026-02-03</ify:start>
 <ify:end>2026-10-03</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/who-am-i-to-you/">Visit Leeds</source>
@@ -196,8 +194,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -250,21 +246,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
-</item>
-<item>
-<title>Botanically Beautiful: Art and design inspired by nature</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-01</ify:start>
-<ify:end>2026-10-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/">Visit Leeds</source>
 </item>
 <item>
 <title>Artisan Fayre</title>
@@ -2448,48 +2429,6 @@
 <source url="https://www.thepiecehall.co.uk/event/free-summer-crafting/">The Piece Hall</source>
 </item>
 <item>
-<title>Music Around the World</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/music-around-the-world-fx6q</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/music-around-the-world-fx6q</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-27</ify:start>
-<ify:end>2026-08-27</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Discovery Centre</location>
-<ify:location>Leeds Discovery Centre</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/music-around-the-world-fx6q">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Music Around the World</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-27</ify:start>
-<ify:end>2026-08-27</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Discovery Centre</location>
-<ify:location>Leeds Discovery Centre</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Music Around the World</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-08-27</ify:start>
-<ify:end>2026-08-27</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Discovery Centre</location>
-<ify:location>Leeds Discovery Centre</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Summer Deer Tractor Tours</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/summer-deer-tractor-tours-fvmq</guid>
@@ -2581,21 +2520,6 @@
 <source url="https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/">Experience Wakefield</source>
 </item>
 <item>
-<title>Modern Art and Modern Life: Highlights from Wakefield’s 20th Century Collection</title>
-<link>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</link>
-<guid>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</guid>
-<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-27T10:00:00</ify:start>
-<ify:end>2027-03-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/">Experience Wakefield</source>
-</item>
-<item>
 <title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
@@ -2611,21 +2535,6 @@
 <category>Seasonal</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
-<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-27T10:00:00</ify:start>
-<ify:end>2026-09-30T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Summer of Play at Wentworth Castle Gardens</title>
@@ -2710,6 +2619,21 @@
 <category>Family Days Out</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Garden and abbey tour</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f</guid>
+<description>Join one of our volunteer tour guides to discover the secrets and surprises of Studley Royal Water Garden, a UNESCO World Heritage Site</description>
+<pubDate>Thu, 27 Aug 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-08-27T11:00:00</ify:start>
+<ify:end>2026-09-06T12:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
+<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Wakefield Trinity RLFC Fixtures</title>
@@ -3097,23 +3021,6 @@
 <source url="https://www.visitbradford.com/whats-on/through-their-eyes-p2649901">Visit Bradford</source>
 </item>
 <item>
-<title>Wakefield Pride</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-pride/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-pride/</guid>
-<description>Dance Festival Music Performance</description>
-<pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
-<ify:start>2026-08-30T12:00:00</ify:start>
-<ify:end>2026-08-30T23:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 30 Aug - Sun 30 Aug 2026 12:00 - 23:30 Lost Property</location>
-<ify:location>Sun 30 Aug - Sun 30 Aug 2026 12:00 - 23:30 Lost Property</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-pride/">Experience Wakefield</source>
-</item>
-<item>
 <title>31 Aug 2026 Cusworth Hall Walled Garden Open Days Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cusworth-hall-walled-garden-open-days/2026-08-31/2026-08-31</guid>
@@ -3495,21 +3402,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/2026-08-27/2027-08-27/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Jimmy Carr</title>
-<link>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</link>
-<guid>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</guid>
-<description>Jimmy Carr brings his brand‑new show Laughs Funny to Bradford Live.</description>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2026-09-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jimmy-carr-p2513971">Visit Bradford</source>
-</item>
-<item>
 <title>Setlist Comedy Night</title>
 <link>https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871</link>
 <guid>https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871</guid>
@@ -3524,6 +3416,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871">Visit Bradford</source>
+</item>
+<item>
+<title>Jimmy Carr</title>
+<link>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</link>
+<guid>https://www.visitbradford.com/whats-on/jimmy-carr-p2513971</guid>
+<description>Jimmy Carr brings his brand‑new show Laughs Funny to Bradford Live.</description>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/jimmy-carr-p2513971">Visit Bradford</source>
 </item>
 <item>
 <title>IMAX: To Fly! (U) [50th anniversary]</title>
@@ -3797,6 +3704,22 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rhythm-time-19gr">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Sunset Boulevard</title>
+<link>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</link>
+<guid>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</guid>
+<description>This autumn, “Theatrical Powerhouse” Diva Productions brings Sunset Boulevard to the iconic Alhambra Theatre.</description>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-10</ify:start>
+<ify:end>2026-09-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
+<ify:location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311">Visit Bradford</source>
+</item>
+<item>
 <title>The ELO Experience</title>
 <link>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</link>
 <guid>https://www.visitbradford.com/whats-on/the-elo-experience-p2513991</guid>
@@ -3827,20 +3750,19 @@
 <source url="https://www.visitbradford.com/whats-on/psychic-sally-p2411941">Visit Bradford</source>
 </item>
 <item>
-<title>Sunset Boulevard</title>
-<link>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</link>
-<guid>https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311</guid>
-<description>This autumn, “Theatrical Powerhouse” Diva Productions brings Sunset Boulevard to the iconic Alhambra Theatre.</description>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-10</ify:start>
-<ify:end>2026-09-12</ify:end>
+<title>Heritage Open Days</title>
+<link>https://www.visitbradford.com/whats-on/heritage-open-days-p1816621</link>
+<guid>https://www.visitbradford.com/whats-on/heritage-open-days-p1816621</guid>
+<description>Every September, thousands of volunteers organise events across England to celebrate its rich history and culture. This is your chance to visit hidden places and try new experiences, all for FREE to explore.</description>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11</ify:start>
+<ify:end>2026-09-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
-<ify:location>Alhambra Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
+<location>Bradford District, West Yorkshire, BD1 1HY</location>
+<ify:location>Bradford District, West Yorkshire, BD1 1HY</ify:location>
+<category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/sunset-boulevard-p2535311">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/heritage-open-days-p1816621">Visit Bradford</source>
 </item>
 <item>
 <title>Cartoons from the 1 in 12 Exhibition</title>
@@ -3873,21 +3795,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/bradford-unitarian-church-open-weekends-heritage-open-days-p2643971">Visit Bradford</source>
-</item>
-<item>
-<title>Heritage Open Days</title>
-<link>https://www.visitbradford.com/whats-on/heritage-open-days-p1816621</link>
-<guid>https://www.visitbradford.com/whats-on/heritage-open-days-p1816621</guid>
-<description>Every September, thousands of volunteers organise events across England to celebrate its rich history and culture. This is your chance to visit hidden places and try new experiences, all for FREE to explore.</description>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-11</ify:start>
-<ify:end>2026-09-20</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford District, West Yorkshire, BD1 1HY</location>
-<ify:location>Bradford District, West Yorkshire, BD1 1HY</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/heritage-open-days-p1816621">Visit Bradford</source>
 </item>
 <item>
 <title>Boogie Baby Sessions Autumn/Winter 2026</title>
@@ -4220,6 +4127,20 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-08-27/2027-08-27/p3">Visit Doncaster</source>
 </item>
 <item>
+<title>5 Mistakes That Changed History</title>
+<link>https://experiencewakefield.co.uk/event/5-mistakes-that-changed-history/</link>
+<guid>https://experiencewakefield.co.uk/event/5-mistakes-that-changed-history/</guid>
+<pubDate>Mon, 14 Sep 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-09-14T19:30:00</ify:start>
+<ify:end>2026-09-14T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Mon 14 Sep - Mon 14 Sep 2026 19:30 - 21:30 Theatre Royal Wakefield</location>
+<ify:location>Mon 14 Sep - Mon 14 Sep 2026 19:30 - 21:30 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/5-mistakes-that-changed-history/">Experience Wakefield</source>
+</item>
+<item>
 <title>Heritage Open Day</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-day-t5rc</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/heritage-open-day-t5rc</guid>
@@ -4251,20 +4172,6 @@
 <source url="https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051">Visit Bradford</source>
 </item>
 <item>
-<title>Woodhill</title>
-<link>https://experiencewakefield.co.uk/event/woodhill/</link>
-<guid>https://experiencewakefield.co.uk/event/woodhill/</guid>
-<pubDate>Tue, 15 Sep 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-09-15T19:30:00</ify:start>
-<ify:end>2026-09-15T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 15 Sep - Tue 15 Sep 2026 19:30 - 21:00 Theatre Royal Wakefield</location>
-<ify:location>Tue 15 Sep - Tue 15 Sep 2026 19:30 - 21:00 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/woodhill/">Experience Wakefield</source>
-</item>
-<item>
 <title>NEW Event Home Educators' Day 16th September 2026 Various times Join in the discovery with our 'Holderness Heroes' themed Home Educators' Day event! On Wednesday... Find out more</title>
 <link>https://www.thedeep.co.uk/events/home-educators-day</link>
 <guid>https://www.thedeep.co.uk/events/home-educators-day</guid>
@@ -4277,6 +4184,21 @@
 <category>Family Days Out</category>
 <dc:creator>The Deep</dc:creator>
 <source url="https://www.thedeep.co.uk/events/home-educators-day">The Deep</source>
+</item>
+<item>
+<title>Colour Everyday - Heritage Open Days</title>
+<link>https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251</link>
+<guid>https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251</guid>
+<description>Join us at the Society of Dyers &amp; Colourists at Perkin House, Bradford to discover rarely seen objects from our Textile Collection and uncover the stories woven into the colours that surround us every day.</description>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-16T10:00:00</ify:start>
+<ify:end>2026-09-16T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Society of Dyers &amp; Colourists, Perkin House, 82 Grattan Road, Bradford, West Yorkshire, BD1 2LU</location>
+<ify:location>Society of Dyers &amp; Colourists, Perkin House, 82 Grattan Road, Bradford, West Yorkshire, BD1 2LU</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251">Visit Bradford</source>
 </item>
 <item>
 <title>Open Day at Bradford Archives - Heritage Open Days</title>
@@ -4293,21 +4215,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/open-day-at-bradford-archives-heritage-open-days-p2646221">Visit Bradford</source>
-</item>
-<item>
-<title>Colour Everyday - Heritage Open Days</title>
-<link>https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251</link>
-<guid>https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251</guid>
-<description>Join us at the Society of Dyers &amp; Colourists at Perkin House, Bradford to discover rarely seen objects from our Textile Collection and uncover the stories woven into the colours that surround us every day.</description>
-<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-16T10:00:00</ify:start>
-<ify:end>2026-09-16T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Society of Dyers &amp; Colourists, Perkin House, 82 Grattan Road, Bradford, West Yorkshire, BD1 2LU</location>
-<ify:location>Society of Dyers &amp; Colourists, Perkin House, 82 Grattan Road, Bradford, West Yorkshire, BD1 2LU</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/colour-everyday-heritage-open-days-p2646251">Visit Bradford</source>
 </item>
 <item>
 <title>Part of Heritage Open Days 2026</title>
@@ -4693,6 +4600,21 @@
 <source url="https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/">Experience Wakefield</source>
 </item>
 <item>
+<title>Halloween Needle Felting Workshop</title>
+<link>https://experiencewakefield.co.uk/event/halloween-needle-felting-workshop/</link>
+<guid>https://experiencewakefield.co.uk/event/halloween-needle-felting-workshop/</guid>
+<pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
+<ify:start>2026-10-10T13:00:00</ify:start>
+<ify:end>2026-10-10T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 10 Oct - Sat 10 Oct 2026 13:00 - 15:00 Wool n Stuff Ltd</location>
+<ify:location>Sat 10 Oct - Sat 10 Oct 2026 13:00 - 15:00 Wool n Stuff Ltd</ify:location>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/halloween-needle-felting-workshop/">Experience Wakefield</source>
+</item>
+<item>
 <title>The Makings of a Murderer: The Undercover Detective</title>
 <link>https://experiencewakefield.co.uk/event/the-makings-of-a-murderer-the-undercover-detective/</link>
 <guid>https://experiencewakefield.co.uk/event/the-makings-of-a-murderer-the-undercover-detective/</guid>
@@ -4736,6 +4658,20 @@
 <category>Family Days Out</category>
 <dc:creator>Yorkshire Wildlife Park</dc:creator>
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/wildlife-foundation-creepy-carnival-charity-ball/">Yorkshire Wildlife Park</source>
+</item>
+<item>
+<title>Richard Holmes’ Dark History of Pontefract Castle</title>
+<link>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</link>
+<guid>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-10-22T19:00:00</ify:start>
+<ify:end>2026-11-06T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 22 Oct - Fri 06 Nov 2026 19:00 - 21:30 Pontefract Castle</location>
+<ify:location>Thu 22 Oct - Fri 06 Nov 2026 19:00 - 21:30 Pontefract Castle</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/">Experience Wakefield</source>
 </item>
 <item>
 <title>October Half Term: Myths &amp; Legends</title>
