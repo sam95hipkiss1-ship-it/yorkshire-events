@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-29T04:04:47.460318+00:00",
+  "generated_at": "2026-08-29T07:01:11.116680+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 339,
+  "event_count": 345,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -36,7 +36,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 8,
+        "Theatre & Arts": 7,
         "Experiences": 24,
         "Festivals": 3,
         "Family Days Out": 4,
@@ -165,9 +165,9 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml",
       "item_count": 46,
       "category_counts": {
-        "Family Days Out": 26,
+        "Family Days Out": 27,
         "Sport": 25,
-        "Theatre & Arts": 26,
+        "Theatre & Arts": 25,
         "Food & Drink": 12,
         "Experiences": 8,
         "Comedy": 1,
@@ -179,11 +179,11 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 35,
+      "item_count": 34,
       "category_counts": {
-        "Experiences": 24,
+        "Experiences": 23,
         "Food & Drink": 10,
-        "Theatre & Arts": 5
+        "Theatre & Arts": 4
       },
       "status": "active"
     },
@@ -225,6 +225,17 @@
       "status": "active"
     },
     {
+      "name": "Yorkshire Dales National Park",
+      "slug": "yorkshire-dales-national-park",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml",
+      "item_count": 9,
+      "category_counts": {
+        "Theatre & Arts": 9,
+        "Seasonal": 9
+      },
+      "status": "active"
+    },
+    {
       "name": "Yorkshire Wildlife Park",
       "slug": "yorkshire-wildlife-park",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-wildlife-park.xml",
@@ -250,17 +261,6 @@
         "Experiences": 3,
         "Food & Drink": 1,
         "Theatre & Arts": 1
-      },
-      "status": "active"
-    },
-    {
-      "name": "Yorkshire.com",
-      "slug": "yorkshire-com",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 2,
-      "category_counts": {
-        "Experiences": 2,
-        "Food & Drink": 1
       },
       "status": "active"
     }
@@ -676,7 +676,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 35,
+      "item_count": 34,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -764,11 +764,11 @@
     {
       "name": "Yorkshire Dales National Park",
       "domain": "yorkshiredales.org.uk",
-      "status": "empty",
+      "status": "active",
       "notes": "",
-      "item_count": 0,
+      "item_count": 9,
       "slug": "yorkshire-dales-national-park",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
     },
     {
       "name": "Yorkshire Gig Guide",
@@ -809,11 +809,11 @@
     {
       "name": "Yorkshire.com",
       "domain": "",
-      "status": "active",
+      "status": "registered",
       "notes": "custom scraper already present",
-      "item_count": 2,
+      "item_count": 0,
       "slug": "yorkshire-com",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
+      "feed_url": ""
     }
   ],
   "categories": [
@@ -845,19 +845,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 201
+      "item_count": 207
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 156
+      "item_count": 153
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 47
+      "item_count": 46
     },
     {
       "name": "Sport",
@@ -869,13 +869,13 @@
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 119
+      "item_count": 120
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 28
+      "item_count": 37
     }
   ]
 }
