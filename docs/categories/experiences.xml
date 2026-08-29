@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 29 Aug 2026 07:01:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 12:37:01 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,6 +28,8 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -77,8 +79,6 @@
 <ify:start>2026-01-12</ify:start>
 <ify:end>2026-12-18</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
@@ -91,6 +91,8 @@
 <ify:start>2026-01-31</ify:start>
 <ify:end>2027-01-10</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
+<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/">Visit Leeds</source>
@@ -178,8 +180,6 @@
 <ify:start>2026-03-07</ify:start>
 <ify:end>2026-10-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
@@ -197,18 +197,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Lotherton Hall: A Historic Tour of Yorkshire’s Edwardian Gem</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/</guid>
@@ -221,6 +209,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
+</item>
+<item>
+<title>The Pussycat Dolls – PCD Forever Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-19</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -967,21 +967,6 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
 </item>
 <item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
-<pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-29T10:00:00</ify:start>
-<ify:end>2026-11-29T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
-</item>
-<item>
 <title>Summer of Play at Wentworth Castle Gardens</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
@@ -1016,6 +1001,21 @@
 <category>Seasonal</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Orienteering at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
+<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-29T10:00:00</ify:start>
+<ify:end>2026-11-29T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Rotary International Book Sale</title>
@@ -1625,6 +1625,21 @@
 <source url="https://www.visitbradford.com/whats-on/manningham-walk-heritage-open-days-p2597191">Visit Bradford</source>
 </item>
 <item>
+<title>Elizabeth Love Museum Art Workshops</title>
+<link>https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/</link>
+<guid>https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/</guid>
+<pubDate>Sun, 13 Sep 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-09-13T10:30:00</ify:start>
+<ify:end>2026-12-13T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sun 13 Sep - Sun 13 Dec 2026 10:30 - 15:30 The Elizabeth Love Museum</location>
+<ify:location>Sun 13 Sep - Sun 13 Dec 2026 10:30 - 15:30 The Elizabeth Love Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/">Experience Wakefield</source>
+</item>
+<item>
 <title>Priestley Perambulation - Heritage Open Days</title>
 <link>https://www.visitbradford.com/whats-on/priestley-perambulation-heritage-open-days-p2650071</link>
 <guid>https://www.visitbradford.com/whats-on/priestley-perambulation-heritage-open-days-p2650071</guid>
@@ -1670,20 +1685,6 @@
 <category>Sport</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051">Visit Bradford</source>
-</item>
-<item>
-<title>Woodhill</title>
-<link>https://experiencewakefield.co.uk/event/woodhill/</link>
-<guid>https://experiencewakefield.co.uk/event/woodhill/</guid>
-<pubDate>Tue, 15 Sep 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-09-15T19:30:00</ify:start>
-<ify:end>2026-09-15T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 15 Sep - Tue 15 Sep 2026 19:30 - 21:00 Theatre Royal Wakefield</location>
-<ify:location>Tue 15 Sep - Tue 15 Sep 2026 19:30 - 21:00 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/woodhill/">Experience Wakefield</source>
 </item>
 <item>
 <title>Colour Everyday - Heritage Open Days</title>
@@ -1799,7 +1800,7 @@
 <title>Celebrate West Yorkshire Fire and Rescue Service</title>
 <link>https://www.thepiecehall.co.uk/event/celebrate-west-yorkshire-fire-and-rescue-service-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/celebrate-west-yorkshire-fire-and-rescue-service-2/</guid>
-<description>West Yorkshire Fire and Rescue Long Service Celebration On the afternoon of Saturday 19 September, West Yorkshire Fire and Rescue Service will host its annual Long Service Awards, celebrating colleagues whose dedication and commitment have made a lasting difference to communities across West Yorkshire. The awards recog</description>
+<description>West Yorkshire Fire and Rescue Long Service Celebration On the afternoon of Saturday 19 September, West Yorkshire Fire and Rescue Service will host its annual Long Service Awards, celebrating colleagues... \n</description>
 <pubDate>Sat, 19 Sep 2026 10:30:00 +0000</pubDate>
 <ify:start>2026-09-19T10:30:00</ify:start>
 <ify:end>2026-09-19T13:00:00</ify:end>
@@ -2053,21 +2054,6 @@
 <source url="https://experiencewakefield.co.uk/event/wakefield-model-railway-show/">Experience Wakefield</source>
 </item>
 <item>
-<title>History Walk at RSPB Fairburn Ings</title>
-<link>https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/</link>
-<guid>https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/</guid>
-<description>Activity Heritage Outdoor Talk Tour Walk</description>
-<pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-18T10:00:00</ify:start>
-<ify:end>2026-10-18T12:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 18 Oct - Sun 18 Oct 2026 10:00 - 12:00 RSPB Fairburn Ings</location>
-<ify:location>Sun 18 Oct - Sun 18 Oct 2026 10:00 - 12:00 RSPB Fairburn Ings</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/history-walk-fairburn-ings/">Experience Wakefield</source>
-</item>
-<item>
 <title>WildLife Foundation Creepy Carnival Charity Ball</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/wildlife-foundation-creepy-carnival-charity-ball/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/wildlife-foundation-creepy-carnival-charity-ball/</guid>
@@ -2254,6 +2240,24 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Festive Afternoon Tea</title>
+<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
+<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
+<description>Christmas Food and Drink Theatre</description>
+<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-12-04T14:00:00</ify:start>
+<ify:end>2026-12-04T16:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
+<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
 </item>
 <item>
 <title>Olivia Bax: Double Take</title>
