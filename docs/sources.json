@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-28T18:31:00.143026+00:00",
+  "generated_at": "2026-08-29T04:04:47.460318+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 18,
+  "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 342,
+  "event_count": 339,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -50,9 +50,8 @@
       "name": "Forestry England Yorkshire",
       "slug": "forestry-england-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/forestry-england-yorkshire.xml",
-      "item_count": 3,
+      "item_count": 2,
       "category_counts": {
-        "Theatre & Arts": 1,
         "Experiences": 2
       },
       "status": "active"
@@ -95,10 +94,11 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/national-trust-yorkshire.xml",
       "item_count": 8,
       "category_counts": {
-        "Theatre & Arts": 6,
+        "Theatre & Arts": 7,
         "Seasonal": 5,
-        "Experiences": 5,
-        "Family Days Out": 3
+        "Experiences": 4,
+        "Family Days Out": 4,
+        "Food & Drink": 1
       },
       "status": "active"
     },
@@ -131,11 +131,10 @@
       "name": "The Piece Hall",
       "slug": "the-piece-hall",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
-      "item_count": 5,
+      "item_count": 4,
       "category_counts": {
         "Theatre & Arts": 2,
         "Family Days Out": 1,
-        "Gigs": 1,
         "Experiences": 1,
         "Food & Drink": 2,
         "Seasonal": 2
@@ -146,11 +145,11 @@
       "name": "Visit Bradford",
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
-      "item_count": 58,
+      "item_count": 59,
       "category_counts": {
-        "Theatre & Arts": 34,
+        "Theatre & Arts": 36,
         "Experiences": 27,
-        "Food & Drink": 13,
+        "Food & Drink": 14,
         "Gigs": 8,
         "Family Days Out": 4,
         "Comedy": 3,
@@ -164,14 +163,13 @@
       "name": "Visit Doncaster",
       "slug": "visit-doncaster",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml",
-      "item_count": 51,
+      "item_count": 46,
       "category_counts": {
-        "Family Days Out": 29,
-        "Sport": 29,
-        "Theatre & Arts": 30,
-        "Food & Drink": 15,
-        "Experiences": 11,
-        "Clubs": 1,
+        "Family Days Out": 26,
+        "Sport": 25,
+        "Theatre & Arts": 26,
+        "Food & Drink": 12,
+        "Experiences": 8,
         "Comedy": 1,
         "Festivals": 1
       },
@@ -181,11 +179,11 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 34,
+      "item_count": 35,
       "category_counts": {
         "Experiences": 24,
         "Food & Drink": 10,
-        "Theatre & Arts": 4
+        "Theatre & Arts": 5
       },
       "status": "active"
     },
@@ -252,6 +250,17 @@
         "Experiences": 3,
         "Food & Drink": 1,
         "Theatre & Arts": 1
+      },
+      "status": "active"
+    },
+    {
+      "name": "Yorkshire.com",
+      "slug": "yorkshire-com",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
+      "item_count": 2,
+      "category_counts": {
+        "Experiences": 2,
+        "Food & Drink": 1
       },
       "status": "active"
     }
@@ -388,7 +397,7 @@
       "domain": "forestryengland.uk",
       "status": "active",
       "notes": "Dalby, Guisborough and Gisburn handled by dedicated expansion source adapter",
-      "item_count": 3,
+      "item_count": 2,
       "slug": "forestry-england-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/forestry-england-yorkshire.xml"
     },
@@ -586,7 +595,7 @@
       "domain": "thepiecehall.co.uk",
       "status": "active",
       "notes": "",
-      "item_count": 5,
+      "item_count": 4,
       "slug": "the-piece-hall",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml"
     },
@@ -613,7 +622,7 @@
       "domain": "visitbradford.com",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 58,
+      "item_count": 59,
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml"
     },
@@ -631,7 +640,7 @@
       "domain": "visitdoncaster.com",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 51,
+      "item_count": 46,
       "slug": "visit-doncaster",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml"
     },
@@ -667,7 +676,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 34,
+      "item_count": 35,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -800,11 +809,11 @@
     {
       "name": "Yorkshire.com",
       "domain": "",
-      "status": "registered",
+      "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 0,
+      "item_count": 2,
       "slug": "yorkshire-com",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
   ],
   "categories": [
@@ -812,13 +821,13 @@
       "name": "Clubs",
       "slug": "clubs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/clubs.xml",
-      "item_count": 2
+      "item_count": 1
     },
     {
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 15
+      "item_count": 14
     },
     {
       "name": "Festivals",
@@ -836,13 +845,13 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 202
+      "item_count": 201
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 158
+      "item_count": 156
     },
     {
       "name": "Food & Drink",
@@ -854,13 +863,13 @@
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 35
+      "item_count": 31
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 121
+      "item_count": 119
     },
     {
       "name": "Seasonal",
