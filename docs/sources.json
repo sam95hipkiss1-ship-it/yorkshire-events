@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T01:10:30.380121+00:00",
+  "generated_at": "2026-08-30T05:18:30.906492+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 18,
+  "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 345,
+  "event_count": 350,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -245,6 +245,17 @@
         "Experiences": 3,
         "Food & Drink": 1,
         "Theatre & Arts": 1
+      },
+      "status": "active"
+    },
+    {
+      "name": "Yorkshire.com",
+      "slug": "yorkshire-com",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
+      "item_count": 5,
+      "category_counts": {
+        "Experiences": 2,
+        "Food & Drink": 4
       },
       "status": "active"
     }
@@ -793,11 +804,11 @@
     {
       "name": "Yorkshire.com",
       "domain": "",
-      "status": "registered",
+      "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 0,
+      "item_count": 5,
       "slug": "yorkshire-com",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
   ],
   "categories": [
@@ -835,13 +846,13 @@
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 149
+      "item_count": 151
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 46
+      "item_count": 50
     },
     {
       "name": "Sport",
