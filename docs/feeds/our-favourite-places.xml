@@ -1,64 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
 <channel>
-<title>Yorkshire Gigs Events</title>
-<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml</link>
-<description>Upcoming Yorkshire events in the Gigs category.</description>
+<title>Our Favourite Places Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml</link>
+<description>Upcoming Yorkshire events from Our Favourite Places.</description>
 <language>en-gb</language>
 <lastBuildDate>Mon, 31 Aug 2026 01:09:49 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
-<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>Setting The Stage: 70 Years Of The Eurovision Song Contest</title>
-<link>https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971</link>
-<guid>https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971</guid>
-<description>Celebrating 70 years of Eurovision at the National Science and Media Museum. Go behind the sequins of the world’s largest live music event and discover how the magic really happens.</description>
-<pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-15</ify:start>
-<ify:end>2027-02-01</ify:end>
+<title>Sheffield Fayre</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/sheffield-fayre/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/sheffield-fayre/</guid>
+<description>A bank holiday day out for all of the family in Norfolk Park. With a fun fair, demos, arts and crafts, stalls and more.</description>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-08-31</ify:start>
+<ify:end>2026-08-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>National Science and Media Museum, Bradford, West Yorkshire, BD1 1NQ</location>
-<ify:location>National Science and Media Museum, Bradford, West Yorkshire, BD1 1NQ</ify:location>
-<category>Gigs</category>
+<location>Norfolk Heritage Park, Guildford Avenue, S2 2PL</location>
+<ify:location>Norfolk Heritage Park, Guildford Avenue, S2 2PL</ify:location>
 <category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/setting-the-stage-70-years-of-the-eurovision-song-contest-p2523971">Visit Bradford</source>
-</item>
-<item>
-<title>Special Events</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/</guid>
-<description>Discover what's on at some of the WILDEST events in Yorkshire at the UK's no.1 walk-through animal adventure - Yorkshire Wildlife Park! From sensational summer concerts to incredible festive Christmas lights, Halloween spooktaculars to year round family-friendly events packed with fun.</description>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-25T00:00:00</ify:start>
-<ify:end>2026-09-01T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Gigs</category>
 <category>Experiences</category>
 <category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/">Yorkshire Wildlife Park</source>
-</item>
-<item>
-<title>Special Events</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0</guid>
-<description>Discover what's on at some of the WILDEST events in Yorkshire at the UK's no.1 walk-through animal adventure - Yorkshire Wildlife Park! From sensational summer concerts to incredible festive Christmas lights, Halloween spooktaculars to year round family-friendly events packed with fun.</description>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-25T00:00:00</ify:start>
-<ify:end>2026-09-01T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Gigs</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0">Yorkshire Wildlife Park</source>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-fayre/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Death of Robin Hood [Preview] + Jim Ghedi live</title>
@@ -77,37 +42,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-death-of-robin-hood-preview-jim-ghedi-live/">Our Favourite Places</source>
-</item>
-<item>
-<title>JATP Jazz - Apollo House</title>
-<link>https://www.visitbradford.com/whats-on/jatp-jazz-apollo-house-p2629721</link>
-<guid>https://www.visitbradford.com/whats-on/jatp-jazz-apollo-house-p2629721</guid>
-<description>Distilled from the vibrancy of Manchester’s RNCM, Apollo House are one of the most exciting emerging live bands in the North and they're coming to JATP Jazz at the Bradford Latvian Club</description>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04</ify:start>
-<ify:end>2026-09-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Latvian Club, Clifton Villas, Bradford, West Yorkshire, BD8 7BY</location>
-<ify:location>Bradford Latvian Club, Clifton Villas, Bradford, West Yorkshire, BD8 7BY</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jatp-jazz-apollo-house-p2629721">Visit Bradford</source>
-</item>
-<item>
-<title>Community Choir</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx</guid>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04</ify:start>
-<ify:end>2026-11-20</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Piano Classics</title>
@@ -159,20 +93,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-david-eagle/">Our Favourite Places</source>
 </item>
 <item>
-<title>Live Music: Marko Afro</title>
-<link>https://www.visitbradford.com/whats-on/live-music-marko-afro-p2653451</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-marko-afro-p2653451</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 05 Sep 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-09-05T17:00:00</ify:start>
-<ify:end>2026-09-05T19:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-marko-afro-p2653451">Visit Bradford</source>
+<title>Back to School</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/back-to-school/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/back-to-school/</guid>
+<description>Inspired by the new dark comedy Bad Apples starring Saoirse Ronan, the Showroom is screening a season dedicated to some of the most memorable teacher/student conflicts in cinema history.</description>
+<pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-06</ify:start>
+<ify:end>2026-09-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 6 September 2026 — Sun. 27 September 2026</location>
+<ify:location>Sun. 6 September 2026 — Sun. 27 September 2026</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/back-to-school/">Our Favourite Places</source>
 </item>
 <item>
 <title>Spell Songs</title>
@@ -204,6 +139,39 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/spell-songs-1/">Our Favourite Places</source>
+</item>
+<item>
+<title>Poetry: Back to School</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/poetry-back-to-school/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/poetry-back-to-school/</guid>
+<description>A four-week course for new and developing poets with Suzannah Evans Furnass.</description>
+<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-07</ify:start>
+<ify:end>2026-09-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</location>
+<ify:location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/poetry-back-to-school/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-07</ify:start>
+<ify:end>2026-09-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</location>
+<ify:location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/">Our Favourite Places</source>
 </item>
 <item>
 <title>Relaxed Concert: Mozart &amp; Friends</title>
@@ -256,20 +224,18 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/common-threads-festival/">Our Favourite Places</source>
 </item>
 <item>
-<title>Cartoons from the 1 in 12 Exhibition</title>
-<link>https://www.visitbradford.com/whats-on/cartoons-from-the-1-in-12-exhibition-p2650711</link>
-<guid>https://www.visitbradford.com/whats-on/cartoons-from-the-1-in-12-exhibition-p2650711</guid>
-<description>An exhibition of cartoon drawings created live at gigs over the last few years at the 1in12 Club in Bradford.</description>
+<title>Sheffield Heritage Open Days</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/sheffield-heritage-open-days/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/sheffield-heritage-open-days/</guid>
+<description>Ten days to explore heritage treasures across the city.</description>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11</ify:start>
-<ify:end>2026-11-22</ify:end>
+<ify:end>2026-09-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>1 in 12 Club, 21 - 23 Albion Street, Bradford, West Yorkshire, BD1 2LY</location>
-<ify:location>1 in 12 Club, 21 - 23 Albion Street, Bradford, West Yorkshire, BD1 2LY</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/cartoons-from-the-1-in-12-exhibition-p2650711">Visit Bradford</source>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-heritage-open-days/">Our Favourite Places</source>
 </item>
 <item>
 <title>Destination</title>
@@ -321,55 +287,37 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/only-flans-the-second-serving/">Our Favourite Places</source>
 </item>
 <item>
-<title>170 Years of Bradford's Choir: Music, People and a Changing City - Heritage Open Day</title>
-<link>https://www.visitbradford.com/whats-on/170-years-of-bradfords-choir-music-people-and-a-changing-city-heritage-open-day-p2652221</link>
-<guid>https://www.visitbradford.com/whats-on/170-years-of-bradfords-choir-music-people-and-a-changing-city-heritage-open-day-p2652221</guid>
-<description>Discover 170 years of Bradford Festival Choral Society through photographs, programmes and stories from its remarkable archive at this exhibition at Bradford's Mechanics Institute</description>
-<pubDate>Sat, 12 Sep 2026 09:30:00 +0000</pubDate>
-<ify:start>2026-09-12T09:30:00</ify:start>
-<ify:end>2026-09-12T13:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Mechanics Institute, 76 Kirkgate, Bradford, West Yorkshire, BD1 1SZ</location>
-<ify:location>Mechanics Institute, 76 Kirkgate, Bradford, West Yorkshire, BD1 1SZ</ify:location>
-<category>Gigs</category>
+<title>Nether Edge Festival</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival/</guid>
+<description>Nine days of vibrant arts and culture around Nether Edge. Immerse yourself in music, dance, food, drink, drama, books, art, walks, talks and more.</description>
+<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-12</ify:start>
+<ify:end>2026-09-12</ify:end>
+<ify:allDay>true</ify:allDay>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/170-years-of-bradfords-choir-music-people-and-a-changing-city-heritage-open-day-p2652221">Visit Bradford</source>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival/">Our Favourite Places</source>
 </item>
 <item>
-<title>Live Music: Ilkley Strummers Club</title>
-<link>https://www.visitbradford.com/whats-on/live-music-ilkley-strummers-club-p2653611</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-ilkley-strummers-club-p2653611</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 12 Sep 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-09-12T17:00:00</ify:start>
-<ify:end>2026-09-12T19:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-ilkley-strummers-club-p2653611">Visit Bradford</source>
-</item>
-<item>
-<title>The Princess Proms</title>
-<link>https://www.visitbradford.com/whats-on/the-princess-proms-p2502211</link>
-<guid>https://www.visitbradford.com/whats-on/the-princess-proms-p2502211</guid>
-<description>Prepare for a show stopping concert at St. George's Hall filled with the most epic, heartwarming, and nostalgic songs from magical animations.</description>
+<title>Nether Edge Festival: Funny Onion</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-funny-onion/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-funny-onion/</guid>
+<description>Plant-based laughs at the Samuel Worth Chapel with performance poet John Hobson AKA Funny Onion.</description>
 <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-13</ify:start>
 <ify:end>2026-09-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
-<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
-<category>Gigs</category>
+<location>Sun. 13 September 2026</location>
+<ify:location>Sun. 13 September 2026</ify:location>
+<category>Festivals</category>
+<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-princess-proms-p2502211">Visit Bradford</source>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-funny-onion/">Our Favourite Places</source>
 </item>
 <item>
 <title>Nether Edge Festival: Summerisle, Alastair Gordon &amp; Robyn Gair</title>
@@ -388,6 +336,121 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-summerisle-alastair-gordon-robyn-gair/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Tempest</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/the-tempest/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/the-tempest/</guid>
+<description>Shakespeare's thrilling tale of power, redemption and second chances, reimagined for a strange, desolate planet at the far edge of civilisation.</description>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-14</ify:start>
+<ify:end>2026-09-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Mon. 14 September 2026 — Sat. 19 September 2026</location>
+<ify:location>Mon. 14 September 2026 — Sat. 19 September 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/the-tempest/">Our Favourite Places</source>
+</item>
+<item>
+<title>Nether Edge Festival: Bats, Beer &amp; Bela Lugosi</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/</guid>
+<description>A thrilling night of wildlife, horror and vintage cinema in the gothic surroundings of the Samuel Worth Chapel. With your choice of a guided bat walk or horror walk through the grounds at dusk, followed by 1940 cult classic The Devil’s Bat.</description>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-15</ify:start>
+<ify:end>2026-09-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 15 September 2026</location>
+<ify:location>Tue. 15 September 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/">Our Favourite Places</source>
+</item>
+<item>
+<title>Exhibition on Screen: James McNeill Whistler</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-james-mcneill-whistler/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-james-mcneill-whistler/</guid>
+<description>In an era of great change and great beauty emerged the character of James McNeill Whistler.</description>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-15</ify:start>
+<ify:end>2026-09-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 15 September 2026 — Sun. 20 September 2026</location>
+<ify:location>Tue. 15 September 2026 — Sun. 20 September 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-james-mcneill-whistler/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-15</ify:start>
+<ify:end>2026-09-15</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 15 September 2026 — Sun. 20 September 2026</location>
+<ify:location>Tue. 15 September 2026 — Sun. 20 September 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
+</item>
+<item>
+<title>Nether Edge Festival: Ammi’s Kitchen – A Taste of Bengal</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-ammis-kitchen-a-taste-of-bengal/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-ammis-kitchen-a-taste-of-bengal/</guid>
+<description>Ammi’s Kitchen brings together local women from different cultures to cook and share recipes that have been passed down through generations. Join them for this supper club in the Samuel Worth Chapel.</description>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-16</ify:start>
+<ify:end>2026-09-16</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Wed. 16 September 2026</location>
+<ify:location>Wed. 16 September 2026</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-ammis-kitchen-a-taste-of-bengal/">Our Favourite Places</source>
+</item>
+<item>
+<title>Nether Edge Festival: Women’s Tour</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-womens-tour/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-womens-tour/</guid>
+<description>A special tour exploring the lives of women – rich and poor – who are buried in, or connected to, Sheffield General Cemetery.</description>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-17</ify:start>
+<ify:end>2026-09-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 17 September 2026</location>
+<ify:location>Thu. 17 September 2026</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-womens-tour/">Our Favourite Places</source>
+</item>
+<item>
+<title>Nether Edge Festival: Mindfulness Walk</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-mindfulness-walk/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-mindfulness-walk/</guid>
+<description>Take a sensory journey moving slowly through the woodland, connecting with all your senses for relaxation and wellbeing.</description>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-17</ify:start>
+<ify:end>2026-09-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 17 September 2026</location>
+<ify:location>Thu. 17 September 2026</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-mindfulness-walk/">Our Favourite Places</source>
+</item>
+<item>
 <title>Nether Edge Festival: Martin Stephenson</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-martin-stephenson-1/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-martin-stephenson-1/</guid>
@@ -403,6 +466,56 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-martin-stephenson-1/">Our Favourite Places</source>
+</item>
+<item>
+<title>Nether Edge Festival: Burial Research Open Day</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/</guid>
+<description>Join the cemetery's team of researchers in the Samuel Worth Chapel for a drop-in session. Whether you’re tracing family history, researching the past of a local building, or simply curious about who rests in this historic site, they'd love to help.</description>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-17</ify:start>
+<ify:end>2026-09-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 17 September 2026</location>
+<ify:location>Thu. 17 September 2026</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-17</ify:start>
+<ify:end>2026-09-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 17 September 2026</location>
+<ify:location>Thu. 17 September 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
+<title>Spotlight: The Chorus (Les Choristes)</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/spotlight-the-chorus-les-choristes/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/spotlight-the-chorus-les-choristes/</guid>
+<description>The new teacher at a severely administered boys' boarding school works to positively affect the students' lives through music.</description>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-18</ify:start>
+<ify:end>2026-09-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Fri. 18 September 2026</location>
+<ify:location>Fri. 18 September 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/spotlight-the-chorus-les-choristes/">Our Favourite Places</source>
 </item>
 <item>
 <title>The English Concert: Harpsichord &amp; Strings</title>
@@ -453,22 +566,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-barefoot-fly/">Our Favourite Places</source>
 </item>
 <item>
-<title>Live Music: Will Matthew</title>
-<link>https://www.visitbradford.com/whats-on/live-music-will-matthew-p2653671</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-will-matthew-p2653671</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-09-18T18:00:00</ify:start>
-<ify:end>2026-09-18T20:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-will-matthew-p2653671">Visit Bradford</source>
-</item>
-<item>
 <title>Visions Festival</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/visions-festival/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/visions-festival/</guid>
@@ -503,6 +600,38 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-a-little-way-different-with-dj-richard-smith/">Our Favourite Places</source>
+</item>
+<item>
+<title>Heritage Open Days 2026: Everyday Histories</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/heritage-open-days-2026-everyday-histories/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/heritage-open-days-2026-everyday-histories/</guid>
+<description>This year’s Heritage Open Day theme, Everyday Histories, celebrates the ordinary lives, places and moments that shape our shared past.</description>
+<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-19</ify:start>
+<ify:end>2026-09-19</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 19 September 2026</location>
+<ify:location>Sat. 19 September 2026</ify:location>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/heritage-open-days-2026-everyday-histories/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Giant International Wooden Block Stacking World Championship</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/the-giant-international-wooden-block-stacking-world-championship/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/the-giant-international-wooden-block-stacking-world-championship/</guid>
+<description>Part comedy show and part actual wooden block stacking championship. Returning for a second year – this time, with a bigger venue, even more blocks, more glitz, more glamour and increased danger.</description>
+<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-19</ify:start>
+<ify:end>2026-09-19</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>CADS, Arley Street, S2 4QP</location>
+<ify:location>CADS, Arley Street, S2 4QP</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/the-giant-international-wooden-block-stacking-world-championship/">Our Favourite Places</source>
 </item>
 <item>
 <title>Visions afterparty</title>
@@ -557,6 +686,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/ballads-and-songs-sam-carter-sings-nic-jones/">Our Favourite Places</source>
 </item>
 <item>
+<title>Clown College</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/clown-college/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/clown-college/</guid>
+<description>A 6-week workshop series exploring the fundamentals of clowning – not as a set of acrobatic skills, but as a way of relating to yourself, other people and the world around you. Build your confidence through collective experimentation in a DIY space.</description>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-23</ify:start>
+<ify:end>2026-09-23</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>CADS, Arley Street, S2 4QP</location>
+<ify:location>CADS, Arley Street, S2 4QP</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/clown-college/">Our Favourite Places</source>
+</item>
+<item>
 <title>Debussy: La Mer</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/debussy-la-mer/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/debussy-la-mer/</guid>
@@ -570,6 +716,38 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/debussy-la-mer/">Our Favourite Places</source>
+</item>
+<item>
+<title>WTF: Survive Style 5+ [4K Restoration]</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/wtf-survive-style-5-4k-restoration/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/wtf-survive-style-5-4k-restoration/</guid>
+<description>Five bizarre stories with no apparent connection to one another eventually become intertwined, resulting in surreal circumstances.</description>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-24</ify:start>
+<ify:end>2026-09-24</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 24 September 2026</location>
+<ify:location>Thu. 24 September 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-survive-style-5-4k-restoration/">Our Favourite Places</source>
+</item>
+<item>
+<title>Spirit of Independence Film Festival</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/spirit-of-independence-film-festival/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/spirit-of-independence-film-festival/</guid>
+<description>A celebration of fiercely independent filmmaking, showcasing raw, bold and passionate films from around the world.</description>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-25</ify:start>
+<ify:end>2026-09-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>The Light, The Moor, S1 4PF</location>
+<ify:location>The Light, The Moor, S1 4PF</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/spirit-of-independence-film-festival/">Our Favourite Places</source>
 </item>
 <item>
 <title>Float Along Festival</title>
@@ -604,6 +782,37 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/grease-highway-child-live/">Our Favourite Places</source>
 </item>
 <item>
+<title>Sip Festival</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/sip-festival/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/sip-festival/</guid>
+<description>A citywide celebration of coffee and cafe culture, new for 2026. Bringing together independent cafes, roasters, coffee brands, makers, baristas, street food traders, DJs and coffee lovers for a week of free events, ending with a big weekend.</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-28</ify:start>
+<ify:end>2026-09-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Festivals</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/sip-festival/">Our Favourite Places</source>
+</item>
+<item>
+<title>Open Works</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/open-works/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/open-works/</guid>
+<description>A theatre festival dedicated to fresh perspectives and powerful stories, bringing unheard stories to the stage.</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-28</ify:start>
+<ify:end>2026-09-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Mon. 28 September 2026 — Sat. 10 October 2026</location>
+<ify:location>Mon. 28 September 2026 — Sat. 10 October 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/open-works/">Our Favourite Places</source>
+</item>
+<item>
 <title>Don Broco</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/don-broco/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/don-broco/</guid>
@@ -618,6 +827,22 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/don-broco/">Our Favourite Places</source>
+</item>
+<item>
+<title>Figures &amp; Fabric: Wes Anderson Inspired Life Drawing</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/figures-fabric-wes-anderson-inspired-life-drawing/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/figures-fabric-wes-anderson-inspired-life-drawing/</guid>
+<description>An evening of costumed life drawing presented by Figures and Fabric at Showroom in celebration of filmmaker Wes Anderson.</description>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30</ify:start>
+<ify:end>2026-09-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Wed. 30 September 2026</location>
+<ify:location>Wed. 30 September 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/figures-fabric-wes-anderson-inspired-life-drawing/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Wonder Stuff and Inspiral Carpets</title>
@@ -663,6 +888,21 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-jess-rich-arrowsmith/">Our Favourite Places</source>
+</item>
+<item>
+<title>The bEAT</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/the-beat/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/the-beat/</guid>
+<description>The legendary 2-tone group come to Sheffield.</description>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-06</ify:start>
+<ify:end>2026-10-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 6 October 2026</location>
+<ify:location>Tue. 6 October 2026</ify:location>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/the-beat/">Our Favourite Places</source>
 </item>
 <item>
 <title>Thomas Carter &amp; Geb</title>
@@ -711,6 +951,25 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/no-bounds/">Our Favourite Places</source>
+</item>
+<item>
+<title>Sheffield Comic Arts Fair</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/sheffield-comic-arts-fair/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/sheffield-comic-arts-fair/</guid>
+<description>A showcase of indie and small press comic creators from Sheffield and further afield. With a Graphic Novel Reading Room corner, a kids workshop and bar.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-10</ify:start>
+<ify:end>2026-10-10</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</location>
+<ify:location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-comic-arts-fair/">Our Favourite Places</source>
 </item>
 <item>
 <title>Eddi Reader</title>
@@ -780,6 +1039,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/charlie-chaplin-the-gold-rush/">Our Favourite Places</source>
 </item>
 <item>
+<title>Mark Thomas: 40 In Stand Up Years</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/mark-thomas-40-in-stand-up-years/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/mark-thomas-40-in-stand-up-years/</guid>
+<description>One of our oldest surviving alternative comics celebrates 40 years at the mic as he brings his brand-new show to Sheffield.</description>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-22</ify:start>
+<ify:end>2026-10-22</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 22 October 2026</location>
+<ify:location>Thu. 22 October 2026</ify:location>
+<category>Comedy</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/mark-thomas-40-in-stand-up-years/">Our Favourite Places</source>
+</item>
+<item>
 <title>Sensoria</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/sensoria/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/sensoria/</guid>
@@ -844,6 +1118,52 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-witching-tale-jan-doyle-band-the-greystone-sisters/">Our Favourite Places</source>
 </item>
 <item>
+<title>WTF: Audition [4K Restoration]</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/wtf-audition-4k-restoration/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/wtf-audition-4k-restoration/</guid>
+<description>This disturbing Japanese thriller follows Aoyama (Ryo Ishibashi), a widower who decides to start dating again. Aided by a film-producer friend (Miyuki Matsuda), Aoyama uses auditions for a fake production to function as a dating service.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-29</ify:start>
+<ify:end>2026-10-29</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 29 October 2026</location>
+<ify:location>Thu. 29 October 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-audition-4k-restoration/">Our Favourite Places</source>
+</item>
+<item>
+<title>Sheffield Print Fair</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/sheffield-print-fair/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/sheffield-print-fair/</guid>
+<description>Enjoy watching printmaking in action and pick up a print or two to take home from among the 43 stalls featuring the wares of artists and printmakers from Sheffield and beyond. Call for applications open till 30 August 2026.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-31</ify:start>
+<ify:end>2026-10-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 31 October 2026</location>
+<ify:location>Sat. 31 October 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-print-fair/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Void: A Horror Story</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/the-void-a-horror-story/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/the-void-a-horror-story/</guid>
+<description>Dare you enter a world infected by fear? The Void is a sci-fi horror created for the stage, presented by Yorkshire company Thunder Road.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-04</ify:start>
+<ify:end>2026-11-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Wed. 4 November 2026</location>
+<ify:location>Wed. 4 November 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/the-void-a-horror-story/">Our Favourite Places</source>
+</item>
+<item>
 <title>Mariam sings Amadou &amp; Mariam</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/mariam-sings-amadou-mariam/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/mariam-sings-amadou-mariam/</guid>
@@ -857,6 +1177,22 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/mariam-sings-amadou-mariam/">Our Favourite Places</source>
+</item>
+<item>
+<title>Amy Matthews</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/amy-matthews/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/amy-matthews/</guid>
+<description>Amy doesn’t get angry and she’s starting to feel left out, so she’s on a quest to feel fury. From what she can discern from the world around her, it appears to be all the rage… literally.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2026-11-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Foundry, Sheffield Student's Union, Western Bank, S10 2TG</location>
+<ify:location>Foundry, Sheffield Student's Union, Western Bank, S10 2TG</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/amy-matthews/">Our Favourite Places</source>
 </item>
 <item>
 <title>Elgar Piano Quintet</title>
@@ -1066,6 +1402,56 @@
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 05 Dec 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-12-05T19:30:00</ify:start>
+<ify:end>2026-12-05T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>CADS, Arley Street, S2 4QP</location>
+<ify:location>CADS, Arley Street, S2 4QP</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
+</item>
+<item>
+<title>WTF: The Green Knight</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/wtf-the-green-knight/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/wtf-the-green-knight/</guid>
+<description>A loose adaptation of the 14th-century poem Sir Gawain and the Green Knight, notable for its striking imagery and performances. Screening as part of the Showroom's monthly screening strand celebrating films that make you say "What The F...ilm"!?</description>
+<pubDate>Thu, 17 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-17</ify:start>
+<ify:end>2026-12-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Thu. 17 December 2026</location>
+<ify:location>Thu. 17 December 2026</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-the-green-knight/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-25T00:00:00</ify:start>
+<ify:end>2027-01-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tue. 15 September 2026 — Sun. 20 September 2026</location>
+<ify:location>Tue. 15 September 2026 — Sun. 20 September 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/play-festival/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/</guid>
 <description>A Sheffield culture guide written by in-the-know locals.</description>
@@ -1218,6 +1604,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
 </item>
 <item>
+<title>Exhibition on Screen: Renoir &amp; Love</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/</guid>
+<description>Founding member of the Impressionist movement, Pierre-Auguste Renoir is one of the world’s favourite artists. Exhibition on Screen brings his world class works to cinema audiences.</description>
+<pubDate>Tue, 19 Jan 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-01-19</ify:start>
+<ify:end>2027-01-19</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 19 January 2027 — Sun. 31 January 2027</location>
+<ify:location>Tue. 19 January 2027 — Sun. 31 January 2027</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/">Our Favourite Places</source>
+</item>
+<item>
 <title>Classical Weekend</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</guid>
@@ -1230,6 +1631,21 @@
 <category>Festivals</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/">Our Favourite Places</source>
+</item>
+<item>
+<title>Exhibition on Screen: Monet</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-monet/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-monet/</guid>
+<description>To celebrate Tate Britain’s blockbuster Monet and Time exhibition, Exhibition on Screen brings the story of Claude Monet to cinema screens.</description>
+<pubDate>Tue, 11 May 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-05-11</ify:start>
+<ify:end>2027-05-11</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Tue. 11 May 2027 — Sun. 16 May 2027</location>
+<ify:location>Tue. 11 May 2027 — Sun. 16 May 2027</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-monet/">Our Favourite Places</source>
 </item>
 </channel>
 </rss>
