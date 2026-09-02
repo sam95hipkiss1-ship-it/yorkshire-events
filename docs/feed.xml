@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 02 Sep 2026 04:23:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 11:06:45 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -57,8 +55,8 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -71,8 +69,6 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-10-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place/">Visit Leeds</source>
@@ -137,6 +133,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -173,8 +171,6 @@
 <ify:start>2026-02-08</ify:start>
 <ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -200,6 +196,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -237,9 +235,23 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
+</item>
+<item>
+<title>Artisan Fayre</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-01</ify:start>
+<ify:end>2026-10-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
 </item>
 <item>
 <title>Botanically Beautiful: Art and design inspired by nature</title>
@@ -253,18 +265,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/">Visit Leeds</source>
-</item>
-<item>
-<title>Artisan Fayre</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-01</ify:start>
-<ify:end>2026-10-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
 </item>
 <item>
 <title>Tower of Now</title>
@@ -320,8 +320,6 @@
 <ify:start>2026-03-07</ify:start>
 <ify:end>2026-10-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
@@ -339,6 +337,18 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ceramics-market-at-sunken-studio/">Visit Leeds</source>
 </item>
 <item>
+<title>Sept3other</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052</guid>
+<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-09T00:00:00</ify:start>
+<ify:end>2027-02-18T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052">Yorkshire.com</source>
+</item>
+<item>
 <title>Real Markets: Monthly Market</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/</guid>
@@ -346,8 +356,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -386,6 +394,8 @@
 <ify:start>2026-03-19</ify:start>
 <ify:end>2026-10-02</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
@@ -398,8 +408,6 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -412,8 +420,6 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
@@ -866,6 +872,8 @@
 <ify:start>2026-04-10</ify:start>
 <ify:end>2026-09-13</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/rooftop-and-cellar-experience/">Visit Leeds</source>
@@ -2108,20 +2116,6 @@
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/wedding-open-evening/">Yorkshire Wildlife Park</source>
 </item>
 <item>
-<title>Tiny Tigers</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</guid>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-04</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Little Scientists</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/little-scientists-skr2</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/little-scientists-skr2</guid>
@@ -2134,6 +2128,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-scientists-skr2">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Tiny Tigers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Sociable History Club</title>
@@ -2292,6 +2300,20 @@
 <source url="https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871">Visit Bradford</source>
 </item>
 <item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2027-08-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>The Penguin Experience</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n</guid>
@@ -2305,20 +2327,6 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Rory’s Saturday Club</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2027-08-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
@@ -2430,19 +2438,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/waiting-in-the-wings/2026-09-05/2026-09-05">Visit Doncaster</source>
 </item>
 <item>
-<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2026-09-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
-</item>
-<item>
 <title>5 Sep 2026 Doncaster Family Fest Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</guid>
@@ -2454,6 +2449,19 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
 </item>
 <item>
 <title>5 Sep 2026 - 23 Jan 2027 Doncaster Knights 2026/27 Fixtures Find out more</title>
@@ -2733,6 +2741,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/mozart-friends/">Our Favourite Places</source>
+</item>
+<item>
+<title>1152 Club: Talks at Kirkstall Abbey</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</guid>
+<pubDate>Tue, 08 Sep 2026 15:00:00 +0000</pubDate>
+<ify:start>2026-09-08T15:00:00</ify:start>
+<ify:end>2026-12-01T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Bryony Kimmings - Bog Witch</title>
@@ -3047,6 +3070,39 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-heritage-open-days/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11</ify:start>
+<ify:end>2026-09-11</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>through collaboration. Music + Itinerary Debussy: La Mer Thu. 24 September 2026 Upper Chapel, Norfolk Street, S1 2JD</location>
+<ify:location>through collaboration. Music + Itinerary Debussy: La Mer Thu. 24 September 2026 Upper Chapel, Norfolk Street, S1 2JD</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-11</ify:start>
+<ify:end>2026-09-11</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
+</item>
+<item>
 <title>Meet &amp; Make</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</guid>
@@ -3197,24 +3253,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-12</ify:start>
-<ify:end>2026-09-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>170 Years of Bradford's Choir: Music, People and a Changing City - Heritage Open Day</title>
@@ -4297,6 +4335,22 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/spirit-of-independence-film-festival/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Wine Barrel Paint &amp; Sip: Pottery Night</title>
+<link>https://www.thepiecehall.co.uk/event/the-wine-barrel-paint-sip-pottery-night/</link>
+<guid>https://www.thepiecehall.co.uk/event/the-wine-barrel-paint-sip-pottery-night/</guid>
+<description>The Wine Barrel Paint &amp; Sip: Pottery Night Join The Wine Barrel on Friday 25 September from 7-9pm for a guided pottery-painting evening with local ceramicist Natasha Jackson (Natasha Jackson Ceramics). Guests choose a mug, bowl or plate and paint it their way - first drink included. Tickets are £35 per person. \n</description>
+<pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-09-25T19:00:00</ify:start>
+<ify:end>2026-09-25T21:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Wine Barrel</location>
+<ify:location>The Wine Barrel</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>The Piece Hall</dc:creator>
+<source url="https://www.thepiecehall.co.uk/event/the-wine-barrel-paint-sip-pottery-night/">The Piece Hall</source>
+</item>
+<item>
 <title>Float Along Festival</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</guid>
@@ -4647,21 +4701,6 @@
 <source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-10/">Yorkshire Dales National Park</source>
 </item>
 <item>
-<title>1152 Club: Talks at Kirkstall Abbey</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t</guid>
-<pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
-<ify:start>2026-10-06T15:00:00</ify:start>
-<ify:end>2026-12-01T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Kirkstall Abbey</location>
-<ify:location>Kirkstall Abbey</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/1152-club-talks-at-kirkstall-abbey-cg1t">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Meditation Walks</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/meditation-walks-cyw1</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/meditation-walks-cyw1</guid>
@@ -4820,23 +4859,6 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/eddi-reader/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-10</ify:start>
-<ify:end>2026-10-10</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</location>
-<ify:location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/">Our Favourite Places</source>
 </item>
 <item>
 <title>Members' Week at Dalby Forest</title>
@@ -5012,21 +5034,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/sensoria/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-22</ify:start>
-<ify:end>2026-10-22</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
-</item>
-<item>
 <title>Richard Holmes’ Dark History of Pontefract Castle</title>
 <link>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</link>
 <guid>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</guid>
@@ -5039,20 +5046,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/">Experience Wakefield</source>
-</item>
-<item>
-<title>Spellbound</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Halloween at Temple Newsam</title>
@@ -5070,21 +5063,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/halloween-at-temple-newsam-zl14">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Scarecrow Trail</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Industrial Museum</location>
-<ify:location>Leeds Industrial Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Nocturnal Creatures Trail</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</guid>
@@ -5098,6 +5076,35 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Spellbound</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Scarecrow Trail</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Halloween Cellar Tours</title>
@@ -5504,24 +5511,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/chopin-nocturnes/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-14</ify:start>
-<ify:end>2026-11-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 14 November 2026</location>
-<ify:location>Sat. 14 November 2026</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
-</item>
-<item>
 <title>The Christmas Adventure</title>
 <link>https://stockeldpark.co.uk/activities/season/christmas/</link>
 <guid>https://stockeldpark.co.uk/activities/season/christmas/</guid>
@@ -5776,11 +5765,10 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>CADS, Arley Street, S2 4QP</location>
-<ify:location>CADS, Arley Street, S2 4QP</ify:location>
-<category>Gigs</category>
-<category>Comedy</category>
+<location>Mon. 14 September 2026 — Sat. 19 September 2026</location>
+<ify:location>Mon. 14 September 2026 — Sat. 19 September 2026</ify:location>
 <category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
 </item>
@@ -5815,24 +5803,6 @@
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-25T00:00:00</ify:start>
-<ify:end>2027-01-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/play-festival/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/</guid>
 <description>A Sheffield culture guide written by in-the-know locals.</description>
@@ -5840,13 +5810,29 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 3 October 2026</location>
-<ify:location>Sat. 3 October 2026</ify:location>
+<location>Mon. 7 September 2026</location>
+<ify:location>Mon. 7 September 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/play-festival/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-25T00:00:00</ify:start>
+<ify:end>2027-01-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/play-festival/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -5857,6 +5843,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Sat. 26 September 2026</location>
+<ify:location>Sat. 26 September 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5872,28 +5860,13 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T13:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 31 October 2026</location>
-<ify:location>Sat. 31 October 2026</ify:location>
+<location>Fri. 12 June 2026 — Sun. 27 September 2026</location>
+<ify:location>Fri. 12 June 2026 — Sun. 27 September 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/beginner-sewing/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-12-25T10:00:00</ify:start>
-<ify:end>2027-01-06T23:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -5904,8 +5877,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T17:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</location>
-<ify:location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</ify:location>
+<location>SADACCA, 48 Wicker, S3 8JB</location>
+<ify:location>SADACCA, 48 Wicker, S3 8JB</ify:location>
 <category>Gigs</category>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
@@ -5916,6 +5889,23 @@
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-12-25T10:00:00</ify:start>
+<ify:end>2027-01-06T23:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tue. 11 May 2027 — Sun. 16 May 2027</location>
+<ify:location>Tue. 11 May 2027 — Sun. 16 May 2027</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/celluloid-screams/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/agony-aunt-zine-making-workshops/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/agony-aunt-zine-making-workshops/</guid>
 <description>A Sheffield culture guide written by in-the-know locals.</description>
@@ -5923,8 +5913,6 @@
 <ify:start>2026-12-25T11:00:00</ify:start>
 <ify:end>2027-01-06T13:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</location>
-<ify:location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5940,8 +5928,8 @@
 <ify:start>2026-12-25T13:00:00</ify:start>
 <ify:end>2027-01-06T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>to Go Meet the Locals My Itinerary Back to filters Woodworking Taster Session Art Workshop Ed's Workshop, Carver House, Carver Street, S1 4FS £50 Share</location>
-<ify:location>to Go Meet the Locals My Itinerary Back to filters Woodworking Taster Session Art Workshop Ed's Workshop, Carver House, Carver Street, S1 4FS £50 Share</ify:location>
+<location>Ed's Workshop, Carver House, Carver Street S1 4FS</location>
+<ify:location>Ed's Workshop, Carver House, Carver Street S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5957,8 +5945,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Mon. 14 September 2026</location>
-<ify:location>Mon. 14 September 2026</ify:location>
+<location>Upper Chapel, Norfolk Street, S1 2JD</location>
+<ify:location>Upper Chapel, Norfolk Street, S1 2JD</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6029,6 +6017,21 @@
 <category>Festivals</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 12 Mar 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-03-12</ify:start>
+<ify:end>2027-03-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Family Friendly</title>
