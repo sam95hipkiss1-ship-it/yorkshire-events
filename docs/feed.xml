@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Tue, 01 Sep 2026 11:31:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 00:54:24 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -55,6 +55,8 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -94,6 +96,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -155,8 +159,6 @@
 <ify:start>2026-02-03</ify:start>
 <ify:end>2026-10-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/who-am-i-to-you/">Visit Leeds</source>
@@ -182,8 +184,6 @@
 <ify:start>2026-02-12</ify:start>
 <ify:end>2026-09-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/an-evening-of-love-sex-and-scandal-at-temple-newsam/">Visit Leeds</source>
@@ -221,6 +221,8 @@
 <ify:start>2026-02-20</ify:start>
 <ify:end>2026-10-23</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/birding-for-beginners-rspb-st-aidans/">Visit Leeds</source>
@@ -233,11 +235,21 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
+</item>
+<item>
+<title>Artisan Fayre</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-01</ify:start>
+<ify:end>2026-10-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
 </item>
 <item>
 <title>Botanically Beautiful: Art and design inspired by nature</title>
@@ -251,18 +263,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/botanically-beautiful-art-and-design-inspired-by-nature/">Visit Leeds</source>
-</item>
-<item>
-<title>Artisan Fayre</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-01</ify:start>
-<ify:end>2026-10-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/artisan-fayre/">Visit Leeds</source>
 </item>
 <item>
 <title>Tower of Now</title>
@@ -318,8 +318,6 @@
 <ify:start>2026-03-07</ify:start>
 <ify:end>2026-10-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
@@ -332,8 +330,6 @@
 <ify:start>2026-03-08</ify:start>
 <ify:end>2026-09-06</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ceramics-market-at-sunken-studio/">Visit Leeds</source>
@@ -358,8 +354,6 @@
 <ify:start>2026-03-13</ify:start>
 <ify:end>2026-11-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
@@ -410,8 +404,6 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</location>
-<ify:location>. The Backroom – 50a Call Lane, Leeds, LS1 6DT</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
@@ -1297,22 +1289,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/temple-newsam-tours-zr94">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Great British Summer Savings</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/great-british-summer-savings/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/great-british-summer-savings/</guid>
-<description>This summer, the government has temporarily reduced VAT on family attraction admissions and children’s meals from 20% to 5%.</description>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-06-25</ify:start>
-<ify:end>2026-09-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/great-british-summer-savings/">Yorkshire Wildlife Park</source>
-</item>
-<item>
 <title>Retro Games and Toys – Tue 7 Jul 2026</title>
 <link>https://yorkmuseumstrust.org.uk/whats-on/events/retro-games-and-toys/</link>
 <guid>https://yorkmuseumstrust.org.uk/whats-on/events/retro-games-and-toys/</guid>
@@ -1590,20 +1566,6 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/b4c4b2de-d9ea-4e85-96fc-767f505b3e3c">National Trust Yorkshire</source>
 </item>
 <item>
-<title>Dracula at Whitby Abbey</title>
-<link>https://www.english-heritage.org.uk/visit/whats-on/whitby-abbey-dracula-25-jul-to-1-sep/</link>
-<guid>https://www.english-heritage.org.uk/visit/whats-on/whitby-abbey-dracula-25-jul-to-1-sep/</guid>
-<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-25</ify:start>
-<ify:end>2026-09-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Whitby Abbey</location>
-<ify:location>Whitby Abbey</ify:location>
-<category>Experiences</category>
-<dc:creator>English Heritage Yorkshire</dc:creator>
-<source url="https://www.english-heritage.org.uk/visit/whats-on/whitby-abbey-dracula-25-jul-to-1-sep/">English Heritage Yorkshire</source>
-</item>
-<item>
 <title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
 <link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
 <guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
@@ -1695,240 +1657,6 @@
 <source url="https://www.thepiecehall.co.uk/event/free-summer-crafting/">The Piece Hall</source>
 </item>
 <item>
-<title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
-<link>https://experiencewakefield.co.uk/event/hold-to-this-earth/</link>
-<guid>https://experiencewakefield.co.uk/event/hold-to-this-earth/</guid>
-<pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-09-01T09:00:00</ify:start>
-<ify:end>2027-04-18T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</location>
-<ify:location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
-</item>
-<item>
-<title>Jason and the Coal Mining Adventure</title>
-<link>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</link>
-<guid>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-10-04T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</location>
-<ify:location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/">Experience Wakefield</source>
-</item>
-<item>
-<title>Luke Jerram’s Helios</title>
-<link>https://experiencewakefield.co.uk/event/luke-jerrams-helios/</link>
-<guid>https://experiencewakefield.co.uk/event/luke-jerrams-helios/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-09-06T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 06 Sep 2026 10:00 - 17:00 WX Wakefield Exchange</location>
-<ify:location>Now - Sun 06 Sep 2026 10:00 - 17:00 WX Wakefield Exchange</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/luke-jerrams-helios/">Experience Wakefield</source>
-</item>
-<item>
-<title>Summer of Play at Nostell</title>
-<link>https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/</link>
-<guid>https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-09-01T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Tue 01 Sep 2026 10:00 - 16:00 Nostell, National Trust</location>
-<ify:location>Now - Tue 01 Sep 2026 10:00 - 16:00 Nostell, National Trust</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/summer-of-play-at-nostell/">Experience Wakefield</source>
-</item>
-<item>
-<title>The Fabric of East Riddlesden: Inspiration from the Hall and its grounds</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</guid>
-<description>Discover this new exhibition by Textilia 3, using the hall, history, past inhabitants and landscape as their inspiration to create beautiful artworks.</description>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-10-21T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
-<description>Planning your summer holidays? Discover a Summer of Play supported by Pokémon. Plus, don't miss the Pokémon TCG Mega Evolution play zones... ​</description>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-09-06T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
-<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1</guid>
-<description>Summer of Play is back! Join us for another adventure-filled summer, every day throughout the holidays. With a fairytale castle, secret gardens and plenty of space to explore, Wentworth Castle Gardens is the perfect setting for your Summer of Play.</description>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-09-01T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/e8c5cc44-dd01-45ec-8f3a-f6e2814b8fd1">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-11-29T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Summer of Play: Family trail</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
-<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-01T10:00:00</ify:start>
-<ify:end>2026-09-20T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beningbrough, York, North Yorkshire</location>
-<ify:location>Beningbrough, York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Fixing Fairytales with Gina Kaminski</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</guid>
-<description>Discover our family-friendly exhibition this summer.</description>
-<pubDate>Tue, 01 Sep 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-09-01T10:30:00</ify:start>
-<ify:end>2026-09-06T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Nunnington Hall, near York, North Yorkshire</location>
-<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Pontefract Castle Dungeon Tour</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</guid>
-<pubDate>Tue, 01 Sep 2026 10:45:00 +0000</pubDate>
-<ify:start>2026-09-01T10:45:00</ify:start>
-<ify:end>2026-09-27T11:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 27 Sep 2026 10:45 - 11:30 Pontefract Castle</location>
-<ify:location>Now - Sun 27 Sep 2026 10:45 - 11:30 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/">Experience Wakefield</source>
-</item>
-<item>
-<title>Garden and abbey tour</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f</guid>
-<description>Join one of our volunteer tour guides to discover the secrets and surprises of Studley Royal Water Garden, a UNESCO World Heritage Site</description>
-<pubDate>Tue, 01 Sep 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-09-01T11:00:00</ify:start>
-<ify:end>2026-09-06T12:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
-<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/b3dbbef5-7a43-4b10-bfe4-38ae57620e5f">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Wakefield Trinity RLFC Fixtures</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</guid>
-<description>Activity Families Outdoor Sports</description>
-<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-09-01T13:00:00</ify:start>
-<ify:end>2026-09-05T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</location>
-<ify:location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/">Experience Wakefield</source>
-</item>
-<item>
-<title>Pontefract Ghost Walk</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</guid>
-<pubDate>Tue, 01 Sep 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-09-01T18:00:00</ify:start>
-<ify:end>2026-10-15T20:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</location>
-<ify:location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-ghost-walk/">Experience Wakefield</source>
-</item>
-<item>
-<title>Wakefield Ghost Walk</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
-<pubDate>Tue, 01 Sep 2026 18:30:00 +0000</pubDate>
-<ify:start>2026-09-01T18:30:00</ify:start>
-<ify:end>2026-10-29T20:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</location>
-<ify:location>Now - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
-</item>
-<item>
 <title>Stitch Art</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/stitch-art-r9f7</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/stitch-art-r9f7</guid>
@@ -2012,6 +1740,208 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/keep-crafting-b51d">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
+<link>https://experiencewakefield.co.uk/event/hold-to-this-earth/</link>
+<guid>https://experiencewakefield.co.uk/event/hold-to-this-earth/</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-09-02T09:00:00</ify:start>
+<ify:end>2027-04-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
+</item>
+<item>
+<title>Pooch Passport Challenge</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
+<description>Does your dog have what it takes to complete the Pooch Passport Challenge? Complete your passport with ten stamps and claim your reward.</description>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-09-02T09:00:00</ify:start>
+<ify:end>2027-02-28T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nostell, near Wakefield, West Yorkshire</location>
+<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
+<category>Sport</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Jason and the Coal Mining Adventure</title>
+<link>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</link>
+<guid>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</guid>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-10-04T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/">Experience Wakefield</source>
+</item>
+<item>
+<title>Luke Jerram’s Helios</title>
+<link>https://experiencewakefield.co.uk/event/luke-jerrams-helios/</link>
+<guid>https://experiencewakefield.co.uk/event/luke-jerrams-helios/</guid>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-09-06T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 06 Sep 2026 10:00 - 17:00 WX Wakefield Exchange</location>
+<ify:location>Now - Sun 06 Sep 2026 10:00 - 17:00 WX Wakefield Exchange</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/luke-jerrams-helios/">Experience Wakefield</source>
+</item>
+<item>
+<title>​Pokémon joins Fountains Abbey’s Summer of Play</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c</guid>
+<description>Planning your summer holidays? Discover a Summer of Play supported by Pokémon. Plus, don't miss the Pokémon TCG Mega Evolution play zones... ​</description>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-09-06T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</location>
+<ify:location>Fountains Abbey and Studley Royal Water Garden, Ripon, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden/events/c35ee52c-5f00-4a1f-ae41-71b1c8f9aa4c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>The Fabric of East Riddlesden: Inspiration from the Hall and its grounds</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c</guid>
+<description>Discover this new exhibition by Textilia 3, using the hall, history, past inhabitants and landscape as their inspiration to create beautiful artworks.</description>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-10-21T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
+<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Orienteering at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
+<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-11-29T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Summer of Play: Family trail</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05</guid>
+<description>Let Dart the Dragonfly lead your adventures in the gardens at Beningbrough this summer.</description>
+<pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-02T10:00:00</ify:start>
+<ify:end>2026-09-20T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beningbrough, York, North Yorkshire</location>
+<ify:location>Beningbrough, York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/28d43aea-b626-4629-b6dc-21d111961d05">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Social running group</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/bda08dfc-9ca8-4580-a2d5-97a2dfbb31af</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/bda08dfc-9ca8-4580-a2d5-97a2dfbb31af</guid>
+<description>Meet like-minded people, make new friends, and build up your fitness in the beautiful surroundings of Wentworth Castle Gardens.</description>
+<pubDate>Wed, 02 Sep 2026 10:15:00 +0000</pubDate>
+<ify:start>2026-09-02T10:15:00</ify:start>
+<ify:end>2026-12-30T12:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<category>Sport</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/bda08dfc-9ca8-4580-a2d5-97a2dfbb31af">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Fixing Fairytales with Gina Kaminski</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a</guid>
+<description>Discover our family-friendly exhibition this summer.</description>
+<pubDate>Wed, 02 Sep 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-09-02T10:30:00</ify:start>
+<ify:end>2026-09-06T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nunnington Hall, near York, North Yorkshire</location>
+<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/4619aa94-5fa6-4e0c-bdc9-6b48935af06a">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Wakefield Trinity RLFC Fixtures</title>
+<link>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</link>
+<guid>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</guid>
+<description>Activity Families Outdoor Sports</description>
+<pubDate>Wed, 02 Sep 2026 13:00:00 +0000</pubDate>
+<ify:start>2026-09-02T13:00:00</ify:start>
+<ify:end>2026-09-05T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</location>
+<ify:location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</ify:location>
+<category>Experiences</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/">Experience Wakefield</source>
+</item>
+<item>
+<title>Pontefract Ghost Walk</title>
+<link>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</link>
+<guid>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</guid>
+<pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-02T18:00:00</ify:start>
+<ify:end>2026-10-15T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</location>
+<ify:location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pontefract-ghost-walk/">Experience Wakefield</source>
+</item>
+<item>
+<title>Wakefield Ghost Walk</title>
+<link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
+<guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
+<pubDate>Wed, 02 Sep 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-09-02T18:30:00</ify:start>
+<ify:end>2026-10-29T20:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</location>
+<ify:location>Now - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
 </item>
 <item>
 <title>Michael Ball - Glow UK Tour 2026</title>
@@ -2201,7 +2131,7 @@
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/sociable-history-club-f2nq</guid>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-04</ify:start>
-<ify:end>2026-09-04</ify:end>
+<ify:end>2027-03-05</ify:end>
 <ify:allDay>true</ify:allDay>
 <location>Leeds City Museum</location>
 <ify:location>Leeds City Museum</ify:location>
@@ -2352,20 +2282,6 @@
 <source url="https://www.visitbradford.com/whats-on/setlist-comedy-night-p2617871">Visit Bradford</source>
 </item>
 <item>
-<title>Rory’s Saturday Club</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2027-08-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>The Penguin Experience</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n</guid>
@@ -2379,6 +2295,20 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-penguin-experience-5q6n">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2027-08-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
@@ -2490,19 +2420,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/waiting-in-the-wings/2026-09-05/2026-09-05">Visit Doncaster</source>
 </item>
 <item>
-<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
-<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-05</ify:start>
-<ify:end>2026-09-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
-</item>
-<item>
 <title>5 Sep 2026 Doncaster Family Fest Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest</guid>
@@ -2514,6 +2431,19 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-family-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Sport</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
 </item>
 <item>
 <title>5 Sep 2026 - 23 Jan 2027 Doncaster Knights 2026/27 Fixtures Find out more</title>
@@ -3058,8 +2988,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11T00:00:00</ify:start>
@@ -3072,12 +3002,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-11T00:00:00</ify:start>
@@ -3090,7 +3020,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Sheffield Heritage Open Days</title>
@@ -3495,8 +3425,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-14T00:00:00</ify:start>
@@ -3509,12 +3439,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-14T00:00:00</ify:start>
@@ -3527,7 +3457,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Nether Edge Festival: Summerisle, Alastair Gordon &amp; Robyn Gair</title>
@@ -3846,21 +3776,6 @@
 <source url="https://www.visitbradford.com/whats-on/pinny-piece-at-the-mechanics-institute-heritage-open-day-p2652241">Visit Bradford</source>
 </item>
 <item>
-<title>Part of Heritage Open Days 2026</title>
-<link>https://experiencewakefield.co.uk/event/lady-diana-beaumont-walk/</link>
-<guid>https://experiencewakefield.co.uk/event/lady-diana-beaumont-walk/</guid>
-<pubDate>Thu, 17 Sep 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-09-17T10:30:00</ify:start>
-<ify:end>2026-09-17T12:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Thu 17 Sep - Thu 17 Sep 2026 10:30 - 12:30 Yorkshire Sculpture Park</location>
-<ify:location>Thu 17 Sep - Thu 17 Sep 2026 10:30 - 12:30 Yorkshire Sculpture Park</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/lady-diana-beaumont-walk/">Experience Wakefield</source>
-</item>
-<item>
 <title>Film Screening: tHE iNVISIBLES</title>
 <link>https://www.visitbradford.com/whats-on/film-screening-the-invisibles-p2590461</link>
 <guid>https://www.visitbradford.com/whats-on/film-screening-the-invisibles-p2590461</guid>
@@ -4150,41 +4065,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/visions-afterparty/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-19</ify:start>
-<ify:end>2026-09-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Zephyr's, Stag Works, 84 John Street, S2 4QU</location>
-<ify:location>Zephyr's, Stag Works, 84 John Street, S2 4QU</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-19</ify:start>
-<ify:end>2026-09-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 19 September 2026</location>
-<ify:location>Sat. 19 September 2026</ify:location>
-<category>Festivals</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
-</item>
-<item>
 <title>The Hepworth Wakefield Harvest Festival</title>
 <link>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</link>
 <guid>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</guid>
@@ -4389,6 +4269,24 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/spirit-of-independence-film-festival/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-25</ify:start>
+<ify:end>2026-09-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>The Light, The Moor, S1 4PF</location>
+<ify:location>The Light, The Moor, S1 4PF</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
 <title>Float Along Festival</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</guid>
@@ -4497,21 +4395,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/open-works/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-28</ify:start>
-<ify:end>2026-09-28</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/">Our Favourite Places</source>
-</item>
-<item>
 <title>Don Broco</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/don-broco/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/don-broco/</guid>
@@ -4559,20 +4442,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/figures-fabric-wes-anderson-inspired-life-drawing/">Our Favourite Places</source>
 </item>
 <item>
-<title>Pumpkin Competition</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-01</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Autumn Display</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-display-cn81</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-display-cn81</guid>
@@ -4586,6 +4455,20 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-display-cn81">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Pumpkin Competition</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-01</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-competition-nztf">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>The Picture Library Selection Weekend</title>
@@ -4631,6 +4514,20 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-ghosts-of-temple-newsam-tour-64pb">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Pumpkin Patch</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Leeds Steampunk and Alternative Market</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8</guid>
@@ -4644,20 +4541,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-steampunk-and-alternative-market-7kc8">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Pumpkin Patch</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-03</ify:start>
-<ify:end>2026-10-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-patch-tz6c">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>The Wonder Stuff and Inspiral Carpets</title>
@@ -4736,6 +4619,22 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-beat/">Our Favourite Places</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-10/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-10/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-06T10:00:00</ify:start>
+<ify:end>2027-02-24T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-06-10/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>1152 Club: Talks at Kirkstall Abbey</title>
@@ -4862,8 +4761,8 @@
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-10T00:00:00</ify:start>
@@ -4876,7 +4775,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Sheffield Comic Arts Fair</title>
@@ -5007,20 +4906,6 @@
 <source url="https://experiencewakefield.co.uk/event/wakefield-model-railway-show/">Experience Wakefield</source>
 </item>
 <item>
-<title>WordFest</title>
-<link>https://experiencewakefield.co.uk/event/wordfest/</link>
-<guid>https://experiencewakefield.co.uk/event/wordfest/</guid>
-<pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-17T10:00:00</ify:start>
-<ify:end>2026-10-30T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 17 Oct - Fri 30 Oct 2026 10:00 - 16:00 Wakefield District Libraries</location>
-<ify:location>Sat 17 Oct - Fri 30 Oct 2026 10:00 - 16:00 Wakefield District Libraries</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wordfest/">Experience Wakefield</source>
-</item>
-<item>
 <title>Charlie Chaplin: The Gold Rush</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/charlie-chaplin-the-gold-rush/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/charlie-chaplin-the-gold-rush/</guid>
@@ -5036,6 +4921,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/charlie-chaplin-the-gold-rush/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Void</title>
+<link>https://experiencewakefield.co.uk/event/the-void/</link>
+<guid>https://experiencewakefield.co.uk/event/the-void/</guid>
+<pubDate>Tue, 20 Oct 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-10-20T19:30:00</ify:start>
+<ify:end>2026-10-20T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tue 20 Oct - Tue 20 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</location>
+<ify:location>Tue 20 Oct - Tue 20 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/the-void/">Experience Wakefield</source>
 </item>
 <item>
 <title>WildLife Foundation Creepy Carnival Charity Ball</title>
@@ -5100,34 +4999,18 @@
 <source url="https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/">Experience Wakefield</source>
 </item>
 <item>
-<title>Nocturnal Creatures Trail</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</guid>
+<title>Spellbound</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
 <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-24</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Kirkstall Abbey</location>
-<ify:location>Kirkstall Abbey</ify:location>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Scarecrow Trail</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Industrial Museum</location>
-<ify:location>Leeds Industrial Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Halloween at Temple Newsam</title>
@@ -5145,18 +5028,34 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/halloween-at-temple-newsam-zl14">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Spellbound</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
+<title>Scarecrow Trail</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4</guid>
 <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-24</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
 <category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Nocturnal Creatures Trail</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Halloween Cellar Tours</title>
@@ -5239,13 +5138,14 @@
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets-2/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent... \n</description>
+<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
 <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-10-24T10:00:00</ify:start>
 <ify:end>2026-10-25T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
+<category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
@@ -5357,6 +5257,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-audition-4k-restoration/">Our Favourite Places</source>
+</item>
+<item>
+<title>Find Your Passion – Autumnal Willow Lanterns</title>
+<link>https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/</link>
+<guid>https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/</guid>
+<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+<ify:start>2026-10-29T13:30:00</ify:start>
+<ify:end>2026-10-29T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 29 Oct - Thu 29 Oct 2026 13:30 - 18:30 Wakefield Museum</location>
+<ify:location>Thu 29 Oct - Thu 29 Oct 2026 13:30 - 18:30 Wakefield Museum</ify:location>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/">Experience Wakefield</source>
 </item>
 <item>
 <title>Halloween Mill Tour</title>
@@ -5693,9 +5608,45 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/northern-lights-norwegian-folk/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-11-29</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 29 November 2026</location>
+<ify:location>Sun. 29 November 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
+</item>
+<item>
+<title>Festive Afternoon Tea</title>
+<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
+<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
+<description>Christmas Food and Drink Theatre</description>
+<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-12-04T14:00:00</ify:start>
+<ify:end>2026-12-04T16:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
+<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
+</item>
+<item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 05 Dec 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-12-05T00:00:00</ify:start>
@@ -5708,7 +5659,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-01/2027-09-01/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-02/2027-09-02/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>The Snowman + Live Score</title>
@@ -5783,10 +5734,9 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Theatre Theatre pick + Itinerary Only Flans... The Second Serving Sat. 12 September 2026 CADS, Arley Street, S2 4QP</location>
-<ify:location>Theatre Theatre pick + Itinerary Only Flans... The Second Serving Sat. 12 September 2026 CADS, Arley Street, S2 4QP</ify:location>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
 </item>
@@ -5828,8 +5778,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 18 July 2026 — Tue. 1 September 2026</location>
-<ify:location>Sat. 18 July 2026 — Tue. 1 September 2026</ify:location>
+<location>Thu. 24 September 2026</location>
+<ify:location>Thu. 24 September 2026</ify:location>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5846,8 +5796,6 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 29 October 2026</location>
-<ify:location>Thu. 29 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5863,8 +5811,6 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 29 October 2026</location>
-<ify:location>Thu. 29 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5897,8 +5843,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T23:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Light, The Moor, S1 4PF</location>
-<ify:location>The Light, The Moor, S1 4PF</ify:location>
+<location>Thu. 29 October 2026</location>
+<ify:location>Thu. 29 October 2026</ify:location>
 <category>Gigs</category>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
@@ -5948,8 +5894,8 @@
 <ify:start>2026-12-25T13:00:00</ify:start>
 <ify:end>2027-01-06T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 18 July 2026 — Tue. 1 September 2026</location>
-<ify:location>Sat. 18 July 2026 — Tue. 1 September 2026</ify:location>
+<location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</location>
+<ify:location>The Writers Workshop, Unit 14 Orchard Square, S1 2FB</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5965,13 +5911,49 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wed. 7 October 2026</location>
-<ify:location>Wed. 7 October 2026</ify:location>
+<location>00 Mon. 5 October 2026 at 19:30–22:00 Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</location>
+<ify:location>00 Mon. 5 October 2026 at 19:30–22:00 Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
+</item>
+<item>
+<title>Special Events</title>
+<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/</link>
+<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/</guid>
+<description>Discover what's on at some of the WILDEST events in Yorkshire at the UK's no.1 walk-through animal adventure - Yorkshire Wildlife Park! From sensational summer concerts to incredible festive Christmas lights, Halloween spooktaculars to year round family-friendly events packed with fun.</description>
+<pubDate>Sat, 26 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-26T00:00:00</ify:start>
+<ify:end>2027-01-03T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Yorkshire Wildlife Park, Doncaster</location>
+<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
+<category>Gigs</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Wildlife Park</dc:creator>
+<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/">Yorkshire Wildlife Park</source>
+</item>
+<item>
+<title>Special Events</title>
+<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0</link>
+<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0</guid>
+<description>Discover what's on at some of the WILDEST events in Yorkshire at the UK's no.1 walk-through animal adventure - Yorkshire Wildlife Park! From sensational summer concerts to incredible festive Christmas lights, Halloween spooktaculars to year round family-friendly events packed with fun.</description>
+<pubDate>Sat, 26 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-26T00:00:00</ify:start>
+<ify:end>2027-01-03T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Yorkshire Wildlife Park, Doncaster</location>
+<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
+<category>Gigs</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Wildlife Park</dc:creator>
+<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/#events-month--0">Yorkshire Wildlife Park</source>
 </item>
 <item>
 <title>Exhibition on Screen: Renoir &amp; Love</title>
@@ -6004,8 +5986,8 @@
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p8</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p8</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p8</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p8</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 01 May 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-05-01T00:00:00</ify:start>
@@ -6018,7 +6000,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-01/2027-09-01/p8">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-02/2027-09-02/p8">Visit Doncaster</source>
 </item>
 <item>
 <title>Exhibition on Screen: Monet</title>
@@ -6037,8 +6019,8 @@
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p16</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p16</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p16</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p16</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sun, 11 Jul 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-07-11T00:00:00</ify:start>
@@ -6051,7 +6033,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-09-01/2027-09-01/p16">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-09-02/2027-09-02/p16">Visit Doncaster</source>
 </item>
 <item>
 <title>Olivia Bax: Double Take</title>
@@ -6066,6 +6048,20 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
+</item>
+<item>
+<title>Beauty and the Beast</title>
+<link>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</link>
+<guid>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</guid>
+<pubDate>Wed, 24 Nov 2027 19:00:00 +0000</pubDate>
+<ify:start>2027-11-24T19:00:00</ify:start>
+<ify:end>2028-01-03T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</location>
+<ify:location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/beauty-and-the-beast/">Experience Wakefield</source>
 </item>
 </channel>
 </rss>
