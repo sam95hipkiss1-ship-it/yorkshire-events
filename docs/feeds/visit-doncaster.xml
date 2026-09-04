@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
 <channel>
-<title>Yorkshire Sport Events</title>
-<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml</link>
-<description>Upcoming Yorkshire events in the Sport category.</description>
+<title>Visit Doncaster Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml</link>
+<description>Upcoming Yorkshire events from Visit Doncaster.</description>
 <language>en-gb</language>
 <lastBuildDate>Fri, 04 Sep 2026 04:24:11 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
-<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-04-01T00:00:00</ify:start>
+<ify:end>2027-05-08T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26">Visit Doncaster</source>
+</item>
 <item>
 <title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-rovers-league-1-home-fixtures-2025-26</link>
@@ -58,6 +70,30 @@
 </item>
 <item>
 <title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-08T00:00:00</ify:start>
+<ify:end>2026-09-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pride-of-yorkshire">Visit Doncaster</source>
+</item>
+<item>
+<title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-08T00:00:00</ify:start>
+<ify:end>2026-09-07T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/pride-of-yorkshire">Visit Doncaster</source>
+</item>
+<item>
+<title>8 Jun 2026 - 7 Sep 2026 Pride of Yorkshire Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/pride-of-yorkshire</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/pride-of-yorkshire</guid>
 <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
@@ -85,24 +121,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
-<title>Summer Holidays at The Web Adventure Park</title>
-<link>https://www.webadventurepark.co.uk/events/summer-holidays/</link>
-<guid>https://www.webadventurepark.co.uk/events/summer-holidays/</guid>
-<description>Join us for Summer at Web Adventure Park in York. Indoor &amp; outdoor fun, foam parties, fairground rides, animal zone, sports activities &amp; live performances.</description>
-<pubDate>Sat, 18 Jul 2026 09:30:00 +0000</pubDate>
-<ify:start>2026-07-18T09:30:00</ify:start>
-<ify:end>2026-09-06T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Web Adventure Park, York</location>
-<ify:location>Web Adventure Park, York</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Web Adventure Park</dc:creator>
-<source url="https://www.webadventurepark.co.uk/events/summer-holidays/">Web Adventure Park</source>
 </item>
 <item>
 <title>8 Aug 2026 - 7 Nov 2026 Exhibition: The Great St Leger – 250 Years of a Racing Classic Find out more</title>
@@ -151,6 +169,31 @@
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
+<title>3 Sep 2026 - 5 Sep 2026 Musical Magic – A Little Theatre Musical Theatre Show Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/musical-magic-a-little-theatre-musical-theatre-show</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/musical-magic-a-little-theatre-musical-theatre-show</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-03T00:00:00</ify:start>
+<ify:end>2026-09-05T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/musical-magic-a-little-theatre-musical-theatre-show">Visit Doncaster</source>
+</item>
+<item>
+<title>3 Sep 2026 - 5 Sep 2026 Musical Magic – A Little Theatre Musical Theatre Show Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/musical-magic-a-little-theatre-musical-theatre-show</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/musical-magic-a-little-theatre-musical-theatre-show</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-03T00:00:00</ify:start>
+<ify:end>2026-09-05T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/musical-magic-a-little-theatre-musical-theatre-show">Visit Doncaster</source>
+</item>
+<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -170,6 +213,55 @@
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
+<title>4 Sep 2026 The Story of the St Leger Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04</ify:start>
+<ify:end>2026-09-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-story-of-the-st-leger">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/dn-one-live">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 Cast Comedy Club Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04</ify:start>
+<ify:end>2026-09-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/cast-comedy-clubb">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-04T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dn-one-live">Visit Doncaster</source>
+</item>
+<item>
 <title>4 Sep 2026 - 6 Sep 2026 DN One Live Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live</guid>
@@ -182,51 +274,137 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/dn-one-live">Visit Doncaster</source>
 </item>
 <item>
-<title>Pooch Passport Challenge</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
-<description>Does your dog have what it takes to complete the Pooch Passport Challenge? Complete your passport with ten stamps and claim your reward.</description>
-<pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-09-04T09:00:00</ify:start>
-<ify:end>2027-02-28T16:00:00</ify:end>
+<title>5 Sep 2026 - 6 Sep 2026 Open Cockpit Weekend Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/open-cockpit-weekend</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/open-cockpit-weekend</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Nostell, near Wakefield, West Yorkshire</location>
-<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
-<category>Sport</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/open-cockpit-weekend">Visit Doncaster</source>
 </item>
 <item>
-<title>Wakefield Trinity RLFC Fixtures</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/</guid>
-<description>Activity Families Outdoor Sports</description>
-<pubDate>Fri, 04 Sep 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-09-04T13:00:00</ify:start>
-<ify:end>2026-09-05T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</location>
-<ify:location>Now - Sat 05 Sep 2026 13:00 - 15:00 Wakefield Trinity</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-trinity-rlfc-fixtures/">Experience Wakefield</source>
-</item>
-<item>
-<title>Science of Sport Weekend</title>
-<link>https://discover.eureka.org.uk/event/science-of-sport-weekend/</link>
-<guid>https://discover.eureka.org.uk/event/science-of-sport-weekend/</guid>
+<title>5 Sep 2026 Doncaster Family Fest Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest</guid>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-09-05</ify:start>
-<ify:end>2026-09-06</ify:end>
+<ify:end>2026-09-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Eureka! Science + Discovery</location>
-<ify:location>Eureka! Science + Discovery</ify:location>
-<category>Sport</category>
 <category>Family Days Out</category>
-<dc:creator>Eureka! Science + Discovery</dc:creator>
-<source url="https://discover.eureka.org.uk/event/science-of-sport-weekend/">Eureka! Science + Discovery</source>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-family-fest">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Womens Wellbeing Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/womens-well-being-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/womens-well-being-day</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/womens-well-being-day">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Waiting in the Wings Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/waiting-in-the-wings/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/waiting-in-the-wings/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/waiting-in-the-wings/2026-09-05/2026-09-05">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 - 6 Sep 2026 Open Cockpit Weekend Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/open-cockpit-weekend</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/open-cockpit-weekend</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05T00:00:00</ify:start>
+<ify:end>2026-09-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/open-cockpit-weekend">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-09-05/2026-09-05">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Womens Wellbeing Day Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/womens-well-being-day</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/womens-well-being-day</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/womens-well-being-day">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 Waiting in the Wings Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/waiting-in-the-wings/2026-09-05/2026-09-05</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/waiting-in-the-wings/2026-09-05/2026-09-05</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/waiting-in-the-wings/2026-09-05/2026-09-05">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 - 23 Jan 2027 Doncaster Knights 2026/27 Fixtures Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05T00:00:00</ify:start>
+<ify:end>2027-01-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 P!NK Live starring Vicky Jackson 2026 Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/p-nk-live-starring-vicky-jackson-2026</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/p-nk-live-starring-vicky-jackson-2026</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05</ify:start>
+<ify:end>2026-09-05</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/p-nk-live-starring-vicky-jackson-2026">Visit Doncaster</source>
 </item>
 <item>
 <title>5 Sep 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
@@ -417,90 +595,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-09-04/2027-09-04/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>The Everyday Heroes of St George's Hall - Heritage Open Days</title>
-<link>https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051</link>
-<guid>https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051</guid>
-<description>A guided talk/tour on the workers who have been essential to the running of St George's Hall through the ages.</description>
-<pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
-<ify:start>2026-09-15T14:00:00</ify:start>
-<ify:end>2026-09-15T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
-<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051">Visit Bradford</source>
-</item>
-<item>
-<title>Nether Edge Festival: Burial Research Open Day</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/</guid>
-<description>Join the cemetery's team of researchers in the Samuel Worth Chapel for a drop-in session. Whether you’re tracing family history, researching the past of a local building, or simply curious about who rests in this historic site, they'd love to help.</description>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-17</ify:start>
-<ify:end>2026-09-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Thu. 17 September 2026</location>
-<ify:location>Thu. 17 September 2026</ify:location>
-<category>Festivals</category>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-burial-research-open-day/">Our Favourite Places</source>
-</item>
-<item>
-<title>The English Concert: Harpsichord &amp; Strings</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/the-english-concert-harpsichord-strings/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/the-english-concert-harpsichord-strings/</guid>
-<description>The English Concert “celebrities of the Baroque performance movement” (New York Classical Review) launch a celebration of the majestic High Baroque with Handel’s Sonata in G, a masterclass in grace and counterpoint.</description>
-<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-18</ify:start>
-<ify:end>2026-09-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Fri. 18 September 2026</location>
-<ify:location>Fri. 18 September 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/the-english-concert-harpsichord-strings/">Our Favourite Places</source>
-</item>
-<item>
-<title>Float Along Festival</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/</guid>
-<description>Float Along music festival returns to Sheffield city centre to do it all again for the fifth year running. The lineup so far includes: White Lies, Sprints, Warmduscher, Opus Kink, Man/Woman/Chainsaw, Nuha Ruby Ra, Gia Ford and more.</description>
-<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-26</ify:start>
-<ify:end>2026-09-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Sport</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/float-along-festival/">Our Favourite Places</source>
-</item>
-<item>
-<title>Run For Wildlife – Autumn 5k</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/</guid>
-<description>Curly's and the Yorkshire Wildlife Park team are very pleased to be returning with the fantastic 5k running safari, in support of the Wildlife Foundation!</description>
-<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-04</ify:start>
-<ify:end>2026-10-04</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/">Yorkshire Wildlife Park</source>
-</item>
-<item>
 <title>Family Friendly</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-04/2027-09-04/p3</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-04/2027-09-04/p3</guid>
@@ -517,24 +611,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-09-04/2027-09-04/p3">Visit Doncaster</source>
-</item>
-<item>
-<title>Vaughan Williams: Songs of Travel</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/</guid>
-<description>Music in the Round’s Singer-in-Residence Roderick Williams returns with a programme of heartrendingly beautiful English song, including Vaughan Williams’ glorious cycle Songs of Travel.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-17</ify:start>
-<ify:end>2026-10-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 17 October 2026</location>
-<ify:location>Sat. 17 October 2026</ify:location>
-<category>Clubs</category>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/">Our Favourite Places</source>
 </item>
 <item>
 <title>Betfred 250th St Leger Festival | Gents Day</title>
