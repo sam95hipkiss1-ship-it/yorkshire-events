@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-09-06T00:40:32.312730+00:00",
+  "generated_at": "2026-09-06T04:30:11.645734+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 410,
+  "event_count": 411,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -102,12 +102,12 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 121,
+      "item_count": 122,
       "category_counts": {
         "Experiences": 41,
-        "Gigs": 72,
+        "Gigs": 73,
         "Comedy": 11,
-        "Theatre & Arts": 76,
+        "Theatre & Arts": 77,
         "Festivals": 30,
         "Clubs": 4,
         "Family Days Out": 5,
@@ -148,7 +148,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 6,
       "category_counts": {
-        "Theatre & Arts": 4,
+        "Theatre & Arts": 3,
         "Family Days Out": 1,
         "Experiences": 3,
         "Food & Drink": 3,
@@ -546,7 +546,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 121,
+      "item_count": 122,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -832,7 +832,7 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 85
+      "item_count": 86
     },
     {
       "name": "Festivals",
