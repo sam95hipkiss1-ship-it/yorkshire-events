@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml</link>
 <description>Upcoming Yorkshire events from Visit Leeds.</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 07 Sep 2026 04:28:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 12:14:26 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -101,6 +103,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -113,8 +117,6 @@
 <ify:start>2026-01-31</ify:start>
 <ify:end>2027-01-10</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/">Visit Leeds</source>
@@ -164,6 +166,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -240,8 +244,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -275,16 +277,16 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lotherton-hall-a-historic-tour-of-yorkshires-edwardian-gem/">Visit Leeds</source>
 </item>
 <item>
-<title>The Pussycat Dolls – PCD Forever Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-19</ify:start>
-<ify:end>2026-10-02</ify:end>
+<title>Street Food In The Square</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<category>Experiences</category>
+<category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-pussycat-dolls-pcd-forever-tour/">Visit Leeds</source>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -297,18 +299,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
-</item>
-<item>
-<title>Street Food In The Square</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-11-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -334,18 +324,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/rooftop-and-cellar-experience/">Visit Leeds</source>
-</item>
-<item>
-<title>Leeds Record Fair</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/leeds-record-fair/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/leeds-record-fair/</guid>
-<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-04-11</ify:start>
-<ify:end>2026-12-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-record-fair/">Visit Leeds</source>
 </item>
 <item>
 <title>Lines of Enquiry: Drawings from the Collection</title>
@@ -428,6 +406,8 @@
 <ify:start>2026-06-13</ify:start>
 <ify:end>2026-10-04</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/cecil-beaton-staging-icons/">Visit Leeds</source>
@@ -441,9 +421,50 @@
 <ify:start>2026-06-24</ify:start>
 <ify:end>2026-11-25</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/">Visit Leeds</source>
+</item>
+<item>
+<title>Open Mic Night at the Northern Market</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/</guid>
+<description>The Northern Market by Northern Monk</description>
+<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-25</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/">Visit Leeds</source>
+</item>
+<item>
+<title>Genghis Khan: How the Mongols Changed the World</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/genghis-khan-how-the-mongols-changed-the-world/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/genghis-khan-how-the-mongols-changed-the-world/</guid>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-06-26</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/genghis-khan-how-the-mongols-changed-the-world/">Visit Leeds</source>
+</item>
+<item>
+<title>The Magic Show – Pyramid Exhibition at Sunny Bank Mills</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-magic-show-pyramid-exhibition-at-sunny-bank-mills/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-magic-show-pyramid-exhibition-at-sunny-bank-mills/</guid>
+<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-07-04</ify:start>
+<ify:end>2026-09-27</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-magic-show-pyramid-exhibition-at-sunny-bank-mills/">Visit Leeds</source>
 </item>
 </channel>
 </rss>
