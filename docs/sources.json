@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-09T01:07:11.106170+00:00",
+  "generated_at": "2026-09-09T04:33:53.849235+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 18,
   "registered_source_count": 61,
@@ -105,13 +105,13 @@
       "item_count": 115,
       "category_counts": {
         "Gigs": 68,
-        "Festivals": 32,
-        "Theatre & Arts": 73,
-        "Experiences": 39,
+        "Festivals": 31,
+        "Theatre & Arts": 74,
+        "Experiences": 38,
         "Comedy": 10,
         "Clubs": 4,
         "Family Days Out": 5,
-        "Food & Drink": 16,
+        "Food & Drink": 17,
         "Sport": 4,
         "Seasonal": 6
       },
@@ -149,7 +149,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 7,
       "category_counts": {
-        "Theatre & Arts": 4,
+        "Theatre & Arts": 5,
         "Family Days Out": 1,
         "Experiences": 3,
         "Food & Drink": 3,
@@ -824,7 +824,7 @@
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 39
+      "item_count": 38
     },
     {
       "name": "Comedy",
@@ -836,19 +836,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 216
+      "item_count": 218
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 182
+      "item_count": 181
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 54
+      "item_count": 55
     },
     {
       "name": "Sport",
