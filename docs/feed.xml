@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 11 Sep 2026 00:53:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 04:32:15 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -81,6 +79,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -285,6 +285,8 @@
 <ify:start>2026-03-07</ify:start>
 <ify:end>2026-10-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
@@ -544,6 +546,8 @@
 <ify:start>2026-05-22</ify:start>
 <ify:end>2027-06-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/untangled/">Visit Leeds</source>
@@ -985,19 +989,48 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/shaun-bloodworth-photographs-films-things/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-11</ify:start>
-<ify:end>2026-09-11</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Festivals</category>
+<title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
+<link>https://experiencewakefield.co.uk/event/hold-to-this-earth/</link>
+<guid>https://experiencewakefield.co.uk/event/hold-to-this-earth/</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-09-11T09:00:00</ify:start>
+<ify:end>2027-04-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
+</item>
+<item>
+<title>Andy Welland: IMAGINED TERRITORIES</title>
+<link>https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/</link>
+<guid>https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-09-11T09:00:00</ify:start>
+<ify:end>2027-06-20T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 20 Jun 2027 09:00 - 16:00 The Art House</location>
+<ify:location>Now - Sun 20 Jun 2027 09:00 - 16:00 The Art House</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/">Experience Wakefield</source>
+</item>
+<item>
+<title>Plastic Fantastic?</title>
+<link>https://experiencewakefield.co.uk/event/plastic-fantastic/</link>
+<guid>https://experiencewakefield.co.uk/event/plastic-fantastic/</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-09-11T09:00:00</ify:start>
+<ify:end>2027-06-27T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</location>
+<ify:location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/plastic-fantastic/">Experience Wakefield</source>
 </item>
 <item>
 <title>Pooch Passport Challenge</title>
@@ -1013,6 +1046,20 @@
 <category>Sport</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Jason and the Coal Mining Adventure</title>
+<link>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</link>
+<guid>https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-11T10:00:00</ify:start>
+<ify:end>2026-10-04T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Now - Sun 04 Oct 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/jason-and-the-coal-mining-adventure/">Experience Wakefield</source>
 </item>
 <item>
 <title>Summer of Play: Family trail</title>
@@ -1149,6 +1196,36 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/community-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Pontefract Castle Explorer Tours</title>
+<link>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</link>
+<guid>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</guid>
+<description>Families Heritage Outdoor Tour</description>
+<pubDate>Fri, 11 Sep 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-09-11T14:00:00</ify:start>
+<ify:end>2026-09-27T14:45:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 27 Sep 2026 14:00 - 14:45 Pontefract Castle</location>
+<ify:location>Now - Sun 27 Sep 2026 14:00 - 14:45 Pontefract Castle</ify:location>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/">Experience Wakefield</source>
+</item>
+<item>
+<title>Pontefract Ghost Walk</title>
+<link>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</link>
+<guid>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</guid>
+<pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-11T18:00:00</ify:start>
+<ify:end>2026-10-15T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</location>
+<ify:location>Now - Thu 15 Oct 2026 18:00 - 20:00 The Counting House Pontefract</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pontefract-ghost-walk/">Experience Wakefield</source>
 </item>
 <item>
 <title>IMAX: To Fly! (U) [50th anniversary]</title>
@@ -1620,6 +1697,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/structure/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-12</ify:start>
+<ify:end>2026-09-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
 <title>170 Years of Bradford's Choir: Music, People and a Changing City - Heritage Open Day</title>
 <link>https://www.visitbradford.com/whats-on/170-years-of-bradfords-choir-music-people-and-a-changing-city-heritage-open-day-p2652221</link>
 <guid>https://www.visitbradford.com/whats-on/170-years-of-bradfords-choir-music-people-and-a-changing-city-heritage-open-day-p2652221</guid>
@@ -1671,6 +1763,21 @@
 <source url="https://www.visitbradford.com/whats-on/the-ten-hours-parson-at-st-john-the-evangelist-bierley-heritage-open-days-p2647741">Visit Bradford</source>
 </item>
 <item>
+<title>Part of Heritage Open Days 2026</title>
+<link>https://experiencewakefield.co.uk/event/heritage-open-days-dungeon-tours/</link>
+<guid>https://experiencewakefield.co.uk/event/heritage-open-days-dungeon-tours/</guid>
+<pubDate>Sat, 12 Sep 2026 10:45:00 +0000</pubDate>
+<ify:start>2026-09-12T10:45:00</ify:start>
+<ify:end>2026-09-19T15:45:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 12 Sep - Sat 19 Sep 2026 10:45 - 15:45 Pontefract Castle</location>
+<ify:location>Sat 12 Sep - Sat 19 Sep 2026 10:45 - 15:45 Pontefract Castle</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/heritage-open-days-dungeon-tours/">Experience Wakefield</source>
+</item>
+<item>
 <title>Heritage Games in the Market - Heritage Open Days</title>
 <link>https://www.visitbradford.com/whats-on/heritage-games-in-the-market-heritage-open-days-p2650121</link>
 <guid>https://www.visitbradford.com/whats-on/heritage-games-in-the-market-heritage-open-days-p2650121</guid>
@@ -1718,6 +1825,20 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/everyday-histories-from-the-broad-ford-to-city-of-culture-and-beyond-heritage-open-days-p2597391">Visit Bradford</source>
+</item>
+<item>
+<title>Nice! Stories and Rhymes with Michael Rosen</title>
+<link>https://experiencewakefield.co.uk/event/nice-stories-and-rhymes-with-michael-rosen/</link>
+<guid>https://experiencewakefield.co.uk/event/nice-stories-and-rhymes-with-michael-rosen/</guid>
+<pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-09-12T14:00:00</ify:start>
+<ify:end>2026-09-12T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 12 Sep - Sat 12 Sep 2026 14:00 - 15:00 Theatre Royal Wakefield</location>
+<ify:location>Sat 12 Sep - Sat 12 Sep 2026 14:00 - 15:00 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/nice-stories-and-rhymes-with-michael-rosen/">Experience Wakefield</source>
 </item>
 <item>
 <title>Life Drawing – Model as Muse – Sat 12 Sep 2026</title>
@@ -2090,6 +2211,21 @@
 <source url="https://www.visitbradford.com/whats-on/open-day-at-bradford-archives-heritage-open-days-p2646221">Visit Bradford</source>
 </item>
 <item>
+<title>Part of Heritage Open Days 2026</title>
+<link>https://experiencewakefield.co.uk/event/the-hidden-lives-of-elizabeth-joe-love/</link>
+<guid>https://experiencewakefield.co.uk/event/the-hidden-lives-of-elizabeth-joe-love/</guid>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-16T10:00:00</ify:start>
+<ify:end>2026-09-16T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wed 16 Sep - Wed 16 Sep 2026 10:00 - 18:00 The Elizabeth Love Museum</location>
+<ify:location>Wed 16 Sep - Wed 16 Sep 2026 10:00 - 18:00 The Elizabeth Love Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/the-hidden-lives-of-elizabeth-joe-love/">Experience Wakefield</source>
+</item>
+<item>
 <title>Live Music: Bethany Gibson</title>
 <link>https://www.visitbradford.com/whats-on/live-music-bethany-gibson-p2662871</link>
 <guid>https://www.visitbradford.com/whats-on/live-music-bethany-gibson-p2662871</guid>
@@ -2296,6 +2432,20 @@
 <source url="https://www.visitbradford.com/whats-on/film-screening-the-invisibles-p2590461">Visit Bradford</source>
 </item>
 <item>
+<title>Wakefield Ghost Walk</title>
+<link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
+<guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
+<pubDate>Thu, 17 Sep 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-09-17T18:30:00</ify:start>
+<ify:end>2026-10-29T20:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 17 Sep - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</location>
+<ify:location>Thu 17 Sep - Thu 29 Oct 2026 18:30 - 20:30 The Black Horse</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
+</item>
+<item>
 <title>Topic Folk Club - Heritage Open Days</title>
 <link>https://www.visitbradford.com/whats-on/topic-folk-club-heritage-open-days-p2650141</link>
 <guid>https://www.visitbradford.com/whats-on/topic-folk-club-heritage-open-days-p2650141</guid>
@@ -2482,6 +2632,21 @@
 <source url="https://www.visitbradford.com/whats-on/historical-dance-workshop-heritage-open-days-p2649321">Visit Bradford</source>
 </item>
 <item>
+<title>Part of Heritage Open Days 2026</title>
+<link>https://experiencewakefield.co.uk/event/heritage-open-days-museum-store-tours/</link>
+<guid>https://experiencewakefield.co.uk/event/heritage-open-days-museum-store-tours/</guid>
+<pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-09-18T11:00:00</ify:start>
+<ify:end>2026-09-18T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 18 Sep - Fri 18 Sep 2026 11:00 - 15:00 Wakefield Museums and Castles Collections Store</location>
+<ify:location>Fri 18 Sep - Fri 18 Sep 2026 11:00 - 15:00 Wakefield Museums and Castles Collections Store</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/heritage-open-days-museum-store-tours/">Experience Wakefield</source>
+</item>
+<item>
 <title>Live Music: Will Matthew</title>
 <link>https://www.visitbradford.com/whats-on/live-music-will-matthew-p2653671</link>
 <guid>https://www.visitbradford.com/whats-on/live-music-will-matthew-p2653671</guid>
@@ -2662,23 +2827,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/visions-afterparty/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-19</ify:start>
-<ify:end>2026-09-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>SADACCA, 48 Wicker, S3 8JB</location>
-<ify:location>SADACCA, 48 Wicker, S3 8JB</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
-</item>
-<item>
 <title>150 years of Hanson Schools - Heritage Open Days</title>
 <link>https://www.visitbradford.com/whats-on/150-years-of-hanson-schools-heritage-open-days-p2634591</link>
 <guid>https://www.visitbradford.com/whats-on/150-years-of-hanson-schools-heritage-open-days-p2634591</guid>
@@ -2693,6 +2841,24 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/150-years-of-hanson-schools-heritage-open-days-p2634591">Visit Bradford</source>
+</item>
+<item>
+<title>The Hepworth Wakefield Harvest Festival</title>
+<link>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</link>
+<guid>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/</guid>
+<description>Art Exhibition Food and Drink Market</description>
+<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-19T10:00:00</ify:start>
+<ify:end>2026-09-20T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 19 Sep - Sun 20 Sep 2026 10:00 - 16:00 The Hepworth Wakefield</location>
+<ify:location>Sat 19 Sep - Sun 20 Sep 2026 10:00 - 16:00 The Hepworth Wakefield</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-harvest-festival/">Experience Wakefield</source>
 </item>
 <item>
 <title>Make and Play: Bayeux Tapestry Weaving – Sat 19 Sep 2026</title>
@@ -2843,6 +3009,24 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/makers-market-x-clothes-swap/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-20</ify:start>
+<ify:end>2026-09-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 20 September 2026</location>
+<ify:location>Sun. 20 September 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
 </item>
 <item>
 <title>Anne Lister Flowing Laying</title>
@@ -3079,6 +3263,20 @@
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/gallery-babies-31/">York Museums Trust</source>
 </item>
 <item>
+<title>Find Your Passion – clay beads</title>
+<link>https://experiencewakefield.co.uk/event/find-your-passion-clay-beads/</link>
+<guid>https://experiencewakefield.co.uk/event/find-your-passion-clay-beads/</guid>
+<pubDate>Thu, 24 Sep 2026 13:30:00 +0000</pubDate>
+<ify:start>2026-09-24T13:30:00</ify:start>
+<ify:end>2026-09-24T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 24 Sep - Thu 24 Sep 2026 13:30 - 18:30 Wakefield Museum</location>
+<ify:location>Thu 24 Sep - Thu 24 Sep 2026 13:30 - 18:30 Wakefield Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/find-your-passion-clay-beads/">Experience Wakefield</source>
+</item>
+<item>
 <title>Little Shoppers</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/little-shoppers-5j5n</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/little-shoppers-5j5n</guid>
@@ -3220,6 +3418,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/endless-love-creative-autumn-makers-market/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-26</ify:start>
+<ify:end>2026-09-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 26 September 2026</location>
+<ify:location>Sat. 26 September 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/">Our Favourite Places</source>
+</item>
+<item>
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets/</guid>
@@ -3295,6 +3510,24 @@
 <source url="https://www.forestryengland.uk/forest-event/events-gisburn-forest/so-it-goes-presents-getner-brickhouse">Forestry England Yorkshire</source>
 </item>
 <item>
+<title>Courtyard Concert with Wakefield Orchestral Wind</title>
+<link>https://experiencewakefield.co.uk/event/courtyard-concert-with-wakefield-orchestral-wind/</link>
+<guid>https://experiencewakefield.co.uk/event/courtyard-concert-with-wakefield-orchestral-wind/</guid>
+<description>Food and Drink Music Outdoor Performance</description>
+<pubDate>Sun, 27 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-27T18:00:00</ify:start>
+<ify:end>2026-09-27T21:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sun 27 Sep - Sun 27 Sep 2026 18:00 - 21:00 Nostell, National Trust</location>
+<ify:location>Sun 27 Sep - Sun 27 Sep 2026 18:00 - 21:00 Nostell, National Trust</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/courtyard-concert-with-wakefield-orchestral-wind/">Experience Wakefield</source>
+</item>
+<item>
 <title>Sip Festival</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/sip-festival/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/sip-festival/</guid>
@@ -3324,6 +3557,21 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/open-works/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-28</ify:start>
+<ify:end>2026-09-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
 </item>
 <item>
 <title>Don Broco</title>
@@ -3445,6 +3693,20 @@
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/teachers-cpd-event-secrets-of-the-melsonby-hoard/">York Museums Trust</source>
+</item>
+<item>
+<title>The Haunted Bride</title>
+<link>https://experiencewakefield.co.uk/event/the-haunted-bride/</link>
+<guid>https://experiencewakefield.co.uk/event/the-haunted-bride/</guid>
+<pubDate>Thu, 01 Oct 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-10-01T19:30:00</ify:start>
+<ify:end>2026-10-01T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 01 Oct - Thu 01 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</location>
+<ify:location>Thu 01 Oct - Thu 01 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/the-haunted-bride/">Experience Wakefield</source>
 </item>
 <item>
 <title>Little Scientists</title>
@@ -3811,6 +4073,40 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/no-bounds/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-09</ify:start>
+<ify:end>2026-10-09</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Festival Festivals Guide + Itinerary Destination Sat. 12 September 2026 FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
+<ify:location>Festival Festivals Guide + Itinerary Destination Sat. 12 September 2026 FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/off-the-shelf/">Our Favourite Places</source>
+</item>
+<item>
+<title>Pumpkin Festival at Horncastle Farm</title>
+<link>https://experiencewakefield.co.uk/event/pumpkin-festival-at-horncastle-farm/</link>
+<guid>https://experiencewakefield.co.uk/event/pumpkin-festival-at-horncastle-farm/</guid>
+<description>Activity Families Festival Outdoor</description>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-10-09T09:00:00</ify:start>
+<ify:end>2026-10-31T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 09 Oct - Sat 31 Oct 2026 09:00 - 16:00 Horncastle Farm</location>
+<ify:location>Fri 09 Oct - Sat 31 Oct 2026 09:00 - 16:00 Horncastle Farm</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pumpkin-festival-at-horncastle-farm/">Experience Wakefield</source>
+</item>
+<item>
 <title>Sept10horse-racing</title>
 <link>https://www.yorkshire.com/doncaster/events/horse-racing/2026-09-09-doncaster-racecourse-st-leger-ladies-day</link>
 <guid>https://www.yorkshire.com/doncaster/events/horse-racing/2026-09-09-doncaster-racecourse-st-leger-ladies-day</guid>
@@ -3845,6 +4141,21 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/sedbergh/events/other/our-planet-the-people-my-blood-director-qa-12a-lvz18qjs_hqvb7yvgpjdb">Yorkshire.com</source>
+</item>
+<item>
+<title>Yorkshire Scare Grounds Halloween</title>
+<link>https://experiencewakefield.co.uk/event/yorkshire-scare-grounds-halloween/</link>
+<guid>https://experiencewakefield.co.uk/event/yorkshire-scare-grounds-halloween/</guid>
+<pubDate>Fri, 09 Oct 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-10-09T18:30:00</ify:start>
+<ify:end>2026-11-01T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 09 Oct - Sun 01 Nov 2026 18:30 - 22:00 Yorkshire Scare Grounds Scream Park</location>
+<ify:location>Fri 09 Oct - Sun 01 Nov 2026 18:30 - 22:00 Yorkshire Scare Grounds Scream Park</ify:location>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/yorkshire-scare-grounds-halloween/">Experience Wakefield</source>
 </item>
 <item>
 <title>Sept10theatre</title>
@@ -3943,6 +4254,23 @@
 <source url="https://www.forestryengland.uk/forest-event/events-dalby-forest/members-week">Forestry England Yorkshire</source>
 </item>
 <item>
+<title>Blacker Hall Pumpkin Patch</title>
+<link>https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/</link>
+<guid>https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/</guid>
+<description>Activity Craft Families Outdoor</description>
+<pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-10T10:00:00</ify:start>
+<ify:end>2026-10-31T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 10 Oct - Sat 31 Oct 2026 10:00 - 16:00 Blacker Hall Farm Shop</location>
+<ify:location>Sat 10 Oct - Sat 31 Oct 2026 10:00 - 16:00 Blacker Hall Farm Shop</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/">Experience Wakefield</source>
+</item>
+<item>
 <title>Orchestra Baobab</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/orchestra-baobab/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/orchestra-baobab/</guid>
@@ -3971,6 +4299,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-hound-of-the-baskervilles-1/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Makings of a Murderer: The Undercover Detective</title>
+<link>https://experiencewakefield.co.uk/event/the-makings-of-a-murderer-the-undercover-detective/</link>
+<guid>https://experiencewakefield.co.uk/event/the-makings-of-a-murderer-the-undercover-detective/</guid>
+<pubDate>Wed, 14 Oct 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-10-14T19:30:00</ify:start>
+<ify:end>2026-10-14T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wed 14 Oct - Wed 14 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</location>
+<ify:location>Wed 14 Oct - Wed 14 Oct 2026 19:30 - 21:30 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/the-makings-of-a-murderer-the-undercover-detective/">Experience Wakefield</source>
 </item>
 <item>
 <title>Vaughan Williams: Songs of Travel</title>
@@ -4008,6 +4350,20 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/tangram-rituals-for-a-changing-world/">Our Favourite Places</source>
 </item>
 <item>
+<title>Wakefield Model Railway Show</title>
+<link>https://experiencewakefield.co.uk/event/wakefield-model-railway-show/</link>
+<guid>https://experiencewakefield.co.uk/event/wakefield-model-railway-show/</guid>
+<pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-17T10:00:00</ify:start>
+<ify:end>2026-10-18T16:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 17 Oct - Sun 18 Oct 2026 10:00 - 16:30 Queen Elizabeth Grammar School</location>
+<ify:location>Sat 17 Oct - Sun 18 Oct 2026 10:00 - 16:30 Queen Elizabeth Grammar School</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/wakefield-model-railway-show/">Experience Wakefield</source>
+</item>
+<item>
 <title>NEW Event International Sawfish Day 17th &amp; 18th October 2026 10am-5pm Celebrated annually on the 17th October, International Sawfish Day (ISD) aims to raise awareness of... Find out more</title>
 <link>https://www.thedeep.co.uk/events/international-sawfish-day</link>
 <guid>https://www.thedeep.co.uk/events/international-sawfish-day</guid>
@@ -4037,6 +4393,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/charlie-chaplin-the-gold-rush/">Our Favourite Places</source>
+</item>
+<item>
+<title>Part of WordFest</title>
+<link>https://experiencewakefield.co.uk/event/1800s-murders-of-wakefield-walk/</link>
+<guid>https://experiencewakefield.co.uk/event/1800s-murders-of-wakefield-walk/</guid>
+<pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-10-21T18:00:00</ify:start>
+<ify:end>2026-10-21T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wed 21 Oct - Wed 21 Oct 2026 18:00 - 20:00 Wakefield Museum</location>
+<ify:location>Wed 21 Oct - Wed 21 Oct 2026 18:00 - 20:00 Wakefield Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/1800s-murders-of-wakefield-walk/">Experience Wakefield</source>
 </item>
 <item>
 <title>WildLife Foundation Creepy Carnival Charity Ball</title>
@@ -4085,6 +4456,20 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/sensoria/">Our Favourite Places</source>
+</item>
+<item>
+<title>Richard Holmes’ Dark History of Pontefract Castle</title>
+<link>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</link>
+<guid>https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-10-22T19:00:00</ify:start>
+<ify:end>2026-11-06T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 22 Oct - Fri 06 Nov 2026 19:00 - 21:30 Pontefract Castle</location>
+<ify:location>Thu 22 Oct - Fri 06 Nov 2026 19:00 - 21:30 Pontefract Castle</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/richard-holmes-dark-history-of-pontefract-castle/">Experience Wakefield</source>
 </item>
 <item>
 <title>Special Events</title>
@@ -4650,6 +5035,24 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/scooby-doo-double-bill/">Our Favourite Places</source>
 </item>
 <item>
+<title>Comedy Night Special featuring Joel Dommett</title>
+<link>https://experiencewakefield.co.uk/event/comedy-night-special-featuring-joel-dommett/</link>
+<guid>https://experiencewakefield.co.uk/event/comedy-night-special-featuring-joel-dommett/</guid>
+<description>Activity Dance Families Music Performance Workshop</description>
+<pubDate>Sat, 31 Oct 2026 17:00:00 +0000</pubDate>
+<ify:start>2026-10-31T17:00:00</ify:start>
+<ify:end>2026-10-31T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 31 Oct - Sat 31 Oct 2026 17:00 - 20:00 WX Wakefield Exchange</location>
+<ify:location>Sat 31 Oct - Sat 31 Oct 2026 17:00 - 20:00 WX Wakefield Exchange</ify:location>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/comedy-night-special-featuring-joel-dommett/">Experience Wakefield</source>
+</item>
+<item>
 <title>The Void: A Horror Story</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/the-void-a-horror-story/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/the-void-a-horror-story/</guid>
@@ -4948,23 +5351,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-pink-floyd-the-wall/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-19</ify:start>
-<ify:end>2026-11-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Thu. 19 November 2026</location>
-<ify:location>Thu. 19 November 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/">Our Favourite Places</source>
-</item>
-<item>
 <title>The Christmas Adventure</title>
 <link>https://stockeldpark.co.uk/activities/season/christmas/</link>
 <guid>https://stockeldpark.co.uk/activities/season/christmas/</guid>
@@ -5255,24 +5641,6 @@
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sat, 05 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-05</ify:start>
-<ify:end>2026-12-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 5 December 2026</location>
-<ify:location>Sat. 5 December 2026</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</guid>
 <description>A Sheffield culture guide written by in-the-know locals.</description>
@@ -5431,8 +5799,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>nce/movement Comedy Theatre pick Sun. 4 October 2026 Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</location>
-<ify:location>nce/movement Comedy Theatre pick Sun. 4 October 2026 Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</ify:location>
+<location>The System, 6-8 Botsford Street, S3 9PF</location>
+<ify:location>The System, 6-8 Botsford Street, S3 9PF</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
@@ -5449,8 +5817,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Mon. 19 October 2026</location>
-<ify:location>Mon. 19 October 2026</ify:location>
+<location>Victoria, 1 Rowland Street, Neepsend, S3 8DE</location>
+<ify:location>Victoria, 1 Rowland Street, Neepsend, S3 8DE</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5466,8 +5834,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 24 September 2026</location>
-<ify:location>Thu. 24 September 2026</ify:location>
+<location>Thu. 10 September 2026 — Sat. 19 September 2026</location>
+<ify:location>Thu. 10 September 2026 — Sat. 19 September 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5483,8 +5851,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T13:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 26 February 2026 — Sat. 27 February 2027</location>
-<ify:location>Thu. 26 February 2026 — Sat. 27 February 2027</ify:location>
+<location>to Go Meet the Locals My Itinerary Back to filters Beginner Sewing Art Workshop Art pick Ed's Workshop, Carver House, Carver Street S1 4FS £180 Share</location>
+<ify:location>to Go Meet the Locals My Itinerary Back to filters Beginner Sewing Art Workshop Art pick Ed's Workshop, Carver House, Carver Street S1 4FS £180 Share</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5500,6 +5868,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T23:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Sat. 26 September 2026</location>
+<ify:location>Sat. 26 September 2026</ify:location>
 <category>Gigs</category>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
@@ -5515,8 +5885,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T17:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</location>
-<ify:location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</ify:location>
+<location>Mon. 28 September 2026 — Sat. 10 October 2026</location>
+<ify:location>Mon. 28 September 2026 — Sat. 10 October 2026</ify:location>
 <category>Gigs</category>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
@@ -5549,8 +5919,8 @@
 <ify:start>2026-12-25T13:00:00</ify:start>
 <ify:end>2027-01-06T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>to Go Meet the Locals My Itinerary Back to filters Woodworking Taster Session Art Workshop Ed's Workshop, Carver House, Carver Street, S1 4FS £50 Share</location>
-<ify:location>to Go Meet the Locals My Itinerary Back to filters Woodworking Taster Session Art Workshop Ed's Workshop, Carver House, Carver Street, S1 4FS £50 Share</ify:location>
+<location>Mon. 20 July 2026 — Sun. 13 December 2026</location>
+<ify:location>Mon. 20 July 2026 — Sun. 13 December 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5566,8 +5936,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>SADACCA, 48 Wicker, S3 8JB</location>
-<ify:location>SADACCA, 48 Wicker, S3 8JB</ify:location>
+<location>CADS, Arley Street, S2 4QP</location>
+<ify:location>CADS, Arley Street, S2 4QP</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5650,6 +6020,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/james-morrison-jack-savoretti/">The Piece Hall</source>
+</item>
+<item>
+<title>Olivia Bax: Double Take</title>
+<link>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</link>
+<guid>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</guid>
+<pubDate>Sun, 26 Sep 2027 11:00:00 +0000</pubDate>
+<ify:start>2027-09-26T11:00:00</ify:start>
+<ify:end>2028-03-14T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 26 Sep - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</location>
+<ify:location>Sat 26 Sep - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
 </item>
 </channel>
 </rss>
