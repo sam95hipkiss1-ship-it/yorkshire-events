@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml</link>
 <description>Upcoming Yorkshire events in the Sport category.</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 14 Sep 2026 04:49:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 12:29:35 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -47,6 +47,8 @@
 <ify:start>2026-09-14T10:00:00</ify:start>
 <ify:end>2026-09-14T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Thirsk Racecourse, Station Rd, Thirsk YO7 1QL, UK</location>
+<ify:location>Thirsk Racecourse, Station Rd, Thirsk YO7 1QL, UK</ify:location>
 <category>Sport</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/thirsk/events/horse-racing/2026-09-13-thirsk-racecourse-season-finale">Yorkshire.com</source>
@@ -59,6 +61,8 @@
 <ify:start>2026-09-15T10:00:00</ify:start>
 <ify:end>2026-09-15T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Redcar Racecourse, Redcar Ln, Redcar TS10 2BY, UK</location>
+<ify:location>Redcar Racecourse, Redcar Ln, Redcar TS10 2BY, UK</ify:location>
 <category>Sport</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/redcar-and-cleveland/events/horse-racing/2026-09-14-redcar-racecourse-redcar-flat-racing">Yorkshire.com</source>
@@ -78,6 +82,18 @@
 <category>Sport</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-everyday-heroes-of-st-georges-hall-heritage-open-days-p2616051">Visit Bradford</source>
+</item>
+<item>
+<title>Sept16horse-racing</title>
+<link>https://www.yorkshire.com/beverley/events/horse-racing/2026-09-15-beverley-racecourse-beverley-flat-racing</link>
+<guid>https://www.yorkshire.com/beverley/events/horse-racing/2026-09-15-beverley-racecourse-beverley-flat-racing</guid>
+<pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-16T10:00:00</ify:start>
+<ify:end>2026-09-16T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Sport</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/beverley/events/horse-racing/2026-09-15-beverley-racecourse-beverley-flat-racing">Yorkshire.com</source>
 </item>
 <item>
 <title>Nether Edge Festival: Burial Research Open Day</title>
@@ -227,6 +243,23 @@
 <category>Sport</category>
 <dc:creator>Forestry England Yorkshire</dc:creator>
 <source url="https://www.forestryengland.uk/forest-event/events-gisburn-forest/aether-yoga-day-retreats">Forestry England Yorkshire</source>
+</item>
+<item>
+<title>Run For Wildlife – Night 5k</title>
+<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</link>
+<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</guid>
+<description>Curly's and the Yorkshire Wildlife Park team are very pleased to be returning with the fantastic 5k NIGHT TIME running safari, in support of the Wildlife Foundation!</description>
+<pubDate>Sun, 10 Jan 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-01-10</ify:start>
+<ify:end>2027-01-10</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Yorkshire Wildlife Park, Doncaster</location>
+<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
+<category>Experiences</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire Wildlife Park</dc:creator>
+<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/">Yorkshire Wildlife Park</source>
 </item>
 </channel>
 </rss>
