@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-15T04:48:26.662772+00:00",
+  "generated_at": "2026-09-15T11:34:13.239594+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 18,
   "registered_source_count": 61,
@@ -34,13 +34,13 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 12,
+        "Theatre & Arts": 9,
         "Experiences": 24,
         "Festivals": 2,
         "Food & Drink": 2,
         "Gigs": 1,
-        "Family Days Out": 4,
-        "Seasonal": 2,
+        "Family Days Out": 3,
+        "Seasonal": 1,
         "Comedy": 1
       },
       "status": "active"
@@ -104,13 +104,13 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 106,
+      "item_count": 105,
       "category_counts": {
-        "Festivals": 25,
+        "Festivals": 23,
         "Theatre & Arts": 68,
         "Experiences": 36,
-        "Food & Drink": 16,
-        "Gigs": 63,
+        "Food & Drink": 15,
+        "Gigs": 61,
         "Sport": 4,
         "Family Days Out": 5,
         "Comedy": 10,
@@ -151,7 +151,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 10,
       "category_counts": {
-        "Theatre & Arts": 7,
+        "Theatre & Arts": 6,
         "Family Days Out": 1,
         "Experiences": 3,
         "Sport": 1,
@@ -201,10 +201,10 @@
       "name": "York Museums Trust",
       "slug": "york-museums-trust",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml",
-      "item_count": 47,
+      "item_count": 48,
       "category_counts": {
-        "Theatre & Arts": 47,
-        "Family Days Out": 42,
+        "Theatre & Arts": 48,
+        "Family Days Out": 43,
         "Experiences": 4
       },
       "status": "active"
@@ -531,7 +531,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 106,
+      "item_count": 105,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -738,7 +738,7 @@
       "domain": "yorkmuseumstrust.org.uk",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 47,
+      "item_count": 48,
       "slug": "york-museums-trust",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml"
     },
@@ -817,13 +817,13 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 76
+      "item_count": 74
     },
     {
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 31
+      "item_count": 29
     },
     {
       "name": "Comedy",
@@ -835,7 +835,7 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 254
+      "item_count": 251
     },
     {
       "name": "Experiences",
@@ -847,7 +847,7 @@
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 58
+      "item_count": 57
     },
     {
       "name": "Sport",
@@ -865,7 +865,7 @@
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 38
+      "item_count": 37
     }
   ]
 }
