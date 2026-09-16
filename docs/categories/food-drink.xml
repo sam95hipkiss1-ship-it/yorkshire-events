@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Tue, 15 Sep 2026 11:34:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 01:11:19 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,6 +28,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -123,8 +125,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -150,6 +150,8 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
@@ -200,46 +202,10 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2026-11-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/craft-markets/">Visit Leeds</source>
-</item>
-<item>
-<title>Nether Edge Festival: Bats, Beer &amp; Bela Lugosi</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/</guid>
-<description>A thrilling night of wildlife, horror and vintage cinema in the gothic surroundings of the Samuel Worth Chapel. With your choice of a guided bat walk or horror walk through the grounds at dusk, followed by 1940 cult classic The Devil’s Bat.</description>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-15</ify:start>
-<ify:end>2026-09-15</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Tue. 15 September 2026</location>
-<ify:location>Tue. 15 September 2026</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-bats-beer-bela-lugosi/">Our Favourite Places</source>
-</item>
-<item>
-<title>Guardians of the Garden</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</guid>
-<description>Every flower's story begins with a pollinator.</description>
-<pubDate>Tue, 15 Sep 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-09-15T10:30:00</ify:start>
-<ify:end>2026-12-20T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Nunnington Hall, near York, North Yorkshire</location>
-<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Nether Edge Festival: Ammi’s Kitchen – A Taste of Bengal</title>
@@ -257,6 +223,22 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/nether-edge-festival-ammis-kitchen-a-taste-of-bengal/">Our Favourite Places</source>
+</item>
+<item>
+<title>Guardians of the Garden</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</guid>
+<description>Every flower's story begins with a pollinator.</description>
+<pubDate>Wed, 16 Sep 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-09-16T10:30:00</ify:start>
+<ify:end>2026-12-20T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nunnington Hall, near York, North Yorkshire</location>
+<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Live Music: Bethany Gibson</title>
@@ -337,21 +319,6 @@
 <source url="https://www.visitbradford.com/whats-on/film-screening-the-invisibles-p2590461">Visit Bradford</source>
 </item>
 <item>
-<title>Oktoberfest at Darley Street Market</title>
-<link>https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341</link>
-<guid>https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-18</ify:start>
-<ify:end>2026-09-20</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341">Visit Bradford</source>
-</item>
-<item>
 <title>Bradford Unitarian Church Open Weekends - Heritage Open Days</title>
 <link>https://www.visitbradford.com/whats-on/bradford-unitarian-church-open-weekends-heritage-open-days-p2643971</link>
 <guid>https://www.visitbradford.com/whats-on/bradford-unitarian-church-open-weekends-heritage-open-days-p2643971</guid>
@@ -366,6 +333,21 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/bradford-unitarian-church-open-weekends-heritage-open-days-p2643971">Visit Bradford</source>
+</item>
+<item>
+<title>Oktoberfest at Darley Street Market</title>
+<link>https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341</link>
+<guid>https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-18</ify:start>
+<ify:end>2026-09-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/oktoberfest-at-darley-street-market-p2645341">Visit Bradford</source>
 </item>
 <item>
 <title>Historical Dance Workshop - Heritage Open Days</title>
@@ -471,6 +453,22 @@
 <source url="https://www.visitbradford.com/whats-on/live-music-yolo-solo-p2460501">Visit Bradford</source>
 </item>
 <item>
+<title>Heritage Action Zone Screening</title>
+<link>https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441</link>
+<guid>https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-20</ify:start>
+<ify:end>2026-09-23</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441">Visit Bradford</source>
+</item>
+<item>
 <title>HODs: Celebrating Bradford's Cycling Heritage</title>
 <link>https://www.visitbradford.com/whats-on/hods-celebrating-bradfords-cycling-heritage-p2597371</link>
 <guid>https://www.visitbradford.com/whats-on/hods-celebrating-bradfords-cycling-heritage-p2597371</guid>
@@ -486,22 +484,6 @@
 <category>Sport</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/hods-celebrating-bradfords-cycling-heritage-p2597371">Visit Bradford</source>
-</item>
-<item>
-<title>Heritage Action Zone Screening</title>
-<link>https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441</link>
-<guid>https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-20</ify:start>
-<ify:end>2026-09-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/heritage-action-zone-screening-p2662441">Visit Bradford</source>
 </item>
 <item>
 <title>Craft Markets</title>
@@ -635,6 +617,24 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/endless-love-creative-autumn-makers-market/">Our Favourite Places</source>
+</item>
+<item>
+<title>Farmer Copleys’ Pumpkin Festival</title>
+<link>https://experiencewakefield.co.uk/event/pumpkin-festival/</link>
+<guid>https://experiencewakefield.co.uk/event/pumpkin-festival/</guid>
+<description>Activity Families Festival Food and Drink Outdoor</description>
+<pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-09-26T10:00:00</ify:start>
+<ify:end>2026-11-01T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 26 Sep - Sun 01 Nov 2026 10:00 - 16:00 Farmer Copleys</location>
+<ify:location>Sat 26 Sep - Sun 01 Nov 2026 10:00 - 16:00 Farmer Copleys</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/pumpkin-festival/">Experience Wakefield</source>
 </item>
 <item>
 <title>Real Markets</title>
@@ -789,13 +789,14 @@
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets-2/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent... \n</description>
+<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
 <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-10-24T10:00:00</ify:start>
 <ify:end>2026-10-25T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
 <ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
+<category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
@@ -816,6 +817,23 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/sheffield-print-fair/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-31</ify:start>
+<ify:end>2026-10-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 31 October 2026</location>
+<ify:location>Sat. 31 October 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Piece Hall Christmas Market</title>
@@ -893,8 +911,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T17:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>SADACCA, 48 Wicker, S3 8JB</location>
-<ify:location>SADACCA, 48 Wicker, S3 8JB</ify:location>
+<location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</location>
+<ify:location>ffield Festivals Guide Nearby places Kelham Island Museum Heritage Museums Kelham Island Museum, Alma Street, S3 8RY</ify:location>
 <category>Gigs</category>
 <category>Festivals</category>
 <category>Theatre &amp; Arts</category>
