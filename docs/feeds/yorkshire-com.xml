@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml</link>
 <description>Upcoming Yorkshire events from Yorkshire.com.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 17 Sep 2026 04:47:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 11:28:06 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,21 +16,11 @@
 <ify:start>2026-09-17T10:00:00</ify:start>
 <ify:end>2026-09-17T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Pontefract Racecourse, Pontefract Park, Park Rd, Pontefract WF8 4QD, UK</location>
+<ify:location>Pontefract Racecourse, Pontefract Park, Park Rd, Pontefract WF8 4QD, UK</ify:location>
 <category>Sport</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/pontefract/events/horse-racing/2026-09-16-pontefract-racecourse-pontefract-flat-racing">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept17food</title>
-<link>https://www.yorkshire.com/bradford/events/food/freshers-food-tour-mtk468ni</link>
-<guid>https://www.yorkshire.com/bradford/events/food/freshers-food-tour-mtk468ni</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-09-17T13:00:00</ify:start>
-<ify:end>2026-09-17T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/bradford/events/food/freshers-food-tour-mtk468ni">Yorkshire.com</source>
 </item>
 <item>
 <title>Sept17arts</title>
@@ -40,6 +30,8 @@
 <ify:start>2026-09-17T17:00:00</ify:start>
 <ify:end>2026-09-17T19:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Darley Street Market, 16, 24 Darley St, Bradford</location>
+<ify:location>Darley Street Market, 16, 24 Darley St, Bradford</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/bradford/events/arts/film-screening-the-invisibles-mr0sx3qk">Yorkshire.com</source>
@@ -52,6 +44,8 @@
 <ify:start>2026-09-17T18:00:00</ify:start>
 <ify:end>2026-09-17T18:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Corporation, Trafalgar Court, Sheffield, S1 4JU</location>
+<ify:location>Corporation, Trafalgar Court, Sheffield, S1 4JU</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/sheffield/events/music/sarcofago-lvz18qiobwfqpfgfejnqv">Yorkshire.com</source>
@@ -64,6 +58,8 @@
 <ify:start>2026-09-17T18:00:00</ify:start>
 <ify:end>2026-09-17T18:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Social, Social, Hull, HU1 1TU</location>
+<ify:location>Social, Social, Hull, HU1 1TU</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/hull/events/music/arkayla-15dbz_676va3b">Yorkshire.com</source>
@@ -76,6 +72,8 @@
 <ify:start>2026-09-17T18:30:00</ify:start>
 <ify:end>2026-09-17T18:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Brudenell Social Club, 33 Queens Road, Leeds, LS6 1NY</location>
+<ify:location>Brudenell Social Club, 33 Queens Road, Leeds, LS6 1NY</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/headingley/events/music/the-smyths-lvz18qjfmcjfsgyz0eusl">Yorkshire.com</source>
@@ -88,6 +86,8 @@
 <ify:start>2026-09-17T18:30:00</ify:start>
 <ify:end>2026-09-17T18:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>The Crescent, 8 The Crescent</location>
+<ify:location>The Crescent, 8 The Crescent</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/music/blind-yeo-lvz18qjie0uhn30znhu72">Yorkshire.com</source>
@@ -100,6 +100,8 @@
 <ify:start>2026-09-17T18:30:00</ify:start>
 <ify:end>2026-09-17T18:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</location>
+<ify:location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</ify:location>
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/sedbergh/events/music/dave-rowntree-no-one-you-know-lvz18qqz-cw65uyz0etyf">Yorkshire.com</source>
@@ -112,9 +114,165 @@
 <ify:start>2026-09-17T18:30:00</ify:start>
 <ify:end>2026-09-17T18:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Lawrence Batley Theatre, Queen’s Square, , Huddersfield, HD1 2SP</location>
+<ify:location>Lawrence Batley Theatre, Queen’s Square, , Huddersfield, HD1 2SP</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/huddersfield/events/theatre/jonathan-pie-work-in-progress-1amzkuzgkd_b98y">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept17music</title>
+<link>https://www.yorkshire.com/leeds/events/music/the-molotovs-lvz18qhtihmhbeyzirdqo</link>
+<guid>https://www.yorkshire.com/leeds/events/music/the-molotovs-lvz18qhtihmhbeyzirdqo</guid>
+<pubDate>Thu, 17 Sep 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-09-17T18:30:00</ify:start>
+<ify:end>2026-09-17T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Leeds Beckett Students' Union, Portland Way, Leeds, LS13HE</location>
+<ify:location>Leeds Beckett Students' Union, Portland Way, Leeds, LS13HE</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/music/the-molotovs-lvz18qhtihmhbeyzirdqo">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept17music</title>
+<link>https://www.yorkshire.com/ilkley/events/music/the-manfreds-get-your-kicks-on-tour-26-1adfz_fgkd-x4a1</link>
+<guid>https://www.yorkshire.com/ilkley/events/music/the-manfreds-get-your-kicks-on-tour-26-1adfz_fgkd-x4a1</guid>
+<pubDate>Thu, 17 Sep 2026 18:45:00 +0000</pubDate>
+<ify:start>2026-09-17T18:45:00</ify:start>
+<ify:end>2026-09-17T18:45:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>King's Hall, Station Road, Ilkley, LS29 8HB</location>
+<ify:location>King's Hall, Station Road, Ilkley, LS29 8HB</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/ilkley/events/music/the-manfreds-get-your-kicks-on-tour-26-1adfz_fgkd-x4a1">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18music</title>
+<link>https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-full-weekend-1agzk3egkdq2mos</link>
+<guid>https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-full-weekend-1agzk3egkdq2mos</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-18T00:00:00</ify:start>
+<ify:end>2026-09-18T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Whitby Pavilion Northern Lights Suite, West Cliff, Whitby, YO21 3EN</location>
+<ify:location>Whitby Pavilion Northern Lights Suite, West Cliff, Whitby, YO21 3EN</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-full-weekend-1agzk3egkdq2mos">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18music</title>
+<link>https://www.yorkshire.com/bradford/events/music/will-matthew-live-mt2p0jvq</link>
+<guid>https://www.yorkshire.com/bradford/events/music/will-matthew-live-mt2p0jvq</guid>
+<pubDate>Fri, 18 Sep 2026 17:00:00 +0000</pubDate>
+<ify:start>2026-09-18T17:00:00</ify:start>
+<ify:end>2026-09-18T19:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Darley Street Market, 16, 24 Darley St, Bradford</location>
+<ify:location>Darley Street Market, 16, 24 Darley St, Bradford</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/bradford/events/music/will-matthew-live-mt2p0jvq">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18theatre</title>
+<link>https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-venue-premium-tickets-1auzk3egkdbxbwm</link>
+<guid>https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-venue-premium-tickets-1auzk3egkdbxbwm</guid>
+<pubDate>Fri, 18 Sep 2026 17:00:00 +0000</pubDate>
+<ify:start>2026-09-18T17:00:00</ify:start>
+<ify:end>2026-09-18T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Connexin Live, Myton Street, Hull</location>
+<ify:location>Connexin Live, Myton Street, Hull</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-venue-premium-tickets-1auzk3egkdbxbwm">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18music</title>
+<link>https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-friday-evening-1agzk3egkdeq4uc</link>
+<guid>https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-friday-evening-1agzk3egkdeq4uc</guid>
+<pubDate>Fri, 18 Sep 2026 17:30:00 +0000</pubDate>
+<ify:start>2026-09-18T17:30:00</ify:start>
+<ify:end>2026-09-18T17:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Whitby Pavilion Northern Lights Suite, West Cliff, Whitby, YO21 3EN</location>
+<ify:location>Whitby Pavilion Northern Lights Suite, West Cliff, Whitby, YO21 3EN</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/whitby/events/music/whitby-60s-festival-friday-evening-1agzk3egkdeq4uc">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18theatre</title>
+<link>https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-1adbz_6gktsyttg</link>
+<guid>https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-1adbz_6gktsyttg</guid>
+<pubDate>Fri, 18 Sep 2026 17:30:00 +0000</pubDate>
+<ify:start>2026-09-18T17:30:00</ify:start>
+<ify:end>2026-09-18T17:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Connexin Live, Myton Street, Hull</location>
+<ify:location>Connexin Live, Myton Street, Hull</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/hull/events/theatre/chris-ramsey-here-man-1adbz_6gktsyttg">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18theatre</title>
+<link>https://www.yorkshire.com/sheffield/events/theatre/last-laugh-comedy-club-17u8v0g6cx_qbwi</link>
+<guid>https://www.yorkshire.com/sheffield/events/theatre/last-laugh-comedy-club-17u8v0g6cx_qbwi</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-18T18:00:00</ify:start>
+<ify:end>2026-09-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sheffield City Hall Memorial Hall, Barkers Pool, Sheffield, S1 2JA</location>
+<ify:location>Sheffield City Hall Memorial Hall, Barkers Pool, Sheffield, S1 2JA</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/theatre/last-laugh-comedy-club-17u8v0g6cx_qbwi">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18theatre</title>
+<link>https://www.yorkshire.com/leeds/events/theatre/an-idiots-guide-to-wine-670712</link>
+<guid>https://www.yorkshire.com/leeds/events/theatre/an-idiots-guide-to-wine-670712</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-18T18:00:00</ify:start>
+<ify:end>2026-11-21T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Project House, Armley Rd, Leeds</location>
+<ify:location>Project House, Armley Rd, Leeds</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/theatre/an-idiots-guide-to-wine-670712">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18music</title>
+<link>https://www.yorkshire.com/sedbergh/events/music/total-stone-roses-lvz18qbhrn1fsw8zwo3ib</link>
+<guid>https://www.yorkshire.com/sedbergh/events/music/total-stone-roses-lvz18qbhrn1fsw8zwo3ib</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-18T18:00:00</ify:start>
+<ify:end>2026-09-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</location>
+<ify:location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sedbergh/events/music/total-stone-roses-lvz18qbhrn1fsw8zwo3ib">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept18music</title>
+<link>https://www.yorkshire.com/hull/events/music/jamie-webster-g5vhz_55psfoe</link>
+<guid>https://www.yorkshire.com/hull/events/music/jamie-webster-g5vhz_55psfoe</guid>
+<pubDate>Fri, 18 Sep 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-09-18T18:30:00</ify:start>
+<ify:end>2026-09-18T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Asylum Hull University Union, Cottingham Road, Hull, HU6 7RX</location>
+<ify:location>Asylum Hull University Union, Cottingham Road, Hull, HU6 7RX</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/hull/events/music/jamie-webster-g5vhz_55psfoe">Yorkshire.com</source>
 </item>
 </channel>
 </rss>
