@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-09-20T00:46:12.038726+00:00",
+  "generated_at": "2026-09-20T04:48:30.322216+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 18,
+  "active_source_count": 17,
   "registered_source_count": 61,
-  "event_count": 385,
+  "event_count": 377,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -105,11 +105,11 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 86,
+      "item_count": 87,
       "category_counts": {
-        "Gigs": 51,
-        "Theatre & Arts": 58,
-        "Food & Drink": 12,
+        "Gigs": 50,
+        "Theatre & Arts": 59,
+        "Food & Drink": 13,
         "Family Days Out": 4,
         "Comedy": 9,
         "Experiences": 24,
@@ -153,7 +153,7 @@
       "item_count": 9,
       "category_counts": {
         "Sport": 1,
-        "Theatre & Arts": 6,
+        "Theatre & Arts": 7,
         "Experiences": 2,
         "Food & Drink": 7,
         "Seasonal": 6
@@ -207,21 +207,6 @@
         "Theatre & Arts": 47,
         "Family Days Out": 44,
         "Experiences": 5
-      },
-      "status": "active"
-    },
-    {
-      "name": "Yorkshire Dales National Park",
-      "slug": "yorkshire-dales-national-park",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml",
-      "item_count": 9,
-      "category_counts": {
-        "Theatre & Arts": 4,
-        "Experiences": 5,
-        "Food & Drink": 2,
-        "Seasonal": 2,
-        "Festivals": 2,
-        "Gigs": 3
       },
       "status": "active"
     },
@@ -530,7 +515,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 86,
+      "item_count": 87,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -753,11 +738,11 @@
     {
       "name": "Yorkshire Dales National Park",
       "domain": "yorkshiredales.org.uk",
-      "status": "active",
+      "status": "empty",
       "notes": "",
-      "item_count": 9,
+      "item_count": 0,
       "slug": "yorkshire-dales-national-park",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
+      "feed_url": ""
     },
     {
       "name": "Yorkshire Gig Guide",
@@ -816,13 +801,13 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 63
+      "item_count": 59
     },
     {
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 23
+      "item_count": 21
     },
     {
       "name": "Comedy",
@@ -834,19 +819,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 232
+      "item_count": 230
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 165
+      "item_count": 160
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 53
+      "item_count": 52
     },
     {
       "name": "Sport",
@@ -864,7 +849,7 @@
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 39
+      "item_count": 37
     }
   ]
 }
