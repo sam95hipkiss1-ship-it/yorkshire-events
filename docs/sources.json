@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-09-24T11:33:12.297482+00:00",
+  "generated_at": "2026-09-25T01:13:42.449471+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 18,
   "registered_source_count": 61,
-  "event_count": 390,
+  "event_count": 383,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -34,13 +34,13 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 8,
+        "Theatre & Arts": 7,
         "Experiences": 24,
         "Festivals": 4,
         "Food & Drink": 3,
         "Family Days Out": 7,
         "Gigs": 1,
-        "Seasonal": 4,
+        "Seasonal": 6,
         "Comedy": 1
       },
       "status": "active"
@@ -62,9 +62,9 @@
       "name": "Leeds Museums and Galleries",
       "slug": "leeds-museums-and-galleries",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml",
-      "item_count": 56,
+      "item_count": 57,
       "category_counts": {
-        "Theatre & Arts": 56,
+        "Theatre & Arts": 57,
         "Experiences": 17,
         "Seasonal": 9,
         "Gigs": 1,
@@ -88,11 +88,11 @@
       "name": "National Trust Yorkshire",
       "slug": "national-trust-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/national-trust-yorkshire.xml",
-      "item_count": 8,
+      "item_count": 9,
       "category_counts": {
         "Sport": 2,
+        "Experiences": 7,
         "Seasonal": 1,
-        "Experiences": 6,
         "Food & Drink": 1,
         "Clubs": 1
       },
@@ -104,15 +104,15 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
       "item_count": 81,
       "category_counts": {
-        "Gigs": 49,
-        "Theatre & Arts": 54,
-        "Food & Drink": 11,
         "Comedy": 8,
-        "Festivals": 13,
+        "Theatre & Arts": 55,
+        "Gigs": 49,
+        "Festivals": 15,
         "Sport": 2,
         "Family Days Out": 3,
+        "Food & Drink": 10,
         "Seasonal": 6,
-        "Experiences": 23,
+        "Experiences": 25,
         "Clubs": 2
       },
       "status": "active"
@@ -151,9 +151,9 @@
       "category_counts": {
         "Experiences": 2,
         "Food & Drink": 8,
-        "Theatre & Arts": 8,
+        "Theatre & Arts": 6,
         "Seasonal": 7,
-        "Gigs": 1
+        "Festivals": 1
       },
       "status": "active"
     },
@@ -161,15 +161,17 @@
       "name": "Visit Bradford",
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
-      "item_count": 59,
+      "item_count": 60,
       "category_counts": {
-        "Theatre & Arts": 36,
-        "Experiences": 28,
-        "Food & Drink": 9,
+        "Theatre & Arts": 35,
+        "Experiences": 27,
+        "Food & Drink": 11,
         "Gigs": 8,
         "Clubs": 1,
         "Comedy": 6,
-        "Sport": 1
+        "Festivals": 1,
+        "Sport": 1,
+        "Family Days Out": 1
       },
       "status": "active"
     },
@@ -227,16 +229,15 @@
       "name": "Yorkshire Wildlife Park",
       "slug": "yorkshire-wildlife-park",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-wildlife-park.xml",
-      "item_count": 8,
+      "item_count": 9,
       "category_counts": {
-        "Comedy": 1,
-        "Experiences": 8,
-        "Food & Drink": 2,
-        "Family Days Out": 8,
+        "Experiences": 9,
         "Sport": 3,
-        "Seasonal": 4,
+        "Family Days Out": 9,
+        "Seasonal": 6,
         "Festivals": 1,
-        "Theatre & Arts": 2
+        "Theatre & Arts": 2,
+        "Food & Drink": 2
       },
       "status": "active"
     },
@@ -244,12 +245,10 @@
       "name": "Yorkshire.com",
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 20,
+      "item_count": 9,
       "category_counts": {
         "Family Days Out": 1,
-        "Experiences": 16,
-        "Sport": 1,
-        "Theatre & Arts": 2
+        "Experiences": 8
       },
       "status": "active"
     }
@@ -449,7 +448,7 @@
       "domain": "museumsandgalleries.leeds.gov.uk",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 56,
+      "item_count": 57,
       "slug": "leeds-museums-and-galleries",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml"
     },
@@ -494,7 +493,7 @@
       "domain": "nationaltrust.org.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 8,
+      "item_count": 9,
       "slug": "national-trust-yorkshire",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/national-trust-yorkshire.xml"
     },
@@ -611,7 +610,7 @@
       "domain": "visitbradford.com",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 59,
+      "item_count": 60,
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml"
     },
@@ -782,7 +781,7 @@
       "domain": "yorkshirewildlifepark.com",
       "status": "active",
       "notes": "Handled by dedicated family source adapter",
-      "item_count": 8,
+      "item_count": 9,
       "slug": "yorkshire-wildlife-park",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-wildlife-park.xml"
     },
@@ -800,7 +799,7 @@
       "domain": "",
       "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 20,
+      "item_count": 9,
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
@@ -816,55 +815,55 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 62
+      "item_count": 61
     },
     {
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 20
+      "item_count": 24
     },
     {
       "name": "Comedy",
       "slug": "comedy",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/comedy.xml",
-      "item_count": 16
+      "item_count": 15
     },
     {
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 229
+      "item_count": 225
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 169
+      "item_count": 164
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 49
+      "item_count": 50
     },
     {
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 11
+      "item_count": 10
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 84
+      "item_count": 86
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 42
+      "item_count": 46
     }
   ]
 }
