@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 30 Sep 2026 01:54:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 05:26:51 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -81,6 +79,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -132,6 +132,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery/">Visit Leeds</source>
@@ -168,8 +170,6 @@
 <ify:start>2026-02-08</ify:start>
 <ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -280,23 +280,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/thomas-green-brainstorm/">Visit Leeds</source>
 </item>
 <item>
-<title>The Yorkshire Dales Landscape Photography Show 2026</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/</guid>
-<description>During September and October 2026, The Old School Art Gallery in Muker will host the Yorkshire Dales Landscape Photography Show, bringing together a collection of images celebrating the landscapes of […] \n</description>
-<pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-03-09T10:00:00</ify:start>
-<ify:end>2026-10-18T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Old School Muker, Muker, Richmond DL11 6QG, Muker, DL11 6QG</location>
-<ify:location>The Old School Muker, Muker, Richmond DL11 6QG, Muker, DL11 6QG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Real Markets: Monthly Market</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/</guid>
@@ -316,11 +299,23 @@
 <ify:start>2026-03-13</ify:start>
 <ify:end>2026-11-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
+</item>
+<item>
+<title>Street Food In The Square</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-11-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
@@ -333,18 +328,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
-</item>
-<item>
-<title>Street Food In The Square</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-11-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -427,6 +410,8 @@
 <ify:start>2026-04-20</ify:start>
 <ify:end>2027-04-10</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/">Visit Leeds</source>
@@ -510,8 +495,6 @@
 <ify:start>2026-05-22</ify:start>
 <ify:end>2027-06-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/untangled/">Visit Leeds</source>
@@ -646,8 +629,6 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/exhibition-where-magic-grows/">Visit Leeds</source>
@@ -673,8 +654,6 @@
 <ify:start>2026-07-20</ify:start>
 <ify:end>2026-10-04</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/see-you-naked-monday/">Visit Leeds</source>
@@ -692,22 +671,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/anything-could-happen-seven-arts/">Visit Leeds</source>
 </item>
 <item>
-<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
-<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
-<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-08-04T10:00:00</ify:start>
-<ify:end>2026-12-23T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
-<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Northern Monk Brewery Tours at Refectory Leeds</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/northern-monk-brewery-tours-at-refectory-leeds/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/northern-monk-brewery-tours-at-refectory-leeds/</guid>
@@ -716,8 +679,6 @@
 <ify:start>2026-08-15</ify:start>
 <ify:end>2027-08-07</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-monk-brewery-tours-at-refectory-leeds/">Visit Leeds</source>
@@ -797,11 +758,23 @@
 <source url="https://www.visitbradford.com/whats-on/pop-art-p2665741">Visit Bradford</source>
 </item>
 <item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</link>
+<guid>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-29T00:00:00</ify:start>
+<ify:end>2027-03-14T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136">Yorkshire.com</source>
+</item>
+<item>
 <title>Sept29other</title>
 <link>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</link>
 <guid>https://www.yorkshire.com/sheffield/events/other/catch-a-killer-an-immersive-murder-mystery-experience-in-sheffield-189068</guid>
-<pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-09-28T10:00:00</ify:start>
+<pubDate>Tue, 29 Sep 2026 12:30:00 +0000</pubDate>
+<ify:start>2026-09-29T12:30:00</ify:start>
 <ify:end>2026-09-30T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Devonshire Green, 158 Devonshire Street, Sheffield// S1 4GT</location>
@@ -814,8 +787,8 @@
 <title>Sept29other</title>
 <link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
 <guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
-<pubDate>Mon, 28 Sep 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-09-28T10:30:00</ify:start>
+<pubDate>Tue, 29 Sep 2026 13:30:00 +0000</pubDate>
+<ify:start>2026-09-29T13:30:00</ify:start>
 <ify:end>2026-11-22T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>York's Chocolate Story, 3-4 King's Square, York// YO1 7LD</location>
@@ -828,8 +801,8 @@
 <title>Sept29other</title>
 <link>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</link>
 <guid>https://www.yorkshire.com/york/events/other/the-ghost-bus-tour-york-136045</guid>
-<pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-09-28T18:00:00</ify:start>
+<pubDate>Tue, 29 Sep 2026 18:00:00 +0000</pubDate>
+<ify:start>2026-09-29T18:00:00</ify:start>
 <ify:end>2026-10-22T21:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>York Station, Station Road, York// YO24 1AB</location>
@@ -842,8 +815,8 @@
 <title>Sept29other</title>
 <link>https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542</link>
 <guid>https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542</guid>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-<ify:start>2026-09-28T19:00:00</ify:start>
+<pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-09-29T19:00:00</ify:start>
 <ify:end>2026-12-31T19:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Whip-Ma-Whop-Ma-Gate Sign, 23 Shambles, York// YO1 7LZ</location>
@@ -851,98 +824,6 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/yorks-haunted-heart-ghost-ghouls-and-gallows-600542">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</link>
-<guid>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2026-12-23T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</location>
-<ify:location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</link>
-<guid>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-26T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Durham Market Place, Durham// DH1</location>
-<ify:location>Durham Market Place, Durham// DH1</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</link>
-<guid>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-26T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</location>
-<ify:location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
-<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-26T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Unnamed Road, Unnamed Road// 11</location>
-<ify:location>Unnamed Road, Unnamed Road// 11</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</link>
-<guid>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-26T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</link>
-<guid>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-26T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582">Yorkshire.com</source>
-</item>
-<item>
-<title>Sept30other</title>
-<link>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</link>
-<guid>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-09-29T00:00:00</ify:start>
-<ify:end>2027-03-14T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136">Yorkshire.com</source>
 </item>
 <item>
 <title>IMAX: Avengers: Endgame Encore (12A)</title>
@@ -978,6 +859,48 @@
 </item>
 <item>
 <title>Sept30other</title>
+<link>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</link>
+<guid>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2026-12-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</location>
+<ify:location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2027-03-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham// DH1</location>
+<ify:location>Durham Market Place, Durham// DH1</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</link>
+<guid>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2027-03-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</location>
+<ify:location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
 <link>https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755</link>
 <guid>https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
@@ -989,6 +912,44 @@
 <category>Experiences</category>
 <dc:creator>Yorkshire.com</dc:creator>
 <source url="https://www.yorkshire.com/york/events/other/york-3-hour-photography-walking-tour-177755">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
+<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2027-03-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Unnamed Road, Unnamed Road// 11</location>
+<ify:location>Unnamed Road, Unnamed Road// 11</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</link>
+<guid>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2027-03-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623">Yorkshire.com</source>
+</item>
+<item>
+<title>Sept30other</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-30T00:00:00</ify:start>
+<ify:end>2027-03-27T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582">Yorkshire.com</source>
 </item>
 <item>
 <title>Tea and Talk</title>
@@ -1266,22 +1227,6 @@
 <category>Experiences</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/72c51039-2f61-4cea-8fc7-d4ab0bb9625e">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Mikron Theatre Company: Wensleydale Whey</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/mikron-theatre-company-wensleydale-whey/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/mikron-theatre-company-wensleydale-whey/</guid>
-<description>The Grate Cheese Quest Mikron will transport you to the Yorkshire Dales, in a hilarious quest to revive a lost recipe! The stakes are high: the Monks from the Abbey […] \n</description>
-<pubDate>Wed, 30 Sep 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-09-30T19:30:00</ify:start>
-<ify:end>2026-09-30T21:20:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Skipton Town Hall, High St, Skipton, BD23 1AH</location>
-<ify:location>Skipton Town Hall, High St, Skipton, BD23 1AH</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/mikron-theatre-company-wensleydale-whey/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Samuel Moore, Flamenco Guitarist</title>
@@ -5335,9 +5280,7 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wed. 30 September 2026 — Sat. 3 October 2026</location>
-<ify:location>Wed. 30 September 2026 — Sat. 3 October 2026</ify:location>
-<category>Gigs</category>
+<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -5553,30 +5496,14 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wed. 21 October 2026</location>
-<ify:location>Wed. 21 October 2026</ify:location>
+<location>Theatre pick Black History Month Sun. 4 October 2026 Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</location>
+<ify:location>Theatre pick Black History Month Sun. 4 October 2026 Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/open-mic-night-at-utopia-theatre/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-25T00:00:00</ify:start>
-<ify:end>2027-01-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat. 12 September 2026 — Sat. 10 October 2026</location>
-<ify:location>Sat. 12 September 2026 — Sat. 10 October 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -5587,13 +5514,27 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Fri. 27 November 2026</location>
-<ify:location>Fri. 27 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-25T00:00:00</ify:start>
+<ify:end>2027-01-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</location>
+<ify:location>Trafalgar Warehouse, 120 Trafalgar Street, S1 4JT</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/when-the-sky-gets-bright/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -5604,8 +5545,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 3 October 2026 — Thu. 5 November 2026</location>
-<ify:location>Sat. 3 October 2026 — Thu. 5 November 2026</ify:location>
+<location>Tue. 13 October 2026 — Sat. 17 October 2026</location>
+<ify:location>Tue. 13 October 2026 — Sat. 17 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5638,8 +5579,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>ck Mon. 5 October 2026 at 19:30–22:00 Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</location>
-<ify:location>ck Mon. 5 October 2026 at 19:30–22:00 Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</ify:location>
+<location>Sheffield Arena</location>
+<ify:location>Sheffield Arena</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5696,23 +5637,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Tue, 19 Jan 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-01-19</ify:start>
-<ify:end>2027-01-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Tue. 19 January 2027 — Sun. 31 January 2027</location>
-<ify:location>Tue. 19 January 2027 — Sun. 31 January 2027</ify:location>
-<category>Comedy</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/her-private-hell/">Our Favourite Places</source>
-</item>
-<item>
 <title>Classical Weekend</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</guid>
@@ -5725,6 +5649,21 @@
 <category>Festivals</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 12 Mar 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-03-12</ify:start>
+<ify:end>2027-03-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Kaiser Chiefs</title>
