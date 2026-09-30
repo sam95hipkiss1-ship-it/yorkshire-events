@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-09-30T05:26:51.775297+00:00",
+  "generated_at": "2026-09-30T12:22:42.359812+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 17,
+  "active_source_count": 18,
   "registered_source_count": 61,
-  "event_count": 383,
+  "event_count": 395,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -64,7 +64,7 @@
       "item_count": 48,
       "category_counts": {
         "Theatre & Arts": 48,
-        "Experiences": 17,
+        "Experiences": 16,
         "Gigs": 1,
         "Food & Drink": 1,
         "Seasonal": 6,
@@ -89,11 +89,12 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/national-trust-yorkshire.xml",
       "item_count": 9,
       "category_counts": {
-        "Sport": 3,
+        "Sport": 2,
         "Theatre & Arts": 1,
         "Experiences": 7,
         "Seasonal": 1,
-        "Food & Drink": 1
+        "Food & Drink": 1,
+        "Clubs": 1
       },
       "status": "active"
     },
@@ -101,14 +102,14 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 98,
+      "item_count": 99,
       "category_counts": {
-        "Theatre & Arts": 67,
+        "Theatre & Arts": 69,
         "Experiences": 51,
         "Clubs": 2,
         "Festivals": 14,
-        "Gigs": 51,
-        "Food & Drink": 11,
+        "Gigs": 50,
+        "Food & Drink": 12,
         "Family Days Out": 3,
         "Seasonal": 8,
         "Comedy": 9,
@@ -149,9 +150,10 @@
       "item_count": 10,
       "category_counts": {
         "Festivals": 1,
+        "Theatre & Arts": 7,
+        "Family Days Out": 1,
         "Food & Drink": 6,
         "Seasonal": 6,
-        "Theatre & Arts": 5,
         "Experiences": 3
       },
       "status": "active"
@@ -208,6 +210,20 @@
       "status": "active"
     },
     {
+      "name": "Yorkshire Dales National Park",
+      "slug": "yorkshire-dales-national-park",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml",
+      "item_count": 3,
+      "category_counts": {
+        "Theatre & Arts": 3,
+        "Experiences": 1,
+        "Food & Drink": 1,
+        "Seasonal": 1,
+        "Sport": 1
+      },
+      "status": "active"
+    },
+    {
       "name": "Yorkshire Wildlife Park",
       "slug": "yorkshire-wildlife-park",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-wildlife-park.xml",
@@ -227,9 +243,12 @@
       "name": "Yorkshire.com",
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 12,
+      "item_count": 20,
       "category_counts": {
-        "Experiences": 12
+        "Experiences": 14,
+        "Family Days Out": 1,
+        "Sport": 1,
+        "Theatre & Arts": 4
       },
       "status": "active"
     }
@@ -510,7 +529,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 98,
+      "item_count": 99,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -733,11 +752,11 @@
     {
       "name": "Yorkshire Dales National Park",
       "domain": "yorkshiredales.org.uk",
-      "status": "empty",
+      "status": "active",
       "notes": "",
-      "item_count": 0,
+      "item_count": 3,
       "slug": "yorkshire-dales-national-park",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
     },
     {
       "name": "Yorkshire Gig Guide",
@@ -780,7 +799,7 @@
       "domain": "",
       "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 12,
+      "item_count": 20,
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
@@ -790,13 +809,13 @@
       "name": "Clubs",
       "slug": "clubs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/clubs.xml",
-      "item_count": 2
+      "item_count": 3
     },
     {
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 64
+      "item_count": 63
     },
     {
       "name": "Festivals",
@@ -814,37 +833,37 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 220
+      "item_count": 231
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 187
+      "item_count": 189
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 43
+      "item_count": 45
     },
     {
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 10
+      "item_count": 11
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 86
+      "item_count": 88
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 43
+      "item_count": 44
     }
   ]
 }
