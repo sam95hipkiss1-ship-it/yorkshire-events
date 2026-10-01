@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T01:52:51.129667+00:00",
+  "generated_at": "2026-10-01T05:44:23.152680+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
@@ -104,14 +104,14 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
       "item_count": 99,
       "category_counts": {
-        "Festivals": 14,
+        "Festivals": 13,
         "Theatre & Arts": 69,
         "Experiences": 49,
         "Gigs": 50,
         "Food & Drink": 12,
         "Family Days Out": 4,
         "Seasonal": 8,
-        "Comedy": 8,
+        "Comedy": 9,
         "Sport": 2,
         "Clubs": 1
       },
@@ -836,13 +836,13 @@
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 22
+      "item_count": 21
     },
     {
       "name": "Comedy",
       "slug": "comedy",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/comedy.xml",
-      "item_count": 15
+      "item_count": 16
     },
     {
       "name": "Theatre & Arts",
