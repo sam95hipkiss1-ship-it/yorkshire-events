@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
 <channel>
-<title>Yorkshire Sport Events</title>
-<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml</link>
-<description>Upcoming Yorkshire events in the Sport category.</description>
+<title>Visit Doncaster Yorkshire Events</title>
+<link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml</link>
+<description>Upcoming Yorkshire events from Visit Doncaster.</description>
 <language>en-gb</language>
 <lastBuildDate>Thu, 01 Oct 2026 01:52:51 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
-<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-doncaster.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-04-01T00:00:00</ify:start>
+<ify:end>2027-05-08T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-rovers-league-1-home-fixtures-2025-26">Visit Doncaster</source>
+</item>
 <item>
 <title>1 Apr 2026 - 8 May 2027 Doncaster Rovers League 1 Home Fixtures 2026/27 Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-rovers-league-1-home-fixtures-2025-26</link>
@@ -55,6 +67,43 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 15 Nov 2026 Pub Quizzes in Doncaster Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-11-15T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pub-quizzes-in-doncaster">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 31 Dec 2026 Club &amp; Activity Guide for Adults Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults">Visit Doncaster</source>
+</item>
+<item>
+<title>7 May 2026 - 15 Nov 2026 Pub Quizzes in Doncaster Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-11-15T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/pub-quizzes-in-doncaster">Visit Doncaster</source>
 </item>
 <item>
 <title>7 May 2026 - 31 Dec 2026 Club &amp; Activity Guide for Adults Find out more</title>
@@ -154,6 +203,18 @@
 </item>
 <item>
 <title>5 Sep 2026 - 23 Jan 2027 Doncaster Knights 2026/27 Fixtures Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures</guid>
+<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-05T00:00:00</ify:start>
+<ify:end>2027-01-23T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/doncaster-knights-2026-fixtures">Visit Doncaster</source>
+</item>
+<item>
+<title>5 Sep 2026 - 23 Jan 2027 Doncaster Knights 2026/27 Fixtures Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-knights-2026-fixtures</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/doncaster-knights-2026-fixtures</guid>
 <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
@@ -179,6 +240,20 @@
 </item>
 <item>
 <title>25 Sep 2026 - 16 Nov 2026 Rebecca Rabbit &amp; Friends Autumn Trail at Cusworth Hall Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-25T00:00:00</ify:start>
+<ify:end>2026-11-16T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall">Visit Doncaster</source>
+</item>
+<item>
+<title>25 Sep 2026 - 16 Nov 2026 Rebecca Rabbit &amp; Friends Autumn Trail at Cusworth Hall Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall</guid>
 <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
@@ -192,35 +267,118 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/rebecca-rabbit-and-friends-autumn-trail-at-cusworth-hall">Visit Doncaster</source>
 </item>
 <item>
-<title>Pooch Passport Challenge</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
-<description>Does your dog have what it takes to complete the Pooch Passport Challenge? Complete your passport with ten stamps and claim your reward.</description>
-<pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-01T09:00:00</ify:start>
-<ify:end>2027-02-28T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Nostell, near Wakefield, West Yorkshire</location>
-<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
-<category>Sport</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
+<title>1 Oct 2026 The Jesmonite Autumn Pumpkin Pot Workshop Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-jesmonite-autumn-pumpkin-pot-workshop</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/the-jesmonite-autumn-pumpkin-pot-workshop</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-01</ify:start>
+<ify:end>2026-10-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/the-jesmonite-autumn-pumpkin-pot-workshop">Visit Doncaster</source>
 </item>
 <item>
-<title>Pooch Passport Explorers</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</guid>
-<description>Embrace the crunchy leaves and frosty mornings this Autumn and Winter with your pooch pal by your side. Complete your pooch passport with ten stamps to claim your reward. A paw-fect way to enjoy the great outdoors together.</description>
-<pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-01T10:00:00</ify:start>
-<ify:end>2027-02-28T17:00:00</ify:end>
+<title>1 Oct 2026 Woodhill Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/woodhill</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/woodhill</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-01</ify:start>
+<ify:end>2026-10-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/woodhill">Visit Doncaster</source>
+</item>
+<item>
+<title>1 Oct 2026 - 3 Oct 2026 2 Act Show – Scarlett | Women Centre Stage Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/2-act-show-scarlett-women-centre-stage</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/2-act-show-scarlett-women-centre-stage</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-01T00:00:00</ify:start>
+<ify:end>2026-10-03T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Sport</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898">National Trust Yorkshire</source>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/2-act-show-scarlett-women-centre-stage">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 ‘Puffin’ Along’ - Painting workshop @The Twisted Knot Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/puffin-along-painting-workshop-the-twisted-knot</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/puffin-along-painting-workshop-the-twisted-knot</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/puffin-along-painting-workshop-the-twisted-knot">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 - 17 May 2027 Exhibition: The Victorians! Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-victorians</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-victorians</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02T00:00:00</ify:start>
+<ify:end>2027-05-17T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/exhibition-the-victorians">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 - 17 May 2027 Exhibition: The Victorians! Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-victorians</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-victorians</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02T00:00:00</ify:start>
+<ify:end>2027-05-17T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/exhibition-the-victorians">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 Cast Comedy Club Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/cast-comedy-club</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/cast-comedy-club</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Comedy</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/cast-comedy-club">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 Nervous System Regulation Workshop Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/nervous-system-regulation-workshop</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/nervous-system-regulation-workshop</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/nervous-system-regulation-workshop">Visit Doncaster</source>
+</item>
+<item>
+<title>2 Oct 2026 Queenz – Battle of the Divas Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/queenz-drag-me-to-the-disco</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/queenz-drag-me-to-the-disco</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-02</ify:start>
+<ify:end>2026-10-02</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/queenz-drag-me-to-the-disco">Visit Doncaster</source>
 </item>
 <item>
 <title>2 Oct 2026 - 17 May 2027 Exhibition: The Victorians! Find out more</title>
@@ -247,6 +405,43 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/nervous-system-regulation-workshop">Visit Doncaster</source>
+</item>
+<item>
+<title>3 Oct 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03">Visit Doncaster</source>
+</item>
+<item>
+<title>3 Oct 2026 Wheezed Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/wheezed</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/wheezed</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/wheezed">Visit Doncaster</source>
+</item>
+<item>
+<title>3 Oct 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-03</ify:start>
+<ify:end>2026-10-03</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/lakeside-artisan-and-craft-fayre/2026-10-03/2026-10-03">Visit Doncaster</source>
 </item>
 <item>
 <title>3 Oct 2026 Lakeside Artisan &amp; Craft Fayre Find out more</title>
@@ -304,22 +499,30 @@
 <source url="https://www.visitdoncaster.com/whats-on/2026-10-01/2027-10-01/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Run For Wildlife – Autumn 5k</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/</guid>
-<description>Curly's and the Yorkshire Wildlife Park team are very pleased to be returning with the fantastic 5k running safari, in support of the Wildlife Foundation!</description>
+<title>4 Oct 2026 Craft &amp; Makers Market at Cusworth Hall Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/craft-and-makers-market-at-cusworth-hall/2026-10-04/2026-10-04</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/craft-and-makers-market-at-cusworth-hall/2026-10-04/2026-10-04</guid>
 <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-04</ify:start>
 <ify:end>2026-10-04</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
 <category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-autumn-5k/">Yorkshire Wildlife Park</source>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/craft-and-makers-market-at-cusworth-hall/2026-10-04/2026-10-04">Visit Doncaster</source>
+</item>
+<item>
+<title>4 Oct 2026 The Rooks Den- The Pumpkin Parade Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/the-rooks-den-the-pumpkin-parade</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/the-rooks-den-the-pumpkin-parade</guid>
+<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-04</ify:start>
+<ify:end>2026-10-04</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/the-rooks-den-the-pumpkin-parade">Visit Doncaster</source>
 </item>
 <item>
 <title>4 Oct 2026 Run for Wildlife 5K Find out more</title>
@@ -347,6 +550,19 @@
 <category>Sport</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/craft-and-makers-market-at-cusworth-hall/2026-10-04/2026-10-04">Visit Doncaster</source>
+</item>
+<item>
+<title>8 Oct 2026 Dennis Rollins presents ‘R&amp;Beatles’ a big-band extravaga Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/dennis-rollins-presents-randbeatles-a-big-band-extravaga</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/dennis-rollins-presents-randbeatles-a-big-band-extravaga</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-08</ify:start>
+<ify:end>2026-10-08</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Gigs</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/dennis-rollins-presents-randbeatles-a-big-band-extravaga">Visit Doncaster</source>
 </item>
 <item>
 <title>9 Oct 2026 - 1 Nov 2026 Doncaster Fear Factory Find out more</title>
@@ -415,42 +631,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-01/2027-10-01/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>6+1: All We Gain from What We Lost</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/6-1-all-we-gain-from-what-we-lost/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/6-1-all-we-gain-from-what-we-lost/</guid>
-<description>Follow the story of the 6+1 Running Club, from its early days of low numbers and self-doubt through to the moment running became a form of therapy for its members. Plus Q&amp;A with Director Lando Vandross and members of 6+1.</description>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-16</ify:start>
-<ify:end>2026-10-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Fri. 16 October 2026</location>
-<ify:location>Fri. 16 October 2026</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/6-1-all-we-gain-from-what-we-lost/">Our Favourite Places</source>
-</item>
-<item>
-<title>Vaughan Williams: Songs of Travel</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/</guid>
-<description>Music in the Round’s Singer-in-Residence Roderick Williams returns with a programme of heartrendingly beautiful English song, including Vaughan Williams’ glorious cycle Songs of Travel.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-17</ify:start>
-<ify:end>2026-10-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 17 October 2026</location>
-<ify:location>Sat. 17 October 2026</ify:location>
-<category>Clubs</category>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/vaughan-williams-songs-of-travel/">Our Favourite Places</source>
-</item>
-<item>
 <title>Family Friendly</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-01/2027-10-01/p3</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-01/2027-10-01/p3</guid>
@@ -469,6 +649,22 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-01/2027-10-01/p3">Visit Doncaster</source>
 </item>
 <item>
+<title>Creepy Carnival in Sir Nigel Gresley Square</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/creepy-carnival-in-sir-nigel-gresley-square</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/creepy-carnival-in-sir-nigel-gresley-square</guid>
+<description>Doncaster's Creepy Carnival is back! Step right up for a night of frightful fun at Doncaster's Creepy Carnival! This free-to-attend event is packed with spooktacular entertainment for the whole family. Be sure to come dressed in your most terrifying costume, the scarier, sillier, and more creative, the better! Friday 3</description>
+<pubDate>Fri, 30 Oct 2026 16:30:00 +0000</pubDate>
+<ify:start>2026-10-30T16:30:00</ify:start>
+<ify:end>2026-10-30T20:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sir Nigel Gresley Square, Sir Nigel Gresley Square, Waterdale, Doncaster, Yorkshire, DN1 3BU</location>
+<ify:location>Sir Nigel Gresley Square, Sir Nigel Gresley Square, Waterdale, Doncaster, Yorkshire, DN1 3BU</ify:location>
+<category>Festivals</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/creepy-carnival-in-sir-nigel-gresley-square">Visit Doncaster</source>
+</item>
+<item>
 <title>Sports &amp; Outdoors</title>
 <link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-01/2027-10-01/p3</link>
 <guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-01/2027-10-01/p3</guid>
@@ -485,37 +681,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-01/2027-10-01/p3">Visit Doncaster</source>
-</item>
-<item>
-<title>Aether Yoga Day Retreats</title>
-<link>https://www.forestryengland.uk/forest-event/events-gisburn-forest/aether-yoga-day-retreats</link>
-<guid>https://www.forestryengland.uk/forest-event/events-gisburn-forest/aether-yoga-day-retreats</guid>
-<pubDate>Wed, 09 Dec 2026 09:30:00 +0000</pubDate>
-<ify:start>2026-12-09T09:30:00</ify:start>
-<ify:end>2026-12-09T09:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Events at Gisburn Forest</location>
-<ify:location>Events at Gisburn Forest</ify:location>
-<category>Sport</category>
-<dc:creator>Forestry England Yorkshire</dc:creator>
-<source url="https://www.forestryengland.uk/forest-event/events-gisburn-forest/aether-yoga-day-retreats">Forestry England Yorkshire</source>
-</item>
-<item>
-<title>Run For Wildlife – Night 5k</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</guid>
-<description>Curly's and the Yorkshire Wildlife Park team are very pleased to be returning with the fantastic 5k NIGHT TIME running safari, in support of the Wildlife Foundation!</description>
-<pubDate>Sun, 10 Jan 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-01-10</ify:start>
-<ify:end>2027-01-10</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/">Yorkshire Wildlife Park</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
@@ -552,23 +717,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-01/2027-10-01/p9">Visit Doncaster</source>
-</item>
-<item>
-<title>Run For Wildlife – Spring 10k</title>
-<link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-spring-10k/</link>
-<guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-spring-10k/</guid>
-<description>Curlys and the Yorkshire Wildlife Park team are very pleased to be returning with the fantastic 10k running safari, in support of the Wildlife Foundation!</description>
-<pubDate>Sun, 25 Apr 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-04-25</ify:start>
-<ify:end>2027-04-25</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Yorkshire Wildlife Park, Doncaster</location>
-<ify:location>Yorkshire Wildlife Park, Doncaster</ify:location>
-<category>Experiences</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Yorkshire Wildlife Park</dc:creator>
-<source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-spring-10k/">Yorkshire Wildlife Park</source>
 </item>
 <item>
 <title>What's on in Doncaster</title>
