@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-10-01T05:44:23.152680+00:00",
+  "generated_at": "2026-10-01T12:58:35.298994+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 426,
+  "event_count": 432,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -34,12 +34,12 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/experience-wakefield.xml",
       "item_count": 24,
       "category_counts": {
-        "Theatre & Arts": 9,
+        "Theatre & Arts": 8,
         "Experiences": 24,
         "Festivals": 4,
         "Food & Drink": 2,
-        "Family Days Out": 9,
-        "Seasonal": 4,
+        "Family Days Out": 7,
+        "Seasonal": 6,
         "Comedy": 1
       },
       "status": "active"
@@ -61,12 +61,12 @@
       "name": "Leeds Museums and Galleries",
       "slug": "leeds-museums-and-galleries",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml",
-      "item_count": 48,
+      "item_count": 49,
       "category_counts": {
-        "Theatre & Arts": 48,
+        "Theatre & Arts": 49,
         "Experiences": 16,
         "Gigs": 1,
-        "Food & Drink": 1,
+        "Food & Drink": 2,
         "Seasonal": 6,
         "Family Days Out": 2
       },
@@ -90,11 +90,11 @@
       "item_count": 9,
       "category_counts": {
         "Sport": 2,
+        "Family Days Out": 2,
+        "Seasonal": 4,
         "Theatre & Arts": 2,
         "Experiences": 6,
-        "Food & Drink": 2,
-        "Family Days Out": 2,
-        "Seasonal": 4
+        "Food & Drink": 2
       },
       "status": "active"
     },
@@ -102,11 +102,11 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 99,
+      "item_count": 100,
       "category_counts": {
-        "Festivals": 13,
-        "Theatre & Arts": 69,
-        "Experiences": 49,
+        "Festivals": 14,
+        "Theatre & Arts": 70,
+        "Experiences": 50,
         "Gigs": 50,
         "Food & Drink": 12,
         "Family Days Out": 4,
@@ -164,8 +164,8 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
       "item_count": 60,
       "category_counts": {
-        "Theatre & Arts": 32,
-        "Experiences": 25,
+        "Theatre & Arts": 31,
+        "Experiences": 26,
         "Food & Drink": 7,
         "Gigs": 11,
         "Comedy": 5,
@@ -219,10 +219,10 @@
       "name": "York Museums Trust",
       "slug": "york-museums-trust",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml",
-      "item_count": 37,
+      "item_count": 45,
       "category_counts": {
-        "Theatre & Arts": 37,
-        "Family Days Out": 35,
+        "Theatre & Arts": 45,
+        "Family Days Out": 43,
         "Experiences": 2
       },
       "status": "active"
@@ -260,10 +260,9 @@
       "name": "Yorkshire.com",
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 9,
+      "item_count": 5,
       "category_counts": {
-        "Experiences": 8,
-        "Family Days Out": 1
+        "Experiences": 5
       },
       "status": "active"
     }
@@ -463,7 +462,7 @@
       "domain": "museumsandgalleries.leeds.gov.uk",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 48,
+      "item_count": 49,
       "slug": "leeds-museums-and-galleries",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml"
     },
@@ -544,7 +543,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 99,
+      "item_count": 100,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -751,7 +750,7 @@
       "domain": "yorkmuseumstrust.org.uk",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 37,
+      "item_count": 45,
       "slug": "york-museums-trust",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml"
     },
@@ -814,7 +813,7 @@
       "domain": "",
       "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 9,
+      "item_count": 5,
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
@@ -836,7 +835,7 @@
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 21
+      "item_count": 22
     },
     {
       "name": "Comedy",
@@ -848,19 +847,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 254
+      "item_count": 262
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 189
+      "item_count": 188
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 62
+      "item_count": 63
     },
     {
       "name": "Sport",
@@ -872,13 +871,13 @@
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 111
+      "item_count": 116
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 49
+      "item_count": 51
     }
   ]
 }
