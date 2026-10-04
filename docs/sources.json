@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-10-04T02:28:24.283215+00:00",
+  "generated_at": "2026-10-04T05:45:07.193731+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 19,
+  "active_source_count": 18,
   "registered_source_count": 61,
-  "event_count": 482,
+  "event_count": 477,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -106,14 +106,14 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 127,
+      "item_count": 126,
       "category_counts": {
-        "Gigs": 65,
+        "Gigs": 64,
         "Food & Drink": 16,
         "Experiences": 64,
         "Theatre & Arts": 89,
-        "Festivals": 17,
-        "Comedy": 11,
+        "Festivals": 16,
+        "Comedy": 10,
         "Family Days Out": 4,
         "Sport": 2,
         "Clubs": 2,
@@ -229,20 +229,6 @@
         "Theatre & Arts": 60,
         "Family Days Out": 56,
         "Experiences": 2
-      },
-      "status": "active"
-    },
-    {
-      "name": "Yorkshire Dales National Park",
-      "slug": "yorkshire-dales-national-park",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml",
-      "item_count": 4,
-      "category_counts": {
-        "Theatre & Arts": 4,
-        "Experiences": 1,
-        "Food & Drink": 2,
-        "Seasonal": 1,
-        "Festivals": 2
       },
       "status": "active"
     },
@@ -549,7 +535,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 127,
+      "item_count": 126,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -772,11 +758,11 @@
     {
       "name": "Yorkshire Dales National Park",
       "domain": "yorkshiredales.org.uk",
-      "status": "active",
+      "status": "empty",
       "notes": "",
-      "item_count": 4,
+      "item_count": 0,
       "slug": "yorkshire-dales-national-park",
-      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-dales-national-park.xml"
+      "feed_url": ""
     },
     {
       "name": "Yorkshire Gig Guide",
@@ -835,37 +821,37 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 78
+      "item_count": 77
     },
     {
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 30
+      "item_count": 27
     },
     {
       "name": "Comedy",
       "slug": "comedy",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/comedy.xml",
-      "item_count": 14
+      "item_count": 13
     },
     {
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 301
+      "item_count": 297
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 209
+      "item_count": 208
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 68
+      "item_count": 66
     },
     {
       "name": "Sport",
@@ -883,7 +869,7 @@
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 57
+      "item_count": 56
     }
   ]
 }
