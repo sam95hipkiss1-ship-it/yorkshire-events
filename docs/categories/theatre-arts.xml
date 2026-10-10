@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml</link>
 <description>Upcoming Yorkshire events in the Theatre &amp; Arts category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 10 Oct 2026 02:11:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 05:44:26 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -57,6 +57,8 @@
 <ify:start>2026-03-01</ify:start>
 <ify:end>2026-10-17</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -217,25 +219,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-12-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
 <title>Free Events</title>
 <link>https://www.visitdoncaster.com/whats-on/free-events/</link>
 <guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
@@ -271,6 +254,25 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
+</item>
+<item>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
@@ -383,8 +385,6 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/exhibition-where-magic-grows/">Visit Leeds</source>
@@ -2342,6 +2342,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-goal-of-our-health/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-16</ify:start>
+<ify:end>2026-10-16</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Fri. 16 October 2026 — Sun. 21 March 2027</location>
+<ify:location>Fri. 16 October 2026 — Sun. 21 March 2027</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
+</item>
+<item>
 <title>Ghost Light</title>
 <link>https://www.visitbradford.com/whats-on/ghost-light-p2670891</link>
 <guid>https://www.visitbradford.com/whats-on/ghost-light-p2670891</guid>
@@ -4290,10 +4307,11 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
+<location>Wed. 4 November 2026</location>
+<ify:location>Wed. 4 November 2026</ify:location>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
+<category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
 </item>
@@ -4467,8 +4485,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>. Words by Rae de Soleil Featured in Art picks Nearby places Site Gallery Art Site Gallery, 1-5 Brown Street, S1 2BS</location>
-<ify:location>. Words by Rae de Soleil Featured in Art picks Nearby places Site Gallery Art Site Gallery, 1-5 Brown Street, S1 2BS</ify:location>
+<location>Mon. 20 July 2026 — Sun. 13 December 2026</location>
+<ify:location>Mon. 20 July 2026 — Sun. 13 December 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -4483,8 +4501,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Writers Workshop, 14 Orchard Square, S1 2FB</location>
-<ify:location>The Writers Workshop, 14 Orchard Square, S1 2FB</ify:location>
+<location>nce/movement Comedy Theatre pick Black History Month Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</location>
+<ify:location>nce/movement Comedy Theatre pick Black History Month Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
@@ -4501,8 +4519,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Octagon</location>
-<ify:location>The Octagon</ify:location>
+<location>Victoria Hall</location>
+<ify:location>Victoria Hall</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4518,8 +4536,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 1 December 2026 — Thu. 31 December 2026</location>
-<ify:location>Tue. 1 December 2026 — Thu. 31 December 2026</ify:location>
+<location>Sat. 3 October 2026 — Thu. 5 November 2026</location>
+<ify:location>Sat. 3 October 2026 — Thu. 5 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4535,8 +4553,8 @@
 <ify:start>2026-12-25T10:00:00</ify:start>
 <ify:end>2027-01-06T13:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
-<ify:location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
+<location>to Go Meet the Locals My Itinerary Back to filters Beginner Sewing Art Workshop Art pick Ed's Workshop, Carver House, Carver Street S1 4FS £180 Share</location>
+<ify:location>to Go Meet the Locals My Itinerary Back to filters Beginner Sewing Art Workshop Art pick Ed's Workshop, Carver House, Carver Street S1 4FS £180 Share</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4552,8 +4570,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 3 October 2026 — Thu. 5 November 2026</location>
-<ify:location>Sat. 3 October 2026 — Thu. 5 November 2026</ify:location>
+<location>Sat. 28 November 2026</location>
+<ify:location>Sat. 28 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4569,8 +4587,8 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 13 October 2026</location>
-<ify:location>Tue. 13 October 2026</ify:location>
+<location>Thu. 26 November 2026</location>
+<ify:location>Thu. 26 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4586,8 +4604,8 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
-<ify:location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
+<location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</location>
+<ify:location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4603,8 +4621,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 10 October 2026</location>
-<ify:location>Sat. 10 October 2026</ify:location>
+<location>FORGE, 148 Effingham Road, S4 7YS</location>
+<ify:location>FORGE, 148 Effingham Road, S4 7YS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4620,8 +4638,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</location>
-<ify:location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</ify:location>
+<location>CADS, Arley Street, S2 4QP</location>
+<ify:location>CADS, Arley Street, S2 4QP</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
