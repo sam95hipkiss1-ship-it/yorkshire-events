@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-10-12T02:10:03.519592+00:00",
+  "generated_at": "2026-10-12T05:49:32.249984+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 479,
+  "event_count": 480,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -111,8 +111,8 @@
         "Gigs": 54,
         "Experiences": 54,
         "Theatre & Arts": 84,
-        "Festivals": 13,
         "Food & Drink": 12,
+        "Festivals": 13,
         "Sport": 3,
         "Clubs": 4,
         "Comedy": 9,
@@ -164,12 +164,12 @@
       "name": "Visit Bradford",
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
-      "item_count": 59,
+      "item_count": 60,
       "category_counts": {
-        "Theatre & Arts": 35,
+        "Theatre & Arts": 36,
         "Experiences": 24,
         "Food & Drink": 9,
-        "Gigs": 8,
+        "Gigs": 9,
         "Seasonal": 3,
         "Clubs": 2,
         "Family Days Out": 4,
@@ -633,7 +633,7 @@
       "domain": "visitbradford.com",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 59,
+      "item_count": 60,
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml"
     },
@@ -838,7 +838,7 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 66
+      "item_count": 67
     },
     {
       "name": "Festivals",
@@ -856,7 +856,7 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 304
+      "item_count": 305
     },
     {
       "name": "Experiences",
