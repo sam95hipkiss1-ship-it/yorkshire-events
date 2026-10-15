@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Thu, 15 Oct 2026 01:17:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:29:25 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-12-09</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place-2025-11-12/">Visit Leeds</source>
@@ -28,8 +30,6 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -68,6 +68,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -99,6 +101,23 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/darley-street-market-quiz-night-p2448481">Visit Bradford</source>
+</item>
+<item>
+<title>The Yorkshire Dales Landscape Photography Show 2026</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/</guid>
+<description>During September and October 2026, The Old School Art Gallery in Muker will host the Yorkshire Dales Landscape Photography Show, bringing together a collection of images celebrating the landscapes of […] \n</description>
+<pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-03-09T10:00:00</ify:start>
+<ify:end>2026-10-18T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Old School Muker, Muker, Richmond DL11 6QG, Muker, DL11 6QG</location>
+<ify:location>The Old School Muker, Muker, Richmond DL11 6QG, Muker, DL11 6QG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/the-yorkshire-dales-landscape-photography-show-2026/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Real Markets: Monthly Market</title>
@@ -194,25 +213,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-12-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -232,6 +232,25 @@
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+</item>
+<item>
 <title>Quiz Night at the Northern Market</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/</guid>
@@ -240,6 +259,8 @@
 <ify:start>2026-06-24</ify:start>
 <ify:end>2026-11-25</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/">Visit Leeds</source>
@@ -271,19 +292,84 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/craft-markets/">Visit Leeds</source>
 </item>
 <item>
-<title>York Audio Tour: Bishophill Echoes—Minsters, Markets &amp; Mysteries</title>
-<link>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</link>
-<guid>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</guid>
-<pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-14T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
+<title>Cheese &amp; Beer Tasting Pack (with Video Introduction)</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/cheese-beer-tasting-pack-with-video-introduction/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/cheese-beer-tasting-pack-with-video-introduction/</guid>
+<description>Cheese &amp; Beer Tasting Pack (with Video Introduction) A tutored cheese-tasting pack delivered via pre-recorded video, which is ideal for home-parties or small ‘zoom’ virtual events across friends. A varied […] \n</description>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-10T00:00:00</ify:start>
+<ify:end>2026-10-18T23:59:59</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tower Street, York// YO1 9RY</location>
-<ify:location>Tower Street, York// YO1 9RY</ify:location>
+<location>On line</location>
+<ify:location>On line</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/cheese-beer-tasting-pack-with-video-introduction/">Yorkshire Dales National Park</source>
+</item>
+<item>
+<title>Home Cheese &amp; Wine Tasting Pack (with pre-recorded video)</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/home-cheese-wine-tasting-pack-with-pre-recorded-video/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/home-cheese-wine-tasting-pack-with-pre-recorded-video/</guid>
+<description>Home Cheese &amp; Wine Tasting Pack (with pre-recorded video) A tutored cheese-tasting pack delivered via pre-recorded video, which is ideal for home-parties or small ‘zoom’ virtual events across friends. A […] \n</description>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-10T00:00:00</ify:start>
+<ify:end>2026-10-17T23:59:59</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>On line</location>
+<ify:location>On line</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/home-cheese-wine-tasting-pack-with-pre-recorded-video/">Yorkshire Dales National Park</source>
+</item>
+<item>
+<title>Home Cheese-Tasting Pack (with pre-recorded video)</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/home-cheese-tasting-pack-with-pre-recorded-video/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/home-cheese-tasting-pack-with-pre-recorded-video/</guid>
+<description>Home Cheese-Tasting Pack (with pre-recorded video) A tutored cheese-tasting pack delivered via pre-recorded video, which is ideal for home-parties or small ‘zoom’ virtual events with friends in differing locations. A […] \n</description>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-09-10T00:00:00</ify:start>
+<ify:end>2026-10-18T23:59:59</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>On line</location>
+<ify:location>On line</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/home-cheese-tasting-pack-with-pre-recorded-video/">Yorkshire Dales National Park</source>
+</item>
+<item>
+<title>Afternoon Tea Cruise in North Yorkshire</title>
+<link>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</link>
+<guid>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-15T00:00:00</ify:start>
+<ify:end>2026-11-24T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Coach St, Skipton, UK// BD23 1LH</location>
+<ify:location>Coach St, Skipton, UK// BD23 1LH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262">Yorkshire.com</source>
+</item>
+<item>
+<title>Pub and History Tour of Durham with Alcohol Tasting</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-15T00:00:00</ify:start>
+<ify:end>2027-08-04T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham// DH1</location>
+<ify:location>Durham Market Place, Durham// DH1</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303">Yorkshire.com</source>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/pub-and-history-tour-of-durham-with-alcohol-tasting-178052">Yorkshire.com</source>
 </item>
 <item>
 <title>Farmer Copleys’ Pumpkin Festival</title>
