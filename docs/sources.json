@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-10-17T04:16:44.198039+00:00",
+  "generated_at": "2026-10-17T10:30:42.011784+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 466,
+  "event_count": 474,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -115,7 +115,7 @@
         "Sport": 2,
         "Food & Drink": 11,
         "Festivals": 11,
-        "Comedy": 9,
+        "Comedy": 8,
         "Seasonal": 14,
         "Family Days Out": 5
       },
@@ -151,7 +151,7 @@
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/the-piece-hall.xml",
       "item_count": 9,
       "category_counts": {
-        "Theatre & Arts": 9,
+        "Theatre & Arts": 7,
         "Food & Drink": 4,
         "Seasonal": 8,
         "Experiences": 1,
@@ -266,12 +266,12 @@
       "name": "Yorkshire.com",
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml",
-      "item_count": 12,
+      "item_count": 20,
       "category_counts": {
-        "Gigs": 1,
-        "Experiences": 12,
-        "Theatre & Arts": 2,
-        "Food & Drink": 1
+        "Experiences": 19,
+        "Food & Drink": 1,
+        "Theatre & Arts": 3,
+        "Gigs": 1
       },
       "status": "active"
     }
@@ -822,7 +822,7 @@
       "domain": "",
       "status": "active",
       "notes": "custom scraper already present",
-      "item_count": 12,
+      "item_count": 20,
       "slug": "yorkshire-com",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/yorkshire-com.xml"
     }
@@ -850,19 +850,19 @@
       "name": "Comedy",
       "slug": "comedy",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/comedy.xml",
-      "item_count": 11
+      "item_count": 10
     },
     {
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 305
+      "item_count": 304
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 191
+      "item_count": 198
     },
     {
       "name": "Food & Drink",
