@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Tue, 20 Oct 2026 01:39:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 04:41:49 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -30,8 +28,6 @@
 <ify:start>2025-01-10</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-ghost-tour/">Visit Leeds</source>
@@ -44,8 +40,6 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -160,6 +154,8 @@
 <ify:start>2026-04-20</ify:start>
 <ify:end>2027-04-10</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/lines-of-enquiry-drawings-from-the-collection/">Visit Leeds</source>
@@ -1126,19 +1122,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/johnny-cash-roadshow-the-prison-years-tour">Visit Doncaster</source>
 </item>
 <item>
-<title>22 Oct 2026 Pumpkin Patch Painting workshop @ The Twisted Knot Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/pumpkin-patch-painting-workshop-the-twisted-knot</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/pumpkin-patch-painting-workshop-the-twisted-knot</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-22</ify:start>
-<ify:end>2026-10-22</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/pumpkin-patch-painting-workshop-the-twisted-knot">Visit Doncaster</source>
-</item>
-<item>
 <title>Site Gallery Creative Producers: Stories We Carry</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/site-gallery-creative-producers-stories-we-carry/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/site-gallery-creative-producers-stories-we-carry/</guid>
@@ -1303,23 +1286,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/crush/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-23</ify:start>
-<ify:end>2026-10-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Fri. 23 October 2026</location>
-<ify:location>Fri. 23 October 2026</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Victorian Halloween at York Castle Museum</title>
@@ -1797,6 +1763,23 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/green-space-party-with-zack-polanski/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25</ify:start>
+<ify:end>2026-10-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 25 October 2026</location>
+<ify:location>Sun. 25 October 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Halloween Trail &amp; Creepy Crafts</title>
@@ -2657,8 +2640,6 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</location>
-<ify:location>St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</ify:location>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2793,31 +2774,14 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sun. 25 October 2026</location>
-<ify:location>Sun. 25 October 2026</ify:location>
+<location>Victoria Hall, Norfolk Street, S1 2JB</location>
+<ify:location>Victoria Hall, Norfolk Street, S1 2JB</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/open-mic-night-at-utopia-theatre/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-25T00:00:00</ify:start>
-<ify:end>2027-01-06T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri. 23 October 2026 — Sat. 24 October 2026</location>
-<ify:location>Fri. 23 October 2026 — Sat. 24 October 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -2828,13 +2792,30 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Factory Floor, 92 Burton Rd, Neepsend, S3 8BX</location>
-<ify:location>Factory Floor, 92 Burton Rd, Neepsend, S3 8BX</ify:location>
+<location>Fri. 27 November 2026</location>
+<ify:location>Fri. 27 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/footprints-open-jazz-jam/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-25T00:00:00</ify:start>
+<ify:end>2027-01-06T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Lughole, Harvest Lane, Neepsend, S3 8EF</location>
+<ify:location>The Lughole, Harvest Lane, Neepsend, S3 8EF</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/royal-ballet-opera-2026-27/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -2845,8 +2826,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
-<ify:location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
+<location>Thu. 8 October 2026 — Wed. 4 November 2026</location>
+<ify:location>Thu. 8 October 2026 — Wed. 4 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2862,8 +2843,6 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>FORGE, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE, 148 Effingham Road, S4 7YS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2896,8 +2875,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Wed. 28 October 2026</location>
-<ify:location>Wed. 28 October 2026</ify:location>
+<location>Sat. 28 November 2026</location>
+<ify:location>Sat. 28 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2913,8 +2892,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Utopia Theatre, 11 Rockingham Gate, S1 4JD</location>
-<ify:location>Utopia Theatre, 11 Rockingham Gate, S1 4JD</ify:location>
+<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
+<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
