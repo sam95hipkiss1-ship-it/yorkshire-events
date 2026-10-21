@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml</link>
 <description>Upcoming Yorkshire events in the Theatre &amp; Arts category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 21 Oct 2026 04:35:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 11:36:14 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -31,6 +31,8 @@
 <ify:start>2026-02-08</ify:start>
 <ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -65,21 +67,6 @@
 <source url="https://www.visitbradford.com/whats-on/un-layering-the-future-past-of-south-asia-young-artists-voices-p2544341">Visit Bradford</source>
 </item>
 <item>
-<title>Pre-Raphaelites Reframed</title>
-<link>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</link>
-<guid>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</guid>
-<description>Cartwright Hall Art Gallery presents a selection of works from Bradford District Museums &amp; Galleries’ Pre‑Raphaelite collection.</description>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-28</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
-<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
-</item>
-<item>
 <title>The Big Picture</title>
 <link>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</link>
 <guid>https://www.visitbradford.com/whats-on/the-big-picture-p2544311</guid>
@@ -93,6 +80,21 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-big-picture-p2544311">Visit Bradford</source>
+</item>
+<item>
+<title>Pre-Raphaelites Reframed</title>
+<link>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</link>
+<guid>https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301</guid>
+<description>Cartwright Hall Art Gallery presents a selection of works from Bradford District Museums &amp; Galleries’ Pre‑Raphaelite collection.</description>
+<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-28</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</location>
+<ify:location>Cartwright Hall, Lister Park, Bradford, West Yorkshire, BD9 4NS</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/pre-raphaelites-reframed-p2544301">Visit Bradford</source>
 </item>
 <item>
 <title>Global Perspectives and Islamic Calligraphy</title>
@@ -206,25 +208,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
-<title>Music &amp; Nightlife</title>
-<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
-<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-12-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Clubs</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
-</item>
-<item>
 <title>Free Events</title>
 <link>https://www.visitdoncaster.com/whats-on/free-events/</link>
 <guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
@@ -241,6 +224,25 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+</item>
+<item>
+<title>Music &amp; Nightlife</title>
+<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
+<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-11-15T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Clubs</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
@@ -282,6 +284,8 @@
 <ify:start>2026-05-26</ify:start>
 <ify:end>2026-10-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-400-places/">Visit Leeds</source>
@@ -366,6 +370,22 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/anything-could-happen-seven-arts/">Visit Leeds</source>
+</item>
+<item>
+<title>Askrigg Studios – well known Dales artists, Judith Bromley and Robert Nicholls</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/</guid>
+<description>We welcome you into our home to view our paintings and prints, books and greetings cards. Open most Wednesdays 10.00am to 5.00 pm from Easter to Christmas If making a […] \n</description>
+<pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-08-04T10:00:00</ify:start>
+<ify:end>2026-12-23T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Beech House, Askrigg, Leyburn, DL8 3HG</location>
+<ify:location>Beech House, Askrigg, Leyburn, DL8 3HG</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/askrigg-studios-well-known-dales-artists-judith-bromley-and-robert-nicholls/2026-04-08/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>8 Aug 2026 - 7 Nov 2026 Exhibition: The Great St Leger – 250 Years of a Racing Classic Find out more</title>
@@ -597,6 +617,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -611,6 +633,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -625,6 +649,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museum Gardens</location>
+<ify:location>York Museum Gardens</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -639,6 +665,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -653,6 +681,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -667,6 +697,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Loading Map....</location>
+<ify:location>Loading Map....</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -681,6 +713,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -695,6 +729,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -709,6 +745,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -723,6 +761,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -737,6 +777,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -751,6 +793,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -765,6 +809,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -779,6 +825,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -793,6 +841,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -807,6 +857,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -821,6 +873,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -835,6 +889,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -849,6 +905,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -863,6 +921,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -877,6 +937,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -891,6 +953,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -905,6 +969,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -919,6 +985,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -933,6 +1001,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -947,6 +1017,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -961,6 +1033,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -975,6 +1049,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -989,6 +1065,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1003,6 +1081,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1017,6 +1097,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1031,6 +1113,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1045,6 +1129,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1059,6 +1145,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1073,6 +1161,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1087,6 +1177,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1101,6 +1193,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1115,6 +1209,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1129,6 +1225,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1143,6 +1241,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1157,6 +1257,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1171,6 +1273,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1185,6 +1289,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1199,6 +1305,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum</location>
+<ify:location>York Castle Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1213,6 +1321,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1227,6 +1337,8 @@
 <ify:start>2026-10-14T00:00:00</ify:start>
 <ify:end>2026-11-13T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1479,6 +1591,8 @@
 <ify:start>2026-10-14T10:30:00</ify:start>
 <ify:end>2026-11-13T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>York Museums Trust</dc:creator>
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/object-encounter-8/">York Museums Trust</source>
@@ -1492,6 +1606,8 @@
 <ify:start>2026-10-14T11:00:00</ify:start>
 <ify:end>2026-12-24T14:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -1506,10 +1622,27 @@
 <ify:start>2026-10-14T11:30:00</ify:start>
 <ify:end>2026-12-24T14:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/cells-talks-10/">York Museums Trust</source>
+</item>
+<item>
+<title>‘Four Seasons’ Art Exhibition 10 Cumbrian artists</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/four-seasons-art-exhibition-10-cumbrian-artists/2026-10-17/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/four-seasons-art-exhibition-10-cumbrian-artists/2026-10-17/</guid>
+<description>Exhibition in Exhibit A Gallery, The Old Courthouse, Shap 17th October to 14th November A themed exhibition titled .\' Four Seasons \'where 10 plus Cumbrian artists will be exhibiting their […] \n</description>
+<pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-17T10:00:00</ify:start>
+<ify:end>2026-11-14T13:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Old Courthouse, Shap, Main Street, Shap, CA10 3NL</location>
+<ify:location>The Old Courthouse, Shap, Main Street, Shap, CA10 3NL</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/four-seasons-art-exhibition-10-cumbrian-artists/2026-10-17/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Matthew Bourne's The Car Man</title>
@@ -1528,6 +1661,36 @@
 <source url="https://www.visitbradford.com/whats-on/matthew-bournes-the-car-man-p2476451">Visit Bradford</source>
 </item>
 <item>
+<title>Middlesbrough Audio Tour: Art, Heritage &amp; Urban Pulse Audio Adventure</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-10-20T09:00:00</ify:start>
+<ify:end>2027-10-14T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Middlesbrough, Middlesbrough//</location>
+<ify:location>Middlesbrough, Middlesbrough//</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114">Yorkshire.com</source>
+</item>
+<item>
+<title>Sheffield Audio Tour: An Audio Journey Through Sheffield's Iconic Heart</title>
+<link>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-10-20T09:00:00</ify:start>
+<ify:end>2027-10-10T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Victoria Hall Sheffield, Norfolk St, Sheffield City Centre, Sheffield// S1 2JB</location>
+<ify:location>Victoria Hall Sheffield, Norfolk St, Sheffield City Centre, Sheffield// S1 2JB</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298">Yorkshire.com</source>
+</item>
+<item>
 <title>The David Hockney Gallery</title>
 <link>https://www.visitbradford.com/whats-on/the-david-hockney-gallery-p2684381</link>
 <guid>https://www.visitbradford.com/whats-on/the-david-hockney-gallery-p2684381</guid>
@@ -1541,94 +1704,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/the-david-hockney-gallery-p2684381">Visit Bradford</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Kirkstall Abbey</location>
-<ify:location>Kirkstall Abbey</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tours">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Abbey House Museum</location>
-<ify:location>Abbey House Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Tea and Talk</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Tea and Talk</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-21</ify:start>
-<ify:end>2026-12-16</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>21 Oct 2026 Adults &amp; Crafts: Crystal Jewellery Making Find out more</title>
@@ -1704,21 +1779,6 @@
 <source url="https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/">Experience Wakefield</source>
 </item>
 <item>
-<title>Modern Art and Modern Life: Highlights from Wakefield’s 20th Century Collection</title>
-<link>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</link>
-<guid>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</guid>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-21T10:00:00</ify:start>
-<ify:end>2027-03-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/">Experience Wakefield</source>
-</item>
-<item>
 <title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
@@ -1754,6 +1814,21 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/ff9fc439-a432-48f2-9daa-0d09f64d7f1c">National Trust Yorkshire</source>
 </item>
 <item>
+<title>Elizabeth Love Museum Art Workshops</title>
+<link>https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/</link>
+<guid>https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/</guid>
+<pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-10-21T10:30:00</ify:start>
+<ify:end>2026-12-13T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 13 Dec 2026 10:30 - 15:30 The Elizabeth Love Museum</location>
+<ify:location>Now - Sun 13 Dec 2026 10:30 - 15:30 The Elizabeth Love Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/elizabeth-love-museum-art-workshops/">Experience Wakefield</source>
+</item>
+<item>
 <title>Sketchbook Circle at York Art Gallery – Wed 21 Oct 2026</title>
 <link>https://yorkmuseumstrust.org.uk/whats-on/events/sketchbook-circle-at-york-art-gallery-56/</link>
 <guid>https://yorkmuseumstrust.org.uk/whats-on/events/sketchbook-circle-at-york-art-gallery-56/</guid>
@@ -1783,6 +1858,37 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/1800s-murders-of-wakefield-walk/">Experience Wakefield</source>
+</item>
+<item>
+<title>Martin Simpson: Some Kind Of Jubilee Tour</title>
+<link>https://www.yorkshire.com/sedbergh/events/music/martin-simpson-some-kind-of-jubilee-tour-lvz18ql6hh87akzv8zgxd</link>
+<guid>https://www.yorkshire.com/sedbergh/events/music/martin-simpson-some-kind-of-jubilee-tour-lvz18ql6hh87akzv8zgxd</guid>
+<pubDate>Wed, 21 Oct 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-10-21T18:30:00</ify:start>
+<ify:end>2026-10-21T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</location>
+<ify:location>Kendal Brewery Arts Centre, 122a Highgate, Kendal, Cumbria, LA9 4HE</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sedbergh/events/music/martin-simpson-some-kind-of-jubilee-tour-lvz18ql6hh87akzv8zgxd">Yorkshire.com</source>
+</item>
+<item>
+<title>Skipton Musical Theatre Company Little Shop of Horrors</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-21/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-21/</guid>
+<description>Book and Lyrics by HOWARD ASHMAN Music by ALAN MENKEN Based on the film by Roger Corman, Screenplay by Charles Griffith Originally produced by the WPA Theatre (Kyle Renick, Producing […] \n</description>
+<pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-10-21T19:30:00</ify:start>
+<ify:end>2026-10-21T21:45:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</location>
+<ify:location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-21/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Store Tours</title>
@@ -2015,6 +2121,20 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-shoppers-5j5n">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Little Shoppers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-23</ify:start>
+<ify:end>2026-10-23</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Abbey House Museum</location>
+<ify:location>Abbey House Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Tekkonkinkreet (2006) 20th Anniversary screening</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/tekkonkinkreet-2006-20th-anniversary-screening/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/tekkonkinkreet-2006-20th-anniversary-screening/</guid>
@@ -2045,6 +2165,21 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/crush/">Our Favourite Places</source>
+</item>
+<item>
+<title>Honey and the Bear</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/honey-and-the-bear/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/honey-and-the-bear/</guid>
+<description>Honey and The Bear are UK Folk and Roots multi-instrumentalists Lucy and Jon Hart. Formed in 2014, the duo have gone from strength to strength, releasing three critically acclaimed albums […] \n</description>
+<pubDate>Fri, 23 Oct 2026 20:00:00 +0000</pubDate>
+<ify:start>2026-10-23T20:00:00</ify:start>
+<ify:end>2026-10-23T22:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Reeth Memorial Hall, Arkengarthdale Road Reeth, North Yorkshire, DL11 6QT</location>
+<ify:location>Reeth Memorial Hall, Arkengarthdale Road Reeth, North Yorkshire, DL11 6QT</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/honey-and-the-bear/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Monster Mash: Four Monsters That Changed Horror with Christina Brennan</title>
@@ -2145,33 +2280,18 @@
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/ghost-in-the-library/">York Museums Trust</source>
 </item>
 <item>
-<title>October Half-Term: Glow In The Dark Week</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn</guid>
+<title>Spellbound</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
 <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-24</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Nocturnal Creatures Trail</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Kirkstall Abbey</location>
-<ify:location>Kirkstall Abbey</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Scarecrow Trail</title>
@@ -2189,18 +2309,33 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/scarecrow-trail-zfm4">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Spellbound</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7</guid>
+<title>Nocturnal Creatures Trail</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r</guid>
 <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-24</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
+<location>Kirkstall Abbey</location>
+<ify:location>Kirkstall Abbey</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/nocturnal-creatures-trail-1q9r">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>October Half-Term: Glow In The Dark Week</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/spellbound-rqm7">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/october-half-term-glow-in-the-dark-week-5dhn">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Halloween at Home Farm</title>
@@ -2248,6 +2383,21 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Glow in the Dark Trail</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24</ify:start>
+<ify:end>2026-11-01</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Cellar Scares</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/cellar-scares-bshd</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/cellar-scares-bshd</guid>
@@ -2274,21 +2424,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Glow in the Dark Trail</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-11-01</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/glow-in-the-dark-trail-f93q">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Spooky Streets</title>
@@ -2357,7 +2492,7 @@
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-24T00:00:00</ify:start>
-<ify:end>2026-10-31T00:00:00</ify:end>
+<ify:end>2026-11-01T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
@@ -2505,6 +2640,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/halloween-at-nvm/">Our Favourite Places</source>
 </item>
 <item>
+<title>Sedbergh Environmental Market</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</guid>
+<description>A wonderful selection of eco stallholders providing information on protecting the environment and selling natural and sustainable products, recycled and upcycled arts &amp; crafts and delicious eco-friendly foods! \n</description>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-24T10:00:00</ify:start>
+<ify:end>2026-10-24T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</location>
+<ify:location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Real Markets</title>
 <link>https://www.thepiecehall.co.uk/event/real-markets-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/real-markets-2/</guid>
@@ -2560,6 +2712,8 @@
 <ify:start>2026-10-24T10:30:00</ify:start>
 <ify:end>2026-10-24T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>York Museums Trust</dc:creator>
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/tales-of-nut-crack-night/">York Museums Trust</source>
@@ -2573,6 +2727,8 @@
 <ify:start>2026-10-24T19:00:00</ify:start>
 <ify:end>2026-10-24T20:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -2706,6 +2862,20 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/shadow-art-5bpn">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>The Magic of Moss</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-27</ify:start>
+<ify:end>2026-10-27</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Autumn Leaf Luminaries</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-leaf-luminaries-1wzr</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-leaf-luminaries-1wzr</guid>
@@ -2721,20 +2891,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/autumn-leaf-luminaries-1wzr">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>The Magic of Moss</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-27</ify:start>
-<ify:end>2026-10-27</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-magic-of-moss-r187">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Drawn Together : The City We Make</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/drawn-together-the-city-we-make-jswy</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/drawn-together-the-city-we-make-jswy</guid>
@@ -2747,6 +2903,34 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/drawn-together-the-city-we-make-jswy">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Glow Disco</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-disco-s7v2</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/glow-disco-s7v2</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-27</ify:start>
+<ify:end>2026-10-27</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/glow-disco-s7v2">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Pumpkin Carving</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-carving-qhyt</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-carving-qhyt</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-27</ify:start>
+<ify:end>2026-10-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/pumpkin-carving-qhyt">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Spook Show &amp; Film</title>
@@ -2833,21 +3017,6 @@
 <source url="https://www.visitbradford.com/whats-on/investigate-p2690331">Visit Bradford</source>
 </item>
 <item>
-<title>The Three Little Pigs v The Wolf</title>
-<link>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</link>
-<guid>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</guid>
-<description>Join The Bradford Police Museum for a unique Trial by Jury!</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-28</ify:start>
-<ify:end>2026-10-28</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
-<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951">Visit Bradford</source>
-</item>
-<item>
 <title>Barnbow Canaries</title>
 <link>https://www.visitbradford.com/whats-on/barnbow-canaries-p2672881</link>
 <guid>https://www.visitbradford.com/whats-on/barnbow-canaries-p2672881</guid>
@@ -2878,6 +3047,21 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/family-makespace-magic-stick-special-p2681891">Visit Bradford</source>
+</item>
+<item>
+<title>The Three Little Pigs v The Wolf</title>
+<link>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</link>
+<guid>https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951</guid>
+<description>Join The Bradford Police Museum for a unique Trial by Jury!</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-28</ify:start>
+<ify:end>2026-10-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</location>
+<ify:location>Bradford Police Museum, City Hall, Centenary Square, Bradford, West Yorkshire, BD1 1HY</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-three-little-pigs-v-the-wolf-p2631951">Visit Bradford</source>
 </item>
 <item>
 <title>Ri Ri’s Dance Academy: The Magic Stick</title>
@@ -2911,6 +3095,34 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/ozzy-and-black-sabbath-back-to-the-beginning-18-p2675831">Visit Bradford</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-28</ify:start>
+<ify:end>2026-12-16</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-28</ify:start>
+<ify:end>2026-12-16</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Discovery Centre</location>
+<ify:location>Leeds Discovery Centre</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tours">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Sensory Room for SEND Families</title>
@@ -2976,6 +3188,23 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/elevate-x-algorave-5/">Our Favourite Places</source>
+</item>
+<item>
+<title>Witches &amp; Wizards</title>
+<link>https://experiencewakefield.co.uk/event/witches-wizards/</link>
+<guid>https://experiencewakefield.co.uk/event/witches-wizards/</guid>
+<description>Activity Craft Families Heritage Workshop</description>
+<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-28T10:00:00</ify:start>
+<ify:end>2026-10-31T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wed 28 Oct - Sat 31 Oct 2026 10:00 - 15:00 Pontefract Castle</location>
+<ify:location>Wed 28 Oct - Sat 31 Oct 2026 10:00 - 15:00 Pontefract Castle</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/witches-wizards/">Experience Wakefield</source>
 </item>
 <item>
 <title>Boll-O-Ween!</title>
@@ -3588,10 +3817,25 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/chrysanthemum-tour-yskl">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Chrysanthemum Tour</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-12</ify:start>
+<ify:end>2026-11-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Temple Newsam</location>
+<ify:location>Temple Newsam</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-13T10:00:00</ify:start>
 <ify:end>2026-11-15T16:00:00</ify:end>
@@ -3710,7 +3954,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_6/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_6/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-20T10:00:00</ify:start>
 <ify:end>2026-11-22T16:00:00</ify:end>
@@ -3844,20 +4088,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/doctor-who-the-satan-pit/">Our Favourite Places</source>
 </item>
 <item>
-<title>Wreath Making &amp; Festive Shopping</title>
-<link>https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping/</link>
-<guid>https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping/</guid>
-<description>Wreath Making &amp; Festive Shopping Join Walter and Blossom for a festive wreath-making night at Hudson Belle on the top floor of The Piece Hall. Create your own handmade wreath to take home, with fizz and nibbles. Dates · 6–8pm Tuesday 24 November Wednesday 25 November Wednesday 9 December Included Step-by-step guidance</description>
-<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-11-24T18:00:00</ify:start>
-<ify:end>2026-11-24T20:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>The Piece Hall</dc:creator>
-<source url="https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping/">The Piece Hall</source>
-</item>
-<item>
 <title>Online Talk: Jyll Bradley In Conversation with Ben Harman</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/online-talk-jyll-bradley-in-conversation-with-ben-harman/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/online-talk-jyll-bradley-in-conversation-with-ben-harman/</guid>
@@ -3870,20 +4100,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/online-talk-jyll-bradley-in-conversation-with-ben-harman/">Our Favourite Places</source>
-</item>
-<item>
-<title>Wreath Making &amp; Festive Shopping</title>
-<link>https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping-2/</link>
-<guid>https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping-2/</guid>
-<description>Wreath Making &amp; Festive Shopping Join Walter and Blossom for a festive wreath-making night at Hudson Belle on the top floor of The Piece Hall. Create your own handmade wreath to take home, with fizz and nibbles. Dates · 6–8pm Tuesday 24 November Wednesday 25 November Wednesday 9 December Included Step-by-step guidance</description>
-<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-11-25T18:00:00</ify:start>
-<ify:end>2026-11-25T20:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Seasonal</category>
-<dc:creator>The Piece Hall</dc:creator>
-<source url="https://www.thepiecehall.co.uk/event/wreath-making-festive-shopping-2/">The Piece Hall</source>
 </item>
 <item>
 <title>Atelier for under-fives</title>
@@ -3919,7 +4135,7 @@
 <title>An Evening of Cosy Christmas Crime</title>
 <link>https://www.thepiecehall.co.uk/event/an-evening-of-cosy-christmas-crime/</link>
 <guid>https://www.thepiecehall.co.uk/event/an-evening-of-cosy-christmas-crime/</guid>
-<description>An Evening of Cosy Christmas Crime Announcing the return of a popular seasonal event as crafty Christmas crime writers Sarah Dunnakey and JM Hall join us for an Evening of Cosy Christmas Crime at The Book Corner. They\'ll be pulling back the curtains and breaking out the mince pies as Sarah and Jonathan share the... \n</description>
+<description>An Evening of Cosy Christmas Crime Announcing the return of a popular seasonal event as crafty Christmas crime writers Sarah Dunnakey and JM Hall join us for an Evening of... \n</description>
 <pubDate>Thu, 26 Nov 2026 18:30:00 +0000</pubDate>
 <ify:start>2026-11-26T18:30:00</ify:start>
 <ify:end>2026-11-26T19:30:00</ify:end>
@@ -3951,7 +4167,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_5/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_5/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-27T10:00:00</ify:start>
 <ify:end>2026-11-29T16:00:00</ify:end>
@@ -4097,23 +4313,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/christmas-2026/">Our Favourite Places</source>
 </item>
 <item>
-<title>Have a Dabble – Christmas Candle Painting</title>
-<link>https://experiencewakefield.co.uk/event/have-a-dabble-christmas-candle-painting/</link>
-<guid>https://experiencewakefield.co.uk/event/have-a-dabble-christmas-candle-painting/</guid>
-<description>Art Christmas Craft Heritage Workshop</description>
-<pubDate>Tue, 01 Dec 2026 13:30:00 +0000</pubDate>
-<ify:start>2026-12-01T13:30:00</ify:start>
-<ify:end>2026-12-01T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 01 Dec - Tue 01 Dec 2026 13:30 - 15:30 Pontefract Castle</location>
-<ify:location>Tue 01 Dec - Tue 01 Dec 2026 13:30 - 15:30 Pontefract Castle</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/have-a-dabble-christmas-candle-painting/">Experience Wakefield</source>
-</item>
-<item>
 <title>WTF: Harold and Maude</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/wtf-harold-and-maude/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/wtf-harold-and-maude/</guid>
@@ -4127,24 +4326,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wtf-harold-and-maude/">Our Favourite Places</source>
-</item>
-<item>
-<title>Festive Afternoon Tea</title>
-<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
-<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
-<description>Christmas Food and Drink Theatre</description>
-<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
-<ify:start>2026-12-04T14:00:00</ify:start>
-<ify:end>2026-12-04T16:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
-<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
 </item>
 <item>
 <title>Christmas Tree Trail</title>
@@ -4210,6 +4391,24 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/new-voices/">Our Favourite Places</source>
 </item>
 <item>
+<title>Liquorice Santa</title>
+<link>https://experiencewakefield.co.uk/event/liquorice-santa/</link>
+<guid>https://experiencewakefield.co.uk/event/liquorice-santa/</guid>
+<description>Activity Christmas Craft Families</description>
+<pubDate>Sat, 05 Dec 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-12-05T10:30:00</ify:start>
+<ify:end>2026-12-05T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</location>
+<ify:location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/liquorice-santa/">Experience Wakefield</source>
+</item>
+<item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</guid>
@@ -4218,10 +4417,8 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Fri. 23 October 2026 — Sat. 24 October 2026</location>
-<ify:location>Fri. 23 October 2026 — Sat. 24 October 2026</ify:location>
+<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
 </item>
@@ -4273,23 +4470,6 @@
 <category>Sport</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-kingdom-come-ten-year-anniversary/">Our Favourite Places</source>
-</item>
-<item>
-<title>Find Your Passion – Christmas Stocking</title>
-<link>https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/</link>
-<guid>https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/</guid>
-<description>Art Christmas Craft Heritage Workshop</description>
-<pubDate>Thu, 10 Dec 2026 13:30:00 +0000</pubDate>
-<ify:start>2026-12-10T13:30:00</ify:start>
-<ify:end>2026-12-10T18:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Thu 10 Dec - Thu 10 Dec 2026 13:30 - 18:30 Wakefield Museum</location>
-<ify:location>Thu 10 Dec - Thu 10 Dec 2026 13:30 - 18:30 Wakefield Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/">Experience Wakefield</source>
 </item>
 <item>
 <title>Santa at the Museum</title>
@@ -4441,8 +4621,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 3 October 2026 — Thu. 5 November 2026</location>
-<ify:location>Sat. 3 October 2026 — Thu. 5 November 2026</ify:location>
+<location>Sat. 17 October 2026 — Sat. 14 November 2026</location>
+<ify:location>Sat. 17 October 2026 — Sat. 14 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -4475,8 +4655,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sheffield Arena</location>
-<ify:location>Sheffield Arena</ify:location>
+<location>Sat. 7 November 2026</location>
+<ify:location>Sat. 7 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4492,8 +4672,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 29 October 2026</location>
-<ify:location>Thu. 29 October 2026</ify:location>
+<location>Sat. 31 October 2026</location>
+<ify:location>Sat. 31 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4509,8 +4689,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Writers Workshop, Unit 14, Orchard Square, S1 2FB</location>
-<ify:location>The Writers Workshop, Unit 14, Orchard Square, S1 2FB</ify:location>
+<location>Fri. 28 November 2025 — Sun. 1 November 2026</location>
+<ify:location>Fri. 28 November 2025 — Sun. 1 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4526,8 +4706,6 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Fri. 27 November 2026</location>
-<ify:location>Fri. 27 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -4543,30 +4721,13 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 19 November 2026</location>
-<ify:location>Thu. 19 November 2026</ify:location>
+<location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
+<ify:location>Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/beginner-peg-loom-weaving-class/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-12-25T19:30:00</ify:start>
-<ify:end>2027-01-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat. 28 November 2026</location>
-<ify:location>Sat. 28 November 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -4577,13 +4738,30 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</location>
-<ify:location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</ify:location>
+<location>The Lughole, Harvest Lane, Neepsend, S3 8EF</location>
+<ify:location>The Lughole, Harvest Lane, Neepsend, S3 8EF</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-haunting-of-hill-house/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-12-25T19:30:00</ify:start>
+<ify:end>2027-01-06T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</location>
+<ify:location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
 </item>
 <item>
 <title>Clown College</title>
@@ -4718,6 +4896,22 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/alpaca-festival/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Thu, 06 May 2027 00:00:00 +0000</pubDate>
+<ify:start>2027-05-06</ify:start>
+<ify:end>2027-05-06</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Exhibition on Screen: Monet</title>
