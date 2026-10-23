@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 23 Oct 2026 01:19:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:39:24 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-12-09</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place-2025-11-12/">Visit Leeds</source>
@@ -41,6 +43,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2028-01-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery-2026-01-20/">Visit Leeds</source>
@@ -66,6 +70,8 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -106,8 +112,6 @@
 <ify:start>2026-03-11</ify:start>
 <ify:end>2026-11-11</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-monthly-market/">Visit Leeds</source>
@@ -174,6 +178,25 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
+<title>Heritage</title>
+<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
+<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
+</item>
+<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -211,25 +234,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
-<title>Heritage</title>
-<link>https://www.visitdoncaster.com/whats-on/heritage/</link>
-<guid>https://www.visitdoncaster.com/whats-on/heritage/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-12-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
 <title>Quiz Night at the Northern Market</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/</guid>
@@ -251,6 +255,8 @@
 <ify:start>2026-06-25</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/">Visit Leeds</source>
@@ -371,22 +377,6 @@
 <source url="https://www.visitbradford.com/whats-on/shanes-spooky-singo-p2690581">Visit Bradford</source>
 </item>
 <item>
-<title>Skipton Musical Theatre Company Little Shop of Horrors</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-23/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-23/</guid>
-<description>Book and Lyrics by HOWARD ASHMAN Music by ALAN MENKEN Based on the film by Roger Corman, Screenplay by Charles Griffith Originally produced by the WPA Theatre (Kyle Renick, Producing […] \n</description>
-<pubDate>Fri, 23 Oct 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-10-23T19:30:00</ify:start>
-<ify:end>2026-10-23T21:45:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</location>
-<ify:location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-23/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Family Friendly</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-23/2027-10-23/p2</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-23/2027-10-23/p2</guid>
@@ -472,23 +462,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/baildon-farmers-market-p1628611">Visit Bradford</source>
-</item>
-<item>
-<title>Sedbergh Environmental Market</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</guid>
-<description>A wonderful selection of eco stallholders providing information on protecting the environment and selling natural and sustainable products, recycled and upcycled arts &amp; crafts and delicious eco-friendly foods! \n</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
-<ify:end>2026-10-24T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</location>
-<ify:location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/">Yorkshire Dales National Park</source>
 </item>
 <item>
 <title>Real Markets</title>
