@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 25 Oct 2026 00:55:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 04:32:51 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -120,8 +120,6 @@
 <ify:start>2026-01-12</ify:start>
 <ify:end>2026-12-18</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
@@ -163,8 +161,6 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2028-01-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery-2026-01-20/">Visit Leeds</source>
@@ -177,8 +173,6 @@
 <ify:start>2026-01-31</ify:start>
 <ify:end>2027-01-10</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/some-steel-sculpture-and-steel-in-britain-1960-90/">Visit Leeds</source>
@@ -523,6 +517,24 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/club-and-activity-guide-for-adults">Visit Doncaster</source>
 </item>
 <item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+</item>
+<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -559,24 +571,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
-</item>
-<item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-11-15T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>A Somali Village in Lister Park: Weaving Together Industry, Culture and Empire</title>
@@ -630,8 +624,6 @@
 <ify:start>2026-05-26</ify:start>
 <ify:end>2026-10-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-400-places/">Visit Leeds</source>
@@ -661,8 +653,6 @@
 <ify:start>2026-06-24</ify:start>
 <ify:end>2026-11-25</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/">Visit Leeds</source>
@@ -676,8 +666,6 @@
 <ify:start>2026-06-25</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/">Visit Leeds</source>
@@ -690,6 +678,8 @@
 <ify:start>2026-06-25</ify:start>
 <ify:end>2027-08-28</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/dinner-party-with-matthew-smith-jacob-epstein-olivia-bax-2026-06-26/">Visit Leeds</source>
@@ -847,8 +837,6 @@
 <ify:start>2026-08-16</ify:start>
 <ify:end>2028-08-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/ludd-in-the-machine-2026-08-17/">Visit Leeds</source>
@@ -2434,6 +2422,19 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/once-upon-a-nightmare-2026-dmd9">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>24 Oct 2026 - 31 Oct 2026 Autumn Half Term at Waterstones Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24T00:00:00</ify:start>
+<ify:end>2026-10-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones">Visit Doncaster</source>
+</item>
+<item>
 <title>24 Oct 2026 - 1 Nov 2026 Halloween at Yorkshire Wildlife Park Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/family-friendly/halloween-at-yorkshire-wildlife-park1</link>
 <guid>https://www.visitdoncaster.com/whats-on/family-friendly/halloween-at-yorkshire-wildlife-park1</guid>
@@ -2446,19 +2447,6 @@
 <category>Seasonal</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/halloween-at-yorkshire-wildlife-park1">Visit Doncaster</source>
-</item>
-<item>
-<title>24 Oct 2026 - 31 Oct 2026 Autumn Half Term at Waterstones Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24T00:00:00</ify:start>
-<ify:end>2026-10-31T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/autumn-half-term-at-waterstones">Visit Doncaster</source>
 </item>
 <item>
 <title>24 Oct 2026 - 1 Nov 2026 Halloween half-term at Brodsworth Hall and Gardens Find out more</title>
@@ -2475,20 +2463,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/family-friendly/halloween-half-term-at-brodsworth-hall-and-gardens">Visit Doncaster</source>
 </item>
 <item>
-<title>24 Oct 2026 - 1 Nov 2026 Halloween at Yorkshire Wildlife Park Find out more</title>
-<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1</link>
-<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1</guid>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24T00:00:00</ify:start>
-<ify:end>2026-11-01T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1">Visit Doncaster</source>
-</item>
-<item>
 <title>24 Oct 2026 - 31 Oct 2026 Autumn Half Term at Waterstones Find out more</title>
 <link>https://www.visitdoncaster.com/whats-on/arts-and-culture/autumn-half-term-at-waterstones</link>
 <guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/autumn-half-term-at-waterstones</guid>
@@ -2501,6 +2475,20 @@
 <category>Seasonal</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/autumn-half-term-at-waterstones">Visit Doncaster</source>
+</item>
+<item>
+<title>24 Oct 2026 - 1 Nov 2026 Halloween at Yorkshire Wildlife Park Find out more</title>
+<link>https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1</link>
+<guid>https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24T00:00:00</ify:start>
+<ify:end>2026-11-01T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/arts-and-culture/halloween-at-yorkshire-wildlife-park1">Visit Doncaster</source>
 </item>
 <item>
 <title>24 Oct 2026 - 1 Nov 2026 Halloween half-term at Brodsworth Hall and Gardens Find out more</title>
@@ -2591,192 +2579,6 @@
 <source url="https://www.english-heritage.org.uk/visit/whats-on/autumn-days-out/">English Heritage Yorkshire</source>
 </item>
 <item>
-<title>Leeds - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</link>
-<guid>https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738</guid>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-10-24T07:00:00</ify:start>
-<ify:end>2027-05-31T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Leeds Central Library, Calverley St, Leeds// LS1 3AB</location>
-<ify:location>Leeds Central Library, Calverley St, Leeds// LS1 3AB</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/family/leeds-interactive-treasure-hunt-exploration-game-for-up-to-5-662738">Yorkshire.com</source>
-</item>
-<item>
-<title>York - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</link>
-<guid>https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525</guid>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-10-24T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Museum Gardens, Museum Street, York// YO1 7FR</location>
-<ify:location>Museum Gardens, Museum Street, York// YO1 7FR</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-interactive-treasure-hunt-exploration-game-for-up-to-5-665525">Yorkshire.com</source>
-</item>
-<item>
-<title>Sheffield - Interactive Treasure Hunt &amp; Exploration Game for up to 5</title>
-<link>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443</guid>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-<ify:start>2026-10-24T07:00:00</ify:start>
-<ify:end>2028-01-06T07:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sheffield Station, Sheffield Station, Sheaf St, Sheffield City Centre, Sheffield// S1 2BP</location>
-<ify:location>Sheffield Station, Sheffield Station, Sheaf St, Sheffield City Centre, Sheffield// S1 2BP</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-interactive-treasure-hunt-exploration-game-for-up-to-5-665443">Yorkshire.com</source>
-</item>
-<item>
-<title>Sheffield Audio Tour: A Sheffield Sound Odyssey</title>
-<link>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-a-sheffield-sound-odyssey-778881</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-a-sheffield-sound-odyssey-778881</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sheffield Cathedral, Church St, Sheffield City Centre// S1 1HA</location>
-<ify:location>Sheffield Cathedral, Church St, Sheffield City Centre// S1 1HA</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-a-sheffield-sound-odyssey-778881">Yorkshire.com</source>
-</item>
-<item>
-<title>Hull Audio Tour: Ships, Streets &amp; Stories of the Maritime Metropolis</title>
-<link>https://www.yorkshire.com/hull/events/other/hull-audio-tour-ships-streets-stories-of-the-maritime-metropolis-779290</link>
-<guid>https://www.yorkshire.com/hull/events/other/hull-audio-tour-ships-streets-stories-of-the-maritime-metropolis-779290</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Hull Minster, South Church Side, Hull// HU1 1RR</location>
-<ify:location>Hull Minster, South Church Side, Hull// HU1 1RR</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/hull/events/other/hull-audio-tour-ships-streets-stories-of-the-maritime-metropolis-779290">Yorkshire.com</source>
-</item>
-<item>
-<title>Leeds Audio Tour: The Bell, the Bandsaw and the Bridge</title>
-<link>https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-the-bell-the-bandsaw-and-the-bridge-778870</link>
-<guid>https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-the-bell-the-bandsaw-and-the-bridge-778870</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>City Square (Leeds), City Square, Leeds// LS1 2HA</location>
-<ify:location>City Square (Leeds), City Square, Leeds// LS1 2HA</ify:location>
-<category>Gigs</category>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-the-bell-the-bandsaw-and-the-bridge-778870">Yorkshire.com</source>
-</item>
-<item>
-<title>Kingston upon Hull Audio Tour: Working Hull</title>
-<link>https://www.yorkshire.com/hull/events/other/kingston-upon-hull-audio-tour-working-hull-778867</link>
-<guid>https://www.yorkshire.com/hull/events/other/kingston-upon-hull-audio-tour-working-hull-778867</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Hull Minster, South Church Side, Hull// HU1 1RR</location>
-<ify:location>Hull Minster, South Church Side, Hull// HU1 1RR</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/hull/events/other/kingston-upon-hull-audio-tour-working-hull-778867">Yorkshire.com</source>
-</item>
-<item>
-<title>York Audio Tour: Bishophill Echoes—Minsters, Markets &amp; Mysteries</title>
-<link>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</link>
-<guid>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tower Street, York// YO1 9RY</location>
-<ify:location>Tower Street, York// YO1 9RY</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303">Yorkshire.com</source>
-</item>
-<item>
-<title>Middlesbrough Audio Tour: Art, Heritage &amp; Urban Pulse Audio Adventure</title>
-<link>https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114</link>
-<guid>https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-14T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Middlesbrough, Middlesbrough//</location>
-<ify:location>Middlesbrough, Middlesbrough//</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/middlesbrough/events/other/middlesbrough-audio-tour-art-heritage-urban-pulse-audio-adventure-779114">Yorkshire.com</source>
-</item>
-<item>
-<title>Leeds Audio Tour: Leeds Heritage &amp; Hidden Gems Audio Odyssey</title>
-<link>https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-leeds-heritage-hidden-gems-audio-odyssey-779291</link>
-<guid>https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-leeds-heritage-hidden-gems-audio-odyssey-779291</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Leeds City Museum, Millennium Square, Leeds// LS2 8BH</location>
-<ify:location>Leeds City Museum, Millennium Square, Leeds// LS2 8BH</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/leeds-audio-tour-leeds-heritage-hidden-gems-audio-odyssey-779291">Yorkshire.com</source>
-</item>
-<item>
-<title>Hop-On Hop-Off Bus York</title>
-<link>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</link>
-<guid>https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2026-12-19T09:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>York Station, Station Road, York// YO24 1AB</location>
-<ify:location>York Station, Station Road, York// YO24 1AB</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/hop-on-hop-off-bus-york-137758">Yorkshire.com</source>
-</item>
-<item>
-<title>Sheffield Audio Tour: An Audio Journey Through Sheffield's Iconic Heart</title>
-<link>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298</link>
-<guid>https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Victoria Hall Sheffield, Norfolk St, Sheffield City Centre, Sheffield// S1 2JB</location>
-<ify:location>Victoria Hall Sheffield, Norfolk St, Sheffield City Centre, Sheffield// S1 2JB</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/sheffield/events/other/sheffield-audio-tour-an-audio-journey-through-sheffields-iconic-heart-779298">Yorkshire.com</source>
-</item>
-<item>
-<title>York Audio Tour: Historic Gems</title>
-<link>https://www.yorkshire.com/york/events/other/york-audio-tour-historic-gems-749537</link>
-<guid>https://www.yorkshire.com/york/events/other/york-audio-tour-historic-gems-749537</guid>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2027-10-10T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Shambles, The Shambles, York YO1, UK// YO1</location>
-<ify:location>The Shambles, The Shambles, York YO1, UK// YO1</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/york-audio-tour-historic-gems-749537">Yorkshire.com</source>
-</item>
-<item>
 <title>Halloween at Stockeld Park</title>
 <link>https://stockeldpark.co.uk/activities/season/halloween/</link>
 <guid>https://stockeldpark.co.uk/activities/season/halloween/</guid>
@@ -2792,20 +2594,6 @@
 <category>Seasonal</category>
 <dc:creator>Stockeld Park</dc:creator>
 <source url="https://stockeldpark.co.uk/activities/season/halloween/">Stockeld Park</source>
-</item>
-<item>
-<title>York's Chocolate Story</title>
-<link>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</link>
-<guid>https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069</guid>
-<pubDate>Sat, 24 Oct 2026 09:45:00 +0000</pubDate>
-<ify:start>2026-10-24T09:45:00</ify:start>
-<ify:end>2026-12-20T16:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>York's Chocolate Story, 3-4 King's Square, York// YO1 7LD</location>
-<ify:location>York's Chocolate Story, 3-4 King's Square, York// YO1 7LD</ify:location>
-<category>Experiences</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/yorks-chocolate-story-136069">Yorkshire.com</source>
 </item>
 <item>
 <title>Header Menu</title>
@@ -2895,6 +2683,287 @@
 <category>Seasonal</category>
 <dc:creator>English Heritage Yorkshire</dc:creator>
 <source url="https://www.english-heritage.org.uk/visit/whats-on/whitby-abbey-halloween-2026/">English Heritage Yorkshire</source>
+</item>
+<item>
+<title>Durham’s Landmarks and Legends: A Self-Guided Audio Tour</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham// DH1</location>
+<ify:location>Durham Market Place, Durham// DH1</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/durhams-landmarks-and-legends-a-self-guided-audio-tour-169275">Yorkshire.com</source>
+</item>
+<item>
+<title>The Deathly Dark Ghost Tour of York: Experience of the Year 2024</title>
+<link>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</link>
+<guid>https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-01-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</location>
+<ify:location>1331 Bar &amp; Grill, 9, 13 Grape Lane, York// YO1 7HU</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/the-deathly-dark-ghost-tour-of-york-experience-of-the-year-2024-169194">Yorkshire.com</source>
+</item>
+<item>
+<title>1-Hour Public Cruise</title>
+<link>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</link>
+<guid>https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-06-03T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>GO Outdoors Skipton, 1 Coach St, Skipton// BD23 1LH</location>
+<ify:location>GO Outdoors Skipton, 1 Coach St, Skipton// BD23 1LH</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/1-hour-public-cruise-166263">Yorkshire.com</source>
+</item>
+<item>
+<title>The Best of York on Foot in a Small Group</title>
+<link>https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705</link>
+<guid>https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-01-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>YO1 7DS, York// YO1 7DS</location>
+<ify:location>YO1 7DS, York// YO1 7DS</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/the-best-of-york-on-foot-in-a-small-group-172705">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around York with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</link>
+<guid>https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Unnamed Road, Unnamed Road// 11</location>
+<ify:location>Unnamed Road, Unnamed Road// 11</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/fun-flexible-treasure-hunt-around-york-with-cryptic-clues-hidden-gems-167591">Yorkshire.com</source>
+</item>
+<item>
+<title>Ghost Bus Tour of York</title>
+<link>https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343</link>
+<guid>https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Ghost Bus Tours York, Station Rd, Bus stop RE, York// YO24 1AA</location>
+<ify:location>The Ghost Bus Tours York, Station Rd, Bus stop RE, York// YO24 1AA</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/ghost-bus-tour-of-york-169343">Yorkshire.com</source>
+</item>
+<item>
+<title>York City walking tour - History Chronicles</title>
+<link>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</link>
+<guid>https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-03-14T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Constantine the Great, 4 Minster Yard, York// YO1 7JB</location>
+<ify:location>Constantine the Great, 4 Minster Yard, York// YO1 7JB</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/york-city-walking-tour-history-chronicles-169136">Yorkshire.com</source>
+</item>
+<item>
+<title>Mad Alice’s The Bloody Tour of York -Best Tour Award Europe 2024</title>
+<link>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</link>
+<guid>https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>College Street, Ireland//</location>
+<ify:location>College Street, Ireland//</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/mad-alices-the-bloody-tour-of-york-best-tour-award-europe-2024-168864">Yorkshire.com</source>
+</item>
+<item>
+<title>Guided Bike Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</link>
+<guid>https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Brew York, Unit 6, Enterprise Complex, Walmgate, York// YO1 9TT</location>
+<ify:location>Brew York, Unit 6, Enterprise Complex, Walmgate, York// YO1 9TT</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/guided-bike-tour-in-york-169215">Yorkshire.com</source>
+</item>
+<item>
+<title>Time Travelers Walking Tour of York</title>
+<link>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</link>
+<guid>https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tower Street, York// YO1 9RY</location>
+<ify:location>Tower Street, York// YO1 9RY</ify:location>
+<category>Clubs</category>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/time-travelers-walking-tour-of-york-169623">Yorkshire.com</source>
+</item>
+<item>
+<title>Private York Self-Guided Tour</title>
+<link>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</link>
+<guid>https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</location>
+<ify:location>6 Minster Yard, The Cathedral and Metropolitical Church of St Peter in York, 6 Minster Yard, York// YO1 7HL</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/private-york-self-guided-tour-177584">Yorkshire.com</source>
+</item>
+<item>
+<title>Walkabout Durham History Tour</title>
+<link>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</link>
+<guid>https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Durham Market Place, Durham// DH1</location>
+<ify:location>Durham Market Place, Durham// DH1</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/middlesbrough/events/other/walkabout-durham-history-tour-169582">Yorkshire.com</source>
+</item>
+<item>
+<title>Small group Tasting Tour of York</title>
+<link>https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137</link>
+<guid>https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2026-12-13T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Exhibition Square, York// YO1 7EW</location>
+<ify:location>Exhibition Square, York// YO1 7EW</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137">Yorkshire.com</source>
+</item>
+<item>
+<title>Shared Walking Tour in York</title>
+<link>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</link>
+<guid>https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-20T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>25 High Petergate, 25 High Petergate, York// YO1 7HP</location>
+<ify:location>25 High Petergate, 25 High Petergate, York// YO1 7HP</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/shared-walking-tour-in-york-169161">Yorkshire.com</source>
+</item>
+<item>
+<title>Afternoon Tea Cruise in North Yorkshire</title>
+<link>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</link>
+<guid>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-06-03T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Coach St, Skipton, UK// BD23 1LH</location>
+<ify:location>Coach St, Skipton, UK// BD23 1LH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262">Yorkshire.com</source>
+</item>
+<item>
+<title>Early Evening Boat Cruise through York</title>
+<link>https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545</link>
+<guid>https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>City Cruises York - Kings Staith Landing, King's Staith, York// YO1 9SN</location>
+<ify:location>City Cruises York - Kings Staith Landing, King's Staith, York// YO1 9SN</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/early-evening-boat-cruise-through-york-166545">Yorkshire.com</source>
+</item>
+<item>
+<title>Wizard Walk of York - WINNER Best Tour &amp; Best of York Award 2024</title>
+<link>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</link>
+<guid>https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-16T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>St Crux, York// YO1 8BL</location>
+<ify:location>St Crux, York// YO1 8BL</ify:location>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/wizard-walk-of-york-winner-best-tour-best-of-york-award-2024-168770">Yorkshire.com</source>
+</item>
+<item>
+<title>Romans, Vikings and Medieval Marvels in York: A Self-Guided Audio Tour</title>
+<link>https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645</link>
+<guid>https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>2A Bootham, 2A Bootham, York// YO30 7BL</location>
+<ify:location>2A Bootham, 2A Bootham, York// YO30 7BL</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/romans-vikings-and-medieval-marvels-in-york-a-self-guided-audio-tour-168645">Yorkshire.com</source>
+</item>
+<item>
+<title>A Fatal Feud - An Immersive Treasure Hunt Murder Mystery - The Secret City</title>
+<link>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</link>
+<guid>https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Clifford's Tower, York, Tower St, York// YO1 9SA</location>
+<ify:location>Clifford's Tower, York, Tower St, York// YO1 9SA</ify:location>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/york/events/other/a-fatal-feud-an-immersive-treasure-hunt-murder-mystery-the-secret-city-167366">Yorkshire.com</source>
+</item>
+<item>
+<title>Fun, Flexible Treasure Hunt Around Sheffield with Cryptic Clues &amp; Hidden Gems</title>
+<link>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</link>
+<guid>https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-25T00:00:00</ify:start>
+<ify:end>2027-04-21T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Yorkshire.com</dc:creator>
+<source url="https://www.yorkshire.com/sheffield/events/other/fun-flexible-treasure-hunt-around-sheffield-with-cryptic-clues-hidden-gems-166857">Yorkshire.com</source>
 </item>
 <item>
 <title>Pumpkin Patch</title>
@@ -3175,21 +3244,6 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
 </item>
 <item>
-<title>Fotohane x The Art House</title>
-<link>https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/</link>
-<guid>https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/</guid>
-<pubDate>Sun, 25 Oct 2026 09:30:00 +0000</pubDate>
-<ify:start>2026-10-25T09:30:00</ify:start>
-<ify:end>2026-12-19T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sat 19 Dec 2026 09:30 - 16:00 The Art House</location>
-<ify:location>Now - Sat 19 Dec 2026 09:30 - 16:00 The Art House</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/">Experience Wakefield</source>
-</item>
-<item>
 <title>Farmer Copleys’ Pumpkin Festival</title>
 <link>https://experiencewakefield.co.uk/event/pumpkin-festival/</link>
 <guid>https://experiencewakefield.co.uk/event/pumpkin-festival/</guid>
@@ -3242,18 +3296,34 @@
 <source url="https://experiencewakefield.co.uk/event/blacker-hall-pumpkin-patch/">Experience Wakefield</source>
 </item>
 <item>
-<title>Villagers: Sculpting the Community</title>
-<link>https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/</link>
-<guid>https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/</guid>
+<title>Modern Art and Modern Life: Highlights from Wakefield’s 20th Century Collection</title>
+<link>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</link>
+<guid>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</guid>
 <pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-10-25T10:00:00</ify:start>
-<ify:end>2027-01-24T16:00:00</ify:end>
+<ify:end>2027-03-31T17:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Now - Sun 24 Jan 2027 10:00 - 16:00 National Coal Mining Museum</location>
-<ify:location>Now - Sun 24 Jan 2027 10:00 - 16:00 National Coal Mining Museum</ify:location>
+<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
+<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/">Experience Wakefield</source>
+<source url="https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/">Experience Wakefield</source>
+</item>
+<item>
+<title>Rhythm, Dance and Everything: The Body and Performance from Hepworth to Now</title>
+<link>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</link>
+<guid>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</guid>
+<pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-25T10:00:00</ify:start>
+<ify:end>2027-03-31T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
+<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/">Experience Wakefield</source>
 </item>
 <item>
 <title>Little Nature Detectives</title>
@@ -3397,20 +3467,6 @@
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/tales-of-nut-crack-night-2/">York Museums Trust</source>
 </item>
 <item>
-<title>Pontefract Castle Dungeon Tour</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</guid>
-<pubDate>Sun, 25 Oct 2026 10:45:00 +0000</pubDate>
-<ify:start>2026-10-25T10:45:00</ify:start>
-<ify:end>2026-12-20T11:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 20 Dec 2026 10:45 - 11:30 Pontefract Castle</location>
-<ify:location>Now - Sun 20 Dec 2026 10:45 - 11:30 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/">Experience Wakefield</source>
-</item>
-<item>
 <title>Olivia Bax: Double Take</title>
 <link>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</link>
 <guid>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</guid>
@@ -3423,22 +3479,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
-</item>
-<item>
-<title>Pontefract Castle Explorer Tours</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</guid>
-<description>Families Heritage Outdoor Tour</description>
-<pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-10-25T13:00:00</ify:start>
-<ify:end>2026-12-20T13:45:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 20 Dec 2026 13:00 - 13:45 Pontefract Castle</location>
-<ify:location>Now - Sun 20 Dec 2026 13:00 - 13:45 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/">Experience Wakefield</source>
 </item>
 <item>
 <title>Whispers From The Grave</title>
@@ -4054,6 +4094,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/elevate-x-algorave-5/">Our Favourite Places</source>
 </item>
 <item>
+<title>Witches &amp; Wizards</title>
+<link>https://experiencewakefield.co.uk/event/witches-wizards/</link>
+<guid>https://experiencewakefield.co.uk/event/witches-wizards/</guid>
+<description>Activity Craft Families Heritage Workshop</description>
+<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-28T10:00:00</ify:start>
+<ify:end>2026-10-31T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wed 28 Oct - Sat 31 Oct 2026 10:00 - 15:00 Pontefract Castle</location>
+<ify:location>Wed 28 Oct - Sat 31 Oct 2026 10:00 - 15:00 Pontefract Castle</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/witches-wizards/">Experience Wakefield</source>
+</item>
+<item>
 <title>Family Friendly Event – Alien Creation</title>
 <link>https://www.yorkshiredales.org.uk/whats-on/family-friendly-event-alien-creation/</link>
 <guid>https://www.yorkshiredales.org.uk/whats-on/family-friendly-event-alien-creation/</guid>
@@ -4257,21 +4314,6 @@
 <category>Experiences</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/action-for-nature-day-p2665731">Visit Bradford</source>
-</item>
-<item>
-<title>Find Your Passion – Autumnal Willow Lanterns</title>
-<link>https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/</link>
-<guid>https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/</guid>
-<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
-<ify:start>2026-10-29T13:30:00</ify:start>
-<ify:end>2026-10-29T18:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Thu 29 Oct - Thu 29 Oct 2026 13:30 - 18:30 Wakefield Museum</location>
-<ify:location>Thu 29 Oct - Thu 29 Oct 2026 13:30 - 18:30 Wakefield Museum</ify:location>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/find-your-passion-autumnal-willow-lanterns/">Experience Wakefield</source>
 </item>
 <item>
 <title>Live Comedy at Bartercard Odsal</title>
@@ -4547,6 +4589,21 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/wild-boar-street-dig-discovery-day-p2690611">Visit Bradford</source>
+</item>
+<item>
+<title>Halloween Spooktacular at Pugneys Light Railway</title>
+<link>https://experiencewakefield.co.uk/event/halloween-spooktacular-pugneys-light-railway/</link>
+<guid>https://experiencewakefield.co.uk/event/halloween-spooktacular-pugneys-light-railway/</guid>
+<pubDate>Fri, 30 Oct 2026 15:30:00 +0000</pubDate>
+<ify:start>2026-10-30T15:30:00</ify:start>
+<ify:end>2026-10-31T19:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 30 Oct - Sat 31 Oct 2026 15:30 - 19:00 Pugneys Light Railway</location>
+<ify:location>Fri 30 Oct - Sat 31 Oct 2026 15:30 - 19:00 Pugneys Light Railway</ify:location>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/halloween-spooktacular-pugneys-light-railway/">Experience Wakefield</source>
 </item>
 <item>
 <title>Creepy Carnival in Sir Nigel Gresley Square</title>
@@ -5520,19 +5577,18 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/endless-love-creative-winter-makers-market/">Our Favourite Places</source>
 </item>
 <item>
-<title>Part of Angela Harding: A Chronicle of Birds and Beasts</title>
-<link>https://experiencewakefield.co.uk/event/angela-harding-and-simon-armitage-in-conversation/</link>
-<guid>https://experiencewakefield.co.uk/event/angela-harding-and-simon-armitage-in-conversation/</guid>
-<pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-11-14T11:00:00</ify:start>
-<ify:end>2026-11-14T13:00:00</ify:end>
+<title>Voices of Valjean By Candlelight</title>
+<link>https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/</link>
+<guid>https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/</guid>
+<pubDate>Sat, 14 Nov 2026 18:15:00 +0000</pubDate>
+<ify:start>2026-11-14T18:15:00</ify:start>
+<ify:end>2026-11-14T21:45:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat 14 Nov - Sat 14 Nov 2026 11:00 - 13:00 Yorkshire Sculpture Park</location>
-<ify:location>Sat 14 Nov - Sat 14 Nov 2026 11:00 - 13:00 Yorkshire Sculpture Park</ify:location>
-<category>Theatre &amp; Arts</category>
+<location>Sat 14 Nov - Sat 14 Nov 2026 18:15 - 21:45 Wakefield Cathedral</location>
+<ify:location>Sat 14 Nov - Sat 14 Nov 2026 18:15 - 21:45 Wakefield Cathedral</ify:location>
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/angela-harding-and-simon-armitage-in-conversation/">Experience Wakefield</source>
+<source url="https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/">Experience Wakefield</source>
 </item>
 <item>
 <title>WTF: Pink Floyd - The Wall</title>
@@ -5717,6 +5773,26 @@
 <source url="https://experiencewakefield.co.uk/event/santas-magic-workshop/">Experience Wakefield</source>
 </item>
 <item>
+<title>Christmas at Caphouse</title>
+<link>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</link>
+<guid>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</guid>
+<description>Activity Christmas Families Festival Food and Drink Heritage Performance Theatre Workshop</description>
+<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-21T10:00:00</ify:start>
+<ify:end>2026-12-24T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/christmas-at-caphouse/">Experience Wakefield</source>
+</item>
+<item>
 <title>Mark the start of Christmas with Santa's arrival at Stockeld Park!</title>
 <link>https://stockeldpark.co.uk/activities/season/santas-arrival-weekend/</link>
 <guid>https://stockeldpark.co.uk/activities/season/santas-arrival-weekend/</guid>
@@ -5749,21 +5825,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/john-shuttleworth-its-nice-up-north-q-a/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-22</ify:start>
-<ify:end>2026-11-22</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Metal Flower Making Workshop</title>
@@ -5865,20 +5926,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-words-are-coming/">Our Favourite Places</source>
 </item>
 <item>
-<title>Find Your Passion – Kinusaiga</title>
-<link>https://experiencewakefield.co.uk/event/find-your-passion-kinusaiga/</link>
-<guid>https://experiencewakefield.co.uk/event/find-your-passion-kinusaiga/</guid>
-<pubDate>Thu, 26 Nov 2026 13:30:00 +0000</pubDate>
-<ify:start>2026-11-26T13:30:00</ify:start>
-<ify:end>2026-11-26T18:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Thu 26 Nov - Thu 26 Nov 2026 13:30 - 18:30 Wakefield Museum</location>
-<ify:location>Thu 26 Nov - Thu 26 Nov 2026 13:30 - 18:30 Wakefield Museum</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/find-your-passion-kinusaiga/">Experience Wakefield</source>
-</item>
-<item>
 <title>An Evening of Cosy Christmas Crime</title>
 <link>https://www.thepiecehall.co.uk/event/an-evening-of-cosy-christmas-crime/</link>
 <guid>https://www.thepiecehall.co.uk/event/an-evening-of-cosy-christmas-crime/</guid>
@@ -5941,6 +5988,24 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/bob-dylan/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-27</ify:start>
+<ify:end>2026-11-27</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Fri. 27 November 2026</location>
+<ify:location>Fri. 27 November 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Piece Hall Christmas Market</title>
@@ -6101,6 +6166,23 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/northern-lights-norwegian-folk/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-11-29</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 29 November 2026</location>
+<ify:location>Sun. 29 November 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
 </item>
 <item>
 <title>Wreath making workshop at Dalby Forest</title>
@@ -6317,11 +6399,10 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</location>
-<ify:location>St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</ify:location>
+<location>Itinerary The Kingdom Come - Ten Year Anniversary Thu. 10 December 2026 FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
+<ify:location>Itinerary The Kingdom Come - Ten Year Anniversary Thu. 10 December 2026 FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
 </item>
@@ -6620,8 +6701,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>nce/movement Comedy Theatre pick Black History Month Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</location>
-<ify:location>nce/movement Comedy Theatre pick Black History Month Sun. 1 November 2026 Utopia Theatre, 11 Rockingham Gate, S1 4JD</ify:location>
+<location>Tue. 27 October 2026</location>
+<ify:location>Tue. 27 October 2026</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
@@ -6638,8 +6719,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>. Words by Rae de Soleil Featured in Art picks Nearby places Site Gallery Art Site Gallery, 1-5 Brown Street, S1 2BS</location>
-<ify:location>. Words by Rae de Soleil Featured in Art picks Nearby places Site Gallery Art Site Gallery, 1-5 Brown Street, S1 2BS</ify:location>
+<location>Ed's Workshop, Carver House, Carver Street, S1 4FS</location>
+<ify:location>Ed's Workshop, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -6654,8 +6735,6 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Victoria Hall</location>
-<ify:location>Victoria Hall</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6671,8 +6750,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 1 December 2026 — Thu. 31 December 2026</location>
-<ify:location>Tue. 1 December 2026 — Thu. 31 December 2026</ify:location>
+<location>Thu. 5 November 2026 — Fri. 6 November 2026</location>
+<ify:location>Thu. 5 November 2026 — Fri. 6 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6688,8 +6767,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
-<ify:location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
+<location>Sat. 31 October 2026</location>
+<ify:location>Sat. 31 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6720,8 +6799,8 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 15 October 2026 — Sun. 17 January 2027</location>
-<ify:location>Thu. 15 October 2026 — Sun. 17 January 2027</ify:location>
+<location>Sat. 25 July 2026 — Sat. 31 October 2026</location>
+<ify:location>Sat. 25 July 2026 — Sat. 31 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6754,8 +6833,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Victoria Hall, Norfolk Street, S1 2JB</location>
-<ify:location>Victoria Hall, Norfolk Street, S1 2JB</ify:location>
+<location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</location>
+<ify:location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -6827,6 +6906,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/">Our Favourite Places</source>
+</item>
+<item>
+<title>Marsyas Trio</title>
+<link>https://experiencewakefield.co.uk/event/marsyas-trio/</link>
+<guid>https://experiencewakefield.co.uk/event/marsyas-trio/</guid>
+<pubDate>Sat, 06 Feb 2027 19:00:00 +0000</pubDate>
+<ify:start>2027-02-06T19:00:00</ify:start>
+<ify:end>2027-02-06T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
+<ify:location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/marsyas-trio/">Experience Wakefield</source>
 </item>
 <item>
 <title>Wild Traditions: Gemma Khawaja</title>
