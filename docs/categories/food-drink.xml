@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 24 Oct 2026 10:44:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:55:18 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -41,6 +41,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2028-01-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery-2026-01-20/">Visit Leeds</source>
@@ -66,8 +68,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -108,8 +108,6 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -123,8 +121,6 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
@@ -166,9 +162,9 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<title>Music &amp; Nightlife</title>
+<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
+<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-05-07T00:00:00</ify:start>
@@ -176,12 +172,13 @@
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Clubs</category>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage</title>
@@ -203,9 +200,9 @@
 <source url="https://www.visitdoncaster.com/whats-on/heritage/">Visit Doncaster</source>
 </item>
 <item>
-<title>Music &amp; Nightlife</title>
-<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
-<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-05-07T00:00:00</ify:start>
@@ -213,13 +210,12 @@
 <ify:allDay>false</ify:allDay>
 <location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
 <ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Clubs</category>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Quiz Night at the Northern Market</title>
@@ -230,6 +226,8 @@
 <ify:start>2026-06-24</ify:start>
 <ify:end>2026-11-25</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/">Visit Leeds</source>
@@ -243,6 +241,8 @@
 <ify:start>2026-06-25</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/open-mic-night-at-the-northern-market/">Visit Leeds</source>
@@ -255,8 +255,6 @@
 <ify:start>2026-07-18</ify:start>
 <ify:end>2026-11-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -280,11 +278,29 @@
 <source url="https://www.visitbradford.com/whats-on/bradford-international-film-festival-2026-p2684161">Visit Bradford</source>
 </item>
 <item>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-24T00:00:00</ify:start>
+<ify:end>2026-11-01T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p2">Visit Doncaster</source>
+</item>
+<item>
 <title>York Audio Tour: Bishophill Echoes—Minsters, Markets &amp; Mysteries</title>
 <link>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</link>
 <guid>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</guid>
-<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-23T09:00:00</ify:start>
+<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-10-24T09:00:00</ify:start>
 <ify:end>2027-10-10T18:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Tower Street, York// YO1 9RY</location>
@@ -295,81 +311,12 @@
 <source url="https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303">Yorkshire.com</source>
 </item>
 <item>
-<title>Cryptids, Monsters and More! Writing Fantastical Creatures</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/cryptids-monsters-and-more-writing-fantastical-creatures/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/cryptids-monsters-and-more-writing-fantastical-creatures/</guid>
-<description>Join fantasy author Jools Warner for some creative-writing fun as part of The Writers Workshop's Weird Weekend. Suitable for beginners. Over 18s only.</description>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-10-24</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>The Writers Workshop, Unit 14, Orchard Square, S1 2FB</location>
-<ify:location>The Writers Workshop, Unit 14, Orchard Square, S1 2FB</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/cryptids-monsters-and-more-writing-fantastical-creatures/">Our Favourite Places</source>
-</item>
-<item>
-<title>Soul II Soul</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/soul-ii-soul/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/soul-ii-soul/</guid>
-<description>The iconic band born from the vibrant UK sound system culture. Emerging in the multicultural melting pot of London, Soul II Soul transformed ordinary house parties into extraordinary experiences with their innovative and immersive performances.</description>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-10-24</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sat. 24 October 2026</location>
-<ify:location>Sat. 24 October 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/soul-ii-soul/">Our Favourite Places</source>
-</item>
-<item>
-<title>Ember</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/ember/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/ember/</guid>
-<description>An immersive day-to-night festival designed to help Sheffield’s creatives network and connect. Expect an event stacked with live music, art, DJs, talks, creator stalls, food, drinks and the best Saturday vibes.</description>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-24</ify:start>
-<ify:end>2026-10-24</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Trafalgar Warehouse</location>
-<ify:location>Trafalgar Warehouse</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/ember/">Our Favourite Places</source>
-</item>
-<item>
-<title>Baildon Farmers Market</title>
-<link>https://www.visitbradford.com/whats-on/baildon-farmers-market-p1628611</link>
-<guid>https://www.visitbradford.com/whats-on/baildon-farmers-market-p1628611</guid>
-<description>Baildon Farmers Market is a monthly food market that’s rated one of the finest in the UK, and the best in Yorkshire!</description>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-10-24T09:00:00</ify:start>
-<ify:end>2026-10-24T13:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Lower Ian Clough Car Park, Browgate, Baildon, West Yorkshire, BD17 5LA</location>
-<ify:location>Lower Ian Clough Car Park, Browgate, Baildon, West Yorkshire, BD17 5LA</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/baildon-farmers-market-p1628611">Visit Bradford</source>
-</item>
-<item>
 <title>Farmer Copleys’ Pumpkin Festival</title>
 <link>https://experiencewakefield.co.uk/event/pumpkin-festival/</link>
 <guid>https://experiencewakefield.co.uk/event/pumpkin-festival/</guid>
 <description>Activity Families Festival Food and Drink Outdoor</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
+<pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-25T10:00:00</ify:start>
 <ify:end>2026-11-01T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Now - Sun 01 Nov 2026 10:00 - 16:00 Farmer Copleys</location>
@@ -382,29 +329,13 @@
 <source url="https://experiencewakefield.co.uk/event/pumpkin-festival/">Experience Wakefield</source>
 </item>
 <item>
-<title>Thresholds: Light, Memory, and Place</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</guid>
-<description>See East Riddlesden Hall reimagined through the eyes of Artist in Residence Matthew Eyles in this captivating new exhibition.</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
-<ify:end>2027-04-13T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4">National Trust Yorkshire</source>
-</item>
-<item>
 <title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
 <description>Gather your friends and family for an exciting digital adventure for imaginative folk aged 7+ to play together. This Autumn, British folklore sneaks into the real world, set against the backdrop of Wentworth Castle Gardens.</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
-<ify:end>2026-11-01T16:00:00</ify:end>
+<pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-10-25T10:00:00</ify:start>
+<ify:end>2026-11-01T15:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
 <location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
 <ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
@@ -417,93 +348,9 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82">National Trust Yorkshire</source>
 </item>
 <item>
-<title>Sedbergh Environmental Market</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/</guid>
-<description>A wonderful selection of eco stallholders providing information on protecting the environment and selling natural and sustainable products, recycled and upcycled arts &amp; crafts and delicious eco-friendly foods! \n</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
-<ify:end>2026-10-24T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</location>
-<ify:location>St. Andrew’s Church, Sedbergh, Finkle St., Sedbergh, LA10 5BZ</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/sedbergh-environmental-market-7/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Real Markets</title>
-<link>https://www.thepiecehall.co.uk/event/real-markets-2/</link>
-<guid>https://www.thepiecehall.co.uk/event/real-markets-2/</guid>
-<description>Real Markets Join us at the The Piece Hall this autumn for two fantastic weekends of independent shopping, delicious food, and a brilliant atmosphere. Browse an incredible selection of independent traders offering unique gifts, handmade products, artisan food, homeware, fashion, and much more - all within one of the UK</description>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-24T10:00:00</ify:start>
-<ify:end>2026-10-24T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</location>
-<ify:location>The Piece Hall, The Piece Hall, Blackledge, Halifax HX1 1RE, Halifax, HX1 1RE</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>The Piece Hall</dc:creator>
-<source url="https://www.thepiecehall.co.uk/event/real-markets-2/">The Piece Hall</source>
-</item>
-<item>
-<title>Skipton Musical Theatre Company Little Shop of Horrors</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-24/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-24/</guid>
-<description>Book and Lyrics by HOWARD ASHMAN Music by ALAN MENKEN Based on the film by Roger Corman, Screenplay by Charles Griffith Originally produced by the WPA Theatre (Kyle Renick, Producing […] \n</description>
-<pubDate>Sat, 24 Oct 2026 14:30:00 +0000</pubDate>
-<ify:start>2026-10-24T14:30:00</ify:start>
-<ify:end>2026-10-24T16:45:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</location>
-<ify:location>Skipton Town Hall, High Street, SKIPTON, BD23 1AH</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/skipton-musical-theatre-company-little-shop-of-horrors/2026-10-24/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Live Music: Ben Greenwell</title>
-<link>https://www.visitbradford.com/whats-on/live-music-ben-greenwell-p2670131</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-ben-greenwell-p2670131</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 24 Oct 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-10-24T17:00:00</ify:start>
-<ify:end>2026-10-24T19:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-ben-greenwell-p2670131">Visit Bradford</source>
-</item>
-<item>
-<title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-26T00:00:00</ify:start>
-<ify:end>2026-10-29T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p3">Visit Doncaster</source>
-</item>
-<item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p2</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p2</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-26T00:00:00</ify:start>
@@ -516,7 +363,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>People’s Emergency Briefing</title>
@@ -586,9 +433,9 @@
 <source url="https://little-vikings.co.uk/events/halloween-night-market/">Little Vikings</source>
 </item>
 <item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p2</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p2</guid>
+<title>What's on in Doncaster</title>
+<link>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-29T00:00:00</ify:start>
@@ -601,12 +448,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p2">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p3</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p3</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-30T00:00:00</ify:start>
@@ -619,7 +466,25 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p3">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p3">Visit Doncaster</source>
+</item>
+<item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p2</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p2</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-10-30T00:00:00</ify:start>
+<ify:end>2026-10-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p2">Visit Doncaster</source>
 </item>
 <item>
 <title>Wild Boar Street Dig Discovery Day</title>
@@ -688,6 +553,22 @@
 <source url="https://www.visitbradford.com/whats-on/halloween-hyacinths-p2432701">Visit Bradford</source>
 </item>
 <item>
+<title>Spooky BIMoween</title>
+<link>https://www.visitbradford.com/whats-on/spooky-bimoween-p2670221</link>
+<guid>https://www.visitbradford.com/whats-on/spooky-bimoween-p2670221</guid>
+<description>museum.markets@bradford.gov.uk</description>
+<pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-10-31T11:00:00</ify:start>
+<ify:end>2026-10-31T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</location>
+<ify:location>Bradford Industrial Museum, Moorside Road, Bradford, West Yorkshire, BD2 3HP</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/spooky-bimoween-p2670221">Visit Bradford</source>
+</item>
+<item>
 <title>Hall-oween!</title>
 <link>https://www.thepiecehall.co.uk/event/halloween/</link>
 <guid>https://www.thepiecehall.co.uk/event/halloween/</guid>
@@ -720,6 +601,37 @@
 <category>Seasonal</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/halloween-giant-bat-and-ghost-streamer-workshop-p2682781">Visit Bradford</source>
+</item>
+<item>
+<title>Afro-Caribbean Market Day</title>
+<link>https://www.visitbradford.com/whats-on/afro-caribbean-market-day-p2690561</link>
+<guid>https://www.visitbradford.com/whats-on/afro-caribbean-market-day-p2690561</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-10-31T14:00:00</ify:start>
+<ify:end>2026-10-31T20:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>16 - 24 Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/afro-caribbean-market-day-p2690561">Visit Bradford</source>
+</item>
+<item>
+<title>Live Music: INTA</title>
+<link>https://www.visitbradford.com/whats-on/live-music-inta-p2456701</link>
+<guid>https://www.visitbradford.com/whats-on/live-music-inta-p2456701</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Sat, 31 Oct 2026 17:00:00 +0000</pubDate>
+<ify:start>2026-10-31T17:00:00</ify:start>
+<ify:end>2026-10-31T19:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Gigs</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/live-music-inta-p2456701">Visit Bradford</source>
 </item>
 <item>
 <title>Pan's Labyrinth</title>
@@ -786,24 +698,6 @@
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/">The Piece Hall</source>
-</item>
-<item>
-<title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p3</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p3</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-14T00:00:00</ify:start>
-<ify:end>2027-01-09T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p3">Visit Doncaster</source>
 </item>
 <item>
 <title>Endless Love Creative: Winter Makers Market</title>
@@ -923,6 +817,24 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/ukrainian-christmas-market/">Our Favourite Places</source>
 </item>
 <item>
+<title>Sports &amp; Outdoors</title>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p3</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p3</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-04T00:00:00</ify:start>
+<ify:end>2027-02-22T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p3">Visit Doncaster</source>
+</item>
+<item>
 <title>Breakfast with Santa Live Show</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/breakfast-with-santa-live-show/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/breakfast-with-santa-live-show/</guid>
@@ -978,8 +890,8 @@
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
-<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p5</link>
-<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p5</guid>
+<link>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p5</link>
+<guid>https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p5</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 20 Feb 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-02-20T00:00:00</ify:start>
@@ -992,12 +904,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-24/2027-10-24/p5">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/2026-10-25/2027-10-25/p5">Visit Doncaster</source>
 </item>
 <item>
 <title>Family Friendly</title>
-<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p13</link>
-<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p13</guid>
+<link>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p13</link>
+<guid>https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p13</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sat, 01 May 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-05-01T00:00:00</ify:start>
@@ -1010,12 +922,12 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-24/2027-10-24/p13">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/family-friendly/2026-10-25/2027-10-25/p13">Visit Doncaster</source>
 </item>
 <item>
 <title>What's on in Doncaster</title>
-<link>https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p28</link>
-<guid>https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p28</guid>
+<link>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p27</link>
+<guid>https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p27</guid>
 <description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
 <pubDate>Sun, 11 Jul 2027 00:00:00 +0000</pubDate>
 <ify:start>2027-07-11T00:00:00</ify:start>
@@ -1028,7 +940,7 @@
 <category>Sport</category>
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/2026-10-24/2027-10-24/p28">Visit Doncaster</source>
+<source url="https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p27">Visit Doncaster</source>
 </item>
 </channel>
 </rss>
