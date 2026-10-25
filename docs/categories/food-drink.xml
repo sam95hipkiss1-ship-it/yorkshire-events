@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 25 Oct 2026 04:32:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 11:10:07 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -28,6 +28,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -41,6 +43,8 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2028-01-01</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery-2026-01-20/">Visit Leeds</source>
@@ -106,6 +110,8 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -160,6 +166,25 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
+<title>Music &amp; Nightlife</title>
+<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
+<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-12-31T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Clubs</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
+</item>
+<item>
 <title>Free Events</title>
 <link>https://www.visitdoncaster.com/whats-on/free-events/</link>
 <guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
@@ -176,25 +201,6 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
-<title>Music &amp; Nightlife</title>
-<link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
-<guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-11-15T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Clubs</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage</title>
@@ -290,33 +296,19 @@
 <source url="https://www.visitdoncaster.com/whats-on/2026-10-25/2027-10-25/p2">Visit Doncaster</source>
 </item>
 <item>
-<title>Small group Tasting Tour of York</title>
-<link>https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137</link>
-<guid>https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137</guid>
-<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-25T00:00:00</ify:start>
-<ify:end>2026-12-13T00:00:00</ify:end>
+<title>York Audio Tour: Bishophill Echoes—Minsters, Markets &amp; Mysteries</title>
+<link>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</link>
+<guid>https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303</guid>
+<pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-10-25T09:00:00</ify:start>
+<ify:end>2027-10-10T18:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Exhibition Square, York// YO1 7EW</location>
-<ify:location>Exhibition Square, York// YO1 7EW</ify:location>
+<location>Tower Street, York// YO1 9RY</location>
+<ify:location>Tower Street, York// YO1 9RY</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/york/events/other/small-group-tasting-tour-of-york-168137">Yorkshire.com</source>
-</item>
-<item>
-<title>Afternoon Tea Cruise in North Yorkshire</title>
-<link>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</link>
-<guid>https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262</guid>
-<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-10-25T00:00:00</ify:start>
-<ify:end>2027-06-03T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Coach St, Skipton, UK// BD23 1LH</location>
-<ify:location>Coach St, Skipton, UK// BD23 1LH</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Yorkshire.com</dc:creator>
-<source url="https://www.yorkshire.com/leeds/events/other/afternoon-tea-cruise-in-north-yorkshire-166262">Yorkshire.com</source>
+<source url="https://www.yorkshire.com/york/events/other/york-audio-tour-bishophill-echoesminsters-markets-mysteries-779303">Yorkshire.com</source>
 </item>
 <item>
 <title>Farmer Copleys’ Pumpkin Festival</title>
@@ -694,7 +686,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
 <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-13T10:00:00</ify:start>
 <ify:end>2026-11-15T16:00:00</ify:end>
@@ -728,7 +720,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_6/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_6/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-20T10:00:00</ify:start>
 <ify:end>2026-11-22T16:00:00</ify:end>
@@ -758,26 +750,6 @@
 <source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-festive-market/">Experience Wakefield</source>
 </item>
 <item>
-<title>Christmas at Caphouse</title>
-<link>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</link>
-<guid>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</guid>
-<description>Activity Christmas Families Festival Food and Drink Heritage Performance Theatre Workshop</description>
-<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-21T10:00:00</ify:start>
-<ify:end>2026-12-24T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</location>
-<ify:location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/christmas-at-caphouse/">Experience Wakefield</source>
-</item>
-<item>
 <title>Northern Lights: Music from Iceland</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/northern-lights-music-from-iceland/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/northern-lights-music-from-iceland/</guid>
@@ -797,7 +769,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_5/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_5/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
 <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-27T10:00:00</ify:start>
 <ify:end>2026-11-29T16:00:00</ify:end>
@@ -843,23 +815,6 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/ukrainian-christmas-market/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-29</ify:start>
-<ify:end>2026-11-29</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Sun. 29 November 2026</location>
-<ify:location>Sun. 29 November 2026</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
 </item>
 <item>
 <title>Sports &amp; Outdoors</title>
