@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-10-27T01:54:03.349607+00:00",
+  "generated_at": "2026-10-27T04:55:15.457893+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 19,
   "registered_source_count": 61,
-  "event_count": 446,
+  "event_count": 467,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -110,7 +110,7 @@
         "Food & Drink": 10,
         "Family Days Out": 7,
         "Seasonal": 17,
-        "Gigs": 41,
+        "Gigs": 42,
         "Clubs": 3,
         "Comedy": 8,
         "Festivals": 7,
@@ -160,16 +160,16 @@
       "name": "Visit Bradford",
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
-      "item_count": 40,
+      "item_count": 60,
       "category_counts": {
-        "Theatre & Arts": 26,
-        "Experiences": 13,
-        "Food & Drink": 8,
-        "Gigs": 6,
-        "Family Days Out": 5,
-        "Seasonal": 7,
-        "Comedy": 1,
-        "Clubs": 1
+        "Theatre & Arts": 37,
+        "Experiences": 22,
+        "Food & Drink": 11,
+        "Gigs": 8,
+        "Family Days Out": 10,
+        "Seasonal": 10,
+        "Clubs": 2,
+        "Comedy": 1
       },
       "status": "active"
     },
@@ -194,11 +194,11 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 32,
+      "item_count": 33,
       "category_counts": {
         "Experiences": 19,
         "Food & Drink": 11,
-        "Theatre & Arts": 6
+        "Theatre & Arts": 7
       },
       "status": "active"
     },
@@ -626,7 +626,7 @@
       "domain": "visitbradford.com",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 40,
+      "item_count": 60,
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml"
     },
@@ -680,7 +680,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 32,
+      "item_count": 33,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -825,13 +825,13 @@
       "name": "Clubs",
       "slug": "clubs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/clubs.xml",
-      "item_count": 5
+      "item_count": 6
     },
     {
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 50
+      "item_count": 53
     },
     {
       "name": "Festivals",
@@ -849,19 +849,19 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 292
+      "item_count": 304
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 177
+      "item_count": 186
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 57
+      "item_count": 60
     },
     {
       "name": "Sport",
@@ -873,13 +873,13 @@
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 150
+      "item_count": 155
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 90
+      "item_count": 93
     }
   ]
 }
