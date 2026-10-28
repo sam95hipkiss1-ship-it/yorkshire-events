@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:04:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:30:34 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,6 +16,8 @@
 <ify:start>2021-05-15</ify:start>
 <ify:end>2028-02-26</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-walking-tours/">Visit Leeds</source>
@@ -52,8 +54,6 @@
 <ify:start>2025-10-21</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-city-centre-walking-tour/">Visit Leeds</source>
@@ -298,8 +298,6 @@
 <ify:start>2026-06-26</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/genghis-khan-how-the-mongols-changed-the-world/">Visit Leeds</source>
@@ -325,8 +323,6 @@
 <ify:start>2026-08-15</ify:start>
 <ify:end>2027-08-07</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-monk-brewery-tours-at-refectory-leeds/">Visit Leeds</source>
@@ -339,6 +335,8 @@
 <ify:start>2026-08-16</ify:start>
 <ify:end>2028-08-12</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/ludd-in-the-machine-2026-08-17/">Visit Leeds</source>
@@ -351,6 +349,8 @@
 <ify:start>2026-08-22</ify:start>
 <ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/time-for-rodeo-line-dancing-night/">Visit Leeds</source>
@@ -1864,23 +1864,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/reframing-the-lens-spotlight-on-contemporary-japanese-women-filmmakers-1/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-05</ify:start>
-<ify:end>2026-11-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Thu. 5 November 2026 — Fri. 6 November 2026</location>
-<ify:location>Thu. 5 November 2026 — Fri. 6 November 2026</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
-</item>
-<item>
 <title>Festival of the Mind</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
@@ -2173,6 +2156,24 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/john-shuttleworth-its-nice-up-north-q-a/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-22</ify:start>
+<ify:end>2026-11-22</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sun. 22 November 2026</location>
+<ify:location>Sun. 22 November 2026</ify:location>
+<category>Gigs</category>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
 <title>Indoor Forest Flow Sunday Sessions</title>
 <link>https://www.forestryengland.uk/forest-event/events-dalby-forest/indoor-forest-flow-sunday-sessions</link>
 <guid>https://www.forestryengland.uk/forest-event/events-dalby-forest/indoor-forest-flow-sunday-sessions</guid>
@@ -2389,6 +2390,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/reich-electric-counterpoint/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 05 Dec 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-12-05T19:30:00</ify:start>
+<ify:end>2026-12-05T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Comedy</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/its-a-wonderful-life-live-radio-play/">Our Favourite Places</source>
+</item>
+<item>
 <title>Polar Bear Santa's Grotto</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/polar-bear-santas-grotto/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/polar-bear-santas-grotto/</guid>
@@ -2531,8 +2547,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Fri. 27 November 2026</location>
-<ify:location>Fri. 27 November 2026</ify:location>
+<location>Sat. 5 December 2026</location>
+<ify:location>Sat. 5 December 2026</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
@@ -2549,8 +2565,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 7 November 2026</location>
-<ify:location>Sat. 7 November 2026</ify:location>
+<location>Fri. 30 October 2026</location>
+<ify:location>Fri. 30 October 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2566,6 +2582,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>Tue. 1 December 2026 — Thu. 31 December 2026</location>
+<ify:location>Tue. 1 December 2026 — Thu. 31 December 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2581,8 +2599,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Meersbrook Park Church URC, 173 Chesterfield Road, S8 0RP</location>
-<ify:location>Meersbrook Park Church URC, 173 Chesterfield Road, S8 0RP</ify:location>
+<location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
+<ify:location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2598,8 +2616,8 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Fri. 10 May 2024 — Sun. 2 May 2027</location>
-<ify:location>Fri. 10 May 2024 — Sun. 2 May 2027</ify:location>
+<location>Thu. 26 November 2026</location>
+<ify:location>Thu. 26 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2615,30 +2633,13 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</location>
-<ify:location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</ify:location>
+<location>Sat. 3 October 2026 — Thu. 5 November 2026</location>
+<ify:location>Sat. 3 October 2026 — Thu. 5 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/beginner-peg-loom-weaving-class/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 25 Dec 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-12-25T19:30:00</ify:start>
-<ify:end>2027-01-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat. 28 November 2026</location>
-<ify:location>Sat. 28 November 2026</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
 </item>
 <item>
 <title>The Sheffield culture guide written by in-the-know locals</title>
@@ -2656,6 +2657,23 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-haunting-of-hill-house/">Our Favourite Places</source>
+</item>
+<item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Fri, 25 Dec 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-12-25T19:30:00</ify:start>
+<ify:end>2027-01-06T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</location>
+<ify:location>idden Track Music Activity Music pick Mon. 2 November 2026 at 19:30–22:00 The Beaten Track, 44–46 Campo Lane, S1 2DE</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/hidden-track-1/">Our Favourite Places</source>
 </item>
 <item>
 <title>Winter Illuminations</title>
