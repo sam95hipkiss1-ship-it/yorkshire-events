@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 31 Oct 2026 05:28:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:03:39 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -16,8 +16,6 @@
 <ify:start>2025-11-12</ify:start>
 <ify:end>2026-12-09</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/real-markets-at-wellington-place-2025-11-12/">Visit Leeds</source>
@@ -30,6 +28,8 @@
 <ify:start>2026-01-03</ify:start>
 <ify:end>2026-12-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -43,8 +43,6 @@
 <ify:start>2026-01-20</ify:start>
 <ify:end>2026-11-01</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/engineery-2026-01-20/">Visit Leeds</source>
@@ -70,8 +68,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -125,8 +121,6 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
@@ -168,24 +162,6 @@
 <source url="https://www.visitdoncaster.com/whats-on/sports-and-outdoors/">Visit Doncaster</source>
 </item>
 <item>
-<title>Free Events</title>
-<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
-<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
-<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-05-07T00:00:00</ify:start>
-<ify:end>2026-11-15T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
-<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<category>Sport</category>
-<category>Family Days Out</category>
-<dc:creator>Visit Doncaster</dc:creator>
-<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
-</item>
-<item>
 <title>Music &amp; Nightlife</title>
 <link>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</link>
 <guid>https://www.visitdoncaster.com/whats-on/music-and-nightlife/</guid>
@@ -203,6 +179,24 @@
 <category>Family Days Out</category>
 <dc:creator>Visit Doncaster</dc:creator>
 <source url="https://www.visitdoncaster.com/whats-on/music-and-nightlife/">Visit Doncaster</source>
+</item>
+<item>
+<title>Free Events</title>
+<link>https://www.visitdoncaster.com/whats-on/free-events/</link>
+<guid>https://www.visitdoncaster.com/whats-on/free-events/</guid>
+<description>We’ve put together a busy schedule of events for all ages, covering arts and culture, live events in Doncaster, sport, shopping, eating, and drinking.</description>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-05-07T00:00:00</ify:start>
+<ify:end>2026-11-15T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</location>
+<ify:location>coming back for more. Doncaster really does have it all! Tourist Information Centre 1 Priory Place Doncaster DN1 1BL</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<category>Sport</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Doncaster</dc:creator>
+<source url="https://www.visitdoncaster.com/whats-on/free-events/">Visit Doncaster</source>
 </item>
 <item>
 <title>Heritage</title>
@@ -373,53 +367,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/">Experience Wakefield</source>
-</item>
-<item>
-<title>Live Music: Dave Hanson</title>
-<link>https://www.visitbradford.com/whats-on/live-music-dave-hanson-p2699931</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-dave-hanson-p2699931</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-31T10:00:00</ify:start>
-<ify:end>2026-10-31T12:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-dave-hanson-p2699931">Visit Bradford</source>
-</item>
-<item>
-<title>Bantams in the Courtyard FanZone</title>
-<link>https://www.visitbradford.com/whats-on/bantams-in-the-courtyard-fanzone-p2544081</link>
-<guid>https://www.visitbradford.com/whats-on/bantams-in-the-courtyard-fanzone-p2544081</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-31T10:00:00</ify:start>
-<ify:end>2026-10-31T12:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Market Courtyard, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Market Courtyard, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/bantams-in-the-courtyard-fanzone-p2544081">Visit Bradford</source>
-</item>
-<item>
-<title>Live Music: Honey Trap</title>
-<link>https://www.visitbradford.com/whats-on/live-music-honey-trap-p2697591</link>
-<guid>https://www.visitbradford.com/whats-on/live-music-honey-trap-p2697591</guid>
-<description>bradford.markets@bradford.gov.uk</description>
-<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-10-31T10:00:00</ify:start>
-<ify:end>2026-10-31T12:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
-<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
-<category>Gigs</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/live-music-honey-trap-p2697591">Visit Bradford</source>
 </item>
 <item>
 <title>Farmer Copleys’ Pumpkin Festival</title>
