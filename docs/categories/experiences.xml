@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 31 Oct 2026 02:06:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:28:14 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -40,6 +40,8 @@
 <ify:start>2025-07-12</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/mike-nelson-m62-east-west-2025-07-12/">Visit Leeds</source>
@@ -91,15 +93,29 @@
 <ify:start>2026-01-12</ify:start>
 <ify:end>2026-12-18</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
 </item>
 <item>
+<title>Leeds Waterfront Heritage Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
+</item>
+<item>
 <title>Christmas Parties at The Piece Hall</title>
 <link>https://www.thepiecehall.co.uk/event/christmas-parties-at-the-piece-hall/</link>
 <guid>https://www.thepiecehall.co.uk/event/christmas-parties-at-the-piece-hall/</guid>
-<description>A unique venue for your festive party! Celebrate Christmas in the unique surroundings of our stunning heritage venue with a festive party at The Piece Hall. Join us at this most magical time of the year in The Caygill Rooms and gallery which have views across the beautifully decorated courtyard, local architecture and</description>
+<description>A unique venue for your festive party! Celebrate Christmas in the unique surroundings of our stunning heritage venue with a festive party at The Piece Hall. Join us at this... \n</description>
 <pubDate>Mon, 12 Jan 2026 19:00:00 +0000</pubDate>
 <ify:start>2026-01-12T19:00:00</ify:start>
 <ify:end>2026-12-18T00:00:00</ify:end>
@@ -132,8 +148,6 @@
 <ify:start>2026-02-28</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/in-the-picture-objects-in-focus/">Visit Leeds</source>
@@ -197,8 +211,6 @@
 <ify:start>2026-04-22</ify:start>
 <ify:end>2027-04-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
@@ -329,6 +341,8 @@
 <ify:start>2026-08-15</ify:start>
 <ify:end>2027-08-07</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/northern-monk-brewery-tours-at-refectory-leeds/">Visit Leeds</source>
@@ -353,8 +367,6 @@
 <ify:start>2026-08-22</ify:start>
 <ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/time-for-rodeo-line-dancing-night/">Visit Leeds</source>
@@ -862,8 +874,6 @@
 <ify:start>2026-10-30T13:00:00</ify:start>
 <ify:end>2027-10-10T18:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tower Street, York// YO1 9RY</location>
-<ify:location>Tower Street, York// YO1 9RY</ify:location>
 <category>Experiences</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Yorkshire.com</dc:creator>
@@ -1310,39 +1320,6 @@
 <source url="https://www.visitbradford.com/whats-on/halloween-trail-at-harold-park-p2680361">Visit Bradford</source>
 </item>
 <item>
-<title>Spooky Night Photography Workshop</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/spooky-night-photography-workshop/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/spooky-night-photography-workshop/</guid>
-<description>The Bare House is an abandoned farm house, now used as a barn by a local farmer. It holds a rich history and was inhabited up until the 1980s. Situated […] \n</description>
-<pubDate>Sat, 31 Oct 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-10-31T17:00:00</ify:start>
-<ify:end>2026-10-31T19:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Lay-by at the end of Moor Lane Grassington, BD23 5EQ.</location>
-<ify:location>Lay-by at the end of Moor Lane Grassington, BD23 5EQ.</ify:location>
-<category>Gigs</category>
-<category>Experiences</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/spooky-night-photography-workshop/">Yorkshire Dales National Park</source>
-</item>
-<item>
-<title>Magical Malham Cove Dark Skies and Stargazing Night Walk Experience</title>
-<link>https://www.yorkshiredales.org.uk/whats-on/magical-malham-cove-dark-skies-and-stargazing-night-walk-experience-2/</link>
-<guid>https://www.yorkshiredales.org.uk/whats-on/magical-malham-cove-dark-skies-and-stargazing-night-walk-experience-2/</guid>
-<description>Steeped in mystery and myth, Malham promises to provide an adventure like no other...on Halloween! A traverse down to Janet’s Foss in the dark exudes atmosphere when it is very […] \n</description>
-<pubDate>Sat, 31 Oct 2026 17:30:00 +0000</pubDate>
-<ify:start>2026-10-31T17:30:00</ify:start>
-<ify:end>2026-10-31T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Malham National Park Centre</location>
-<ify:location>Malham National Park Centre</ify:location>
-<category>Clubs</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Yorkshire Dales National Park</dc:creator>
-<source url="https://www.yorkshiredales.org.uk/whats-on/magical-malham-cove-dark-skies-and-stargazing-night-walk-experience-2/">Yorkshire Dales National Park</source>
-</item>
-<item>
 <title>Pontefract Ghost Walk</title>
 <link>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</link>
 <guid>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</guid>
@@ -1490,23 +1467,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/reframing-the-lens-spotlight-on-contemporary-japanese-women-filmmakers-1/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-05</ify:start>
-<ify:end>2026-11-05</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Thu. 5 November 2026 — Fri. 6 November 2026</location>
-<ify:location>Thu. 5 November 2026 — Fri. 6 November 2026</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Rosalie Cunningham</title>
@@ -1680,6 +1640,21 @@
 <category>Experiences</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/b901482f-5b9f-4ab4-8085-190a3944bd19">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Book Signing with Poet Laureate Simon Armitage</title>
+<link>https://www.thepiecehall.co.uk/event/book-signing-with-poet-laureate-simon-armitage-2/</link>
+<guid>https://www.thepiecehall.co.uk/event/book-signing-with-poet-laureate-simon-armitage-2/</guid>
+<description>Book Signing with Poet Laureate Simon Armitage The Book Corner are welcoming back the prolific Poet Laureate, Simon Armitage for a special book signing. Copies of his new publications, ‘Gilgamesh’... \n</description>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<ify:start>2026-11-11T15:00:00</ify:start>
+<ify:end>2026-11-11T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Book Corner, The Piece Hall, Halifax, HX1 1RE</location>
+<ify:location>The Book Corner, The Piece Hall, Halifax, HX1 1RE</ify:location>
+<category>Experiences</category>
+<dc:creator>The Piece Hall</dc:creator>
+<source url="https://www.thepiecehall.co.uk/event/book-signing-with-poet-laureate-simon-armitage-2/">The Piece Hall</source>
 </item>
 <item>
 <title>Chrysanthemum Tour</title>
@@ -1931,6 +1906,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/online-talk-jyll-bradley-in-conversation-with-ben-harman/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-25</ify:start>
+<ify:end>2026-11-25</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
 <title>The Words Are Coming</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/the-words-are-coming/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/the-words-are-coming/</guid>
@@ -2162,9 +2152,6 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 10 November 2026</location>
-<ify:location>Tue. 10 November 2026</ify:location>
-<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -2279,8 +2266,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 8 October 2026 — Wed. 4 November 2026</location>
-<ify:location>Thu. 8 October 2026 — Wed. 4 November 2026</ify:location>
+<location>Sheffield Arena</location>
+<ify:location>Sheffield Arena</ify:location>
 <category>Gigs</category>
 <category>Comedy</category>
 <category>Theatre &amp; Arts</category>
@@ -2297,8 +2284,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Crookes Social Club, Mulehouse Road</location>
-<ify:location>Crookes Social Club, Mulehouse Road</ify:location>
+<location>Sat. 5 December 2026</location>
+<ify:location>Sat. 5 December 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2314,8 +2301,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Mon. 21 December 2026</location>
-<ify:location>Mon. 21 December 2026</ify:location>
+<location>Sat. 21 November 2026</location>
+<ify:location>Sat. 21 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2331,8 +2318,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Thu. 19 November 2026</location>
-<ify:location>Thu. 19 November 2026</ify:location>
+<location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
+<ify:location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2348,8 +2335,8 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 24 October 2026 — Sun. 1 November 2026</location>
-<ify:location>Sat. 24 October 2026 — Sun. 1 November 2026</ify:location>
+<location>Sun. 22 November 2026</location>
+<ify:location>Sun. 22 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2365,8 +2352,8 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat. 17 October 2026 — Sat. 14 November 2026</location>
-<ify:location>Sat. 17 October 2026 — Sat. 14 November 2026</ify:location>
+<location>Mon. 20 July 2026 — Sun. 13 December 2026</location>
+<ify:location>Mon. 20 July 2026 — Sun. 13 December 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2382,8 +2369,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>The Lughole, Harvest Lane, Neepsend, S3 8EF</location>
-<ify:location>The Lughole, Harvest Lane, Neepsend, S3 8EF</ify:location>
+<location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</location>
+<ify:location>at 19:30–22:00 Sat. 14 November 2026 at 14:30–17:00 St John the Evangelist Church Hall, Abbeydale Road South, S17 3LE</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -2399,8 +2386,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sheffield Arena</location>
-<ify:location>Sheffield Arena</ify:location>
+<location>Sat. 28 November 2026</location>
+<ify:location>Sat. 28 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
