@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-11-05T03:16:14.553327+00:00",
+  "generated_at": "2026-11-05T06:33:43.879698+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 18,
   "registered_source_count": 61,
-  "event_count": 381,
+  "event_count": 380,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -104,13 +104,13 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 100,
+      "item_count": 99,
       "category_counts": {
-        "Gigs": 48,
+        "Gigs": 46,
         "Comedy": 8,
-        "Theatre & Arts": 84,
+        "Theatre & Arts": 83,
         "Experiences": 34,
-        "Festivals": 9,
+        "Festivals": 8,
         "Food & Drink": 15,
         "Family Days Out": 5,
         "Seasonal": 16,
@@ -531,7 +531,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 100,
+      "item_count": 99,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -817,13 +817,13 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 72
+      "item_count": 70
     },
     {
       "name": "Festivals",
       "slug": "festivals",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml",
-      "item_count": 15
+      "item_count": 14
     },
     {
       "name": "Comedy",
@@ -835,7 +835,7 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 255
+      "item_count": 254
     },
     {
       "name": "Experiences",
