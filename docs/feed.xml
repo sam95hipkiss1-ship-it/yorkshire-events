@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 06 Nov 2026 14:05:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 02:36:00 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -242,18 +242,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/little-lotherton/">Visit Leeds</source>
 </item>
 <item>
-<title>Street Food In The Square</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-11-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
-</item>
-<item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
@@ -264,6 +252,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
+</item>
+<item>
+<title>Street Food In The Square</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-11-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -1254,8 +1254,8 @@
 </item>
 <item>
 <title>Events calendar</title>
-<link>https://yorkmuseumstrust.org.uk/whats-on/events/the-ran-tanners-5/</link>
-<guid>https://yorkmuseumstrust.org.uk/whats-on/events/the-ran-tanners-5/</guid>
+<link>https://www.yorkmuseumstrust.org.uk/whats-on/events/2026-12-21/</link>
+<guid>https://www.yorkmuseumstrust.org.uk/whats-on/events/2026-12-21/</guid>
 <description>Sign up to our Mailing List here</description>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-10-14T00:00:00</ify:start>
@@ -1264,7 +1264,7 @@
 <category>Theatre &amp; Arts</category>
 <category>Family Days Out</category>
 <dc:creator>York Museums Trust</dc:creator>
-<source url="https://yorkmuseumstrust.org.uk/whats-on/events/the-ran-tanners-5/">York Museums Trust</source>
+<source url="https://www.yorkmuseumstrust.org.uk/whats-on/events/2026-12-21/">York Museums Trust</source>
 </item>
 <item>
 <title>Events calendar</title>
@@ -1689,22 +1689,6 @@
 <source url="https://www.visitbradford.com/whats-on/a-city-in-frames-p2699581">Visit Bradford</source>
 </item>
 <item>
-<title>The Bryan Adams Experience</title>
-<link>https://www.visitbradford.com/whats-on/the-bryan-adams-experience-p2641711</link>
-<guid>https://www.visitbradford.com/whats-on/the-bryan-adams-experience-p2641711</guid>
-<description>Europe's No.1 Bryan Adams tribute act, The Bryan Adams Experience, brings the anthems and energy of the rock legend to Nightrain Bradford, performing classics.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Nightrain, 7 - 19 Queensgate, Bradford, West Yorkshire, BD1 1RB</location>
-<ify:location>Nightrain, 7 - 19 Queensgate, Bradford, West Yorkshire, BD1 1RB</ify:location>
-<category>Gigs</category>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/the-bryan-adams-experience-p2641711">Visit Bradford</source>
-</item>
-<item>
 <title>The Brown Suite</title>
 <link>https://www.visitbradford.com/whats-on/the-brown-suite-p2601751</link>
 <guid>https://www.visitbradford.com/whats-on/the-brown-suite-p2601751</guid>
@@ -1720,38 +1704,6 @@
 <source url="https://www.visitbradford.com/whats-on/the-brown-suite-p2601751">Visit Bradford</source>
 </item>
 <item>
-<title>Flat &amp; the Curves: Rosé Tinted</title>
-<link>https://www.visitbradford.com/whats-on/flat-and-the-curves-rose-tinted-p2616341</link>
-<guid>https://www.visitbradford.com/whats-on/flat-and-the-curves-rose-tinted-p2616341</guid>
-<description>Award-winning comedy girl band Flat &amp; the Curves return with their well-aged cabaret, Rosé Tinted at The Loading Bay in Bradford - Part of Bradford Music Month.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Loading Bay, 1 Duke Street, Bradford, West Yorkshire, BD1 3QR</location>
-<ify:location>Loading Bay, 1 Duke Street, Bradford, West Yorkshire, BD1 3QR</ify:location>
-<category>Gigs</category>
-<category>Comedy</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/flat-and-the-curves-rose-tinted-p2616341">Visit Bradford</source>
-</item>
-<item>
-<title>JATP Jazz - Maranello Trio</title>
-<link>https://www.visitbradford.com/whats-on/jatp-jazz-maranello-trio-p2629751</link>
-<guid>https://www.visitbradford.com/whats-on/jatp-jazz-maranello-trio-p2629751</guid>
-<description>Join us at JATP Jazz at the Bradford Latvian Club to see the Maranello Trio.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Latvian Club, Clifton Villas, Bradford, West Yorkshire, BD8 7BY</location>
-<ify:location>Bradford Latvian Club, Clifton Villas, Bradford, West Yorkshire, BD8 7BY</ify:location>
-<category>Gigs</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/jatp-jazz-maranello-trio-p2629751">Visit Bradford</source>
-</item>
-<item>
 <title>Moi Tran - The Text is Restless</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</guid>
@@ -1764,36 +1716,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Community Choir</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/community-choir-mbrx">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Community Choir</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/community-events</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/community-events</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/community-events">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Planet Barnsley</title>
@@ -1812,321 +1734,23 @@
 <source url="https://visitbarnsley.co.uk/whats-on/planetbarnsley">Visit Barnsley</source>
 </item>
 <item>
-<title>Festival of the Mind</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/</guid>
-<description>A biennial festival of new ideas. Bringing together the city's creative community and its academic minds through exhibitions, talks, screenings, performances and more.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
+<title>Woodlands Cricket Club Bonfire &amp; Fireworks Night</title>
+<link>https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281</link>
+<guid>https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281</guid>
+<description>Woodlands Cricket Club Bonfire &amp; Fireworks Night returns with an evening of family-friendly fun, featuring a traditional bonfire, a spectacular fireworks display and live music.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2026-11-07</ify:end>
 <ify:allDay>true</ify:allDay>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-the-mind/">Our Favourite Places</source>
-</item>
-<item>
-<title>La Bola Negra</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/la-bola-negra/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/la-bola-negra/</guid>
-<description>The story of three men, whose lives are intimately connected across three different eras – 1932, 1937 and 2017. A sweeping historical exploration of identity and human connection, and the perseverance of queer identity throughout history.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-06</ify:start>
-<ify:end>2026-11-06</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/la-bola-negra/">Our Favourite Places</source>
-</item>
-<item>
-<title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
-<link>https://experiencewakefield.co.uk/event/hold-to-this-earth/</link>
-<guid>https://experiencewakefield.co.uk/event/hold-to-this-earth/</guid>
-<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-11-06T09:00:00</ify:start>
-<ify:end>2027-04-18T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</location>
-<ify:location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
-</item>
-<item>
-<title>Plastic Fantastic?</title>
-<link>https://experiencewakefield.co.uk/event/plastic-fantastic/</link>
-<guid>https://experiencewakefield.co.uk/event/plastic-fantastic/</guid>
-<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-11-06T09:00:00</ify:start>
-<ify:end>2027-06-27T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</location>
-<ify:location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/plastic-fantastic/">Experience Wakefield</source>
-</item>
-<item>
-<title>Pooch Passport Challenge</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
-<description>Does your dog have what it takes to complete the Pooch Passport Challenge? Complete your passport with ten stamps and claim your reward.</description>
-<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
-<ify:start>2026-11-06T09:00:00</ify:start>
-<ify:end>2027-02-28T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Nostell, near Wakefield, West Yorkshire</location>
-<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
-<category>Sport</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Landscape as Witness: A Remembrance reflection</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8</guid>
-<description>Take a rare look inside St James' chapel to discover the wartime stories of local people and embrace a moment of calm. Pause in the gardens at our Avenue of Remembrance to reflect on the relationship between landscape, memory and human connection.</description>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2026-11-15T14:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Sport</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Little Nature Detectives</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b</guid>
-<description>They don’t have to be creepy or crawly - As we start to get cosy for Autumn come and discover which plants and insects make Wentworth Castle Gardens their home during the season.</description>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2026-11-22T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
-<description>Gather your friends and family for an exciting digital adventure for imaginative folk aged 7+ to play together. This Autumn, British folklore sneaks into the real world, set against the backdrop of Wentworth Castle Gardens.</description>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2026-11-22T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Orienteering at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
-<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2026-11-29T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Postcode Access Days</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a</guid>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2026-11-07T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Experiences</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Pooch Passport Explorers</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</guid>
-<description>Embrace the crunchy leaves and frosty mornings this Autumn and Winter with your pooch pal by your side. Complete your pooch passport with ten stamps to claim your reward. A paw-fect way to enjoy the great outdoors together.</description>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-06T10:00:00</ify:start>
-<ify:end>2027-02-28T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Sport</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898">National Trust Yorkshire</source>
-</item>
-<item>
-<title>At the bend in the river: Paintings by Nancy Cadogan</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/f40d61df-c746-4e31-bf34-350a7c6d6fd4</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/f40d61df-c746-4e31-bf34-350a7c6d6fd4</guid>
-<description>Explore how a place is shaped by memory, artistry, and human connection in the newest exhibition by artist Nancy Cadogan at Beningbrough.</description>
-<pubDate>Fri, 06 Nov 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-11-06T10:30:00</ify:start>
-<ify:end>2026-12-20T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Beningbrough, York, North Yorkshire</location>
-<ify:location>Beningbrough, York, North Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/f40d61df-c746-4e31-bf34-350a7c6d6fd4">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Olivia Bax: Double Take</title>
-<link>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</link>
-<guid>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</guid>
-<pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-11-06T11:00:00</ify:start>
-<ify:end>2027-03-14T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</location>
-<ify:location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
-</item>
-<item>
-<title>Pontefract Castle Explorer Tours</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/</guid>
-<description>Families Heritage Outdoor Tour</description>
-<pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-11-06T13:00:00</ify:start>
-<ify:end>2026-12-20T13:45:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 20 Dec 2026 13:00 - 13:45 Pontefract Castle</location>
-<ify:location>Now - Sun 20 Dec 2026 13:00 - 13:45 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-castle-explorer-tours/">Experience Wakefield</source>
-</item>
-<item>
-<title>Best of Bublé - The Cathedral Experience</title>
-<link>https://www.visitbradford.com/whats-on/best-of-buble-the-cathedral-experience-p2638121</link>
-<guid>https://www.visitbradford.com/whats-on/best-of-buble-the-cathedral-experience-p2638121</guid>
-<description>The Best of Bublé returns to Bradford Cathedral as part of its 2026 UK tour, formerly known as Bublé by Candlelight, featuring Josh Hindle and his sensational live band.</description>
-<pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-11-06T18:00:00</ify:start>
-<ify:end>2026-11-06T19:15:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Bradford Cathedral, 1 Stott Hill, Bradford, West Yorkshire, BD1 4EH</location>
-<ify:location>Bradford Cathedral, 1 Stott Hill, Bradford, West Yorkshire, BD1 4EH</ify:location>
+<location>Woodlands Cricket Club, Albert Terrace, Oakenshaw, West Yorkshire, BD12 7AX</location>
+<ify:location>Woodlands Cricket Club, Albert Terrace, Oakenshaw, West Yorkshire, BD12 7AX</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/best-of-buble-the-cathedral-experience-p2638121">Visit Bradford</source>
-</item>
-<item>
-<title>80’s Pop Royalty Bonker’s Bingo</title>
-<link>https://www.visitbradford.com/whats-on/80s-pop-royalty-bonkers-bingo-p2681521</link>
-<guid>https://www.visitbradford.com/whats-on/80s-pop-royalty-bonkers-bingo-p2681521</guid>
-<description>Enjoy an unforgettable night of 80s-themed Bonkers Bingo at the Guide Post Hotel, Low Moor, featuring iconic pop anthems, and outrageous games.</description>
-<pubDate>Fri, 06 Nov 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-11-06T19:30:00</ify:start>
-<ify:end>2026-11-06T22:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Guide Post Hotel, Common Road, Bradford, West Yorkshire, BD12 0ST</location>
-<ify:location>Guide Post Hotel, Common Road, Bradford, West Yorkshire, BD12 0ST</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/80s-pop-royalty-bonkers-bingo-p2681521">Visit Bradford</source>
-</item>
-<item>
-<title>Common/Wealth: 29% Festival 2026</title>
-<link>https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871</link>
-<guid>https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871</guid>
-<description>Join us at Bradford Arts Centre for Common/Wealth’s annual free festival of live performance, music, dance, art and workshops, celebrating Bradford’s young people &amp; young artists.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-07</ify:start>
-<ify:end>2026-11-07</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Arts Centre, St Peters House, Forster Square, Bradford, West Yorkshire, BD1 4TY</location>
-<ify:location>Bradford Arts Centre, St Peters House, Forster Square, Bradford, West Yorkshire, BD1 4TY</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
+<category>Sport</category>
 <category>Family Days Out</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871">Visit Bradford</source>
-</item>
-<item>
-<title>Rhythm of the Dance Christmas Special</title>
-<link>https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201</link>
-<guid>https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201</guid>
-<description>Rhythm of the Dance celebrates over 25 years of bringing worldwide audiences to their feet and returns to St .George's Hall in 2026 with a brand-new Christmas production.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-07</ify:start>
-<ify:end>2026-11-07</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
-<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201">Visit Bradford</source>
-</item>
-<item>
-<title>Seann Walsh - This Is Torture</title>
-<link>https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551</link>
-<guid>https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551</guid>
-<description>After his sell-out 2023 tour, the UK’s disheveled king of stand-up, award-winning Seann Walsh returns to the Studio Theatre with a brand-new hour of side-splitting comedy.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-07</ify:start>
-<ify:end>2026-11-07</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Studio Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
-<ify:location>Studio Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
-<category>Comedy</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551">Visit Bradford</source>
-</item>
-<item>
-<title>Apocalypse Noir</title>
-<link>https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731</link>
-<guid>https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731</guid>
-<description>Curated by Christina Newland, Apocalypse Noir is a season of noir, horror and sci-fi classics exploring Cold War fears and the atomic age, screening at Pictureville Cinema, Bradford.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-07</ify:start>
-<ify:end>2026-11-22</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Cubby Broccoli Cinema, Bradford, West Yorkshire, BD1 1NQ</location>
-<ify:location>Cubby Broccoli Cinema, Bradford, West Yorkshire, BD1 1NQ</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281">Visit Bradford</source>
 </item>
 <item>
 <title>Wibsey Sports Village Bonfire Night</title>
@@ -2165,23 +1789,71 @@
 <source url="https://www.visitbradford.com/whats-on/bmgc-bonfire-party-night-p2676261">Visit Bradford</source>
 </item>
 <item>
-<title>Woodlands Cricket Club Bonfire &amp; Fireworks Night</title>
-<link>https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281</link>
-<guid>https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281</guid>
-<description>Woodlands Cricket Club Bonfire &amp; Fireworks Night returns with an evening of family-friendly fun, featuring a traditional bonfire, a spectacular fireworks display and live music.</description>
+<title>Seann Walsh - This Is Torture</title>
+<link>https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551</link>
+<guid>https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551</guid>
+<description>After his sell-out 2023 tour, the UK’s disheveled king of stand-up, award-winning Seann Walsh returns to the Studio Theatre with a brand-new hour of side-splitting comedy.</description>
 <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 <ify:start>2026-11-07</ify:start>
 <ify:end>2026-11-07</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Woodlands Cricket Club, Albert Terrace, Oakenshaw, West Yorkshire, BD12 7AX</location>
-<ify:location>Woodlands Cricket Club, Albert Terrace, Oakenshaw, West Yorkshire, BD12 7AX</ify:location>
-<category>Gigs</category>
+<location>Studio Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</location>
+<ify:location>Studio Theatre, Morley Street, Bradford, West Yorkshire, BD7 1AJ</ify:location>
+<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
-<category>Sport</category>
-<category>Family Days Out</category>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/seann-walsh-this-is-torture-p2560551">Visit Bradford</source>
+</item>
+<item>
+<title>Rhythm of the Dance Christmas Special</title>
+<link>https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201</link>
+<guid>https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201</guid>
+<description>Rhythm of the Dance celebrates over 25 years of bringing worldwide audiences to their feet and returns to St .George's Hall in 2026 with a brand-new Christmas production.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2026-11-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
+<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
 <category>Seasonal</category>
 <dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/woodlands-cricket-club-bonfire-and-fireworks-night-p2676281">Visit Bradford</source>
+<source url="https://www.visitbradford.com/whats-on/rhythm-of-the-dance-christmas-special-p2562201">Visit Bradford</source>
+</item>
+<item>
+<title>Common/Wealth: 29% Festival 2026</title>
+<link>https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871</link>
+<guid>https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871</guid>
+<description>Join us at Bradford Arts Centre for Common/Wealth’s annual free festival of live performance, music, dance, art and workshops, celebrating Bradford’s young people &amp; young artists.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2026-11-07</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Arts Centre, St Peters House, Forster Square, Bradford, West Yorkshire, BD1 4TY</location>
+<ify:location>Bradford Arts Centre, St Peters House, Forster Square, Bradford, West Yorkshire, BD1 4TY</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/common-wealth-29-festival-2026-p2681871">Visit Bradford</source>
+</item>
+<item>
+<title>Apocalypse Noir</title>
+<link>https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731</link>
+<guid>https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731</guid>
+<description>Curated by Christina Newland, Apocalypse Noir is a season of noir, horror and sci-fi classics exploring Cold War fears and the atomic age, screening at Pictureville Cinema, Bradford.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2026-11-22</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Cubby Broccoli Cinema, Bradford, West Yorkshire, BD1 1NQ</location>
+<ify:location>Cubby Broccoli Cinema, Bradford, West Yorkshire, BD1 1NQ</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/apocalypse-noir-p2650731">Visit Bradford</source>
 </item>
 <item>
 <title>Blackmore's Blood: Deep Purple and Rainbow Tribute</title>
@@ -2258,20 +1930,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Rory’s Saturday Club</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-07</ify:start>
-<ify:end>2027-08-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>World Pianist Weekender</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/world-pianist-weekender-87ys</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/world-pianist-weekender-87ys</guid>
@@ -2284,6 +1942,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/world-pianist-weekender-87ys">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-07</ify:start>
+<ify:end>2027-08-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Amy Matthews</title>
@@ -2380,6 +2052,65 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/cemetery-sessions-present-lou-barnell-stephen-carley-teddy-hunter/">Our Favourite Places</source>
 </item>
 <item>
+<title>Hold to this Earth: Works by Contemporary Indigenous North American Artists from Tia Collection</title>
+<link>https://experiencewakefield.co.uk/event/hold-to-this-earth/</link>
+<guid>https://experiencewakefield.co.uk/event/hold-to-this-earth/</guid>
+<pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-07T09:00:00</ify:start>
+<ify:end>2027-04-18T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Sun 18 Apr 2027 09:00 - 18:00 Yorkshire Sculpture Park</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
+</item>
+<item>
+<title>Damien Hirst</title>
+<link>https://experiencewakefield.co.uk/event/damien-hirst/</link>
+<guid>https://experiencewakefield.co.uk/event/damien-hirst/</guid>
+<pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-07T09:00:00</ify:start>
+<ify:end>2027-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Wed 01 Sep 2027 09:00 - 17:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Wed 01 Sep 2027 09:00 - 17:00 Yorkshire Sculpture Park</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/damien-hirst/">Experience Wakefield</source>
+</item>
+<item>
+<title>Pooch Passport Challenge</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
+<description>Does your dog have what it takes to complete the Pooch Passport Challenge? Complete your passport with ten stamps and claim your reward.</description>
+<pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-07T09:00:00</ify:start>
+<ify:end>2027-02-28T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nostell, near Wakefield, West Yorkshire</location>
+<ify:location>Nostell, near Wakefield, West Yorkshire</ify:location>
+<category>Sport</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Fotohane x The Art House</title>
+<link>https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/</link>
+<guid>https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/</guid>
+<pubDate>Sat, 07 Nov 2026 09:30:00 +0000</pubDate>
+<ify:start>2026-11-07T09:30:00</ify:start>
+<ify:end>2026-12-19T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sat 19 Dec 2026 09:30 - 16:00 The Art House</location>
+<ify:location>Now - Sat 19 Dec 2026 09:30 - 16:00 The Art House</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/fotohane-x-the-art-house/">Experience Wakefield</source>
+</item>
+<item>
 <title>Makers Wonderland</title>
 <link>https://experiencewakefield.co.uk/event/makers-wonderland/</link>
 <guid>https://experiencewakefield.co.uk/event/makers-wonderland/</guid>
@@ -2394,20 +2125,132 @@
 <source url="https://experiencewakefield.co.uk/event/makers-wonderland/">Experience Wakefield</source>
 </item>
 <item>
-<title>Forever After Christmas Gift &amp; Craft Fair</title>
-<link>https://experiencewakefield.co.uk/event/forever-after-christmas-market/</link>
-<guid>https://experiencewakefield.co.uk/event/forever-after-christmas-market/</guid>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-11-07T11:00:00</ify:start>
-<ify:end>2026-11-29T15:30:00</ify:end>
+<title>Landscape as Witness: A Remembrance reflection</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8</guid>
+<description>Take a rare look inside St James' chapel to discover the wartime stories of local people and embrace a moment of calm. Pause in the gardens at our Avenue of Remembrance to reflect on the relationship between landscape, memory and human connection.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2026-11-15T14:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat 07 Nov - Sun 29 Nov 2026 11:00 - 15:30 Nostell, National Trust</location>
-<ify:location>Sat 07 Nov - Sun 29 Nov 2026 11:00 - 15:30 Nostell, National Trust</ify:location>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Sport</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Little Nature Detectives</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b</guid>
+<description>They don’t have to be creepy or crawly - As we start to get cosy for Autumn come and discover which plants and insects make Wentworth Castle Gardens their home during the season.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2026-11-22T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
+<description>Gather your friends and family for an exciting digital adventure for imaginative folk aged 7+ to play together. This Autumn, British folklore sneaks into the real world, set against the backdrop of Wentworth Castle Gardens.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2026-11-22T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Postcode Access Days</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a</guid>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2026-11-07T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/423fb417-279a-4d81-a4f6-68bc1e26a01a">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Pooch Passport Explorers</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898</guid>
+<description>Embrace the crunchy leaves and frosty mornings this Autumn and Winter with your pooch pal by your side. Complete your pooch passport with ten stamps to claim your reward. A paw-fect way to enjoy the great outdoors together.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2027-02-28T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Sport</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/adbd0a23-7f12-4d7d-b9a9-cc85e9c55898">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Orienteering at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c</guid>
+<description>We've teamed up with South Yorkshire Orienteers so you can give orienteering a go any day of the year at Wentworth Castle Gardens.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2026-11-29T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Experiences</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Thresholds: Light, Memory, and Place</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</guid>
+<description>See East Riddlesden Hall reimagined through the eyes of Artist in Residence Matthew Eyles in this captivating new exhibition.</description>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-07T10:00:00</ify:start>
+<ify:end>2027-04-13T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
+<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Olivia Bax: Double Take</title>
+<link>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</link>
+<guid>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</guid>
+<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-11-07T11:00:00</ify:start>
+<ify:end>2027-03-14T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</ify:location>
+<category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/forever-after-christmas-market/">Experience Wakefield</source>
+<source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
 </item>
 <item>
 <title>Bantams in the Courtyard FanZone</title>
@@ -2906,7 +2749,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
 <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-12T10:00:00</ify:start>
 <ify:end>2026-12-13T16:00:00</ify:end>
@@ -3044,6 +2887,23 @@
 <source url="https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_4/">The Piece Hall</source>
 </item>
 <item>
+<title>Christmas Through The Ages</title>
+<link>https://www.thepiecehall.co.uk/event/christmas-through-the-ages/</link>
+<guid>https://www.thepiecehall.co.uk/event/christmas-through-the-ages/</guid>
+<description>Christmas through the ages: 600 years of Christmas as it was celebrated at Shibden Hall Step into the magic of Christmas past in this festive exhibition by Calderdale Museums Service. Unwrap the stories behind some of history’s best-loved traditions, from Captain Christmas to Christmas puddings. Discover how Christmas</description>
+<pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-11-13T11:00:00</ify:start>
+<ify:end>2027-03-01T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>The Piece Hall Gallery, The Piece Hall, Halifax, HX1 1RE</location>
+<ify:location>The Piece Hall Gallery, The Piece Hall, Halifax, HX1 1RE</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>The Piece Hall</dc:creator>
+<source url="https://www.thepiecehall.co.uk/event/christmas-through-the-ages/">The Piece Hall</source>
+</item>
+<item>
 <title>Meet &amp; Make</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</guid>
@@ -3139,21 +2999,6 @@
 <source url="https://www.visitbradford.com/whats-on/showglobes-p2705551">Visit Bradford</source>
 </item>
 <item>
-<title>Professor Alice Roberts: From Cell to Civilisation</title>
-<link>https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981</link>
-<guid>https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981</guid>
-<description>Professor Alice Roberts brings her show From Cell to Civilsation to St. George's Hall.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-14</ify:start>
-<ify:end>2026-11-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
-<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
-<category>Experiences</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981">Visit Bradford</source>
-</item>
-<item>
 <title>Bradford Festival Choral Society - Eternal Light – an evening of luminous choral music, consolation and hope</title>
 <link>https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841</link>
 <guid>https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841</guid>
@@ -3168,6 +3013,21 @@
 <category>Festivals</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841">Visit Bradford</source>
+</item>
+<item>
+<title>Professor Alice Roberts: From Cell to Civilisation</title>
+<link>https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981</link>
+<guid>https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981</guid>
+<description>Professor Alice Roberts brings her show From Cell to Civilsation to St. George's Hall.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-14</ify:start>
+<ify:end>2026-11-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</location>
+<ify:location>St Georges Hall, Bridge Street, Bradford, West Yorkshire, BD1 1JT</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/professor-alice-roberts-from-cell-to-civilisation-p2602981">Visit Bradford</source>
 </item>
 <item>
 <title>Baby Week Bradford</title>
@@ -3313,6 +3173,22 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/bookbinding-workshop-junk-journal-1/">Our Favourite Places</source>
 </item>
 <item>
+<title>Orton Farmers’ Market</title>
+<link>https://www.yorkshiredales.org.uk/whats-on/orton-farmers-market-2026-09-12/2026-11-14/</link>
+<guid>https://www.yorkshiredales.org.uk/whats-on/orton-farmers-market-2026-09-12/2026-11-14/</guid>
+<description>At Orton Farmers\' Market over 25 local farmers, growers, producers &amp; artisan craftsmen offer a tremendous variety of high quality and speciality local produce and crafts. Themed markets each month. A […] \n</description>
+<pubDate>Sat, 14 Nov 2026 09:30:00 +0000</pubDate>
+<ify:start>2026-11-14T09:30:00</ify:start>
+<ify:end>2026-11-14T14:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Orton Market Hall, Penrith, Cumbria, CA10 3RU</location>
+<ify:location>Orton Market Hall, Penrith, Cumbria, CA10 3RU</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Yorkshire Dales National Park</dc:creator>
+<source url="https://www.yorkshiredales.org.uk/whats-on/orton-farmers-market-2026-09-12/2026-11-14/">Yorkshire Dales National Park</source>
+</item>
+<item>
 <title>Live Music: Connor Walmsley</title>
 <link>https://www.visitbradford.com/whats-on/live-music-connor-walmsley-p2697601</link>
 <guid>https://www.visitbradford.com/whats-on/live-music-connor-walmsley-p2697601</guid>
@@ -3403,18 +3279,19 @@
 <source url="https://www.visitbradford.com/whats-on/melosa-jazz-p2697571">Visit Bradford</source>
 </item>
 <item>
-<title>Voices of Valjean By Candlelight</title>
-<link>https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/</link>
-<guid>https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/</guid>
-<pubDate>Sat, 14 Nov 2026 18:15:00 +0000</pubDate>
-<ify:start>2026-11-14T18:15:00</ify:start>
-<ify:end>2026-11-14T21:45:00</ify:end>
+<title>Darley Street After Dark</title>
+<link>https://www.visitbradford.com/whats-on/darley-street-after-dark-p2708021</link>
+<guid>https://www.visitbradford.com/whats-on/darley-street-after-dark-p2708021</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Sat, 14 Nov 2026 18:30:00 +0000</pubDate>
+<ify:start>2026-11-14T18:30:00</ify:start>
+<ify:end>2026-11-14T21:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sat 14 Nov - Sat 14 Nov 2026 18:15 - 21:45 Wakefield Cathedral</location>
-<ify:location>Sat 14 Nov - Sat 14 Nov 2026 18:15 - 21:45 Wakefield Cathedral</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/voices-of-valjean-by-candlelight/">Experience Wakefield</source>
+<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/darley-street-after-dark-p2708021">Visit Bradford</source>
 </item>
 <item>
 <title>FlameOz</title>
@@ -3698,6 +3575,21 @@
 <source url="https://www.visitbradford.com/whats-on/shrek-the-musical-jr-p2571281">Visit Bradford</source>
 </item>
 <item>
+<title>Bongo's Bingo</title>
+<link>https://www.visitbradford.com/whats-on/bongos-bingo-p2665581</link>
+<guid>https://www.visitbradford.com/whats-on/bongos-bingo-p2665581</guid>
+<description>Bongo's Bingo brings bingo, singalongs, dance-offs and outrageous prizes to Bradford Live for a high-energy night of fun and mayhem.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-20</ify:start>
+<ify:end>2026-11-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/bongos-bingo-p2665581">Visit Bradford</source>
+</item>
+<item>
 <title>Home Educator Day: Animal Olympics</title>
 <link>https://discover.eureka.org.uk/event/home-educator-day-animal-olympics/</link>
 <guid>https://discover.eureka.org.uk/event/home-educator-day-animal-olympics/</guid>
@@ -3791,6 +3683,21 @@
 <source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-festive-market/">Experience Wakefield</source>
 </item>
 <item>
+<title>The World of John Williams</title>
+<link>https://www.visitbradford.com/whats-on/the-world-of-john-williams-p2685881</link>
+<guid>https://www.visitbradford.com/whats-on/the-world-of-john-williams-p2685881</guid>
+<description>Get ready to immerse yourself in the thrilling world of one of the most successful film composers in history - John Williams - all set within the magnificent atmosphere of Bradford Cathedral.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-21</ify:start>
+<ify:end>2026-11-21</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Cathedral, 1 Stott Hill, Bradford, West Yorkshire, BD1 4EH</location>
+<ify:location>Bradford Cathedral, 1 Stott Hill, Bradford, West Yorkshire, BD1 4EH</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/the-world-of-john-williams-p2685881">Visit Bradford</source>
+</item>
+<item>
 <title>Father Christmas in the Castle at Castle Howard</title>
 <link>https://little-vikings.co.uk/events/father-christmas-in-the-castle-at-castle-howard/</link>
 <guid>https://little-vikings.co.uk/events/father-christmas-in-the-castle-at-castle-howard/</guid>
@@ -3809,6 +3716,22 @@
 <source url="https://little-vikings.co.uk/events/father-christmas-in-the-castle-at-castle-howard/">Little Vikings</source>
 </item>
 <item>
+<title>The Enchanted Illuminations</title>
+<link>https://stockeldpark.co.uk/activities/season/winter-illuminations/</link>
+<guid>https://stockeldpark.co.uk/activities/season/winter-illuminations/</guid>
+<description>Our annual Illuminations transform Stockeld Park into a dazzling, Winter Wonderland! With almost a mile of illuminations, projections, and sculptures, and new installations to see every year it's an event for your annual calendar.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-21T00:00:00</ify:start>
+<ify:end>2027-01-03T00:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Stockeld Park, Wetherby</location>
+<ify:location>Stockeld Park, Wetherby</ify:location>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Stockeld Park</dc:creator>
+<source url="https://stockeldpark.co.uk/activities/season/winter-illuminations/">Stockeld Park</source>
+</item>
+<item>
 <title>The Christmas Adventure</title>
 <link>https://stockeldpark.co.uk/activities/season/christmas/</link>
 <guid>https://stockeldpark.co.uk/activities/season/christmas/</guid>
@@ -3825,22 +3748,6 @@
 <category>Seasonal</category>
 <dc:creator>Stockeld Park</dc:creator>
 <source url="https://stockeldpark.co.uk/activities/season/christmas/">Stockeld Park</source>
-</item>
-<item>
-<title>The Enchanted Illuminations</title>
-<link>https://stockeldpark.co.uk/activities/season/winter-illuminations/</link>
-<guid>https://stockeldpark.co.uk/activities/season/winter-illuminations/</guid>
-<description>Our annual Illuminations transform Stockeld Park into a dazzling, Winter Wonderland! With almost a mile of illuminations, projections, and sculptures, and new installations to see every year it's an event for your annual calendar.</description>
-<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-21T00:00:00</ify:start>
-<ify:end>2027-01-03T00:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Stockeld Park, Wetherby</location>
-<ify:location>Stockeld Park, Wetherby</ify:location>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Stockeld Park</dc:creator>
-<source url="https://stockeldpark.co.uk/activities/season/winter-illuminations/">Stockeld Park</source>
 </item>
 <item>
 <title>Tree Weekend!</title>
@@ -3939,6 +3846,23 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/false-autumn/">Our Favourite Places</source>
 </item>
 <item>
+<title>The Sheffield culture guide written by in-the-know locals</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
+<description>A Sheffield culture guide written by in-the-know locals.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-21</ify:start>
+<ify:end>2026-11-21</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 21 November 2026 — Sun. 22 November 2026</location>
+<ify:location>Sat. 21 November 2026 — Sun. 22 November 2026</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
+</item>
+<item>
 <title>Light Up Festival</title>
 <link>https://experiencewakefield.co.uk/event/light-up-festival/</link>
 <guid>https://experiencewakefield.co.uk/event/light-up-festival/</guid>
@@ -3974,6 +3898,37 @@
 <category>Seasonal</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/santas-magic-workshop/">Experience Wakefield</source>
+</item>
+<item>
+<title>Deck the Halls</title>
+<link>https://www.visitbradford.com/whats-on/deck-the-halls-p2404861</link>
+<guid>https://www.visitbradford.com/whats-on/deck-the-halls-p2404861</guid>
+<description>Enjoy a free festive craft session at Bolling Hall, make a Christmas decoration, and soak up the sounds of a traditional Victorian Christmas.</description>
+<pubDate>Sat, 21 Nov 2026 11:00:00 +0000</pubDate>
+<ify:start>2026-11-21T11:00:00</ify:start>
+<ify:end>2026-11-21T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</location>
+<ify:location>Bolling Hall, Bowling Hall Road, Bradford, West Yorkshire, BD4 7LP</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/deck-the-halls-p2404861">Visit Bradford</source>
+</item>
+<item>
+<title>Daphne Oram at 100: Pioneer of Electronic Music and Sound</title>
+<link>https://www.visitbradford.com/whats-on/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-p2699781</link>
+<guid>https://www.visitbradford.com/whats-on/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-p2699781</guid>
+<description>The Daphne Oram Trust brings together artists, academics and sound and electronics enthusiasts to explore Daphne’s groundbreaking legacy at the NSMM, Bradford.</description>
+<pubDate>Sat, 21 Nov 2026 12:00:00 +0000</pubDate>
+<ify:start>2026-11-21T12:00:00</ify:start>
+<ify:end>2026-11-21T18:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>National Science and Media Museum, Bradford, West Yorkshire, BD1 1NQ</location>
+<ify:location>National Science and Media Museum, Bradford, West Yorkshire, BD1 1NQ</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/daphne-oram-at-100-pioneer-of-electronic-music-and-sound-p2699781">Visit Bradford</source>
 </item>
 <item>
 <title>Mark the start of Christmas with Santa's arrival at Stockeld Park!</title>
@@ -4139,22 +4094,6 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/maddalena-ghezzi-ruth-goller-maria-chiara-argiro/">Our Favourite Places</source>
-</item>
-<item>
-<title>Artwalk Wakefield</title>
-<link>https://experiencewakefield.co.uk/event/artwalk/</link>
-<guid>https://experiencewakefield.co.uk/event/artwalk/</guid>
-<description>Exhibition Literature Music Performance Talk Walk</description>
-<pubDate>Wed, 25 Nov 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-11-25T17:00:00</ify:start>
-<ify:end>2026-11-25T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wed 25 Nov - Wed 25 Nov 2026 17:00 - 21:00 Wakefield City Centre</location>
-<ify:location>Wed 25 Nov - Wed 25 Nov 2026 17:00 - 21:00 Wakefield City Centre</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/artwalk/">Experience Wakefield</source>
 </item>
 <item>
 <title>Wreath Making &amp; Festive Shopping</title>
@@ -4757,6 +4696,24 @@
 <source url="https://experiencewakefield.co.uk/event/christmas-cruise/">Experience Wakefield</source>
 </item>
 <item>
+<title>Liquorice Santa</title>
+<link>https://experiencewakefield.co.uk/event/liquorice-santa/</link>
+<guid>https://experiencewakefield.co.uk/event/liquorice-santa/</guid>
+<description>Activity Christmas Craft Families</description>
+<pubDate>Sat, 05 Dec 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-12-05T10:30:00</ify:start>
+<ify:end>2026-12-05T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</location>
+<ify:location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/liquorice-santa/">Experience Wakefield</source>
+</item>
+<item>
 <title>Pugneys Light Railway Christmas Wonder Ride</title>
 <link>https://experiencewakefield.co.uk/event/pugneys-light-railway-christmas-wonder-ride/</link>
 <guid>https://experiencewakefield.co.uk/event/pugneys-light-railway-christmas-wonder-ride/</guid>
@@ -4780,9 +4737,6 @@
 <ify:start>2026-12-05T19:30:00</ify:start>
 <ify:end>2026-12-05T21:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 10 November 2026</location>
-<ify:location>Tue. 10 November 2026</ify:location>
-<category>Comedy</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -4869,6 +4823,23 @@
 <category>Sport</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/the-kingdom-come-ten-year-anniversary/">Our Favourite Places</source>
+</item>
+<item>
+<title>Find Your Passion – Christmas Stocking</title>
+<link>https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/</link>
+<guid>https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/</guid>
+<description>Art Christmas Craft Heritage Workshop</description>
+<pubDate>Thu, 10 Dec 2026 13:30:00 +0000</pubDate>
+<ify:start>2026-12-10T13:30:00</ify:start>
+<ify:end>2026-12-10T18:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 10 Dec - Thu 10 Dec 2026 13:30 - 18:30 Wakefield Museum</location>
+<ify:location>Thu 10 Dec - Thu 10 Dec 2026 13:30 - 18:30 Wakefield Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/find-your-passion-christmas-stocking/">Experience Wakefield</source>
 </item>
 <item>
 <title>A Dickens of a Christmas at Castle Howard</title>
@@ -5255,8 +5226,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
+<location>Tue. 10 November 2026</location>
+<ify:location>Tue. 10 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -5271,8 +5242,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Showroom Work Station, 15 Paternoster Row, S1 2BX</location>
-<ify:location>Showroom Work Station, 15 Paternoster Row, S1 2BX</ify:location>
+<location>Sheffield Winter Garden</location>
+<ify:location>Sheffield Winter Garden</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
@@ -5287,8 +5258,8 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>All Saints Church, Ringinglow Road, S10 7PP</location>
-<ify:location>All Saints Church, Ringinglow Road, S10 7PP</ify:location>
+<location>Sat. 7 November 2026</location>
+<ify:location>Sat. 7 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5304,8 +5275,6 @@
 <ify:start>2026-12-25T00:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Mon. 23 November 2026</location>
-<ify:location>Mon. 23 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5321,8 +5290,8 @@
 <ify:start>2026-12-25T10:30:00</ify:start>
 <ify:end>2027-01-06T13:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Tue. 11 May 2027 — Sun. 16 May 2027</location>
-<ify:location>Tue. 11 May 2027 — Sun. 16 May 2027</ify:location>
+<location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</location>
+<ify:location>er 2026 at 10:30–13:30 Sat. 12 December 2026 at 10:30–13:30 Ed's Textile Studio, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5338,8 +5307,8 @@
 <ify:start>2026-12-25T12:00:00</ify:start>
 <ify:end>2027-01-06T00:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Mon. 20 July 2026 — Sun. 13 December 2026</location>
-<ify:location>Mon. 20 July 2026 — Sun. 13 December 2026</ify:location>
+<location>Sat. 21 November 2026 — Sun. 22 November 2026</location>
+<ify:location>Sat. 21 November 2026 — Sun. 22 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5355,8 +5324,8 @@
 <ify:start>2026-12-25T18:00:00</ify:start>
 <ify:end>2027-01-06T20:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Sun. 29 November 2026</location>
-<ify:location>Sun. 29 November 2026</ify:location>
+<location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</location>
+<ify:location>November 2026 at 18:00–20:30 Sat. 28 November 2026 at 10:00–15:30 Ed's Workshop, Carver House, Carver Street, S1 4FS</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5372,8 +5341,8 @@
 <ify:start>2026-12-25T19:30:00</ify:start>
 <ify:end>2027-01-06T22:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>FORGE Warehouse, 148 Effingham Road, S4 7YS</location>
-<ify:location>FORGE Warehouse, 148 Effingham Road, S4 7YS</ify:location>
+<location>Tue. 10 November 2026</location>
+<ify:location>Tue. 10 November 2026</ify:location>
 <category>Gigs</category>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
@@ -5469,20 +5438,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/dress-to-the-nines-new-years-eve-masquerade-ball/">Our Favourite Places</source>
 </item>
 <item>
-<title>Queen By Candlelight</title>
-<link>https://experiencewakefield.co.uk/event/queen-by-candlelight/</link>
-<guid>https://experiencewakefield.co.uk/event/queen-by-candlelight/</guid>
-<pubDate>Sat, 09 Jan 2027 18:15:00 +0000</pubDate>
-<ify:start>2027-01-09T18:15:00</ify:start>
-<ify:end>2027-01-09T21:45:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 09 Jan - Sat 09 Jan 2027 18:15 - 21:45 Wakefield Cathedral</location>
-<ify:location>Sat 09 Jan - Sat 09 Jan 2027 18:15 - 21:45 Wakefield Cathedral</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/queen-by-candlelight/">Experience Wakefield</source>
-</item>
-<item>
 <title>Run For Wildlife – Night 5k</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</guid>
@@ -5532,22 +5487,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/">Our Favourite Places</source>
 </item>
 <item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Tue, 19 Jan 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-01-19</ify:start>
-<ify:end>2027-01-19</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Tue. 19 January 2027 — Sun. 31 January 2027</location>
-<ify:location>Tue. 19 January 2027 — Sun. 31 January 2027</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/lick-of-paint/">Our Favourite Places</source>
-</item>
-<item>
 <title>Chuckl. Wakefield</title>
 <link>https://experiencewakefield.co.uk/event/chuckl-wakefield/</link>
 <guid>https://experiencewakefield.co.uk/event/chuckl-wakefield/</guid>
@@ -5574,6 +5513,20 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/">Experience Wakefield</source>
+</item>
+<item>
+<title>Marsyas Trio</title>
+<link>https://experiencewakefield.co.uk/event/marsyas-trio/</link>
+<guid>https://experiencewakefield.co.uk/event/marsyas-trio/</guid>
+<pubDate>Sat, 06 Feb 2027 19:00:00 +0000</pubDate>
+<ify:start>2027-02-06T19:00:00</ify:start>
+<ify:end>2027-02-06T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
+<ify:location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/marsyas-trio/">Experience Wakefield</source>
 </item>
 <item>
 <title>Wild Traditions: Gemma Khawaja</title>
@@ -5624,6 +5577,20 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-fay-hield/">Our Favourite Places</source>
 </item>
 <item>
+<title>Sofia Sacco</title>
+<link>https://experiencewakefield.co.uk/event/sofia-sacco/</link>
+<guid>https://experiencewakefield.co.uk/event/sofia-sacco/</guid>
+<pubDate>Sat, 06 Mar 2027 19:00:00 +0000</pubDate>
+<ify:start>2027-03-06T19:00:00</ify:start>
+<ify:end>2027-03-06T22:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
+<ify:location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/sofia-sacco/">Experience Wakefield</source>
+</item>
+<item>
 <title>Classical Weekend</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/</guid>
@@ -5636,21 +5603,6 @@
 <category>Festivals</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/classical-weekend/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Sheffield culture guide written by in-the-know locals</title>
-<link>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</link>
-<guid>https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/</guid>
-<description>A Sheffield culture guide written by in-the-know locals.</description>
-<pubDate>Fri, 12 Mar 2027 00:00:00 +0000</pubDate>
-<ify:start>2027-03-12</ify:start>
-<ify:end>2027-03-12</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Gigs</category>
-<category>Festivals</category>
-<category>Experiences</category>
-<dc:creator>Our Favourite Places</dc:creator>
-<source url="https://www.ourfaveplaces.co.uk/whats-on/festival-of-debate/">Our Favourite Places</source>
 </item>
 <item>
 <title>Beethoven, Fauré, Mayer</title>
@@ -5683,21 +5635,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-janice-burns-jon-doran/">Our Favourite Places</source>
-</item>
-<item>
-<title>String Quartet</title>
-<link>https://experiencewakefield.co.uk/event/string-quartet/</link>
-<guid>https://experiencewakefield.co.uk/event/string-quartet/</guid>
-<pubDate>Sat, 10 Apr 2027 15:00:00 +0000</pubDate>
-<ify:start>2027-04-10T15:00:00</ify:start>
-<ify:end>2027-04-10T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 10 Apr - Sat 10 Apr 2027 15:00 - 17:00 West Wakefield Methodist Church</location>
-<ify:location>Sat 10 Apr - Sat 10 Apr 2027 15:00 - 17:00 West Wakefield Methodist Church</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/string-quartet/">Experience Wakefield</source>
 </item>
 <item>
 <title>Kendal Mountain Festival Cinematic Tour 2027</title>
@@ -5794,6 +5731,20 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/live-at-tileyard-north-the-cribs/">Experience Wakefield</source>
+</item>
+<item>
+<title>Live at Tileyard North: Levellers</title>
+<link>https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/</link>
+<guid>https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/</guid>
+<pubDate>Sat, 28 Aug 2027 17:30:00 +0000</pubDate>
+<ify:start>2027-08-28T17:30:00</ify:start>
+<ify:end>2027-08-28T23:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 28 Aug - Sat 28 Aug 2027 17:30 - 23:30 Tileyard North</location>
+<ify:location>Sat 28 Aug - Sat 28 Aug 2027 17:30 - 23:30 Tileyard North</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/">Experience Wakefield</source>
 </item>
 <item>
 <title>Sensoria</title>
