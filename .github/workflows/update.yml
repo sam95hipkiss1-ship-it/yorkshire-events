@@ -58,16 +58,19 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Run secure aggregator
+        if: github.event_name != 'pull_request'
         env:
           PYTHONUNBUFFERED: '1'
         run: python -u secure_runner.py
 
       - name: Repair missing event dates
+        if: github.event_name != 'pull_request'
         env:
           PYTHONUNBUFFERED: '1'
         run: python -u repair_feed_dates.py
 
       - name: Propagate repaired metadata
+        if: github.event_name != 'pull_request'
         env:
           PYTHONUNBUFFERED: '1'
         run: python -u propagate_feed_metadata.py
