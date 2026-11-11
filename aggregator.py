@@ -94,7 +94,7 @@ def fetch_all_events() -> List[Event]:
 def _clean_identity(value: str) -> str:
     """Canonical text for safe event comparisons (not display copy)."""
     value = unicodedata.normalize("NFKC", value or "").casefold()
-    return " ".join(re.sub(r"[^\\w]+", " ", value).split())
+    return " ".join(re.sub(r"[^\w]+", " ", value).split())
 
 
 def _canonical_url(value: str) -> str:
@@ -198,7 +198,7 @@ def deduplicate_events(events: Iterable[Event]) -> List[Event]:
         title_key = _clean_identity(title)
         if len(title) < 4 or title_key in blocked:
             continue
-        if re.match(r"^[A-Z][a-z]{2}\\d{2}", title):
+        if re.match(r"^[A-Z][a-z]{2}\d{2}", title):
             continue
         url = _canonical_url(event.url or "")
         if not url:
