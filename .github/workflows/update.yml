@@ -1,6 +1,13 @@
 name: Update Yorkshire Events Feed
 
 on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'aggregator.py'
+      - 'tests/**'
+      - '.github/workflows/update.yml'
   push:
     branches:
       - main
@@ -47,6 +54,9 @@ jobs:
       - name: Validate Python files
         run: python -m compileall -q aggregator.py secure_runner.py repair_feed_dates.py propagate_feed_metadata.py scrapers
 
+      - name: Run deduplication regression tests
+        run: python -m unittest discover -s tests -v
+
       - name: Run secure aggregator
         env:
           PYTHONUNBUFFERED: '1'
@@ -63,6 +73,7 @@ jobs:
         run: python -u propagate_feed_metadata.py
 
       - name: Commit and push changes
+        if: github.event_name != 'pull_request'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
