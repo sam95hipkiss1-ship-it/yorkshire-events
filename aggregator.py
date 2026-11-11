@@ -94,7 +94,7 @@ def fetch_all_events() -> List[Event]:
 def _clean_identity(value: str) -> str:
     """Canonical text for safe event comparisons (not display copy)."""
     value = unicodedata.normalize("NFKC", value or "").casefold()
-    return " ".join(re.sub(r"[^\\w]+", " ", value).split())
+    return " ".join(re.sub(r"[^\w]+", " ", value).split())
 
 
 def _canonical_url(value: str) -> str:
@@ -120,15 +120,61 @@ def _occurrence_date(event: Event) -> str:
     return event.date.strftime("%Y-%m-%d") if event.all_day else event.date.strftime("%Y-%m-%dT%H:%M")
 
 
-def deduplicate_events(events: Iterable[Event]) -> List[Event]:
-    """Drop navigation placeholders and consolidate the same performance.
+def _event_url_quality(event: Event) -> int:
+    """Prefer the actual detail page rather than a shared listing/category URL."""
+    parsed = urlsplit(event.url or "")
+    path = parsed.path.rstrip("/").lower()
+    end = path.rsplit("/", 1)[-1]
+    title_words = set(_clean_identity(event.title or "").split()) - {
+        "the", "a", "an", "and", "of", "in", "at", "on", "for", "to",
+    }
+    path_words = set(_clean_identity(end.replace("-", " ")).split())
+    title_match = bool(title_words and title_words <= path_words)
+    listing_slugs = {
+        "family-events", "under-5s-events", "talks-tours-workshops",
+        "community-events", "weekend-plans", "midweek", "workshops",
+        "drop-in-events", "low-cost-events", "included-in-admission",
+        "school-holiday-events", "performances", "tours", "special-events",
+        "events-calendar", "all-events", "events", "whats-on",
+    }
+    return (
+        (100 if title_match else 0)
+        + (20 if re.search(r"-[a-z0-9]{4}$", end) else 0)
+        - (100 if end in listing_slugs else 0)
+        + (min(20, len(end)) if end else 0)
+    )
 
-    A URL alone is not unique: an organiser can use one page for a repeating
-    programme. Match a URL with title and occurrence date; optionally match
-    two different URLs when source, title, date and venue are identical.
+
+def _same_performance(existing: Event, incoming: Event) -> bool:
+    """Conservatively recognise aliases of the same event occurrence."""
+    if _canonical_url(existing.url) == _canonical_url(incoming.url):
+        return True
+
+    left = _clean_identity(existing.location or "")
+    right = _clean_identity(incoming.location or "")
+    if left and right:
+        # Never combine two distinct venues.
+        return left == right
+
+    # An undated record might be a different performance; do not infer it.
+    if existing.date is None or incoming.date is None:
+        return False
+
+    # Source listing/category links often have no venue or an imperfect one.
+    # Keep separate genuinely specific event-detail links with no venue.
+    return max(_event_url_quality(existing), _event_url_quality(incoming)) >= 100 and (
+        min(_event_url_quality(existing), _event_url_quality(incoming)) < 100
+        or left == right
+    )
+
+
+def deduplicate_events(events: Iterable[Event]) -> List[Event]:
+    """Remove repeated scraper captures without losing distinct performances.
+
+    A category URL is not a unique event ID: the same event can be linked
+    from a detail page plus many topic/category pages. Merge within the
+    same source/title/start/host; preserve differing venues and timings.
     """
-    unique: List[Event] = []
-    seen: Dict[str, Event] = {}
     category_titles = {
         "food & drink events", "science & nature events", "heritage events",
         "garden events", "talks & discussions", "literature events",
@@ -141,72 +187,67 @@ def deduplicate_events(events: Iterable[Event]) -> List[Event]:
         "discussions", "view event", "view events", "music", "sport",
         "horse racing", "family", "arts & culture", "arts and culture",
         "film", "food & drink", "food and drink", "other", "nightlife",
-        # Generic category/listing pages captured as events.
         "events calendar", "event calendar", "events listing",
         "all events", "view calendar", "what's on calendar",
+        "view event >", "the sheffield culture guide written by in-the-know locals",
     }
-
+    blocked = {_clean_identity(title) for title in category_titles}
+    buckets: Dict[str, List[Event]] = defaultdict(list)
     for event in events:
         title = (event.title or "").strip()
         title_key = _clean_identity(title)
-        if len(title) < 4 or title.lower() in category_titles or title_key in (
-            "events calendar", "event calendar", "events listing",
-            "all events", "view calendar", "what s on calendar",
-        ):
+        if len(title) < 4 or title_key in blocked:
             continue
-        if re.match(r"^[A-Z][a-z]{2}\\d{2}", title):
+        if re.match(r"^[A-Z][a-z]{2}\d{2}", title):
             continue
-        event_url = _canonical_url(event.url)
-        if not event_url:
+        url = _canonical_url(event.url or "")
+        if not url:
             continue
-        path = urlsplit(event_url).path.rstrip("/").lower()
+        path = urlsplit(url).path.lower().rstrip("/")
         if path in ("/events", "/event", "/events/calendar", "/events-calendar"):
             continue
 
+        source = _clean_identity(event.source or "")
         date_key = _occurrence_date(event)
-        url_key = f"url|{event_url}|{title_key}|{date_key}"
-        location_key = _clean_identity(event.location or "")
-        source_key = _clean_identity(event.source or "")
-        # Venue is required for a title/date match across different URLs:
-        # this avoids merging unrelated events with a generic title.
-        content_key = (
-            f"item|{source_key}|{title_key}|{date_key}|{location_key}"
-            if date_key and location_key else None
+        host = urlsplit(url).netloc
+        # Undated links cannot be collapsed on title alone.
+        identity = (source, title_key, date_key, host) if date_key else (
+            source, title_key, "undated", url,
         )
-        existing = seen.get(url_key) or (seen.get(content_key) if content_key else None)
-        if existing is None:
-            seen[url_key] = event
-            if content_key:
-                seen[content_key] = event
-            unique.append(event)
-            continue
+        buckets[repr(identity)].append(event)
 
-        # Prefer richer metadata but never overwrite one occurrence's date
-        # with a different occurrence just because the link is shared.
-        for field in (
-            "description", "location", "end_date", "category",
-            "image_url", "price",
-        ):
-            if not getattr(existing, field, None) and getattr(event, field, None):
-                setattr(existing, field, getattr(event, field))
-        if existing.date is None and event.date is not None:
-            existing.date = event.date
-        if event.all_day and not existing.date:
-            existing.all_day = True
-        seen[url_key] = existing
-        if content_key:
-            seen[content_key] = existing
+    unique: List[Event] = []
+    for group in buckets.values():
+        # Process the true detail URL before the category aliases, even if
+        # scraper ordering is unstable.
+        records = sorted(group, key=_event_url_quality, reverse=True)
+        matches: List[Event] = []
+        for event in records:
+            match = next((candidate for candidate in matches
+                          if _same_performance(candidate, event)), None)
+            if match is None:
+                matches.append(event)
+                continue
+            for field in ("description", "location", "end_date", "category",
+                          "image_url", "price"):
+                if not getattr(match, field, None) and getattr(event, field, None):
+                    setattr(match, field, getattr(event, field))
+            if match.date is None and event.date is not None:
+                match.date = event.date
+            # Keep a real event-detail URL over a generic category page.
+            if _event_url_quality(event) > _event_url_quality(match):
+                match.url = event.url
+        unique.extend(matches)
 
-    # An undated copy of a record should not coexist with a dated copy of
-    # that same titled event and canonical URL.
+    # Drop undated aliases where the exact titled event URL has a dated entry.
     dated = {
         (_canonical_url(event.url), _clean_identity(event.title))
         for event in unique if event.date is not None
     }
     unique = [
         event for event in unique
-        if event.date is not None or
-        (_canonical_url(event.url), _clean_identity(event.title)) not in dated
+        if event.date is not None
+        or (_canonical_url(event.url), _clean_identity(event.title)) not in dated
     ]
     print(f"After deduplication: {len(unique)} unique events")
     return unique

@@ -53,6 +53,56 @@ class EventDeduplicationTests(unittest.TestCase):
         undated = event("Leeds Autumn Festival", "https://example.org/festival", None)
         self.assertEqual([dated], deduplicate_events([undated, dated]))
 
+    def test_seven_leeds_category_links_become_one_detail_record(self):
+        direct = event(
+            "Meet & Make",
+            "https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz",
+            self.day.replace(hour=13),
+            "Leeds Art Gallery",
+            "Leeds Museums and Galleries",
+            False,
+        )
+        variants = [
+            event("Meet & Make",
+                  "https://museumsandgalleries.leeds.gov.uk/whats-on/" + path,
+                  self.day.replace(hour=13), "Leeds Art Gallery",
+                  "Leeds Museums and Galleries", False)
+            for path in (
+                "talks-tours-workshops", "community-events", "midweek",
+                "Drop-in-events", "workshops", "low-cost-events",
+            )
+        ]
+        result = deduplicate_events(variants + [direct])
+        self.assertEqual(1, len(result))
+        self.assertEqual(direct.url, result[0].url)
+
+    def test_missing_venue_category_aliases_are_removed(self):
+        direct = event("Reflective Walks",
+                       "https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1",
+                       self.day, "", "Leeds Museums and Galleries")
+        aliases = [
+            event("Reflective Walks",
+                  "https://museumsandgalleries.leeds.gov.uk/whats-on/" + path,
+                  self.day, "", "Leeds Museums and Galleries")
+            for path in ("leeds-mindfulness-festival", "talks-tours-workshops", "tours")
+        ]
+        self.assertEqual([direct], deduplicate_events(aliases + [direct]))
+
+    def test_different_specific_venues_remain_distinct(self):
+        first = event("Winter Workshop", "https://example.org/winter-workshop-a",
+                      self.day, "Leeds Art Gallery")
+        second = event("Winter Workshop", "https://example.org/winter-workshop-b",
+                       self.day, "Leeds City Museum")
+        self.assertEqual(2, len(deduplicate_events([first, second])))
+
+    def test_generic_navigation_headings_are_not_events(self):
+        samples = [
+            event("View event >", "https://yorkmuseumstrust.org.uk/whats-on/events/abc", self.day),
+            event("The Sheffield culture guide written by in-the-know locals",
+                  "https://www.ourfaveplaces.co.uk/whats-on/abc", self.day),
+        ]
+        self.assertEqual([], deduplicate_events(samples))
+
     def test_aware_dates_do_not_crash_future_filter(self):
         distant_future = datetime.now(timezone.utc) + timedelta(days=20)
         result = filter_future_events([
