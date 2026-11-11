@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0" version="2.0">
 <channel>
 <title>Leeds Museums and Galleries Yorkshire Events</title>
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml</link>
 <description>Upcoming Yorkshire events from Leeds Museums and Galleries.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 11 Nov 2026 06:00:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:59:49 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/leeds-museums-and-galleries.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -38,14 +38,28 @@
 </item>
 <item>
 <title>Little Lotherton</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Little Lotherton</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</guid>
-<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-10</ify:start>
-<ify:end>2026-12-17</ify:end>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events">Leeds Museums and Galleries</source>
@@ -54,12 +68,12 @@
 <title>Little Lotherton</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</guid>
-<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-07-10</ify:start>
-<ify:end>2026-12-17</ify:end>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/midweek">Leeds Museums and Galleries</source>
@@ -79,62 +93,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/home-educator-afternoons-rc67">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Home Educator Afternoons</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/home-education-events</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/home-education-events</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-03</ify:start>
-<ify:end>2027-03-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/home-education-events">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Home Educator Afternoons</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-03</ify:start>
-<ify:end>2027-03-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Home Educator Afternoons</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-03</ify:start>
-<ify:end>2027-03-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Home Educator Afternoons</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-03</ify:start>
-<ify:end>2027-03-02</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tours">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Moi Tran - The Text is Restless</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</guid>
@@ -149,60 +107,16 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Willow Star Wreath Workshop</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/willow-star-wreath-workshop-t58c</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/willow-star-wreath-workshop-t58c</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-11</ify:start>
-<ify:end>2026-11-11</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/willow-star-wreath-workshop-t58c">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-11</ify:start>
-<ify:end>2027-03-31</ify:end>
+<title>Give What You Can</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-06</ify:start>
+<ify:end>2026-11-15</ify:end>
 <ify:allDay>true</ify:allDay>
 <category>Theatre &amp; Arts</category>
-<category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-11</ify:start>
-<ify:end>2027-03-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Reflective Walks</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-11</ify:start>
-<ify:end>2027-03-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Abbey House Museum</location>
-<ify:location>Abbey House Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/moi-tran-the-text-is-restless-f5nq">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Store Tours</title>
@@ -220,19 +134,34 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/store-tours-6gzb">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Chrysanthemum Tour</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/chrysanthemum-tour-yskl</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/chrysanthemum-tour-yskl</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-12</ify:start>
-<ify:end>2026-11-12</ify:end>
+<title>Store Tours</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/chrysanthemum-tour-yskl">Leeds Museums and Galleries</source>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Store Tours</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Tiny Tigers</title>
@@ -249,6 +178,86 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Tiny Tigers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Tiny Tigers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Tiny Tigers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Tiny Tigers</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Give What You Can</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-13</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tiny-tigers-dnc9">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>More info</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</guid>
+<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
+<ify:start>2026-11-13T13:00:00</ify:start>
+<ify:end>2027-03-12T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz">Leeds Museums and Galleries</source>
+<location>Leeds Art Gallery</location><ify:location>Leeds Art Gallery</ify:location></item>
+<item>
 <title>Meet &amp; Make</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz</guid>
@@ -261,6 +270,20 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/meet-and-make-5pnz">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Meet &amp; Make</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Meet &amp; Make</title>
@@ -278,6 +301,48 @@
 </item>
 <item>
 <title>Meet &amp; Make</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/midweek">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Meet &amp; Make</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Meet &amp; Make</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Meet &amp; Make</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/low-cost-events</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/low-cost-events</guid>
 <pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
@@ -289,21 +354,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/low-cost-events">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>The Wallaby Experience</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</guid>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-14</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Leeds Baby Week Takeover at Temple Newsam</title>
@@ -321,6 +371,63 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-baby-week-takeover-at-temple-newsam-qf6t">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Free</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-baby-week-takeover-at-temple-newsam-qf6t</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-baby-week-takeover-at-temple-newsam-qf6t</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-14</ify:start>
+<ify:end>2026-11-14</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-baby-week-takeover-at-temple-newsam-qf6t">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>The Wallaby Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-14</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>The Wallaby Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>The Wallaby Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Rory’s Saturday Club</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3</guid>
@@ -333,6 +440,48 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/rory-s-saturday-club-4ww3">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Rory’s Saturday Club</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Teddy Bear Trail</title>
@@ -348,6 +497,96 @@
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/teddy-bear-trail-tf2c">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Give What You Can</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/teddy-bear-trail-tf2c</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/teddy-bear-trail-tf2c</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-14</ify:start>
+<ify:end>2026-11-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/teddy-bear-trail-tf2c">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-18</ify:start>
+<ify:end>2027-03-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/reflective-walks-cyw1">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-18</ify:start>
+<ify:end>2027-03-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/leeds-mindfulness-festival">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops">Leeds Museums and Galleries</source>
+<location>Leeds Industrial Museum</location><ify:location>Leeds Industrial Museum</ify:location></item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events">Leeds Museums and Galleries</source>
+<location>Leeds City Museum</location><ify:location>Leeds City Museum</ify:location></item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tours</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-18</ify:start>
+<ify:end>2027-03-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tours">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Reflective Walks</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-18</ify:start>
+<ify:end>2027-03-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/included-in-admission">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>The Christmas Experience</title>
@@ -366,21 +605,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Tea and Talk</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc</guid>
-<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-25</ify:start>
-<ify:end>2026-12-15</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/tea-and-talk-t7gc">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Wreath Making Workshop</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x</guid>
@@ -392,6 +616,18 @@
 <ify:location>Temple Newsam</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Sold Out</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-25</ify:start>
+<ify:end>2026-12-16</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/wreath-making-workshop-mp5x">Leeds Museums and Galleries</source>
 </item>
@@ -408,6 +644,34 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/atelier-for-under-fives-dbn9">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Atelier for under-fives</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Atelier for under-fives</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Following Yonder Star Trail</title>
@@ -439,6 +703,60 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/arty-facts-yhdl">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Arty Facts</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Arty Facts</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/Drop-in-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Arty Facts</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/workshops">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Give What You Can</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/arty-facts-yhdl</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/arty-facts-yhdl</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2027-03-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/arty-facts-yhdl">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Victorian Christmas card workshops</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/victorian-christmas-card-workshops-f5pq</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/victorian-christmas-card-workshops-f5pq</guid>
@@ -453,6 +771,54 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/victorian-christmas-card-workshops-f5pq">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Victorian Christmas card workshops</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/talks-tours-workshops">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Victorian Christmas card workshops</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Victorian Christmas card workshops</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/midweek</guid>
+<pubDate>Sun, 29 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-29</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Industrial Museum</location>
+<ify:location>Leeds Industrial Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/midweek">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Festive Tours at Temple Newsam</title>
@@ -487,20 +853,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-tree-trail-j6ry">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>The Elf Academy</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-elf-academy-rtr7</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-elf-academy-rtr7</guid>
-<pubDate>Sat, 05 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-05</ify:start>
-<ify:end>2026-12-23</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-elf-academy-rtr7">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Stick Man in concert</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/stick-man-in-concert-qndt</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/stick-man-in-concert-qndt</guid>
@@ -516,6 +868,66 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/stick-man-in-concert-qndt">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>Stick Man in concert</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/performances</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/performances</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/performances">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Stick Man in concert</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/family-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/family-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Stick Man in concert</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/under-5s-events">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Stick Man in concert</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds City Museum</location>
+<ify:location>Leeds City Museum</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/weekend-plans">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Santa at the Museum</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/santa-at-the-museum-r2f7</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/santa-at-the-museum-r2f7</guid>
@@ -529,6 +941,21 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/santa-at-the-museum-r2f7">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>Santa at the Museum</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/school-holiday-events</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/school-holiday-events</guid>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-20</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Abbey House Museum</location>
+<ify:location>Abbey House Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Seasonal</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/school-holiday-events">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Christmas Evenings</title>
