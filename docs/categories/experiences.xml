@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 13 Nov 2026 03:13:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:29:45 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -68,6 +68,18 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-kirkgate-market-tour/">Visit Leeds</source>
+</item>
+<item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Leeds Waterfront Heritage Tour</title>
@@ -533,6 +545,34 @@
 <source url="https://experiencewakefield.co.uk/event/hold-to-this-earth/">Experience Wakefield</source>
 </item>
 <item>
+<title>Damien Hirst</title>
+<link>https://experiencewakefield.co.uk/event/damien-hirst/</link>
+<guid>https://experiencewakefield.co.uk/event/damien-hirst/</guid>
+<pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-13T09:00:00</ify:start>
+<ify:end>2027-09-01T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Wed 01 Sep 2027 09:00 - 17:00 Yorkshire Sculpture Park</location>
+<ify:location>Now - Wed 01 Sep 2027 09:00 - 17:00 Yorkshire Sculpture Park</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/damien-hirst/">Experience Wakefield</source>
+</item>
+<item>
+<title>Plastic Fantastic?</title>
+<link>https://experiencewakefield.co.uk/event/plastic-fantastic/</link>
+<guid>https://experiencewakefield.co.uk/event/plastic-fantastic/</guid>
+<pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-13T09:00:00</ify:start>
+<ify:end>2027-06-27T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</location>
+<ify:location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/plastic-fantastic/">Experience Wakefield</source>
+</item>
+<item>
 <title>Makers Wonderland</title>
 <link>https://experiencewakefield.co.uk/event/makers-wonderland/</link>
 <guid>https://experiencewakefield.co.uk/event/makers-wonderland/</guid>
@@ -629,20 +669,6 @@
 <category>Experiences</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/d04155f1-26d5-4812-a414-c9071c57ab6c">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Pontefract Castle Dungeon Tour</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/</guid>
-<pubDate>Fri, 13 Nov 2026 10:45:00 +0000</pubDate>
-<ify:start>2026-11-13T10:45:00</ify:start>
-<ify:end>2026-12-20T11:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 20 Dec 2026 10:45 - 11:30 Pontefract Castle</location>
-<ify:location>Now - Sun 20 Dec 2026 10:45 - 11:30 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-castle-dungeon-tour/">Experience Wakefield</source>
 </item>
 <item>
 <title>Olivia Bax: Double Take</title>
@@ -917,20 +943,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/bookbinding-workshop-junk-journal-1/">Our Favourite Places</source>
-</item>
-<item>
-<title>Have a Dabble Masterclass: Jewellery Making</title>
-<link>https://experiencewakefield.co.uk/event/have-a-dabble-masterclass-jewellery-making/</link>
-<guid>https://experiencewakefield.co.uk/event/have-a-dabble-masterclass-jewellery-making/</guid>
-<pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-14T10:00:00</ify:start>
-<ify:end>2026-11-14T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 14 Nov - Sat 14 Nov 2026 10:00 - 15:00 Pontefract Castle</location>
-<ify:location>Sat 14 Nov - Sat 14 Nov 2026 10:00 - 15:00 Pontefract Castle</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/have-a-dabble-masterclass-jewellery-making/">Experience Wakefield</source>
 </item>
 <item>
 <title>Morris &amp; Co. Stained Glass Window Tours</title>
@@ -2045,22 +2057,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/carmens-voice/">Our Favourite Places</source>
 </item>
 <item>
-<title>Artwalk Wakefield</title>
-<link>https://experiencewakefield.co.uk/event/artwalk/</link>
-<guid>https://experiencewakefield.co.uk/event/artwalk/</guid>
-<description>Exhibition Literature Music Performance Talk Walk</description>
-<pubDate>Wed, 25 Nov 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-11-25T17:00:00</ify:start>
-<ify:end>2026-11-25T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wed 25 Nov - Wed 25 Nov 2026 17:00 - 21:00 Wakefield City Centre</location>
-<ify:location>Wed 25 Nov - Wed 25 Nov 2026 17:00 - 21:00 Wakefield City Centre</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/artwalk/">Experience Wakefield</source>
-</item>
-<item>
 <title>Freddie Mercury Tribute</title>
 <link>https://www.visitbradford.com/whats-on/freddie-mercury-tribute-p2458641</link>
 <guid>https://www.visitbradford.com/whats-on/freddie-mercury-tribute-p2458641</guid>
@@ -2881,6 +2877,21 @@
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-2/">The Piece Hall</source>
+</item>
+<item>
+<title>WARM Presents: UNFINISHED BUSINESS (Christmas Special)</title>
+<link>https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/</link>
+<guid>https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/</guid>
+<pubDate>Sat, 12 Dec 2026 19:30:00 +0000</pubDate>
+<ify:start>2026-12-12T19:30:00</ify:start>
+<ify:end>2026-12-13T02:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 12 Dec - Sun 13 Dec 2026 19:30 - 02:00 Lost Property</location>
+<ify:location>Sat 12 Dec - Sun 13 Dec 2026 19:30 - 02:00 Lost Property</ify:location>
+<category>Experiences</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/">Experience Wakefield</source>
 </item>
 <item>
 <title>Polar Bear Santa's Grotto</title>
