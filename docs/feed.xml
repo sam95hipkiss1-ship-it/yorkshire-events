@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Sun, 15 Nov 2026 06:16:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 13:49:05 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -244,18 +244,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-lotherton-4tt3">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>The Mos Eisley Cantina Open Mic Night</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-12-17</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
-</item>
-<item>
 <title>Street Food In The Square</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
@@ -266,6 +254,18 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
+</item>
+<item>
+<title>The Mos Eisley Cantina Open Mic Night</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-12-17</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -890,7 +890,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-12T10:00:00</ify:start>
 <ify:end>2026-12-13T16:00:00</ify:end>
@@ -1230,21 +1230,6 @@
 <source url="https://little-vikings.co.uk/events/a-dickens-of-a-christmas-at-castle-howard/">Little Vikings</source>
 </item>
 <item>
-<title>The Wallaby Experience</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</guid>
-<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-15</ify:start>
-<ify:end>2026-12-31</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Lotherton</location>
-<ify:location>Lotherton</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
-</item>
-<item>
 <title>Goldsmiths North</title>
 <link>https://visitbarnsley.co.uk/whats-on/goldsmiths-north</link>
 <guid>https://visitbarnsley.co.uk/whats-on/goldsmiths-north</guid>
@@ -1425,25 +1410,6 @@
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/66650423-e3eb-4d27-8e28-ff9ac794cdc8">National Trust Yorkshire</source>
 </item>
 <item>
-<title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
-<description>Gather your friends and family for an exciting digital adventure for imaginative folk aged 7+ to play together. This Autumn, British folklore sneaks into the real world, set against the backdrop of Wentworth Castle Gardens.</description>
-<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-15T10:00:00</ify:start>
-<ify:end>2026-11-22T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
-<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82">National Trust Yorkshire</source>
-</item>
-<item>
 <title>Thresholds: Light, Memory, and Place</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</guid>
@@ -1475,6 +1441,25 @@
 <category>Seasonal</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/08a87617-4d4a-438f-94a7-6ffb29dd263b">National Trust Yorkshire</source>
+</item>
+<item>
+<title>Stranger Folk Digital Adventure at Wentworth Castle Gardens</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82</guid>
+<description>Gather your friends and family for an exciting digital adventure for imaginative folk aged 7+ to play together. This Autumn, British folklore sneaks into the real world, set against the backdrop of Wentworth Castle Gardens.</description>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-15T10:00:00</ify:start>
+<ify:end>2026-11-22T15:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Wentworth Castle Gardens, Barnsley, South Yorkshire</location>
+<ify:location>Wentworth Castle Gardens, Barnsley, South Yorkshire</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens/events/7abbeb19-f919-4f14-8b97-8cfb6be5ec82">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Pooch Passport Explorers</title>
@@ -1537,21 +1522,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough/events/f40d61df-c746-4e31-bf34-350a7c6d6fd4">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Art for Wellbeing – Sun 15 Nov 2026</title>
-<link>https://yorkmuseumstrust.org.uk/whats-on/events/art-for-wellbeing-92/</link>
-<guid>https://yorkmuseumstrust.org.uk/whats-on/events/art-for-wellbeing-92/</guid>
-<description>Date: Sunday 15 November 2026, 10:30 am-12:30 pm Venue: York Art Gallery</description>
-<pubDate>Sun, 15 Nov 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-11-15T10:30:00</ify:start>
-<ify:end>2026-11-15T12:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>York Art Gallery Art for Wellbeing Sunday 15 November 2026, 10.30am – 12.30pm Suitable for ages 16+ | Included in general admission |</location>
-<ify:location>York Art Gallery Art for Wellbeing Sunday 15 November 2026, 10.30am – 12.30pm Suitable for ages 16+ | Included in general admission |</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>York Museums Trust</dc:creator>
-<source url="https://yorkmuseumstrust.org.uk/whats-on/events/art-for-wellbeing-92/">York Museums Trust</source>
 </item>
 <item>
 <title>Olivia Bax: Double Take</title>
@@ -2835,6 +2805,21 @@
 <source url="https://www.yorkshiredales.org.uk/whats-on/val-hepworth-the-gardens-of-bolton-hall/">Yorkshire Dales National Park</source>
 </item>
 <item>
+<title>Life Studies: Line, Form &amp; Figure – Fri 20 Nov 2026</title>
+<link>https://yorkmuseumstrust.org.uk/whats-on/events/life-studies-line-form-figure-2/</link>
+<guid>https://yorkmuseumstrust.org.uk/whats-on/events/life-studies-line-form-figure-2/</guid>
+<description>Date: Friday 20 November 2026, 2:00 pm-4:00 pm Venue: York Art Gallery</description>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<ify:start>2026-11-20T14:00:00</ify:start>
+<ify:end>2026-11-20T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>York Art Gallery Life Studies: Line, Form &amp; Figure Friday 20 November 2026 2pm – 4pm £15 per person* |</location>
+<ify:location>York Art Gallery Life Studies: Line, Form &amp; Figure Friday 20 November 2026 2pm – 4pm £15 per person* |</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>York Museums Trust</dc:creator>
+<source url="https://yorkmuseumstrust.org.uk/whats-on/events/life-studies-line-form-figure-2/">York Museums Trust</source>
+</item>
+<item>
 <title>Under 18's Open Mic Night</title>
 <link>https://www.visitbradford.com/whats-on/under-18s-open-mic-night-p2690591</link>
 <guid>https://www.visitbradford.com/whats-on/under-18s-open-mic-night-p2690591</guid>
@@ -3119,6 +3104,21 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-christmas-experience-sm82">Leeds Museums and Galleries</source>
+</item>
+<item>
+<title>The Wallaby Experience</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-21</ify:start>
+<ify:end>2026-12-31</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Lotherton</location>
+<ify:location>Lotherton</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/the-wallaby-experience-58bn">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Rory’s Saturday Club</title>
@@ -6445,6 +6445,20 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/elf-trail-9tf5">Leeds Museums and Galleries</source>
 </item>
 <item>
+<title>No cry for help is loud enough!</title>
+<link>https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq</link>
+<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-01</ify:start>
+<ify:end>2026-12-13</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds Art Gallery</location>
+<ify:location>Leeds Art Gallery</ify:location>
+<category>Theatre &amp; Arts</category>
+<dc:creator>Leeds Museums and Galleries</dc:creator>
+<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq">Leeds Museums and Galleries</source>
+</item>
+<item>
 <title>Christmas on the Farm</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-on-the-farm-7c48</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-on-the-farm-7c48</guid>
@@ -6458,20 +6472,6 @@
 <category>Seasonal</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-on-the-farm-7c48">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>No cry for help is loud enough!</title>
-<link>https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq</link>
-<guid>https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-12-01</ify:start>
-<ify:end>2026-12-13</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Leeds Art Gallery</location>
-<ify:location>Leeds Art Gallery</ify:location>
-<category>Theatre &amp; Arts</category>
-<dc:creator>Leeds Museums and Galleries</dc:creator>
-<source url="https://museumsandgalleries.leeds.gov.uk/whats-on/no-cry-for-help-is-loud-enough-fnwq">Leeds Museums and Galleries</source>
 </item>
 <item>
 <title>Festive Tours at Temple Newsam</title>
@@ -7057,20 +7057,6 @@
 <category>Family Days Out</category>
 <dc:creator>Little Vikings</dc:creator>
 <source url="https://little-vikings.co.uk/events/free-things-to-do-york/">Little Vikings</source>
-</item>
-<item>
-<title>Christmas in York 2026</title>
-<link>https://visityork.org/events/christmas-in-york</link>
-<guid>https://visityork.org/events/christmas-in-york</guid>
-<pubDate>Fri, 11 Dec 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-12-11T10:30:00</ify:start>
-<ify:end>2026-12-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Parliament Street, York, YO1 8RU, United Kingdom</location>
-<ify:location>Parliament Street, York, YO1 8RU, United Kingdom</ify:location>
-<category>Seasonal</category>
-<dc:creator>Visit York</dc:creator>
-<source url="https://visityork.org/events/christmas-in-york">Visit York</source>
 </item>
 <item>
 <title>Festive Party Nights</title>
