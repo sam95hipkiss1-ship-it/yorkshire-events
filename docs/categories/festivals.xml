@@ -1,48 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ify="https://imfromyorkshire.uk.com/ns/events/1.0" version="2.0">
 <channel>
 <title>Yorkshire Festivals Events</title>
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml</link>
 <description>Upcoming Yorkshire events in the Festivals category.</description>
 <language>en-gb</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:21:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 02:27:35 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/festivals.xml" rel="self" type="application/rss+xml" />
-<item>
-<title>Bradford Festival Choral Society - Eternal Light – an evening of luminous choral music, consolation and hope</title>
-<link>https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841</link>
-<guid>https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841</guid>
-<description>Bradford Festival Choral Society presents an inspiring concert at Bradford Grammar School showcasing three of the most acclaimed British choral works of the twenty-first century.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-14</ify:start>
-<ify:end>2026-11-14</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Price Hall, Bradford Grammar School, Keighley Road, Bradford, West Yorkshire, BD9 4JP</location>
-<ify:location>Price Hall, Bradford Grammar School, Keighley Road, Bradford, West Yorkshire, BD9 4JP</ify:location>
-<category>Gigs</category>
-<category>Festivals</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/bradford-festival-choral-society-eternal-light-an-evening-of-luminous-choral-music-consolation-and-hope-p2672841">Visit Bradford</source>
-</item>
-<item>
-<title>Light Up Wakefield</title>
-<link>https://experiencewakefield.co.uk/event/light-up-wakefield/</link>
-<guid>https://experiencewakefield.co.uk/event/light-up-wakefield/</guid>
-<description>Art Christmas Families Festival Outdoor</description>
-<pubDate>Sat, 14 Nov 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-11-14T17:00:00</ify:start>
-<ify:end>2026-11-14T21:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sat 14 Nov 2026 17:00 - 21:00 Wakefield City Centre</location>
-<ify:location>Now - Sat 14 Nov 2026 17:00 - 21:00 Wakefield City Centre</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/light-up-wakefield/">Experience Wakefield</source>
-</item>
 <item>
 <title>Bradford Opera Festival: The Marriage of Figaro</title>
 <link>https://www.visitbradford.com/whats-on/bradford-opera-festival-the-marriage-of-figaro-p2618441</link>
@@ -111,6 +76,44 @@
 <source url="https://experiencewakefield.co.uk/event/light-up-festival/">Experience Wakefield</source>
 </item>
 <item>
+<title>Christmas at Caphouse</title>
+<link>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</link>
+<guid>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</guid>
+<description>Activity Christmas Families Festival Food and Drink Heritage Performance Theatre Workshop</description>
+<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-21T10:00:00</ify:start>
+<ify:end>2026-12-24T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/christmas-at-caphouse/">Experience Wakefield</source>
+</item>
+<item>
+<title>The York Minster Christmas Tree Festival 2026</title>
+<link>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</link>
+<guid>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</guid>
+<description>York Minster’s Christmas Tree Festival is back for its sixth year, with around 100 trees twinkling inside the medieval cathedral. That’s more than ever before! Children can pick up a Christmas Quest trail sheet and hunt through the trees, each decorated to its own theme by local schools, charities and businesses. Then</description>
+<pubDate>Mon, 30 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-30</ify:start>
+<ify:end>2026-11-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>York Minster, Deangate, York YO1 7HH</location>
+<ify:location>York Minster, Deangate, York YO1 7HH</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Little Vikings</dc:creator>
+<source url="https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/">Little Vikings</source>
+</item>
+<item>
 <title>ShAFF Retrospective Features – The Best Of 20 Years</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/shaff-retrospective-features-the-best-of-20-years/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/shaff-retrospective-features-the-best-of-20-years/</guid>
@@ -126,6 +129,42 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/shaff-retrospective-features-the-best-of-20-years/">Our Favourite Places</source>
+</item>
+<item>
+<title>The York Minster Christmas Tree Festival 2026</title>
+<link>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</link>
+<guid>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</guid>
+<description>York Minster’s Christmas Tree Festival is back for its sixth year, with around 100 trees twinkling inside the medieval cathedral. That’s more than ever before! Children can pick up a Christmas Quest trail sheet and hunt through the trees, each decorated to its own theme by local schools, charities and businesses. Then</description>
+<pubDate>Mon, 30 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-30</ify:start>
+<ify:end>2026-11-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>York Minster, Deangate, York YO1 7HH</location>
+<ify:location>York Minster, Deangate, York YO1 7HH</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Little Vikings</dc:creator>
+<source url="https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/">Little Vikings</source>
+</item>
+<item>
+<title>The York Minster Christmas Tree Festival 2026</title>
+<link>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</link>
+<guid>https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/</guid>
+<description>York Minster’s Christmas Tree Festival is back for its sixth year, with around 100 trees twinkling inside the medieval cathedral. That’s more than ever before! Children can pick up a Christmas Quest trail sheet and hunt through the trees, each decorated to its own theme by local schools, charities and businesses. Then</description>
+<pubDate>Mon, 30 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-30</ify:start>
+<ify:end>2026-11-30</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>York Minster, Deangate, York YO1 7HH</location>
+<ify:location>York Minster, Deangate, York YO1 7HH</ify:location>
+<category>Festivals</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Little Vikings</dc:creator>
+<source url="https://little-vikings.co.uk/events/york-minster-christmas-tree-festival-2/">Little Vikings</source>
 </item>
 <item>
 <title>Festive Festival</title>
@@ -145,25 +184,6 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/festive-festival/">Our Favourite Places</source>
-</item>
-<item>
-<title>Wakefield Craft Brew Festival</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</guid>
-<description>Christmas Food and Drink Music</description>
-<pubDate>Sat, 12 Dec 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-12-12T13:00:00</ify:start>
-<ify:end>2026-12-12T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</location>
-<ify:location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/">Experience Wakefield</source>
 </item>
 <item>
 <title>WildLife Foundation Creepy Carnival Charity Ball</title>
