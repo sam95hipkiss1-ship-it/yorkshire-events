@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml</link>
 <description>Live Yorkshire events aggregated from approved sources.</description>
 <language>en-gb</language>
-<lastBuildDate>Tue, 17 Nov 2026 04:59:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 07:48:23 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -95,6 +95,18 @@
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-kirkgate-market-tour/">Visit Leeds</source>
+</item>
+<item>
+<title>Leeds City Centre Guided Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Leeds Waterfront Heritage Tour</title>
@@ -217,18 +229,6 @@
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/little-lotherton-4tt3">Leeds Museums and Galleries</source>
 </item>
 <item>
-<title>Street Food In The Square</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-03-26</ify:start>
-<ify:end>2026-11-26</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
-</item>
-<item>
 <title>The Mos Eisley Cantina Open Mic Night</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/</guid>
@@ -239,6 +239,18 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-mos-eisley-cantina-open-mic-night/">Visit Leeds</source>
+</item>
+<item>
+<title>Street Food In The Square</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-03-26</ify:start>
+<ify:end>2026-11-26</ify:end>
+<ify:allDay>true</ify:allDay>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
 </item>
 <item>
 <title>Afrikan Market Leeds</title>
@@ -1097,6 +1109,20 @@
 <source url="https://experiencewakefield.co.uk/event/andy-welland-imagined-territories/">Experience Wakefield</source>
 </item>
 <item>
+<title>Plastic Fantastic?</title>
+<link>https://experiencewakefield.co.uk/event/plastic-fantastic/</link>
+<guid>https://experiencewakefield.co.uk/event/plastic-fantastic/</guid>
+<pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
+<ify:start>2026-11-17T09:00:00</ify:start>
+<ify:end>2027-06-27T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</location>
+<ify:location>Now - Sun 27 Jun 2027 09:00 - 16:00 Wakefield Museum</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/plastic-fantastic/">Experience Wakefield</source>
+</item>
+<item>
 <title>Pooch Passport Challenge</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/nostell/events/5c82e4ee-e744-4a72-8c60-43104c223f9c</guid>
@@ -1157,19 +1183,18 @@
 <source url="https://experiencewakefield.co.uk/event/makers-wonderland/">Experience Wakefield</source>
 </item>
 <item>
-<title>Rhythm, Dance and Everything: The Body and Performance from Hepworth to Now</title>
-<link>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</link>
-<guid>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</guid>
+<title>Villagers: Sculpting the Community</title>
+<link>https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/</link>
+<guid>https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/</guid>
 <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-17T10:00:00</ify:start>
-<ify:end>2027-03-31T17:00:00</ify:end>
+<ify:end>2027-01-24T16:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
-<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
+<location>Now - Sun 24 Jan 2027 10:00 - 16:00 National Coal Mining Museum</location>
+<ify:location>Now - Sun 24 Jan 2027 10:00 - 16:00 National Coal Mining Museum</ify:location>
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/">Experience Wakefield</source>
+<source url="https://experiencewakefield.co.uk/event/villagers-sculpting-the-community/">Experience Wakefield</source>
 </item>
 <item>
 <title>Thresholds: Light, Memory, and Place</title>
@@ -2669,6 +2694,26 @@
 <category>Seasonal</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/santas-magic-workshop/">Experience Wakefield</source>
+</item>
+<item>
+<title>Christmas at Caphouse</title>
+<link>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</link>
+<guid>https://experiencewakefield.co.uk/event/christmas-at-caphouse/</guid>
+<description>Activity Christmas Families Festival Food and Drink Heritage Performance Theatre Workshop</description>
+<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+<ify:start>2026-11-21T10:00:00</ify:start>
+<ify:end>2026-12-24T17:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</location>
+<ify:location>Sat 21 Nov - Thu 24 Dec 2026 10:00 - 17:00 National Coal Mining Museum</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/christmas-at-caphouse/">Experience Wakefield</source>
 </item>
 <item>
 <title>Deck the Halls</title>
@@ -6024,24 +6069,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/merry-folking-christmas/">Our Favourite Places</source>
 </item>
 <item>
-<title>Festive Afternoon Tea</title>
-<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
-<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
-<description>Christmas Food and Drink Theatre</description>
-<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
-<ify:start>2026-12-04T14:00:00</ify:start>
-<ify:end>2026-12-04T16:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
-<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
-</item>
-<item>
 <title>Christmas Tree Trail</title>
 <link>https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-tree-trail-j6ry</link>
 <guid>https://museumsandgalleries.leeds.gov.uk/whats-on/christmas-tree-trail-j6ry</guid>
@@ -6186,6 +6213,24 @@
 <category>Seasonal</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/christmas-cruise/">Experience Wakefield</source>
+</item>
+<item>
+<title>Liquorice Santa</title>
+<link>https://experiencewakefield.co.uk/event/liquorice-santa/</link>
+<guid>https://experiencewakefield.co.uk/event/liquorice-santa/</guid>
+<description>Activity Christmas Craft Families</description>
+<pubDate>Sat, 05 Dec 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-12-05T10:30:00</ify:start>
+<ify:end>2026-12-05T15:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</location>
+<ify:location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Family Days Out</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/liquorice-santa/">Experience Wakefield</source>
 </item>
 <item>
 <title>Polar Bear Santa's Grotto</title>
@@ -6710,21 +6755,6 @@
 <source url="https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-2/">The Piece Hall</source>
 </item>
 <item>
-<title>WARM Presents: UNFINISHED BUSINESS (Christmas Special)</title>
-<link>https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/</link>
-<guid>https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/</guid>
-<pubDate>Sat, 12 Dec 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-12-12T19:30:00</ify:start>
-<ify:end>2026-12-13T02:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 12 Dec - Sun 13 Dec 2026 19:30 - 02:00 Lost Property</location>
-<ify:location>Sat 12 Dec - Sun 13 Dec 2026 19:30 - 02:00 Lost Property</ify:location>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/warm-presents-unfinished-business-christmas-special/">Experience Wakefield</source>
-</item>
-<item>
 <title>Polar Bear Santa's Grotto</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/polar-bear-santas-grotto/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/polar-bear-santas-grotto/</guid>
@@ -7195,6 +7225,20 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/exhibition-on-screen-renoir-love/">Our Favourite Places</source>
 </item>
 <item>
+<title>Behind the Curtain History Tours</title>
+<link>https://experiencewakefield.co.uk/event/behind-the-curtain-history-tours/</link>
+<guid>https://experiencewakefield.co.uk/event/behind-the-curtain-history-tours/</guid>
+<pubDate>Tue, 19 Jan 2027 18:00:00 +0000</pubDate>
+<ify:start>2027-01-19T18:00:00</ify:start>
+<ify:end>2027-01-19T21:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Tue 19 Jan - Tue 19 Jan 2027 18:00 - 21:30 Theatre Royal Wakefield</location>
+<ify:location>Tue 19 Jan - Tue 19 Jan 2027 18:00 - 21:30 Theatre Royal Wakefield</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/behind-the-curtain-history-tours/">Experience Wakefield</source>
+</item>
+<item>
 <title>The Picture of Dorian Gray</title>
 <link>https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/</link>
 <guid>https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/</guid>
@@ -7207,20 +7251,6 @@
 <category>Experiences</category>
 <dc:creator>Experience Wakefield</dc:creator>
 <source url="https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/">Experience Wakefield</source>
-</item>
-<item>
-<title>Marsyas Trio</title>
-<link>https://experiencewakefield.co.uk/event/marsyas-trio/</link>
-<guid>https://experiencewakefield.co.uk/event/marsyas-trio/</guid>
-<pubDate>Sat, 06 Feb 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-02-06T19:00:00</ify:start>
-<ify:end>2027-02-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
-<ify:location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/marsyas-trio/">Experience Wakefield</source>
 </item>
 <item>
 <title>Wild Traditions: Gemma Khawaja</title>
@@ -7287,20 +7317,6 @@
 <category>Gigs</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-fay-hield/">Our Favourite Places</source>
-</item>
-<item>
-<title>Sofia Sacco</title>
-<link>https://experiencewakefield.co.uk/event/sofia-sacco/</link>
-<guid>https://experiencewakefield.co.uk/event/sofia-sacco/</guid>
-<pubDate>Sat, 06 Mar 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-03-06T19:00:00</ify:start>
-<ify:end>2027-03-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
-<ify:location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/sofia-sacco/">Experience Wakefield</source>
 </item>
 <item>
 <title>Classics: Metropolis [100th Anniversary + Live Score]</title>
@@ -7490,6 +7506,20 @@
 <source url="https://experiencewakefield.co.uk/event/live-at-tileyard-north-the-cribs/">Experience Wakefield</source>
 </item>
 <item>
+<title>Live at Tileyard North: Levellers</title>
+<link>https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/</link>
+<guid>https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/</guid>
+<pubDate>Sat, 28 Aug 2027 17:30:00 +0000</pubDate>
+<ify:start>2027-08-28T17:30:00</ify:start>
+<ify:end>2027-08-28T23:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Sat 28 Aug - Sat 28 Aug 2027 17:30 - 23:30 Tileyard North</location>
+<ify:location>Sat 28 Aug - Sat 28 Aug 2027 17:30 - 23:30 Tileyard North</ify:location>
+<category>Experiences</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/live-at-tileyard-north-levellers/">Experience Wakefield</source>
+</item>
+<item>
 <title>Sensoria</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/sensoria/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/sensoria/</guid>
@@ -7503,20 +7533,6 @@
 <category>Theatre &amp; Arts</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/sensoria/">Our Favourite Places</source>
-</item>
-<item>
-<title>Beauty and the Beast</title>
-<link>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</link>
-<guid>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</guid>
-<pubDate>Wed, 24 Nov 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-11-24T19:00:00</ify:start>
-<ify:end>2028-01-03T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</location>
-<ify:location>Tue 24 Nov - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/beauty-and-the-beast/">Experience Wakefield</source>
 </item>
 <item>
 <title>Christmas at Nostell</title>
