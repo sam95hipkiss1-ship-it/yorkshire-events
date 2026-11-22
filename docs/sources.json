@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-11-22T06:35:53.583255+00:00",
+  "generated_at": "2026-11-22T14:26:48.471668+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 16,
+  "active_source_count": 17,
   "registered_source_count": 61,
-  "event_count": 377,
+  "event_count": 417,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -36,12 +36,11 @@
       "item_count": 24,
       "category_counts": {
         "Experiences": 24,
-        "Theatre & Arts": 7,
+        "Theatre & Arts": 4,
         "Family Days Out": 4,
-        "Seasonal": 11,
-        "Food & Drink": 4,
+        "Seasonal": 10,
         "Festivals": 1,
-        "Sport": 1
+        "Food & Drink": 4
       },
       "status": "active"
     },
@@ -94,9 +93,9 @@
       "item_count": 8,
       "category_counts": {
         "Sport": 2,
-        "Experiences": 4,
         "Theatre & Arts": 4,
-        "Food & Drink": 2,
+        "Food & Drink": 3,
+        "Experiences": 4,
         "Seasonal": 3,
         "Family Days Out": 1
       },
@@ -170,6 +169,22 @@
         "Theatre & Arts": 1,
         "Food & Drink": 2,
         "Seasonal": 1
+      },
+      "status": "active"
+    },
+    {
+      "name": "Visit Bradford",
+      "slug": "visit-bradford",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
+      "item_count": 40,
+      "category_counts": {
+        "Theatre & Arts": 21,
+        "Experiences": 9,
+        "Gigs": 9,
+        "Family Days Out": 4,
+        "Seasonal": 16,
+        "Food & Drink": 7,
+        "Clubs": 1
       },
       "status": "active"
     },
@@ -582,11 +597,11 @@
     {
       "name": "Visit Bradford",
       "domain": "visitbradford.com",
-      "status": "empty",
+      "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 0,
+      "item_count": 40,
       "slug": "visit-bradford",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml"
     },
     {
       "name": "Visit Calderdale",
@@ -783,13 +798,13 @@
       "name": "Clubs",
       "slug": "clubs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/clubs.xml",
-      "item_count": 10
+      "item_count": 11
     },
     {
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 48
+      "item_count": 57
     },
     {
       "name": "Festivals",
@@ -807,37 +822,37 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 200
+      "item_count": 218
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 181
+      "item_count": 190
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 53
+      "item_count": 61
     },
     {
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 29
+      "item_count": 28
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 156
+      "item_count": 160
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 159
+      "item_count": 174
     }
   ]
 }
