@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-11-24T06:50:11.654792+00:00",
+  "generated_at": "2026-11-24T09:45:25.434484+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
-  "active_source_count": 14,
+  "active_source_count": 16,
   "registered_source_count": 61,
-  "event_count": 398,
+  "event_count": 414,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -36,11 +36,12 @@
       "item_count": 24,
       "category_counts": {
         "Experiences": 24,
-        "Food & Drink": 6,
-        "Theatre & Arts": 8,
+        "Theatre & Arts": 7,
         "Family Days Out": 4,
         "Seasonal": 9,
-        "Festivals": 1
+        "Food & Drink": 4,
+        "Festivals": 1,
+        "Sport": 1
       },
       "status": "active"
     },
@@ -148,6 +149,18 @@
       "status": "active"
     },
     {
+      "name": "Visit Barnsley",
+      "slug": "visit-barnsley",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-barnsley.xml",
+      "item_count": 2,
+      "category_counts": {
+        "Theatre & Arts": 1,
+        "Food & Drink": 2,
+        "Seasonal": 1
+      },
+      "status": "active"
+    },
+    {
       "name": "Visit Bradford",
       "slug": "visit-bradford",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-bradford.xml",
@@ -183,6 +196,19 @@
       "item_count": 1,
       "category_counts": {
         "Seasonal": 1
+      },
+      "status": "active"
+    },
+    {
+      "name": "York Museums Trust",
+      "slug": "york-museums-trust",
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml",
+      "item_count": 14,
+      "category_counts": {
+        "Theatre & Arts": 14,
+        "Experiences": 9,
+        "Gigs": 1,
+        "Seasonal": 4
       },
       "status": "active"
     },
@@ -551,11 +577,11 @@
     {
       "name": "Visit Barnsley",
       "domain": "visitbarnsley.co.uk",
-      "status": "empty",
+      "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 0,
+      "item_count": 2,
       "slug": "visit-barnsley",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-barnsley.xml"
     },
     {
       "name": "Visit Bradford",
@@ -686,11 +712,11 @@
     {
       "name": "York Museums Trust",
       "domain": "yorkmuseumstrust.org.uk",
-      "status": "empty",
+      "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 0,
+      "item_count": 14,
       "slug": "york-museums-trust",
-      "feed_url": ""
+      "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/york-museums-trust.xml"
     },
     {
       "name": "Yorkshire Attractions",
@@ -767,7 +793,7 @@
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 59
+      "item_count": 60
     },
     {
       "name": "Festivals",
@@ -785,13 +811,13 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 200
+      "item_count": 214
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 180
+      "item_count": 189
     },
     {
       "name": "Food & Drink",
@@ -803,7 +829,7 @@
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 23
+      "item_count": 24
     },
     {
       "name": "Family Days Out",
@@ -815,7 +841,7 @@
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 164
+      "item_count": 169
     }
   ]
 }
