@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml</link>
 <description>Upcoming Yorkshire events in the Food &amp; Drink category.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:20:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 17:03:07 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -41,6 +41,8 @@
 <ify:start>2026-02-08</ify:start>
 <ify:end>2026-12-13</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -54,8 +56,6 @@
 <ify:start>2026-02-15</ify:start>
 <ify:end>2026-12-20</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
@@ -69,6 +69,8 @@
 <ify:start>2026-03-26</ify:start>
 <ify:end>2026-11-26</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/street-food-in-the-square/">Visit Leeds</source>
@@ -82,8 +84,6 @@
 <ify:start>2026-03-28</ify:start>
 <ify:end>2026-12-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/afrikan-market-leeds/">Visit Leeds</source>
@@ -114,6 +114,8 @@
 <ify:start>2026-06-24</ify:start>
 <ify:end>2026-11-25</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Food &amp; Drink</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/quiz-night-at-the-northern-market/">Visit Leeds</source>
@@ -151,7 +153,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</link>
 <guid>https://www.thepiecehall.co.uk/event/the-piece-hall-christmas-market_2/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-11-12T10:00:00</ify:start>
 <ify:end>2026-12-13T16:00:00</ify:end>
@@ -195,22 +197,6 @@
 <category>Seasonal</category>
 <dc:creator>Visit Barnsley</dc:creator>
 <source url="https://visitbarnsley.co.uk/whats-on/Wreathandafternoontea">Visit Barnsley</source>
-</item>
-<item>
-<title>Thresholds: Light, Memory, and Place</title>
-<link>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</link>
-<guid>https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4</guid>
-<description>See East Riddlesden Hall reimagined through the eyes of Artist in Residence Matthew Eyles in this captivating new exhibition.</description>
-<pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-25T10:00:00</ify:start>
-<ify:end>2027-04-13T15:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>East Riddlesden Hall, Keighley, West Yorkshire</location>
-<ify:location>East Riddlesden Hall, Keighley, West Yorkshire</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>National Trust Yorkshire</dc:creator>
-<source url="https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall/events/9a5f11e8-f004-4a95-b757-85d414f5f0f4">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Wreath Making with Festive Afternoon Tea</title>
@@ -277,6 +263,22 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/singin-in-the-rain/">Our Favourite Places</source>
+</item>
+<item>
+<title>Guardians of the Garden</title>
+<link>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</link>
+<guid>https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311</guid>
+<description>Every flower's story begins with a pollinator.</description>
+<pubDate>Thu, 26 Nov 2026 10:30:00 +0000</pubDate>
+<ify:start>2026-11-26T10:30:00</ify:start>
+<ify:end>2026-12-20T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Nunnington Hall, near York, North Yorkshire</location>
+<ify:location>Nunnington Hall, near York, North Yorkshire</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<dc:creator>National Trust Yorkshire</dc:creator>
+<source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311">National Trust Yorkshire</source>
 </item>
 <item>
 <title>Comedy in the Kitchen</title>
@@ -360,23 +362,6 @@
 <source url="https://www.visitbradford.com/whats-on/live-music-charlie-padfield-p2697401">Visit Bradford</source>
 </item>
 <item>
-<title>Bassline Symphony</title>
-<link>https://www.visitbradford.com/whats-on/bassline-symphony-p2616321</link>
-<guid>https://www.visitbradford.com/whats-on/bassline-symphony-p2616321</guid>
-<description>Bringing niche, 4x4 and UK bassline anthems to Bradford Live - reimagined with headline artists, live vocalists and a full orchestra - Part of Bradford Music Month.</description>
-<pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-11-28</ify:start>
-<ify:end>2026-11-28</ify:end>
-<ify:allDay>true</ify:allDay>
-<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
-<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
-<category>Gigs</category>
-<category>Theatre &amp; Arts</category>
-<category>Food &amp; Drink</category>
-<dc:creator>Visit Bradford</dc:creator>
-<source url="https://www.visitbradford.com/whats-on/bassline-symphony-p2616321">Visit Bradford</source>
-</item>
-<item>
 <title>Shopping SOS</title>
 <link>https://www.visitbradford.com/whats-on/shopping-sos-p2710451</link>
 <guid>https://www.visitbradford.com/whats-on/shopping-sos-p2710451</guid>
@@ -393,6 +378,23 @@
 <category>Seasonal</category>
 <dc:creator>Visit Bradford</dc:creator>
 <source url="https://www.visitbradford.com/whats-on/shopping-sos-p2710451">Visit Bradford</source>
+</item>
+<item>
+<title>Bassline Symphony</title>
+<link>https://www.visitbradford.com/whats-on/bassline-symphony-p2616321</link>
+<guid>https://www.visitbradford.com/whats-on/bassline-symphony-p2616321</guid>
+<description>Bringing niche, 4x4 and UK bassline anthems to Bradford Live - reimagined with headline artists, live vocalists and a full orchestra - Part of Bradford Music Month.</description>
+<pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-11-28</ify:start>
+<ify:end>2026-11-28</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</location>
+<ify:location>Bradford Live, 1 Thornton Road, Bradford, West Yorkshire, BD1 2EP</ify:location>
+<category>Gigs</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/bassline-symphony-p2616321">Visit Bradford</source>
 </item>
 <item>
 <title>Christmas in York 2026 – The best things to do with kids</title>
@@ -526,6 +528,23 @@
 <source url="https://www.visitbradford.com/whats-on/festive-workshop-and-afternoon-tea-p2680691">Visit Bradford</source>
 </item>
 <item>
+<title>Bradford Opera Festival Pop Ups - Big Day</title>
+<link>https://www.visitbradford.com/whats-on/bradford-opera-festival-pop-ups-big-day-p2721101</link>
+<guid>https://www.visitbradford.com/whats-on/bradford-opera-festival-pop-ups-big-day-p2721101</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Sat, 28 Nov 2026 16:00:00 +0000</pubDate>
+<ify:start>2026-11-28T16:00:00</ify:start>
+<ify:end>2026-11-28T16:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>16 - 24 Darley Street Market, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Market, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Festivals</category>
+<category>Theatre &amp; Arts</category>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/bradford-opera-festival-pop-ups-big-day-p2721101">Visit Bradford</source>
+</item>
+<item>
 <title>Shane’s Country Singo</title>
 <link>https://www.visitbradford.com/whats-on/shanes-country-singo-p2697391</link>
 <guid>https://www.visitbradford.com/whats-on/shanes-country-singo-p2697391</guid>
@@ -655,6 +674,22 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/church-christmas-market/">Our Favourite Places</source>
+</item>
+<item>
+<title>Festive Afternoon Tea</title>
+<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea-hepworth/</link>
+<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea-hepworth/</guid>
+<pubDate>Fri, 04 Dec 2026 12:00:00 +0000</pubDate>
+<ify:start>2026-12-04T12:00:00</ify:start>
+<ify:end>2026-12-19T16:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Fri 04 Dec - Sat 19 Dec 2026 12:00 - 16:00 The Hepworth Wakefield</location>
+<ify:location>Fri 04 Dec - Sat 19 Dec 2026 12:00 - 16:00 The Hepworth Wakefield</ify:location>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea-hepworth/">Experience Wakefield</source>
 </item>
 <item>
 <title>Live Music: Stealing Tamar</title>
@@ -832,6 +867,24 @@
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/festive-party-nights/">Yorkshire Wildlife Park</source>
 </item>
 <item>
+<title>Christmas Crafts!</title>
+<link>https://experiencewakefield.co.uk/event/christmas-crafts-the-castle/</link>
+<guid>https://experiencewakefield.co.uk/event/christmas-crafts-the-castle/</guid>
+<description>Activity Art Christmas Craft Food and Drink Workshop</description>
+<pubDate>Thu, 10 Dec 2026 19:00:00 +0000</pubDate>
+<ify:start>2026-12-10T19:00:00</ify:start>
+<ify:end>2026-12-10T21:00:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>Thu 10 Dec - Thu 10 Dec 2026 19:00 - 21:00 The Castle Wakefield</location>
+<ify:location>Thu 10 Dec - Thu 10 Dec 2026 19:00 - 21:00 The Castle Wakefield</ify:location>
+<category>Theatre &amp; Arts</category>
+<category>Experiences</category>
+<category>Food &amp; Drink</category>
+<category>Seasonal</category>
+<dc:creator>Experience Wakefield</dc:creator>
+<source url="https://experiencewakefield.co.uk/event/christmas-crafts-the-castle/">Experience Wakefield</source>
+</item>
+<item>
 <title>Christmas in York 2026 – The best things to do with kids</title>
 <link>https://little-vikings.co.uk/events/christmas-york/</link>
 <guid>https://little-vikings.co.uk/events/christmas-york/</guid>
@@ -865,6 +918,21 @@
 <category>Seasonal</category>
 <dc:creator>Yorkshire Wildlife Park</dc:creator>
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/festive-party-nights/">Yorkshire Wildlife Park</source>
+</item>
+<item>
+<title>Carols at Darley Street Market</title>
+<link>https://www.visitbradford.com/whats-on/carols-at-darley-street-market-p2721281</link>
+<guid>https://www.visitbradford.com/whats-on/carols-at-darley-street-market-p2721281</guid>
+<description>bradford.markets@bradford.gov.uk</description>
+<pubDate>Fri, 11 Dec 2026 17:30:00 +0000</pubDate>
+<ify:start>2026-12-11T17:30:00</ify:start>
+<ify:end>2026-12-11T19:30:00</ify:end>
+<ify:allDay>false</ify:allDay>
+<location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</location>
+<ify:location>16 - 24 Darley Street Kitchen, Bradford, West Yorkshire, BD1 3HH</ify:location>
+<category>Food &amp; Drink</category>
+<dc:creator>Visit Bradford</dc:creator>
+<source url="https://www.visitbradford.com/whats-on/carols-at-darley-street-market-p2721281">Visit Bradford</source>
 </item>
 <item>
 <title>Festive Party Nights</title>
@@ -903,23 +971,21 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/beer-and-carols/">Our Favourite Places</source>
 </item>
 <item>
-<title>Wakefield Craft Brew Festival</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</guid>
-<description>Christmas Food and Drink Music</description>
-<pubDate>Sat, 12 Dec 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-12-12T13:00:00</ify:start>
-<ify:end>2026-12-12T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</location>
-<ify:location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
+<title>A Very Clammy Christmas</title>
+<link>https://www.ourfaveplaces.co.uk/whats-on/a-very-clammy-christmas/</link>
+<guid>https://www.ourfaveplaces.co.uk/whats-on/a-very-clammy-christmas/</guid>
+<description>The DIY venue is back with another Xmas do. With music from All Girls Arson Club, Lanny, Rosey PM, and Nap Hotel. Plus charity raffle, Christmas Clamaoke, drink specials and more.</description>
+<pubDate>Sat, 12 Dec 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-12-12</ify:start>
+<ify:end>2026-12-12</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Sat. 12 December 2026</location>
+<ify:location>Sat. 12 December 2026</ify:location>
+<category>Gigs</category>
 <category>Food &amp; Drink</category>
 <category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/">Experience Wakefield</source>
+<dc:creator>Our Favourite Places</dc:creator>
+<source url="https://www.ourfaveplaces.co.uk/whats-on/a-very-clammy-christmas/">Our Favourite Places</source>
 </item>
 <item>
 <title>Breakfast with Santa Live Show</title>
@@ -979,7 +1045,7 @@
 <title>The Piece Hall Christmas Market</title>
 <link>https://www.thepiecehall.co.uk/event/christmas-markets/</link>
 <guid>https://www.thepiecehall.co.uk/event/christmas-markets/</guid>
-<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers they will feature a wide range of unique stalls with everything from homeware to jewellery, gifts and delicious food to eat now or ta</description>
+<description>Christmas Markets Our Christmas Markets take place over six long weekends in the run up to the big day! Showcasing some of the region’s favourite independent producers and artisan makers... \n</description>
 <pubDate>Fri, 18 Dec 2026 10:00:00 +0000</pubDate>
 <ify:start>2026-12-18T10:00:00</ify:start>
 <ify:end>2026-12-20T16:00:00</ify:end>
