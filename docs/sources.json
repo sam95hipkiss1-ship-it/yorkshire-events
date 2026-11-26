@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generated_at": "2026-11-25T17:03:07.109553+00:00",
+  "generated_at": "2026-11-26T04:45:10.467901+00:00",
   "master_feed": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feed.xml",
   "active_source_count": 17,
   "registered_source_count": 61,
-  "event_count": 400,
+  "event_count": 384,
   "active_feeds": [
     {
       "name": "English Heritage Yorkshire",
@@ -36,11 +36,10 @@
       "item_count": 24,
       "category_counts": {
         "Experiences": 24,
-        "Theatre & Arts": 6,
+        "Theatre & Arts": 7,
         "Family Days Out": 3,
-        "Seasonal": 10,
-        "Food & Drink": 5,
-        "Sport": 1
+        "Seasonal": 5,
+        "Food & Drink": 2
       },
       "status": "active"
     },
@@ -73,15 +72,15 @@
       "name": "Little Vikings",
       "slug": "little-vikings",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/little-vikings.xml",
-      "item_count": 90,
+      "item_count": 80,
       "category_counts": {
-        "Theatre & Arts": 27,
-        "Sport": 14,
-        "Family Days Out": 90,
-        "Experiences": 47,
-        "Food & Drink": 7,
-        "Seasonal": 47,
-        "Clubs": 6,
+        "Theatre & Arts": 24,
+        "Sport": 12,
+        "Family Days Out": 80,
+        "Experiences": 42,
+        "Food & Drink": 6,
+        "Seasonal": 43,
+        "Clubs": 5,
         "Festivals": 3
       },
       "status": "active"
@@ -103,11 +102,11 @@
       "name": "Our Favourite Places",
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml",
-      "item_count": 87,
+      "item_count": 83,
       "category_counts": {
-        "Theatre & Arts": 65,
-        "Experiences": 24,
-        "Gigs": 46,
+        "Theatre & Arts": 62,
+        "Experiences": 22,
+        "Gigs": 43,
         "Comedy": 4,
         "Seasonal": 37,
         "Food & Drink": 16,
@@ -163,11 +162,10 @@
       "name": "Visit Barnsley",
       "slug": "visit-barnsley",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-barnsley.xml",
-      "item_count": 2,
+      "item_count": 1,
       "category_counts": {
         "Theatre & Arts": 1,
-        "Food & Drink": 2,
-        "Seasonal": 1
+        "Food & Drink": 1
       },
       "status": "active"
     },
@@ -179,11 +177,11 @@
       "category_counts": {
         "Theatre & Arts": 28,
         "Experiences": 17,
-        "Gigs": 11,
+        "Gigs": 12,
         "Family Days Out": 4,
-        "Seasonal": 21,
-        "Food & Drink": 19,
+        "Seasonal": 20,
         "Comedy": 1,
+        "Food & Drink": 20,
         "Festivals": 1,
         "Clubs": 1
       },
@@ -193,10 +191,10 @@
       "name": "Visit Leeds",
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml",
-      "item_count": 27,
+      "item_count": 26,
       "category_counts": {
         "Experiences": 17,
-        "Food & Drink": 8,
+        "Food & Drink": 7,
         "Theatre & Arts": 5
       },
       "status": "active"
@@ -456,7 +454,7 @@
       "domain": "little-vikings.co.uk",
       "status": "active",
       "notes": "Handled by dedicated family source adapter",
-      "item_count": 90,
+      "item_count": 80,
       "slug": "little-vikings",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/little-vikings.xml"
     },
@@ -519,7 +517,7 @@
       "domain": "ourfaveplaces.co.uk",
       "status": "active",
       "notes": "Handled by dedicated expansion source adapter",
-      "item_count": 87,
+      "item_count": 83,
       "slug": "our-favourite-places",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/our-favourite-places.xml"
     },
@@ -591,7 +589,7 @@
       "domain": "visitbarnsley.co.uk",
       "status": "active",
       "notes": "Handled by dedicated regional source adapter",
-      "item_count": 2,
+      "item_count": 1,
       "slug": "visit-barnsley",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-barnsley.xml"
     },
@@ -654,7 +652,7 @@
       "domain": "visitleeds.co.uk",
       "status": "active",
       "notes": "Handled by source-specific listing adapter",
-      "item_count": 27,
+      "item_count": 26,
       "slug": "visit-leeds",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/feeds/visit-leeds.xml"
     },
@@ -799,13 +797,13 @@
       "name": "Clubs",
       "slug": "clubs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/clubs.xml",
-      "item_count": 8
+      "item_count": 7
     },
     {
       "name": "Gigs",
       "slug": "gigs",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/gigs.xml",
-      "item_count": 62
+      "item_count": 60
     },
     {
       "name": "Festivals",
@@ -823,37 +821,37 @@
       "name": "Theatre & Arts",
       "slug": "theatre-arts",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/theatre-arts.xml",
-      "item_count": 205
+      "item_count": 200
     },
     {
       "name": "Experiences",
       "slug": "experiences",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml",
-      "item_count": 185
+      "item_count": 178
     },
     {
       "name": "Food & Drink",
       "slug": "food-drink",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/food-drink.xml",
-      "item_count": 69
+      "item_count": 64
     },
     {
       "name": "Sport",
       "slug": "sport",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/sport.xml",
-      "item_count": 23
+      "item_count": 20
     },
     {
       "name": "Family Days Out",
       "slug": "family-days-out",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/family-days-out.xml",
-      "item_count": 126
+      "item_count": 116
     },
     {
       "name": "Seasonal",
       "slug": "seasonal",
       "feed_url": "https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/seasonal.xml",
-      "item_count": 167
+      "item_count": 156
     }
   ]
 }
