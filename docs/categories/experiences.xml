@@ -5,7 +5,7 @@
 <link>https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml</link>
 <description>Upcoming Yorkshire events in the Experiences category.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 27 Nov 2026 04:51:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:14:05 +0000</lastBuildDate>
 <generator>I’m From Yorkshire Events Aggregator</generator>
 <atom:link href="https://sam95hipkiss1-ship-it.github.io/yorkshire-events/categories/experiences.xml" rel="self" type="application/rss+xml" />
 <item>
@@ -70,18 +70,6 @@
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-kirkgate-market-tour/">Visit Leeds</source>
 </item>
 <item>
-<title>Leeds Waterfront Heritage Tour</title>
-<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
-<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
-<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-<ify:start>2026-01-12</ify:start>
-<ify:end>2026-12-18</ify:end>
-<ify:allDay>true</ify:allDay>
-<category>Experiences</category>
-<dc:creator>Visit Leeds</dc:creator>
-<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
-</item>
-<item>
 <title>Leeds City Centre Guided Tour</title>
 <link>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</link>
 <guid>https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/</guid>
@@ -92,6 +80,20 @@
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/the-essential-leeds-city-centre-tour/">Visit Leeds</source>
+</item>
+<item>
+<title>Leeds Waterfront Heritage Tour</title>
+<link>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</link>
+<guid>https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<ify:start>2026-01-12</ify:start>
+<ify:end>2026-12-18</ify:end>
+<ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
+<category>Experiences</category>
+<dc:creator>Visit Leeds</dc:creator>
+<source url="https://www.visitleeds.co.uk/whats-on/all-events/the-leeds-waterfront-heritage-tour/">Visit Leeds</source>
 </item>
 <item>
 <title>Christmas Parties at The Piece Hall</title>
@@ -198,8 +200,6 @@
 <ify:start>2026-04-22</ify:start>
 <ify:end>2027-04-22</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/leeds-self-guided-city-walk-interactive-exploration-game/">Visit Leeds</source>
@@ -212,6 +212,8 @@
 <ify:start>2026-05-22</ify:start>
 <ify:end>2027-06-05</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Leeds LS7 2QU</location>
+<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/untangled/">Visit Leeds</source>
@@ -253,8 +255,6 @@
 <ify:start>2026-08-16</ify:start>
 <ify:end>2028-08-12</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/ludd-in-the-machine-2026-08-17/">Visit Leeds</source>
@@ -267,8 +267,6 @@
 <ify:start>2026-08-22</ify:start>
 <ify:end>2026-12-17</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds LS7 2QU</location>
-<ify:location>Leeds LS7 2QU</ify:location>
 <category>Experiences</category>
 <dc:creator>Visit Leeds</dc:creator>
 <source url="https://www.visitleeds.co.uk/whats-on/all-events/time-for-rodeo-line-dancing-night/">Visit Leeds</source>
@@ -294,6 +292,8 @@
 <ify:start>2026-10-14T11:30:00</ify:start>
 <ify:end>2026-12-24T14:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -307,6 +307,8 @@
 <ify:start>2026-10-14T11:30:00</ify:start>
 <ify:end>2026-12-24T14:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -321,6 +323,8 @@
 <ify:start>2026-10-14T11:30:00</ify:start>
 <ify:end>2026-12-24T14:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -335,6 +339,8 @@
 <ify:start>2026-10-14T11:30:00</ify:start>
 <ify:end>2026-12-24T14:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -348,6 +354,8 @@
 <ify:start>2026-10-21T11:00:00</ify:start>
 <ify:end>2027-01-03T22:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -362,6 +370,8 @@
 <ify:start>2026-10-21T11:00:00</ify:start>
 <ify:end>2027-01-03T22:30:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -376,8 +386,8 @@
 <ify:start>2026-11-13</ify:start>
 <ify:end>2027-01-03</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>York Museum Gardens Friday 13 November 2026 – Sunday 3 January 2027 45-minute sessions throughout the day</location>
-<ify:location>York Museum Gardens Friday 13 November 2026 – Sunday 3 January 2027 45-minute sessions throughout the day</ify:location>
+<location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</location>
+<ify:location>York Museums Trust York Art Gallery York Castle Museum York St Mary’s Yorkshire Museum York Venues</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>York Museums Trust</dc:creator>
@@ -565,68 +575,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/northern-lights-a-journey-through-nordic-music/">Our Favourite Places</source>
 </item>
 <item>
-<title>Makers Wonderland</title>
-<link>https://experiencewakefield.co.uk/event/makers-wonderland/</link>
-<guid>https://experiencewakefield.co.uk/event/makers-wonderland/</guid>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-27T10:00:00</ify:start>
-<ify:end>2026-12-23T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Wed 23 Dec 2026 10:00 - 16:00 The Art House</location>
-<ify:location>Now - Wed 23 Dec 2026 10:00 - 16:00 The Art House</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/makers-wonderland/">Experience Wakefield</source>
-</item>
-<item>
-<title>Santa’s Magic Workshop</title>
-<link>https://experiencewakefield.co.uk/event/santas-magic-workshop/</link>
-<guid>https://experiencewakefield.co.uk/event/santas-magic-workshop/</guid>
-<description>Activity Christmas Craft Families Performance Workshop</description>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-27T10:00:00</ify:start>
-<ify:end>2026-12-24T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Thu 24 Dec 2026 10:00 - 16:00 National Coal Mining Museum</location>
-<ify:location>Now - Thu 24 Dec 2026 10:00 - 16:00 National Coal Mining Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/santas-magic-workshop/">Experience Wakefield</source>
-</item>
-<item>
-<title>Modern Art and Modern Life: Highlights from Wakefield’s 20th Century Collection</title>
-<link>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</link>
-<guid>https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/</guid>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-27T10:00:00</ify:start>
-<ify:end>2027-03-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/modern-art-and-modern-life-highlights-from-wakefields-20th-century-collection/">Experience Wakefield</source>
-</item>
-<item>
-<title>Rhythm, Dance and Everything: The Body and Performance from Hepworth to Now</title>
-<link>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</link>
-<guid>https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/</guid>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-11-27T10:00:00</ify:start>
-<ify:end>2027-03-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Now - Wed 31 Mar 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/rhythm-dance-and-everything/">Experience Wakefield</source>
-</item>
-<item>
 <title>Roots and Rocks: Wood-fired Sauna</title>
 <link>https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags/events/40f10f51-6af8-4969-b458-6db278b9932f</link>
 <guid>https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags/events/40f10f51-6af8-4969-b458-6db278b9932f</guid>
@@ -687,92 +635,6 @@
 <category>Food &amp; Drink</category>
 <dc:creator>National Trust Yorkshire</dc:creator>
 <source url="https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall/events/74a903ee-fb98-438a-8285-b43e44027311">National Trust Yorkshire</source>
-</item>
-<item>
-<title>Olivia Bax: Double Take</title>
-<link>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</link>
-<guid>https://experiencewakefield.co.uk/event/olivia-bax-double-take/</guid>
-<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
-<ify:start>2026-11-27T11:00:00</ify:start>
-<ify:end>2027-03-14T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</location>
-<ify:location>Now - Sun 14 Mar 2027 11:00 - 16:00 Yorkshire Sculpture Park</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/olivia-bax-double-take/">Experience Wakefield</source>
-</item>
-<item>
-<title>Nostell Ghost Walks</title>
-<link>https://experiencewakefield.co.uk/event/nostell-ghost-walks/</link>
-<guid>https://experiencewakefield.co.uk/event/nostell-ghost-walks/</guid>
-<pubDate>Fri, 27 Nov 2026 17:30:00 +0000</pubDate>
-<ify:start>2026-11-27T17:30:00</ify:start>
-<ify:end>2026-11-28T19:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sat 28 Nov 2026 17:30 - 19:30 Nostell, National Trust</location>
-<ify:location>Now - Sat 28 Nov 2026 17:30 - 19:30 Nostell, National Trust</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/nostell-ghost-walks/">Experience Wakefield</source>
-</item>
-<item>
-<title>Pontefract Ghost Walk</title>
-<link>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</link>
-<guid>https://experiencewakefield.co.uk/event/pontefract-ghost-walk/</guid>
-<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
-<ify:start>2026-11-27T18:00:00</ify:start>
-<ify:end>2026-12-17T20:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Thu 17 Dec 2026 18:00 - 20:00 The Counting House Pontefract</location>
-<ify:location>Now - Thu 17 Dec 2026 18:00 - 20:00 The Counting House Pontefract</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/pontefract-ghost-walk/">Experience Wakefield</source>
-</item>
-<item>
-<title>Wakefield Ghost Walk</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-ghost-walk/</guid>
-<pubDate>Fri, 27 Nov 2026 18:30:00 +0000</pubDate>
-<ify:start>2026-11-27T18:30:00</ify:start>
-<ify:end>2026-12-03T20:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Thu 03 Dec 2026 18:30 - 20:30 The Black Horse</location>
-<ify:location>Now - Thu 03 Dec 2026 18:30 - 20:30 The Black Horse</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-ghost-walk/">Experience Wakefield</source>
-</item>
-<item>
-<title>The Hepworth Wakefield Festive Market</title>
-<link>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-festive-market/</link>
-<guid>https://experiencewakefield.co.uk/event/the-hepworth-wakefield-festive-market/</guid>
-<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
-<ify:start>2026-11-27T19:00:00</ify:start>
-<ify:end>2026-11-29T16:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 29 Nov 2026 19:00 - 16:00 Tileyard North</location>
-<ify:location>Now - Sun 29 Nov 2026 19:00 - 16:00 Tileyard North</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/the-hepworth-wakefield-festive-market/">Experience Wakefield</source>
-</item>
-<item>
-<title>Beauty and the Beast</title>
-<link>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</link>
-<guid>https://experiencewakefield.co.uk/event/beauty-and-the-beast/</guid>
-<pubDate>Fri, 27 Nov 2026 19:00:00 +0000</pubDate>
-<ify:start>2026-11-27T19:00:00</ify:start>
-<ify:end>2027-01-03T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Now - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</location>
-<ify:location>Now - Sun 03 Jan 2027 19:00 - 17:00 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/beauty-and-the-beast/">Experience Wakefield</source>
 </item>
 <item>
 <title>Shopping SOS</title>
@@ -1368,12 +1230,14 @@
 <ify:start>2026-11-30T10:30:00</ify:start>
 <ify:end>2026-11-30T13:00:00</ify:end>
 <ify:allDay>false</ify:allDay>
+<location>York Castle Museum Festive Wreath Making Workshop Monday 30 November 2026 | 10 . 30 am – 1pm</location>
+<ify:location>York Castle Museum Festive Wreath Making Workshop Monday 30 November 2026 | 10 . 30 am – 1pm</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <category>Seasonal</category>
 <dc:creator>York Museums Trust</dc:creator>
 <source url="https://yorkmuseumstrust.org.uk/whats-on/events/festive-wreath-making-workshop-2/">York Museums Trust</source>
-<location>York Castle Museum Festive Wreath Making Workshop Monday 30 November 2026 | 10 . 30 am – 1pm</location><ify:location>York Castle Museum Festive Wreath Making Workshop Monday 30 November 2026 | 10 . 30 am – 1pm</ify:location></item>
+</item>
 <item>
 <title>The Father Christmas Experience at The Web Adventure Park</title>
 <link>https://little-vikings.co.uk/events/the-father-christmas-experience-at-the-web-adventure-park/</link>
@@ -1416,8 +1280,8 @@
 <ify:start>2026-12-01</ify:start>
 <ify:end>2026-12-31</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
+<location>Leeds City Museum, Leeds Museums and Galleries | Days out and exhibitions</location>
+<ify:location>Leeds City Museum, Leeds Museums and Galleries | Days out and exhibitions</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
@@ -1462,6 +1326,8 @@
 <ify:start>2026-12-02</ify:start>
 <ify:end>2027-03-31</ify:end>
 <ify:allDay>true</ify:allDay>
+<location>Kirkstall Abbey, Leeds Museums and Galleries | Days out and exhibitions</location>
+<ify:location>Kirkstall Abbey, Leeds Museums and Galleries | Days out and exhibitions</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
@@ -1475,8 +1341,8 @@
 <ify:start>2026-12-02</ify:start>
 <ify:end>2026-12-16</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Temple Newsam</location>
-<ify:location>Temple Newsam</ify:location>
+<location>Temple Newsam, Leeds Museums and Galleries | Days out and exhibitions</location>
+<ify:location>Temple Newsam, Leeds Museums and Galleries | Days out and exhibitions</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
@@ -1536,30 +1402,12 @@
 <ify:start>2026-12-04</ify:start>
 <ify:end>2027-04-02</ify:end>
 <ify:allDay>true</ify:allDay>
-<location>Leeds City Museum</location>
-<ify:location>Leeds City Museum</ify:location>
+<location>Leeds City Museum, Leeds Museums and Galleries | Days out and exhibitions</location>
+<ify:location>Leeds City Museum, Leeds Museums and Galleries | Days out and exhibitions</ify:location>
 <category>Theatre &amp; Arts</category>
 <category>Experiences</category>
 <dc:creator>Leeds Museums and Galleries</dc:creator>
 <source url="https://museumsandgalleries.leeds.gov.uk/whats-on/sociable-history-club-f2nq">Leeds Museums and Galleries</source>
-</item>
-<item>
-<title>Festive Afternoon Tea</title>
-<link>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</link>
-<guid>https://experiencewakefield.co.uk/event/festive-afternoon-tea/</guid>
-<description>Christmas Food and Drink Theatre</description>
-<pubDate>Fri, 04 Dec 2026 14:00:00 +0000</pubDate>
-<ify:start>2026-12-04T14:00:00</ify:start>
-<ify:end>2026-12-04T16:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</location>
-<ify:location>Fri 04 Dec - Fri 04 Dec 2026 14:00 - 16:30 Theatre Royal Wakefield</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/festive-afternoon-tea/">Experience Wakefield</source>
 </item>
 <item>
 <title>G4 Christmas</title>
@@ -1721,56 +1569,6 @@
 <category>Seasonal</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/victorian-christmas-market/">Our Favourite Places</source>
-</item>
-<item>
-<title>Christmas Cruise</title>
-<link>https://experiencewakefield.co.uk/event/christmas-cruise/</link>
-<guid>https://experiencewakefield.co.uk/event/christmas-cruise/</guid>
-<description>Activity Adventure Christmas Families Food and Drink Outdoor Tour</description>
-<pubDate>Sat, 05 Dec 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-12-05T10:00:00</ify:start>
-<ify:end>2026-12-19T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 05 Dec - Sat 19 Dec 2026 10:00 - 15:30 Stanley Ferry</location>
-<ify:location>Sat 05 Dec - Sat 19 Dec 2026 10:00 - 15:30 Stanley Ferry</ify:location>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/christmas-cruise/">Experience Wakefield</source>
-</item>
-<item>
-<title>Spoon Carving with Green Wood Workshop</title>
-<link>https://experiencewakefield.co.uk/event/spoon-carving-with-green-wood-workshop/</link>
-<guid>https://experiencewakefield.co.uk/event/spoon-carving-with-green-wood-workshop/</guid>
-<pubDate>Sat, 05 Dec 2026 10:00:00 +0000</pubDate>
-<ify:start>2026-12-05T10:00:00</ify:start>
-<ify:end>2026-12-05T12:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 05 Dec - Sat 05 Dec 2026 10:00 - 12:30 Lakeside Creative Arts Centre</location>
-<ify:location>Sat 05 Dec - Sat 05 Dec 2026 10:00 - 12:30 Lakeside Creative Arts Centre</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/spoon-carving-with-green-wood-workshop/">Experience Wakefield</source>
-</item>
-<item>
-<title>Liquorice Santa</title>
-<link>https://experiencewakefield.co.uk/event/liquorice-santa/</link>
-<guid>https://experiencewakefield.co.uk/event/liquorice-santa/</guid>
-<description>Activity Christmas Craft Families</description>
-<pubDate>Sat, 05 Dec 2026 10:30:00 +0000</pubDate>
-<ify:start>2026-12-05T10:30:00</ify:start>
-<ify:end>2026-12-05T15:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</location>
-<ify:location>Sat 05 Dec - Sat 05 Dec 2026 10:30 - 15:30 Pontefract Museum</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Family Days Out</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/liquorice-santa/">Experience Wakefield</source>
 </item>
 <item>
 <title>Polar Bear Santa's Grotto</title>
@@ -2066,7 +1864,7 @@
 <title>Christmas Trail Merry Mission &amp; Crafts</title>
 <link>https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-2/</link>
 <guid>https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-2/</guid>
-<description>Christmas Trail Merry Mission &amp; Christmas Crafts Join our merry mission to find the reindeer and save Santa\'s sleigh! Father Christmas has lost his renideer. They\'re hiding all over The... \n</description>
+<description>Christmas Trail Merry Mission &amp; Christmas Crafts Join our merry mission to find the reindeer and save Santa\'s sleigh! Father Christmas has lost his renideer. They\'re hiding all over The Piece Hall along with the naughty elves! Can you help find them, so they are all reuinted with Santa and ready to pull the sleigh...</description>
 <pubDate>Sat, 12 Dec 2026 11:00:00 +0000</pubDate>
 <ify:start>2026-12-12T11:00:00</ify:start>
 <ify:end>2026-12-13T14:30:00</ify:end>
@@ -2078,25 +1876,6 @@
 <category>Seasonal</category>
 <dc:creator>The Piece Hall</dc:creator>
 <source url="https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-2/">The Piece Hall</source>
-</item>
-<item>
-<title>Wakefield Craft Brew Festival</title>
-<link>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</link>
-<guid>https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/</guid>
-<description>Christmas Food and Drink Music</description>
-<pubDate>Sat, 12 Dec 2026 13:00:00 +0000</pubDate>
-<ify:start>2026-12-12T13:00:00</ify:start>
-<ify:end>2026-12-12T18:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</location>
-<ify:location>Sat 12 Dec - Sat 12 Dec 2026 13:00 - 18:00 Tileyard North</ify:location>
-<category>Festivals</category>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<category>Food &amp; Drink</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/wakefield-craft-brew-festival/">Experience Wakefield</source>
 </item>
 <item>
 <title>Polar Bear Santa's Grotto</title>
@@ -2221,7 +2000,7 @@
 <title>Christmas Trail Merry Mission &amp; Crafts</title>
 <link>https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-3/</link>
 <guid>https://www.thepiecehall.co.uk/event/christmas-trail-merry-mission-crafts-3/</guid>
-<description>Christmas Trail Merry Mission &amp; Christmas Crafts Join our merry mission to find the reindeer and save Santa\'s sleigh! Father Christmas has lost his renideer. They\'re hiding all over The... \n</description>
+<description>Christmas Trail Merry Mission &amp; Christmas Crafts Join our merry mission to find the reindeer and save Santa\'s sleigh! Father Christmas has lost his renideer. They\'re hiding all over The Piece Hall along with the naughty elves! Can you help find them, so they are all reuinted with Santa and ready to pull the sleigh...</description>
 <pubDate>Sat, 19 Dec 2026 11:00:00 +0000</pubDate>
 <ify:start>2026-12-19T11:00:00</ify:start>
 <ify:end>2026-12-20T14:30:00</ify:end>
@@ -2263,20 +2042,6 @@
 <category>Seasonal</category>
 <dc:creator>English Heritage Yorkshire</dc:creator>
 <source url="https://www.english-heritage.org.uk/visit/whats-on/brodsworth-hall-festive-fun-sat-5-sun-to-20-dec/">English Heritage Yorkshire</source>
-</item>
-<item>
-<title>GreenMatthews – Gaudete!</title>
-<link>https://experiencewakefield.co.uk/event/greenmatthews-gaudete/</link>
-<guid>https://experiencewakefield.co.uk/event/greenmatthews-gaudete/</guid>
-<pubDate>Mon, 21 Dec 2026 19:30:00 +0000</pubDate>
-<ify:start>2026-12-21T19:30:00</ify:start>
-<ify:end>2026-12-21T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Mon 21 Dec - Mon 21 Dec 2026 19:30 - 22:00 Wakefield Cathedral</location>
-<ify:location>Mon 21 Dec - Mon 21 Dec 2026 19:30 - 22:00 Wakefield Cathedral</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/greenmatthews-gaudete/">Experience Wakefield</source>
 </item>
 <item>
 <title>Polar Bear Santa's Grotto</title>
@@ -2349,21 +2114,6 @@
 <source url="https://www.yorkshirewildlifepark.com/whats-on/special-events/winter-illuminations/">Yorkshire Wildlife Park</source>
 </item>
 <item>
-<title>The BIG end of year RETRO PARTY</title>
-<link>https://experiencewakefield.co.uk/event/the-big-end-of-year-retro-party/</link>
-<guid>https://experiencewakefield.co.uk/event/the-big-end-of-year-retro-party/</guid>
-<pubDate>Sun, 27 Dec 2026 17:00:00 +0000</pubDate>
-<ify:start>2026-12-27T17:00:00</ify:start>
-<ify:end>2026-12-27T23:59:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sun 27 Dec - Sun 27 Dec 2026 17:00 - 23:59 Tileyard North</location>
-<ify:location>Sun 27 Dec - Sun 27 Dec 2026 17:00 - 23:59 Tileyard North</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/the-big-end-of-year-retro-party/">Experience Wakefield</source>
-</item>
-<item>
 <title>Run For Wildlife – Night 5k</title>
 <link>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</link>
 <guid>https://www.yorkshirewildlifepark.com/whats-on/special-events/run-for-wildlife-night-5k/</guid>
@@ -2396,34 +2146,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/clown-college/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Picture of Dorian Gray</title>
-<link>https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/</link>
-<guid>https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/</guid>
-<pubDate>Tue, 02 Feb 2027 19:30:00 +0000</pubDate>
-<ify:start>2027-02-02T19:30:00</ify:start>
-<ify:end>2027-02-03T22:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 02 Feb - Wed 03 Feb 2027 19:30 - 22:30 Theatre Royal Wakefield</location>
-<ify:location>Tue 02 Feb - Wed 03 Feb 2027 19:30 - 22:30 Theatre Royal Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/the-picture-of-dorian-gray/">Experience Wakefield</source>
-</item>
-<item>
-<title>Marsyas Trio</title>
-<link>https://experiencewakefield.co.uk/event/marsyas-trio/</link>
-<guid>https://experiencewakefield.co.uk/event/marsyas-trio/</guid>
-<pubDate>Sat, 06 Feb 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-02-06T19:00:00</ify:start>
-<ify:end>2027-02-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
-<ify:location>Sat 06 Feb - Sat 06 Feb 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/marsyas-trio/">Experience Wakefield</source>
 </item>
 <item>
 <title>Faulty Towers - The Dining Experience</title>
@@ -2478,20 +2200,6 @@
 <source url="https://www.ourfaveplaces.co.uk/whats-on/secret-screenings-with-beau-miles/">Our Favourite Places</source>
 </item>
 <item>
-<title>Sofia Sacco</title>
-<link>https://experiencewakefield.co.uk/event/sofia-sacco/</link>
-<guid>https://experiencewakefield.co.uk/event/sofia-sacco/</guid>
-<pubDate>Sat, 06 Mar 2027 19:00:00 +0000</pubDate>
-<ify:start>2027-03-06T19:00:00</ify:start>
-<ify:end>2027-03-06T22:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</location>
-<ify:location>Sat 06 Mar - Sat 06 Mar 2027 19:00 - 22:00 Queen Elizabeth Grammar School</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/sofia-sacco/">Experience Wakefield</source>
-</item>
-<item>
 <title>Wild Traditions: Janice Burns &amp; Jon Doran</title>
 <link>https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-janice-burns-jon-doran/</link>
 <guid>https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-janice-burns-jon-doran/</guid>
@@ -2506,21 +2214,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/wild-traditions-janice-burns-jon-doran/">Our Favourite Places</source>
-</item>
-<item>
-<title>String Quartet</title>
-<link>https://experiencewakefield.co.uk/event/string-quartet/</link>
-<guid>https://experiencewakefield.co.uk/event/string-quartet/</guid>
-<pubDate>Sat, 10 Apr 2027 15:00:00 +0000</pubDate>
-<ify:start>2027-04-10T15:00:00</ify:start>
-<ify:end>2027-04-10T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 10 Apr - Sat 10 Apr 2027 15:00 - 17:00 West Wakefield Methodist Church</location>
-<ify:location>Sat 10 Apr - Sat 10 Apr 2027 15:00 - 17:00 West Wakefield Methodist Church</ify:location>
-<category>Theatre &amp; Arts</category>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/string-quartet/">Experience Wakefield</source>
 </item>
 <item>
 <title>Kendal Mountain Festival Cinematic Tour 2027</title>
@@ -2572,49 +2265,6 @@
 <category>Experiences</category>
 <dc:creator>Our Favourite Places</dc:creator>
 <source url="https://www.ourfaveplaces.co.uk/whats-on/alpaca-festival/">Our Favourite Places</source>
-</item>
-<item>
-<title>The Hodge Podge: Jarvis Cocker &amp; Kim Sion curate The Hepworth Wakefield</title>
-<link>https://experiencewakefield.co.uk/event/the-hodge-podge-jarvis-cocker-kim-sion-curate-the-hepworth-wakefield/</link>
-<guid>https://experiencewakefield.co.uk/event/the-hodge-podge-jarvis-cocker-kim-sion-curate-the-hepworth-wakefield/</guid>
-<pubDate>Sat, 22 May 2027 10:00:00 +0000</pubDate>
-<ify:start>2027-05-22T10:00:00</ify:start>
-<ify:end>2027-10-31T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Sat 22 May - Sun 31 Oct 2027 10:00 - 17:00 The Hepworth Wakefield</location>
-<ify:location>Sat 22 May - Sun 31 Oct 2027 10:00 - 17:00 The Hepworth Wakefield</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/the-hodge-podge-jarvis-cocker-kim-sion-curate-the-hepworth-wakefield/">Experience Wakefield</source>
-</item>
-<item>
-<title>Live at Tileyard North: The Cribs</title>
-<link>https://experiencewakefield.co.uk/event/live-at-tileyard-north-the-cribs/</link>
-<guid>https://experiencewakefield.co.uk/event/live-at-tileyard-north-the-cribs/</guid>
-<pubDate>Fri, 20 Aug 2027 17:30:00 +0000</pubDate>
-<ify:start>2027-08-20T17:30:00</ify:start>
-<ify:end>2027-08-21T23:30:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Fri 20 Aug - Sat 21 Aug 2027 17:30 - 23:30 Tileyard North</location>
-<ify:location>Fri 20 Aug - Sat 21 Aug 2027 17:30 - 23:30 Tileyard North</ify:location>
-<category>Experiences</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/live-at-tileyard-north-the-cribs/">Experience Wakefield</source>
-</item>
-<item>
-<title>Christmas at Nostell</title>
-<link>https://experiencewakefield.co.uk/event/christmas-at-nostell/</link>
-<guid>https://experiencewakefield.co.uk/event/christmas-at-nostell/</guid>
-<pubDate>Wed, 01 Dec 2027 11:00:00 +0000</pubDate>
-<ify:start>2027-12-01T11:00:00</ify:start>
-<ify:end>2028-01-03T17:00:00</ify:end>
-<ify:allDay>false</ify:allDay>
-<location>Tue 01 Dec - Sun 03 Jan 2027 11:00 - 17:00 Nostell, National Trust</location>
-<ify:location>Tue 01 Dec - Sun 03 Jan 2027 11:00 - 17:00 Nostell, National Trust</ify:location>
-<category>Experiences</category>
-<category>Seasonal</category>
-<dc:creator>Experience Wakefield</dc:creator>
-<source url="https://experiencewakefield.co.uk/event/christmas-at-nostell/">Experience Wakefield</source>
 </item>
 </channel>
 </rss>
